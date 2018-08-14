@@ -1,0 +1,20 @@
+var timetable3 = new Timetable();
+timetable3.setScope(0,23)
+timetable3.addLocations(['Wintergarten', 'Hammerhalle', 'Dampfer']);
+timetable3.addEvent('THOMASH ', 'Hammerhalle', new Date(2015,7,17,6,00), new Date(2015,7,17,9,00), { url: '#' });
+timetable3.addEvent('DAN BURI ', 'Hammerhalle', new Date(2015,7,17,16,00), new Date(2015,7,17,19,00), { url: '#' });
+timetable3.addEvent('FARAY ', 'Wintergarten', new Date(2015,7,17,3,00), new Date(2015,7,17,6,00), { url: '#' });
+timetable3.addEvent('FOOLIK ', 'Dampfer', new Date(2015,7,17,19,00), new Date(2015,7,17,22,00), { url: '#' });
+timetable3.addEvent('JAKOB SEIDENSTICKER', 'Wintergarten', new Date(2015,7,17,22,00), new Date(2015,7,17,23,00), { url: '#' });
+timetable3.addEvent('JIGGLER ', 'Wintergarten', new Date(2015,7,17,8,00), new Date(2015,7,17,12,00), { url: '#' });
+timetable3.addEvent('JONTY SKRUFFF ', 'Wintergarten', new Date(2015,7,17,12,00), new Date(2015,7,17,15,00), { url: '#' });
+timetable3.addEvent('JULI N ', 'Hammerhalle', new Date(2015,7,17,12,00), new Date(2015,7,17,16,00), { url: '#' });
+timetable3.addEvent('KEVIN OVER ', 'Wintergarten', new Date(2015,7,17,16,00), new Date(2015,7,17,19,00), { url: '#' });
+timetable3.addEvent('MIGUEL PUENTE ', 'Wintergarten', new Date(2015,7,17,19,00), new Date(2015,7,17,22,00), { url: '#' });
+timetable3.addEvent('MUMBAATA ', 'Wintergarten', new Date(2015,7,17,15,00), new Date(2015,7,17,16,00), { url: '#' });
+timetable3.addEvent('OLIVER DEUTSCHMANN ', 'Hammerhalle', new Date(2015,7,17,21,00), new Date(2015,7,17,23,00), { url: '#' });
+timetable3.addEvent('PEDRO MARTINS ', 'Hammerhalle', new Date(2015,7,17,9,00), new Date(2015,7,17,12,00), { url: '#' });
+timetable3.addEvent('SEBASTIAN VOIGT ', 'Wintergarten', new Date(2015,7,17,1,00), new Date(2015,7,17,3,00), { url: '#' });
+timetable3.addEvent('TENDER GAMES ', 'Hammerhalle', new Date(2015,7,17,1,00), new Date(2015,7,17,4,00), { url: '#' });
+var renderer3 = new Timetable.Renderer(timetable3);
+renderer3.draw('.timetable');
