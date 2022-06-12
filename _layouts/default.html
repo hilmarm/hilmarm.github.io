@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+        <link rel="icon" type="image/x-icon" href="/images/logo.png"/>
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+    </head>
+
+    <body>
+
+       <div id="wrapper">
+
+            {% include navbar.html %}
+
+            <div class="site">
+              <div class="header">
+                <!-- nothing yet -->
+              </div>
+
+              {{ content }}
+
+              <div class="footer">
+                <!-- nothing yet -->
+              </div>
+            </div>
+
+            <div id="menuLinkBar"><a href="#navbar">Menu</a></div>
+        </div>
+    </body>
+</html>
