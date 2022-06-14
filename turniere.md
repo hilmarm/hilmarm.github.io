@@ -1,0 +1,35 @@
+---
+title: Turniere 
+layout: default
+navs:
+  Abteilungsmeisterschaft: abteilungsmeisterschaft
+  Pokal: pokal
+  Blitz: blitz
+  Schnellschach: schnellschach
+  BEM-Klassenturniere: bem-klassenturniere
+  C-Klasse 2018: c-klasse-2018
+  D-Klasse 2018: d-klasse-2018
+  Training: training
+  Ergebnisse melden: ergebnisse-melden
+  Online Schach: online-chessmail-de
+---
+<div class="post-74 page type-page status-publish hentry" id="post-74">
+<h1 class="entry-title">Turniere</h1>
+<div class="entry-content">
+<h1>Interne Turniere/Ausschreibungen</h1>
+<h2>Ausschreibungen für 2022</h2>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Abteilungsmeisterschaft-2022.pdf">Abteilungsmeisterschaft 2022</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Blitzschach-2022.pdf">Blitzschach 2022</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Schnellschachmeisterschaft-2022.pdf">Schnellschachmeisterschaft 2022</a></p>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h1>Beitragsordnung / Satzung / FIDE Regeln</h1>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/02/Beitragsordnung-2019.pdf" rel="noopener" target="_blank">Beitragsordnung</a> als PDF</p>
+<p><strong>Beitragssätze:</strong><br/>
+Stufe I Erwachsene 7,00 € / Monat = 84,00 € / Jahr<br/>
+Stufe II Ermäßigt 4,80 € / Monat = 57,60 € / Jahr</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/Satzung-Abteilung-Schach_2021.pdf" rel="noopener" target="_blank">Satzung Abteilung Schach</a></p>
+<p><a href="https://www.schachbund.de/srk-downloads.html?file=files/dsb/srk/downloads/FIDE-Regeln-2017-Final-DEU-ENG.PDF">FIDE_Regeln 2017</a> – <a href="https://www.schachbund.de/srk-downloads.html?file=files/dsb/srk/2017/171113_FIDERegeln_neu.pdf">Zusatz FIDE_Regeln ab 1.1.2018</a></p>
+</div><!-- .entry-content -->
+</div> #post-74 
+<div id="comments">
+</div> #comments 
