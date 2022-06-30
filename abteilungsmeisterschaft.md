@@ -262,7 +262,7 @@ parent_title: Turniere
 <td>2.</td>
 <td>Krüger,Ekkehard</td>
 <td>1746</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -273,7 +273,7 @@ parent_title: Turniere
 <td>7.</td>
 <td>Mothes,Thomas</td>
 <td>1598</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>3</td>
@@ -284,7 +284,7 @@ parent_title: Turniere
 <td>8.</td>
 <td>Kreisel,Alexande</td>
 <td>1505</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -328,7 +328,7 @@ parent_title: Turniere
 <td>12.</td>
 <td>Totz,Thomas</td>
 <td>1192</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 </tbody>
 </table>

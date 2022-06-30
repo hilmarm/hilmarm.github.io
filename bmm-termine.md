@@ -35,7 +35,7 @@ parent_title: Termine
 <tr>
 <td style="text-align: center; width: 84px;">7</td>
 <td style="text-align: center; width: 129px;">13.03.2022</td>
-<td style="width: 155px;">SC Weisse Dame 3 (H)</td>
+<td style="width: 155px;"><del>SC Weisse Dame 3 (H)</del></td>
 <td style="width: 145px;">Spandauer SV 1 (A)</td>
 <td nowrap="nowrap" style="width: 126px;">SVG Läufer Reinickendorf 4 (H)</td>
 </tr>
@@ -58,7 +58,7 @@ parent_title: Termine
 <td style="text-align: center; width: 129px;">22.05.2022</td>
 <td style="width: 155px;">BSV Chemie Weißensee (H)</td>
 <td style="width: 145px;">SF Siemensstadt 2 (A)</td>
-<td style="width: 126px;">TSV Mariendorf 1897 2 (H)</td>
+<td style="width: 126px;"><del>TSV Mariendorf 1897 2 (H)</del></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">3</td>
@@ -70,21 +70,21 @@ parent_title: Termine
 <tr>
 <td style="text-align: center; width: 84px;">4</td>
 <td style="text-align: center; width: 129px;">26.06.2022</td>
-<td nowrap="nowrap" style="width: 155px;">SC Friesen Lichtenberg (H)</td>
+<td nowrap="nowrap" style="width: 155px;"><del>SC Friesen Lichtenberg (H)</del></td>
 <td nowrap="nowrap" style="width: 145px;">TuS Makkabi Berlin 2 (A)</td>
 <td style="width: 126px;">SG Eckturm 2 (H)</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">5</td>
 <td style="text-align: center; width: 129px;">03.07.2022</td>
-<td style="width: 155px;">SV Königsjäger Süd-West (H)</td>
+<td style="width: 155px;"><del>SV Königsjäger Süd-West (H)</del></td>
 <td style="width: 145px;">SSV Rotation Berlin 2 (A)</td>
 <td nowrap="nowrap" style="width: 126px;">SV Königsjäger Süd-West 5 (H)</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">6</td>
 <td style="text-align: center; width: 129px;">10.07.2022</td>
-<td style="width: 155px;">SC Zugzwang 95 (A)</td>
+<td style="width: 155px;"><del>SC Zugzwang 95 (A)</del></td>
 <td nowrap="nowrap" style="width: 145px;">SC Eintracht Berlin 2 (H)</td>
 <td style="width: 126px;">SV Babelsberg 03 3 (A)</td>
 </tr>

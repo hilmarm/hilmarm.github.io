@@ -19,6 +19,20 @@ parent_title: Mannschaften
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9541 post type-post status-publish format-standard hentry category-bmm category-spielberichte-bmm" id="post-9541">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/28/mit-verstaerkung-richtung-aufstieg/" rel="bookmark">Mit Verstärkung Richtung Aufstieg?</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/06/28/mit-verstaerkung-richtung-aufstieg/" rel="bookmark" title="13:00"><span class="entry-date">28. Juni 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Die 2.Mannschaft trat auswärts beim TuS Makkabi 2 an. Das trotz der personellen Verstärkung aus der abgemeldeten Ersten, ein Brett frei blieb, hatte dieses mal andere Gründe und war auf die Schnelle auch nicht mehr zu ändern. Schon auf der … <a href="https://www.narva-schach.de/wordpress/2022/06/28/mit-verstaerkung-richtung-aufstieg/">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/28/mit-verstaerkung-richtung-aufstieg/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9541 
 <div class="post-9219 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-9219">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/03/16/bmm-neustart-mit-hindernissen/" rel="bookmark">BMM Neustart mit Hindernissen</a></h2>
 <div class="entry-meta">
@@ -285,20 +299,6 @@ parent_title: Mannschaften
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/11/20/sprung-an-die-sitze/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-3304 
-<div class="post-3037 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-3037">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2017/10/17/erfolgreicher-saisonstart-in-kreuzberg/" rel="bookmark">Erfolgreicher Saisonstart in Kreuzberg</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2017/10/17/erfolgreicher-saisonstart-in-kreuzberg/" rel="bookmark" title="0:52"><span class="entry-date">17. Oktober 2017</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Die 1. Mannschaft startete erfolgreich in die neue BMM-Saison und gewann mit 6:2 bei Kreuzberg 6. Nachstehend die an den einzelnen Brettern erzielten Ergebnisse.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/10/17/erfolgreicher-saisonstart-in-kreuzberg/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-3037 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
