@@ -1,0 +1,32 @@
+name: update html files
+
+on:
+  push:
+  schedule:
+  - cron: "45 10 * * *"
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v3
+        with:
+          repository: ''
+      - name: Install Python dependencies
+        uses: py-actions/py-dependency-install@v3
+      - name: Generate html files
+        run: |
+          python test_scrape.py
+      - name: Commit files
+        run: |
+          git config --local user.email "hilmarmag@protonmail.com"
+          git config --local user.name "GitHub hilmarm action"
+          git add .
+          git commit -m "Automatic update"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          branch: master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
