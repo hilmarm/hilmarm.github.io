@@ -1,7 +1,6 @@
 name: update html files
 
 on:
-  push:
   schedule:
   - cron: "45 10 * * *"
 
