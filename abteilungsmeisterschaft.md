@@ -306,7 +306,7 @@ parent_title: Turniere
 <td>4.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>6</td>
@@ -368,7 +368,7 @@ parent_title: Turniere
 <td>5.</td>
 <td>Schenk,Jonatan</td>
 <td>1698</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>3</td>
