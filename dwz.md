@@ -187,19 +187,19 @@ navs:
 </tr>
 <tr>
 <td>20.</td>
-<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
-<td></td>
-<td>1642</td>
-<td>75</td>
-<td>1785</td>
-</tr>
-<tr>
-<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10594349.html" target="_blank"> Harris-Simon Baytelman</a></td>
 <td>P</td>
 <td>1634</td>
 <td>15</td>
 <td>1632</td>
+</tr>
+<tr>
+<td>21.</td>
+<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
+<td></td>
+<td>1630</td>
+<td>76</td>
+<td>1785</td>
 </tr>
 <tr>
 <td>22.</td>
@@ -229,8 +229,8 @@ navs:
 <td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1591</td>
-<td>90</td>
+<td>1566</td>
+<td>91</td>
 <td>1731</td>
 </tr>
 <tr>
