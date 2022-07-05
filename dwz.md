@@ -229,7 +229,7 @@ navs:
 <td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1566</td>
+<td>1567</td>
 <td>91</td>
 <td>1731</td>
 </tr>

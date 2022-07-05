@@ -19,6 +19,20 @@ parent_title: Mannschaften
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9576 post type-post status-publish format-standard hentry category-bmm category-spielberichte-bmm" id="post-9576">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/04/heisser-kampf/" rel="bookmark">Heißer Kampf</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/04/heisser-kampf/" rel="bookmark" title="20:53"><span class="entry-date">4. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Bei wieder hoch sommerlichen Temperaturen wurde ebenso heiß am Brett um die Tabellenführung in der Klasse 2.2 gekämpft. Zum Duell im Rathaus Mitte traten an: Rotation 2 – bis dahin nur mit einer Niederlage gegen Siemensstadt und ein Unentschieden gegen … <a href="https://www.narva-schach.de/wordpress/2022/07/04/heisser-kampf/">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/04/heisser-kampf/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9576 
 <div class="post-9541 post type-post status-publish format-standard hentry category-bmm category-spielberichte-bmm" id="post-9541">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/28/mit-verstaerkung-richtung-aufstieg/" rel="bookmark">Mit Verstärkung Richtung Aufstieg?</a></h2>
 <div class="entry-meta">
@@ -285,20 +299,6 @@ parent_title: Mannschaften
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/12/04/1-mannschaft-runde-3/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-3376 
-<div class="post-3304 post type-post status-publish format-standard hentry category-bmm category-spielberichte-bmm" id="post-3304">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2017/11/20/sprung-an-die-sitze/" rel="bookmark">Sprung an die Sitze</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2017/11/20/sprung-an-die-sitze/" rel="bookmark" title="17:31"><span class="entry-date">20. November 2017</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Die 1. Mannschaft konnte auch das erste Heimspiel in der neuen BMM-Saison gegen die Zweite von SF Nord-Ost Berlin mit 5,5:2,5 siegreich gestalten. An den einzelnen Brettern wurden folgende Ergebnisse erzielt: Shenis versuchte auch mit Schwarz die Partie zu gewinnen … <a href="https://www.narva-schach.de/wordpress/2017/11/20/sprung-an-die-sitze/">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/11/20/sprung-an-die-sitze/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-3304 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
