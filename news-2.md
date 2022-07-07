@@ -8,21 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-9481 post type-post status-publish format-standard sticky hentry category-intern" id="post-9481">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/" rel="bookmark">Beitrag 2022 – Erinnerung</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/" rel="bookmark" title="8:26"><span class="entry-date">3. Juni 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Das Halbjahr 2022 ist demnächst vorbei und es haben noch nicht alle ihren Beitrag bezahlt!</strong></p>
-<p>Unsere Beitragsordnung mit Kontonummer usw. findet ihr u.a <a href="https://www.narva-schach.de/wordpress/turniere/">hier</a>.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9481 
 <div class="post-9566 post type-post status-publish format-standard hentry category-bmm" id="post-9566">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/03/bmm-runde-5/" rel="bookmark">BMM Runde 5</a></h2>
 <div class="entry-meta">
@@ -247,6 +232,21 @@ Für die verbliebenen 3 Runden, wo uns kein spielfrei mehr hilft, haben wir nun 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/06/lichess-liga-r230/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9519 
+<div class="post-9481 post type-post status-publish format-standard hentry category-intern" id="post-9481">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/" rel="bookmark">Beitrag 2022 – Erinnerung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/" rel="bookmark" title="8:26"><span class="entry-date">3. Juni 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Das Halbjahr 2022 ist demnächst vorbei und es haben noch nicht alle ihren Beitrag bezahlt!</strong></p>
+<p>Unsere Beitragsordnung mit Kontonummer usw. findet ihr u.a <a href="https://www.narva-schach.de/wordpress/turniere/">hier</a>.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9481 
 <div class="post-9484 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9484">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/03/lichess-liga-r229/" rel="bookmark">Lichess Liga (R229)</a></h2>
 <div class="entry-meta">
