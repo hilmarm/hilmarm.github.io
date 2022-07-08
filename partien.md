@@ -16,6 +16,20 @@ parent_title: Impressum
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9602 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-9602">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/08/bmm-2021-22-runde-5/" rel="bookmark">Geschützt: BMM 2021/22 Runde 5</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/08/bmm-2021-22-runde-5/" rel="bookmark" title="7:40"><span class="entry-date">8. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-9602 
 <div class="post-9381 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-9381">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/04/24/partien-abteilung-runde-1/" rel="bookmark">Geschützt: Partien Abteilung Runde 1</a></h2>
 <div class="entry-meta">
@@ -282,20 +296,6 @@ parent_title: Impressum
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-5838 
-<div class="post-5819 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-5819">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2019/04/15/dsam-2018-19-darmstadt/" rel="bookmark">Geschützt: DSAM 2018/19 Darmstadt</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2019/04/15/dsam-2018-19-darmstadt/" rel="bookmark" title="0:40"><span class="entry-date">15. April 2019</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-5819 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

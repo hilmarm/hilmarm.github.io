@@ -21,6 +21,151 @@ parent_title: Turniere
 <div class="aligncenter">
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Blitzschach-2022.pdf">Ausschreibung</a></p>
 <h2 class="heading2"><a href="http://www.narva-schach.de/dateien/blitz2022.html" rel="noopener noreferrer" target="_blank">Gesamtwertung 2022</a></h2>
+<p>Monatsblitz Juni – 30.06.2022</p>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<td colspan="13">Rangliste: Stand nach der 7. Runde</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Nguyen (G)</td>
+<td></td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>5.0</td>
+<td>18.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Kubi (G)</td>
+<td></td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>15.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td>Idaczek,Günter</td>
+<td>1846</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>13.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td nowrap="nowrap">Maetzing,Hans-Dieter</td>
+<td>1758</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>+</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4.0</td>
+<td>9.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td>Giacomo (G)</td>
+<td></td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>–</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>3.0</td>
+<td>10.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>6</td>
+<td>Krüger,Ekkehard</td>
+<td>1746</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>3.0</td>
+<td>8.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>7</td>
+<td>Brinckmann,Klaus</td>
+<td>1684</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>2.0</td>
+<td>6.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>8</td>
+<td>Eichstädt,Torsten</td>
+<td>1315</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1.0</td>
+<td>3.00</td>
+</tr>
+</tbody>
+</table>
 <p>Monatsblitz April – 28.04.2022</p>
 <table class="clean swiss footable">
 <thead>
