@@ -48,7 +48,7 @@ navs:
 <div class="entry-content">
 <p>Das Juni-Blitz am letzten Donnerstag ist etwas chaotisch verlaufen. Am Ende mussten wir (beide Spielleiter + Vorsitzender) uns beraten, ob wir diese Runde überhaupt werten. Erstmal Ja:</p>
 <p>Die Runde gewonnen hat am Ende ein Gast. Punktgleich mit 2 weiteren Spielern, die alle 5 Punkte haben, gewinnt <strong>Nguyen</strong> mit der besseren Wertung. Auf Platz 2 folgt mit <strong>Kubi</strong> ein weiterer Gast, danach auf Platz 3 mit ebenfalls 5 Punkten dann <strong>Günter</strong> als bester NARVA Spieler.</p>
-<p>Die Gesamtwertung muss ich noch aktualisieren, die <a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Juni Tabelle</a> ist schon da.</p>
+<p>Die Gesamtwertung muss ich noch aktualisieren (<em>Update 09.07.22 – ist jetzt da</em>), die <a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Juni Tabelle</a> ist schon da.</p>
 <p>8 Spieler gehen in die Juni Wertung ein. Peter und Jonatan sind nach Runde 2 ausgestiegen, beide habe ich raus genommen. Günter kam ab Runde 3 dann dazu, hat aber seine 2 Partien nachgeholt. Giacomo, kam auch ab Runde 3 dazu, hat nur eine Runde nicht gespielt…..</p>
 <p>Um das alles in Zukunft wieder zu vermeiden:</p>
 <ul>
