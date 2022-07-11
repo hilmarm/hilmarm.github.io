@@ -65,13 +65,39 @@ parent_title: Chronik
 <td align="CENTER"><b> Platz </b></td>
 </tr>
 <tr>
+<td align="CENTER">2022</td>
+<td align="CENTER">Stadtliga</td>
+<td align="CENTER">10.Abstieg*</td>
+<td align="CENTER">Klasse 2</td>
+<td align="CENTER">1. Aufstieg</td>
+<td align="CENTER">Klasse 3</td>
+<td align="CENTER">6.</td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+</tr>
+<tr>
+<td align="CENTER">2021</td>
+<td align="CENTER"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
+<td align="CENTER"><span style="font-size: 8pt;"><em>Corona</em></span></td>
+<td align="CENTER"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
+<td align="CENTER"><span style="font-size: 8pt;"><em>Corona</em></span></td>
+<td align="CENTER"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
+<td align="CENTER"><span style="font-size: 8pt;"><em>Corona</em></span></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+</tr>
+<tr>
 <td align="CENTER">2020</td>
 <td align="CENTER">Stadtliga</td>
-<td align="CENTER"></td>
+<td align="CENTER">5.</td>
 <td align="CENTER">Klasse 2</td>
-<td align="CENTER"></td>
+<td align="CENTER">4.</td>
 <td align="CENTER">Klasse 4</td>
-<td align="CENTER">Aufstieg</td>
+<td align="CENTER">1.Aufstieg</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
@@ -462,7 +488,7 @@ parent_title: Chronik
 <td align="CENTER">6.</td>
 <td align="CENTER">2.Stadtklasse</td>
 <td align="CENTER">2.</td>
-<td align="CENTER">abgemeldet</td>
+<td align="CENTER">abgemeldet*</td>
 <td align="CENTER"></td>
 <td align="CENTER" nowrap="nowrap">3. Stadtklasse</td>
 <td align="CENTER">7.</td>
@@ -781,6 +807,7 @@ parent_title: Chronik
 </tr>
 </tbody>
 </table>
+<p>* = Mannschaft wurde im Laufe der Saison abgemeldet</p>
 </div><!-- .entry-content -->
 </div> #post-181 
 <div id="comments">

@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9613 post type-post status-publish format-standard hentry category-bmm" id="post-9613">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/" rel="bookmark">BMM Saisonfinale</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/" rel="bookmark" title="20:07"><span class="entry-date">10. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Erfolgreiches BMM Saisonfinale für die beiden NARVA Teams.</p>
+<p><strong>NARVA 2</strong> gewinnt <strong>5:3</strong> gegen <strong>Eintracht 2</strong> und beendet die Saison auf Platz 1! Glückwunsch!</p>
+<p>Gegen Eintracht 2 gab es einen Punkt geschenkt, Hans-Dieter, Günter und Jonatan gewannen weitere, Alexander und Klaus noch jeweils halbe Punkte dazu.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-scaled.jpg"><img alt="" class="alignnone size-large wp-image-9614" height="146" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-1024x234.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-1024x234.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-300x68.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-768x175.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-1536x351.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-2048x467.jpg 2048w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome.jpg"><img alt="" class="alignnone wp-image-9615 size-medium" height="224" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome-300x224.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome-300x224.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome-768x574.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome.jpg 796w" width="300"/></a></p>
+<p><strong>NARVA 3</strong> gewinnt auswärts in <strong>Babelsberg</strong> mit <strong>4:1</strong> und beendet die Saison im Mittelfeld. Ein Brett blieb von beiden Seiten frei, Lukas, Torsten, Hilmar und Manfred gewinnen, nur Thomas verliert.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome.jpg"><img alt="" class="alignnone size-full wp-image-9616" height="207" loading="lazy" sizes="(max-width: 1008px) 100vw, 1008px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome.jpg 1008w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome-300x62.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome-768x158.jpg 768w" width="1008"/></a></p>
+<p>Damit geht eine lange und anstrengende Saison zu Ende. Die neue wirft schon ihre Schatten voraus. Der Fragebogen wurde schon per Mail versendet, demnächst auch hier eine Online-Variante.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9613 
 <div class="post-9607 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9607">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/09/abteilungsmeisterschaft-4-runde-ausgelost/" rel="bookmark">Abteilungsmeisterschaft: 4. Runde ausgelost</a></h2>
 <div class="entry-meta">
@@ -321,28 +342,6 @@ Für die verbliebenen 3 Runden, wo uns kein spielfrei mehr hilft, haben wir nun 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/03/lichess-liga-r229/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9484 
-<div class="post-9473 post type-post status-publish format-standard hentry category-training" id="post-9473">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/05/30/training-mit-rouven-am-donnerstag/" rel="bookmark">Training mit Rouven am Donnerstag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/05/30/training-mit-rouven-am-donnerstag/" rel="bookmark" title="19:26"><span class="entry-date">30. Mai 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Diesen Donnerstag wieder Training mit Rouven!</p>
-<p><strong>Thema:</strong><br/>
-<strong>„Londoner System Teil 2 – Alternative für nicht Königsinder und Grünfelder!“</strong></p>
-<p>Wann? – 02.06.2022<br/>
-Start? – 18:15 Uhr<br/>
-Wo? – bei uns im Club, Kadiner Str. 1<br/>
-C-Regeln? – Keine<br/>
-Gäste? – Willkommen!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672.jpg"><img alt="" class="alignnone wp-image-9491" height="500" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-1024x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-768x768.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-1536x1536.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-2048x2048.jpg 2048w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-144x144.jpg 144w" width="500"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/05/30/training-mit-rouven-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9473 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
