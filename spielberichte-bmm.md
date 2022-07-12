@@ -19,6 +19,20 @@ parent_title: Mannschaften
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9630 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-9630">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/11/narva-gewinnt-die-staffel-2-2/" rel="bookmark">NARVA gewinnt die Staffel 2.2</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/11/narva-gewinnt-die-staffel-2-2/" rel="bookmark" title="16:52"><span class="entry-date">11. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Am Sonntag wurde die 6. BMM-Runde nachgeholt. NARVA 2 (mit Verstärkung aus der abgemeldeten Ersten) spielte gegen Eintracht 2. Den ersten Brettpunkt hatten wir misslungener Kommunikation beim Gegner zu verdanken: Tomas‘ Gegner hatte wohl abgesagt, der Ersatz kam um kurz … <a href="https://www.narva-schach.de/wordpress/2022/07/11/narva-gewinnt-die-staffel-2-2/">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/11/narva-gewinnt-die-staffel-2-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9630 
 <div class="post-9576 post type-post status-publish format-standard hentry category-bmm category-spielberichte-bmm" id="post-9576">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/04/heisser-kampf/" rel="bookmark">Heißer Kampf</a></h2>
 <div class="entry-meta">
@@ -285,20 +299,6 @@ parent_title: Mannschaften
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/12/17/bericht-1-mannschaft-4-runde/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-3459 
-<div class="post-3376 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-3376">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2017/12/04/1-mannschaft-runde-3/" rel="bookmark">1.Mannschaft Runde 3</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2017/12/04/1-mannschaft-runde-3/" rel="bookmark" title="15:34"><span class="entry-date">4. Dezember 2017</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Dritte Runde – dritter Sieg Die 1. Mannschaft konnte auch das zweite Auswärtsspiel  gegen die Erste  von SV Berlin-Friedrichstadt mit 7,5:0,5 siegreich gestalten. An den einzelnen Brettern wurden folgende Ergebnisse erzielt: Shenis spielte mit Weiß von Anfang an auf Angriff. … <a href="https://www.narva-schach.de/wordpress/2017/12/04/1-mannschaft-runde-3/">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/12/04/1-mannschaft-runde-3/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-3376 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
