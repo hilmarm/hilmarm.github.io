@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9664 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9664">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/14/peter-gewinnt-schnellschach-gp-2022/" rel="bookmark">Peter gewinnt Schnellschach-GP 2022</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/14/peter-gewinnt-schnellschach-gp-2022/" rel="bookmark" title="22:02"><span class="entry-date">14. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Heute fand das vierte Turnier unserer diesjährigen <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Schnellschachserie</a> statt. Mit vier Punkten aus fünf Partien setzte sich Peter durch. Nur gegen Alex gab er einen Punkt ab. Platz zwei teilen sich Klaus, Tom und ich. Damit ist Peter auch der Gesamtsieg nicht mehr zu nehmen.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/14/peter-gewinnt-schnellschach-gp-2022/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9664 
 <div class="post-9613 post type-post status-publish format-standard hentry category-bmm" id="post-9613">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/" rel="bookmark">BMM Saisonfinale</a></h2>
 <div class="entry-meta">
@@ -327,22 +341,6 @@ Für die verbliebenen 3 Runden, wo uns kein spielfrei mehr hilft, haben wir nun 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/03/beitrag-2022-erinnerung/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9481 
-<div class="post-9484 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9484">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/03/lichess-liga-r229/" rel="bookmark">Lichess Liga (R229)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/06/03/lichess-liga-r229/" rel="bookmark" title="8:16"><span class="entry-date">3. Juni 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9483" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga12b_03062022.jpg"><img alt="" aria-describedby="caption-attachment-9483" class="size-large wp-image-9483" height="336" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga12b_03062022-1024x537.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga12b_03062022-1024x537.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga12b_03062022-300x157.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga12b_03062022-768x403.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga12b_03062022.jpg 1148w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9483"><strong>02.06.2022</strong></p></div>
-<p>Mal wieder ein kleiner Auszug aus meiner Statistik:<br/>
-<a class="more-link" href="https://www.narva-schach.de/wordpress/2022/06/03/lichess-liga-r229/#more-9484">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/03/lichess-liga-r229/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9484 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
