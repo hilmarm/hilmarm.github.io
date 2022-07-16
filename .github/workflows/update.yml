@@ -22,7 +22,7 @@ jobs:
           git config --local user.email "hilmarmag@protonmail.com"
           git config --local user.name "GitHub hilmarm action"
           git add .
-          git commit -m "Automatic update"
+          git diff --quiet && git diff --staged --quiet || git commit -am 'Automatic update'
       - name: Push changes # push the output folder to your repo
         uses: ad-m/github-push-action@master
         with:
