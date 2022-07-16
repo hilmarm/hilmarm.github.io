@@ -197,7 +197,7 @@ navs:
 <td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
-<td>1630</td>
+<td>1632</td>
 <td>76</td>
 <td>1743</td>
 </tr>
@@ -205,8 +205,8 @@ navs:
 <td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
-<td>1612</td>
-<td>40</td>
+<td>1615</td>
+<td>41</td>
 <td>1626</td>
 </tr>
 <tr>
