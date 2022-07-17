@@ -205,7 +205,7 @@ navs:
 <td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
-<td>1615</td>
+<td>1617</td>
 <td>41</td>
 <td>1626</td>
 </tr>
