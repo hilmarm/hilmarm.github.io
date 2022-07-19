@@ -92,11 +92,11 @@ parent_title: Chronik
 </tr>
 <tr>
 <td align="CENTER">2020</td>
-<td align="CENTER">Stadtliga</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-1-mannschaft/">Stadtliga</a></td>
 <td align="CENTER">5.</td>
-<td align="CENTER">Klasse 2</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-2-mannschaft/">Klasse 2</a></td>
 <td align="CENTER">4.</td>
-<td align="CENTER">Klasse 4</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-3-mannschaft/">Klasse 4</a></td>
 <td align="CENTER">1.Aufstieg</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
