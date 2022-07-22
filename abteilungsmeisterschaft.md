@@ -306,7 +306,7 @@ parent_title: Turniere
 <td>11.</td>
 <td>Heinrich,Manfred</td>
 <td>1202</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>6</td>
