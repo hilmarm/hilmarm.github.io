@@ -66,11 +66,11 @@ parent_title: Chronik
 </tr>
 <tr>
 <td align="CENTER">2022</td>
-<td align="CENTER">Stadtliga</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-1-mannschaft/">Stadtliga</a></td>
 <td align="CENTER">10.Abstieg*</td>
-<td align="CENTER">Klasse 2</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-2-mannschaft/">Klasse 2</a></td>
 <td align="CENTER">1. Aufstieg</td>
-<td align="CENTER">Klasse 3</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-3-mannschaft/">Klasse 3</a></td>
 <td align="CENTER">6.</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
