@@ -128,7 +128,7 @@ parent_title: Mannschaften
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2019/02/18/bericht-vom-schweden-narva-1/#comments">1 Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2019/02/18/bericht-vom-schweden-narva-1/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-5485 
 <div class="post-5357 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-5357">
@@ -184,7 +184,7 @@ parent_title: Mannschaften
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/10/15/packende-zweite-runde/#comments">1 Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/10/15/packende-zweite-runde/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-4845 
 <div class="post-4070 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-4070">
@@ -240,7 +240,7 @@ parent_title: Mannschaften
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/02/19/aufstieg/#comments">1 Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/02/19/aufstieg/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-3783 
 <div class="post-3663 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-3663">
@@ -268,7 +268,7 @@ parent_title: Mannschaften
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/01/28/erste-kommt-dem-wiederaufstieg-einen-schritt-naeher/#comments">1 Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/01/28/erste-kommt-dem-wiederaufstieg-einen-schritt-naeher/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-3656 
 <div class="post-3576 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-3576">
