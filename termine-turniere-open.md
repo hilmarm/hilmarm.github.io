@@ -24,9 +24,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://sparkassen-chess-trophy.de/index.php/de/ergebnisse/sparkassen-a-open/tabelle-a-open" rel="noopener" target="_blank">49. internationale Dortmunder Schachtage</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">16.07. – 24.07.2022</td>
-<td style="width: 154px; height: 24px;">Bram (A-Open)</td>
+<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.dsam-cup.de/willingen/" rel="noopener" target="_blank">DSAM Qualifikationsturnier Willingen</a></td>
+<td nowrap="nowrap" style="width: 158px; height: 24px;">29.07. – 31.07.2022</td>
+<td style="width: 154px; height: 24px;">Jonatan</td>
 </tr>
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM-Finale</a></td>

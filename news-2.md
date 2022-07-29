@@ -8,6 +8,30 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9719 post type-post status-publish format-standard hentry category-openberichte" id="post-9719">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/29/diverse-open-der-letzten-wochen/" rel="bookmark">Diverse Open der letzten Wochen</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/29/diverse-open-der-letzten-wochen/" rel="bookmark" title="11:55"><span class="entry-date">29. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Letzte Woche fand in Dortmund die <span style="text-decoration: underline;"><strong>49. Dortmunder Chess Trophy</strong></span> statt. Neben dem World Masters mit Teilnehmern wie u.a. Viswanathan Anand, Michael Adams oder Daniel Fridman und dem Deutschland GP mit 7 Großmeistern, gab es auch diverse Open. Beim <strong>A-Open</strong> spielte <strong>Bram</strong> mit und erreichte als Setzlisten 67. (185 Teilnehmer) mit 5 Punkten den 72. Platz.</p>
+<p><a href="https://www.sparkassen-chess-trophy.de/index.php/de/ergebnisse/sparkassen-a-open/tabelle-a-open" rel="noopener" target="_blank">Turnierseite A-Open</a></p>
+<p><span style="text-decoration: underline;"><strong>SG KiNG Parkschaak 2022</strong></span><br/>
+Am Samstag 16.07. fand in Tilburg (NL) das Parkschachturnier vom <strong>SG KiNG</strong> statt. Von uns nahmen <strong>Norbert</strong> und <strong>Sven</strong> daran teil. Gespielt wurde in 5 Gruppen mit je 14 Spieler*innen.<br/>
+Sven spielte in Gruppe 1 und holte 7 Punkte aus 14 Partien.<br/>
+<strong>Norbert gewann Gruppe 5 (11 Teilnehmer) mit 10 aus 10 !!</strong></p>
+<p><a href="https://sgking.nl/luuk-baselmans-maakt-zijn-favorietenrol-waar-en-win-het-sg-king-parkschaak-2022/" rel="noopener" target="_blank">SG KiNG Parkschaak 2022</a><br/>
+<a href="https://www.sgking.nl/uitslagen-sg-king-parkschaak-2022/" rel="noopener" target="_blank">Ergebnisse </a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n.jpg"><img alt="" class="wp-image-9721 size-medium aligncenter" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/295005299_3421480804804839_8630760363766345380_n.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008.jpg"><img alt="" class="wp-image-9723 size-medium aligncenter" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/IMG-20220716-WA0008.jpg 1600w" width="300"/></a></p>
+<p><span style="text-decoration: underline;"><strong>1e NK Schafeltennis</strong></span><br/>
+Bereits am 09.06.22 gab es in Zoetermeer (Provinz Südholland) ein Turnier mit der Kommbination aus Schach und Tischtennis. Turniersieger, im 26 Teilnehmer Feld, wurde <strong>Bram!</strong> Er gehörte in beiden Disziplinen zur Spitze und gewann so die Gesamtwertung aus beiden Sportarten. <strong>Norbert</strong> erreichte Platz 4.</p>
+<p><a href="https://www.taverzo.nl/bram-van-den-berg-winnaar-11e-nk-schafeltennis/" rel="noopener" target="_blank">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/29/diverse-open-der-letzten-wochen/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9719 
 <div class="post-9716 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9716">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/25/lichess-liga-r244/" rel="bookmark">Lichess Liga (R244)</a></h2>
 <div class="entry-meta">
@@ -318,20 +342,6 @@ Für die verbliebenen 3 Runden, wo uns kein spielfrei mehr hilft, haben wir nun 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/20/lichess-liga-r234/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9527 
-<div class="post-9525 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9525">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/17/lichess-liga-r233/" rel="bookmark">Lichess Liga (R233)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/06/17/lichess-liga-r233/" rel="bookmark" title="8:42"><span class="entry-date">17. Juni 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9515" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga10c_06062022.jpg"><img alt="" aria-describedby="caption-attachment-9515" class="size-large wp-image-9515" height="315" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga10c_06062022-1024x504.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga10c_06062022-1024x504.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga10c_06062022-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga10c_06062022-768x378.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/liga10c_06062022.jpg 1144w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9515"><strong>16.06.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/17/lichess-liga-r233/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9525 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
