@@ -273,7 +273,7 @@ parent_title: Turniere
 <td>3.</td>
 <td>Maetzing,Hans-Di</td>
 <td>1758</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>3</td>
