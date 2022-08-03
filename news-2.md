@@ -8,6 +8,58 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9758 post type-post status-publish format-standard sticky hentry category-intern" id="post-9758">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark">Mitgliederversammlung am 11.08.2022</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark" title="7:35"><span class="entry-date">3. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hallo Schachfreunde,</p>
+<p>Wie Ihr schon der Einladung per Mail entnehmen konntet, findet am <strong>11.08.2022</strong> um <strong>18:30 Uhr</strong> unsere <strong>Mitgliederversammlung</strong> statt! Hauptsächlich wird es dabei um die nächste BMM Saison gehen.</p>
+<p>Bitte denkt dazu alle an den Fragebogen (online im Mitgliederbereich und kam per Mail). Einige fehlen noch.</p>
+<p>Außerdem geht es um eine Satzungsänderung im Bezug auf den Beitritt von neuen Mitgliedern.</p>
+<p><strong>Tagesordnung:</strong></p>
+<p>– Kassenabschluss 2021<br/>
+– Ergebnis Kassenprüfung<br/>
+– Etat 2022<br/>
+– Saisonabschluss BMM 2021/22<br/>
+– Planungen BMM/BFL 2022/23<br/>
+– Interne Turniere/Terminplan<br/>
+– Sonstiges<br/>
+– Anträge:<br/>
+Antrag auf Satzungsänderung durch den Vorstand:<br/>
+● Der Spielleiter Jonatan Schenk beantragt, die vom Vorstand unterstützte, Satzungsänderung.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9758 
+<div class="post-9737 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9737">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/02/monatsblitz-juli-guenter-blitzmeister-2022/" rel="bookmark">Günter Blitzmeister 2022 – Update: noch nicht!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/02/monatsblitz-juli-guenter-blitzmeister-2022/" rel="bookmark" title="19:31"><span class="entry-date">2. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>02Mit nur 6 Teilnehmern war das Monatsblitz Juli dünn besetzt, dafür aber mit starken Spielern besetzt. Neben den um den Titel kämpfenden Peter und Günter, gab sich Rouven die Ehre, dazu gab es 3 Gäste, Ivan, Håvard und Felix.</p>
+<p>Letzterer gab nach dem Turnier noch seinen Beitritt ab und gehört nun zum Team NARVA! Herzlich Willkommen!</p>
+<p>Im Turnierverlauf zeigte sich schnell, dass der junge <strong>Håvard</strong> (12) aus Norwegen unsere Blitzspezialisten gut fordert. Peters Frust über die abgegebenen 1,5 Punkte, wandelte sich zum Ende hin in die Erkenntnis, das es eher ein gewonnener halber war…..</p>
+<p>Aufgrund der geringen Teilnehmerzahl wurde doppelrundig gespielt. Håvard nahm am Ende allen 2 Punkte ab, nur Peter hatte einen halben gewonnen! Håvard gewann das Blitz mit 9,5 Punkten aus 10 Partien!</p>
+<p><strong>Rouven</strong> sicherte sich Platz 2 mit 7 Punkten, <strong>Peter</strong> wurde Dritter mit 5,5 vor <strong>Günter</strong> mit 5 Punkten.</p>
+<p><del>Damit ist auch das Titelduell zugunsten von Günter entschieden – Herzlichen Glückwunsch! Im ersten NARVA Jahr gleich der erste Titel.</del></p>
+<p><span style="color: #ff0000;">Update 02.08.2022:</span> <em>Nein, Günter ist noch nicht durch! Sollte Peter in seiner 4.Wertung noch 90% oder mehr holen und Günter keine Verbesserung mehr gelingen (einmal über 60% reicht), kann Peter noch gewinnen.<br/>
+Link zu Tabellen unter den Fotos.</em></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432.jpg"><img alt="" class="alignnone wp-image-9727 size-medium" height="300" loading="lazy" sizes="(max-width: 258px) 100vw, 258px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-880x1024.jpg 880w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-768x894.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-1319x1536.jpg 1319w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-1759x2048.jpg 1759w" width="258"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-scaled.jpg"><img alt="" class="alignnone wp-image-9728 size-medium" height="178" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-300x178.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-300x178.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-1024x607.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-768x455.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-1536x910.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-2048x1214.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-scaled.jpg"><img alt="" class="alignnone wp-image-9729 size-medium" height="158" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-300x158.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-300x158.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-1024x540.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-768x405.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-1536x811.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-2048x1081.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a><br/>
+<a href="https://www.narva-schach.de/dateien/blitz2022.html" rel="noopener" target="_blank">Gesamtwertung</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/02/monatsblitz-juli-guenter-blitzmeister-2022/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9737 
 <div class="post-9751 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9751">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/01/lichess-liga-r246/" rel="bookmark">Lichess Liga (R246)</a></h2>
 <div class="entry-meta">
@@ -22,27 +74,6 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/01/lichess-liga-r246/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9751 
-<div class="post-9737 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9737">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/29/monatsblitz-juli-guenter-blitzmeister-2022/" rel="bookmark">Monatsblitz Juli – Günter Blitzmeister 2022</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/29/monatsblitz-juli-guenter-blitzmeister-2022/" rel="bookmark" title="13:31"><span class="entry-date">29. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Mit nur 6 Teilnehmern war das Monatsblitz Juli dünn besetzt, dafür aber mit starken Spielern besetzt. Neben den um den Titel kämpfenden Peter und Günter, gab sich Rouven die Ehre, dazu gab es 3 Gäste, Ivan, Håvard und Felix.</p>
-<p>Letzterer gab nach dem Turnier noch seinen Beitritt ab und gehört nun zum Team NARVA! Herzlich Willkommen!</p>
-<p>Im Turnierverlauf zeigte sich schnell, dass der junge <strong>Håvard</strong> (12) aus Norwegen unsere Blitzspezialisten gut fordert. Peters Frust über die abgegebenen 1,5 Punkte, wandelte sich zum Ende hin in die Erkenntnis, das es eher ein gewonnener halber war…..</p>
-<p>Aufgrund der geringen Teilnehmerzahl wurde doppelrundig gespielt. Håvard nahm am Ende allen 2 Punkte ab, nur Peter hatte einen halben gewonnen! Håvard gewann das Blitz mit 9,5 Punkten aus 10 Partien!</p>
-<p><strong>Rouven</strong> sicherte sich Platz 2 mit 7 Punkten, <strong>Peter</strong> wurde Dritter mit 5,5 vor <strong>Günter</strong> mit 5 Punkten.</p>
-<p>Damit ist auch das Titelduell zugunsten von Günter entschieden – Herzlichen Glückwunsch! Im ersten NARVA Jahr gleich der erste Titel.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432.jpg"><img alt="" class="alignnone wp-image-9727 size-medium" height="300" loading="lazy" sizes="(max-width: 258px) 100vw, 258px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-880x1024.jpg 880w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-768x894.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-1319x1536.jpg 1319w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_194432-1759x2048.jpg 1759w" width="258"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-scaled.jpg"><img alt="" class="alignnone wp-image-9728 size-medium" height="178" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-300x178.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-300x178.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-1024x607.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-768x455.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-1536x910.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_192933-2048x1214.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-scaled.jpg"><img alt="" class="alignnone wp-image-9729 size-medium" height="158" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-300x158.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-300x158.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-1024x540.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-768x405.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-1536x811.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/20220728_211524-2048x1081.jpg 2048w" width="300"/></a></p>
-<p>Tabellen folgen</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/29/monatsblitz-juli-guenter-blitzmeister-2022/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9737 
 <div class="post-9706 post type-post status-publish format-standard hentry category-bmm category-dwz" id="post-9706">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/29/bmm-rueckblick/" rel="bookmark">BMM Rückblick</a></h2>
 <div class="entry-meta">
@@ -66,7 +97,7 @@ In der 1.Mannschaft fiel <strong>Tomas</strong> noch auf, 100% Remisquote und da
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/29/bmm-rueckblick/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/29/bmm-rueckblick/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9706 
 <div class="post-9719 post type-post status-publish format-standard hentry category-openberichte" id="post-9719">
@@ -331,26 +362,6 @@ Sven spielte in Gruppe 1 und holte 7 Punkte aus 13 Partien.<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/01/lichess-liga-r237/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9571 
-<div class="post-9538 post type-post status-publish format-standard hentry category-bmm" id="post-9538">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/06/28/bmm-runde-4/" rel="bookmark">BMM Runde 4</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/06/28/bmm-runde-4/" rel="bookmark" title="12:35"><span class="entry-date">28. Juni 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Jetzt geht es in die heiße Phase der BMM und das auch von den Temperaturen her. Im Wochenrhythmus geht es nun weiter.</p>
-<p>Unsere verbliebenen beiden Mannschaften konnten gestern beide Punkten.</p>
-<p>Die <strong>2.Mannschaft</strong> gewinnt auswärts bei <strong>Makkabi 2</strong> mit <strong>5,5:2,5</strong> und rutscht durch die Niederlage von Siemensstadt wieder auf Platz 2. In der nächsten Runde kommt es zum Duell gegen den aktuellen Tabellenführer Rotation.</p>
-<p><a href="https://www.narva-schach.de/wordpress/2022/06/28/mit-verstaerkung-richtung-aufstieg/">Spielbericht</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-scaled.jpg"><img alt="" class="alignnone size-large wp-image-9536" height="145" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-1024x232.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-1024x232.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-300x68.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-768x174.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-1536x348.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/InCollage_20220627_215316510-2048x464.jpg 2048w" width="640"/></a></p>
-<p>Die <strong>3.Mannschaft</strong> trennt sich auch von <strong>Eckturm 2</strong> mit einem <strong>3:3</strong> Unentschieden, was zumindest bzgl. der Wertungszahlen der Gegner schon ein Erfolg ist.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/Screenshot_20220626-131457_Chrome.jpg"><img alt="" class="alignnone size-full wp-image-9537" height="213" loading="lazy" sizes="(max-width: 997px) 100vw, 997px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/Screenshot_20220626-131457_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/Screenshot_20220626-131457_Chrome.jpg 997w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/Screenshot_20220626-131457_Chrome-300x64.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/06/Screenshot_20220626-131457_Chrome-768x164.jpg 768w" width="997"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/06/28/bmm-runde-4/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9538 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
