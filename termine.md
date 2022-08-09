@@ -12,47 +12,13 @@ navs:
 <div class="post-174 page type-page status-publish hentry" id="post-174">
 <h1 class="entry-title">Termine</h1>
 <div class="entry-content">
-<style><!--
-  #content table.clean.calendar thead tr th {
-    padding:12px;
-    background:#e9e69d;
-  }
-
-  #content table.clean.calendar tbody tr th {
-    background:#e9e69d;
-    padding:8px;
-  }
-
-  #content table.clean.calendar tbody tr td {
-    padding:8px;
-  }
-
-  #content table.clean.calendar tbody tr td.blitz {
-    background:#f29b30;
-  }
-
-  #content table.clean.calendar tbody tr td.versammlung {
-    background:#f23000;
-  }
-
-  #content table.clean.calendar tbody tr td.schnell {
-    background:#9b30f2;
-  }
-
-  #content table.clean.calendar tbody tr td.training {
-    background:#309bf2;
-  }
-
-  #content table.clean.calendar tbody tr td.abtm {
-    background:#30f29b;
-  }
---></style>
+<style><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; } --></style>
 <table class="clean calendar">
 <thead>
 <tr>
-<th style="width:90px;">Tag</th>
-<th style="width:180px">Aktivität</th>
-<th style="width:280px;">Bemerkung</th>
+<th style="width: 90px;">Tag</th>
+<th style="width: 180px;">Aktivität</th>
+<th style="width: 280px;">Bemerkung</th>
 </tr>
 </thead>
 <tbody>
@@ -168,12 +134,12 @@ navs:
 </tr>
 <tr>
 <th>01.09.2022</th>
-<td class="training">Training</td>
+<td class="schnell">Schnellschach</td>
 <td></td>
 </tr>
 <tr>
 <th>08.09.2022</th>
-<td class="schnell">Schnellschach</td>
+<td class="training">Training mit GM Richter</td>
 <td></td>
 </tr>
 <tr>
@@ -185,6 +151,31 @@ navs:
 <th>22.09.2022</th>
 <td class="versammlung">Skat</td>
 <td></td>
+</tr>
+<tr>
+<th>29.09.2022</th>
+<td class="blitz">( Blitzschach )</td>
+<td>ohne Wertung</td>
+</tr>
+<tr>
+<th>06.10.2022</th>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>13.10.2022</th>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>20.10.2022</th>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<th>27.10.2022</th>
+<td class="versammlung">Bughouse Turnier</td>
+<td>(Tandem)</td>
 </tr>
 </tbody>
 </table>
