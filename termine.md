@@ -174,7 +174,7 @@ navs:
 </tr>
 <tr>
 <th>27.10.2022</th>
-<td class="versammlung">Bughouse Turnier</td>
+<td class="versammlung">Bughouse Abend</td>
 <td>(Tandem)</td>
 </tr>
 </tbody>

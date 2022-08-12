@@ -8,34 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-9758 post type-post status-publish format-standard sticky hentry category-intern" id="post-9758">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark">Mitgliederversammlung am 11.08.2022</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark" title="7:35"><span class="entry-date">3. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hallo Schachfreunde,</p>
-<p>Wie Ihr schon der Einladung per Mail entnehmen konntet, findet am <strong>11.08.2022</strong> um <strong>18:30 Uhr</strong> unsere <strong>Mitgliederversammlung</strong> statt! Hauptsächlich wird es dabei um die nächste BMM Saison gehen.</p>
-<p>Bitte denkt dazu alle an den Fragebogen (online im Mitgliederbereich und kam per Mail). Einige fehlen noch.</p>
-<p>Außerdem geht es um eine Satzungsänderung im Bezug auf den Beitritt von neuen Mitgliedern.</p>
-<p><strong>Tagesordnung:</strong></p>
-<p>– Kassenabschluss 2021<br/>
-– Ergebnis Kassenprüfung<br/>
-– Etat 2022<br/>
-– Saisonabschluss BMM 2021/22<br/>
-– Planungen BMM/BFL 2022/23<br/>
-– Interne Turniere/Terminplan<br/>
-– Sonstiges<br/>
-– Anträge:<br/>
-Antrag auf Satzungsänderung durch den Vorstand:<br/>
-● Der Spielleiter Jonatan Schenk beantragt, die vom Vorstand unterstützte, Satzungsänderung.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9758 
 <div class="post-9772 post type-post status-publish format-standard hentry category-termine" id="post-9772">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/08/vorankuendigungen/" rel="bookmark">Vorankündigungen</a></h2>
 <div class="entry-meta">
@@ -44,12 +16,13 @@ Antrag auf Satzungsänderung durch den Vorstand:<br/>
 <p><span style="text-decoration: underline;">Intern:</span> <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a><span style="text-decoration: underline;"><br/>
 </span></p>
 <p><strong>Am 08.09.2022 – 18:30 Uhr – Training mit GM Michael Richter!</strong></p>
-<p><strong>Am 27.10.2022 – 18:30 Uhr – Bughouse Turnier bei NARVA (Tandem)</strong></p>
+<p><strong>Am 27.10.2022 – 18:30 Uhr – Bughouse Abend bei NARVA (Tandem)</strong></p>
 <p><span style="text-decoration: underline;">Extern:</span> <a href="https://www.narva-schach.de/wordpress/termine/termine-turniere-open/">Termine Open</a><span style="text-decoration: underline;"><br/>
 </span></p>
 <p><strong>27.08.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach Einzelmeisterschaft</a></strong></p>
 <p><strong>28.08.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach Mannschaftsmeisterschaft</a></strong></p>
 <p><strong>03./04.09.2022 – <a href="https://www.schachclub-oranienburg.de/wordpress/2022/07/oranienburger-chess-open-2022/" rel="noopener" target="_blank">Oranienburger Chess Open 2022</a></strong></p>
+<p><strong>24.09.2022 – <a href="http://www.ffoschach.de/240922.pdf" rel="noopener" target="_blank">Spreewaldpokal in Duben</a></strong></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -86,6 +59,34 @@ Antrag auf Satzungsänderung durch den Vorstand:<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/05/lichess-liga-r247/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9768 
+<div class="post-9758 post type-post status-publish format-standard hentry category-intern" id="post-9758">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark">Mitgliederversammlung am 11.08.2022</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark" title="7:35"><span class="entry-date">3. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hallo Schachfreunde,</p>
+<p>Wie Ihr schon der Einladung per Mail entnehmen konntet, findet am <strong>11.08.2022</strong> um <strong>18:30 Uhr</strong> unsere <strong>Mitgliederversammlung</strong> statt! Hauptsächlich wird es dabei um die nächste BMM Saison gehen.</p>
+<p>Bitte denkt dazu alle an den Fragebogen (online im Mitgliederbereich und kam per Mail). Einige fehlen noch.</p>
+<p>Außerdem geht es um eine Satzungsänderung im Bezug auf den Beitritt von neuen Mitgliedern.</p>
+<p><strong>Tagesordnung:</strong></p>
+<p>– Kassenabschluss 2021<br/>
+– Ergebnis Kassenprüfung<br/>
+– Etat 2022<br/>
+– Saisonabschluss BMM 2021/22<br/>
+– Planungen BMM/BFL 2022/23<br/>
+– Interne Turniere/Terminplan<br/>
+– Sonstiges<br/>
+– Anträge:<br/>
+Antrag auf Satzungsänderung durch den Vorstand:<br/>
+● Der Spielleiter Jonatan Schenk beantragt, die vom Vorstand unterstützte, Satzungsänderung.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9758 
 <div class="post-9737 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9737">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/02/monatsblitz-juli-guenter-blitzmeister-2022/" rel="bookmark">Günter Blitzmeister 2022 – Update: noch nicht!</a></h2>
 <div class="entry-meta">
@@ -139,9 +140,7 @@ Wenn man jetzt noch die beiden ausgelassenen Runden (4x Erste/1x Dritte) einrech
 <p>Bester Spieler über alle Mannschaften war <strong>Günter</strong>, er blieb ohne Niederlage und holte 8 Punkte aus 9 Runden, bei einer DWZ Leistung von 2120 macht er hier +36 auf 1882<br/>
 Ebenfalls gut unterwegs waren, <strong>Hans-Dieter</strong> +24, <strong>Magnus</strong> +32 und <strong>Manfred</strong> Heinrich +35! Neuzugang <strong>Hilmar</strong> kam auch auf starke 4 aus 5, bleibt aber noch ohne Zahl.<br/>
 In der 1.Mannschaft fiel <strong>Tomas</strong> noch auf, 100% Remisquote und dann in der Zweiten mit 3 aus 3 (davon einmal +).</p>
-<div class="wp-caption alignnone" id="attachment_9734" style="width: 330px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg"><img alt="" aria-describedby="caption-attachment-9734" class="wp-image-9734" height="446" loading="lazy" sizes="(max-width: 320px) 100vw, 320px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022-215x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022-215x300.jpg 215w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg 499w" width="320"/></a><p class="wp-caption-text" id="caption-attachment-9734">DWZ Auswertung</p></div>
-<p>Die Zahlen sind aber noch nicht endgültig, es gibt noch Fehler und fehlende Partien, vor allem in der 1.Mannschaft.</p>
-<p><strong>Und Bitte den Fragebogen für die neue Saison ausfüllen!!! Aktuell reicht der Rücklauf erst für eine Mannschaft…..</strong></p>
+<div class="wp-caption alignnone" id="attachment_9782" style="width: 561px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg"><img alt="" aria-describedby="caption-attachment-9782" class="size-full wp-image-9782" height="600" loading="lazy" sizes="(max-width: 551px) 100vw, 551px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg 551w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022-276x300.jpg 276w" width="551"/></a><p class="wp-caption-text" id="caption-attachment-9782">DWZ Auswertung – Update, Stand 12.08.</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
