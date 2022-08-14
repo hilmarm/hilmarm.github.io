@@ -8,6 +8,24 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9789 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9789">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/" rel="bookmark">Runde 250 Quarantäne-Liga!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/" rel="bookmark" title="15:46"><span class="entry-date">13. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Sonntag, 14.08., um 20:00 Uhr bestreiten wir unsere 250. Quarantäne-Liga Runde!!!</p>
+<p>Am 24.03.2020 hat das online gezocke angefangen und trotz vielen Auf und Ab sind wir noch dabei.</p>
+<p>Einige andere Vereine haben das zweimal wöchentlich stattfindende online Turnier inzwischen verlassen oder haben Pausen eingelegt. Wir halten durch, auch dank fleißiger Unterstützung von extern. (Grüße an miflosch!!)</p>
+<p>Zum Jubiläum hier ein Auszug aus meiner Statistik (Stand nach der Runde am Donnerstag):</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL.jpg"><img alt="" class="alignnone size-large wp-image-9784" height="324" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-1024x518.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-1024x518.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-300x152.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-768x388.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL.jpg 1098w" width="640"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL_Schnitt.jpg"><img alt="" class="alignnone size-full wp-image-9785" height="282" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL_Schnitt.jpg" width="298"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien.jpg"><img alt="" class="alignnone size-full wp-image-9786" height="559" loading="lazy" sizes="(max-width: 597px) 100vw, 597px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien.jpg 597w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien-300x281.jpg 300w" width="597"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte.jpg"><img alt="" class="alignnone size-full wp-image-9787" height="604" loading="lazy" sizes="(max-width: 604px) 100vw, 604px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte.jpg 604w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-144x144.jpg 144w" width="604"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen.jpg"><img alt="" class="alignnone size-full wp-image-9788" height="548" loading="lazy" sizes="(max-width: 602px) 100vw, 602px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen.jpg 602w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen-300x273.jpg 300w" width="602"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9789 
 <div class="post-9772 post type-post status-publish format-standard hentry category-termine" id="post-9772">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/08/vorankuendigungen/" rel="bookmark">Vorankündigungen</a></h2>
 <div class="entry-meta">
@@ -337,31 +355,6 @@ Sven spielte in Gruppe 1 und holte 7 Punkte aus 13 Partien.<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/08/training-bmm-analyse/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9600 
-<div class="post-9590 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9590">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/07/juni-blitz-chaos-blitz/" rel="bookmark">Juni Blitz = Chaos Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/07/juni-blitz-chaos-blitz/" rel="bookmark" title="17:40"><span class="entry-date">7. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Das Juni-Blitz am letzten Donnerstag ist etwas chaotisch verlaufen. Am Ende mussten wir (beide Spielleiter + Vorsitzender) uns beraten, ob wir diese Runde überhaupt werten. Erstmal Ja:</p>
-<p>Die Runde gewonnen hat am Ende ein Gast. Punktgleich mit 2 weiteren Spielern, die alle 5 Punkte haben, gewinnt <strong>Nguyen</strong> mit der besseren Wertung. Auf Platz 2 folgt mit <strong>Kubi</strong> ein weiterer Gast, danach auf Platz 3 mit ebenfalls 5 Punkten dann <strong>Günter</strong> als bester NARVA Spieler.</p>
-<p>Die Gesamtwertung muss ich noch aktualisieren (<em>Update 09.07.22 – ist jetzt da</em>), die <a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Juni Tabelle</a> ist schon da.</p>
-<p>8 Spieler gehen in die Juni Wertung ein. Peter und Jonatan sind nach Runde 2 ausgestiegen, beide habe ich raus genommen. Günter kam ab Runde 3 dann dazu, hat aber seine 2 Partien nachgeholt. Giacomo, kam auch ab Runde 3 dazu, hat nur eine Runde nicht gespielt…..</p>
-<p>Um das alles in Zukunft wieder zu vermeiden:</p>
-<ul>
-<li>Turnierstart ist gemäß Ausschreibung um 18:15 Uhr!</li>
-<li>Wer da ist spielt, wer nicht – der nicht!</li>
-<li>Wer vor Turnierende aussteigt bekommt den Rest kampflos Minus</li>
-<li>Gäste Bitte trotzdem mit kompletten Namen,  wenn vorhandenauch Verein! Gerade bei stärkeren, wie dieses mal, kann man davon ausgehen, dass sie in einer Datenbank stehen. Ich kann aber schlecht z.B. nur nach „Müller“, „Schulze“, „Nguyen“ oder „Kubi“ suchen!</li>
-</ul>
-<p>Auch wenn wir nichts offiziell auswerten, wäre ein ordentlicher Turnierablauf schön….also alle etwas mehr Disziplin/Ernsthaftigkeit dabei 😉</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/07/juni-blitz-chaos-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9590 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
