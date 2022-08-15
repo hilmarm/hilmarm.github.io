@@ -54,9 +54,19 @@ parent_title: Termine
 <td style="width: 154px; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
+<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2022</a></td>
+<td nowrap="nowrap" style="width: 158px; height: 24px;">ab 08.09.2022</td>
+<td style="width: 154px; height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-10-september-2022.html" rel="noopener" target="_blank">Schnellschachturnier in Karlshorst</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">10.09.2022</td>
 <td style="width: 154px; height: 24px;">Gerhard</td>
+</tr>
+<tr style="height: 24px;">
+<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal-Mannschaftsmeisterschaft 2022</a></td>
+<td nowrap="nowrap" style="width: 158px; height: 24px;">ab 17.09.2022</td>
+<td style="width: 154px; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="http://www.ffoschach.de/240922.pdf" rel="noopener" target="_blank">Spreewaldpokal in Duben</a></td>
