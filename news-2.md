@@ -16,7 +16,26 @@ navs:
 <p>Schon einmal als Vorankündigung: wir werden den Vereinspokal 2022 im Herbst noch spielen, und zwar voraussichtlich mit einer Teilnehmerbegrenzung (maximal 16).<br/>
 Meldeschluss wird am 22. September sein, Runde 1 am 6. Oktober, Runde 2 voraussichtlich am 20. Oktober. Die Termine für Halbfinale und Finale stehen noch nicht fest.<br/>
 Die Auslosung erfolgt jeweils direkt nach der Runde, es wird also kein Nachspielen möglich sein.</p>
-<p>Weiterhin wollen wir im Herbst ein Handicapturnier (Schnellschach, die Bedenkzeit wird angepasst, so dass Spieler mit weniger DWZ mehr Zeit bekommen) und eine mehrteilige Trainingsserie mit Spielpraxis (entweder zum Thema Endspiele oder aber zu einer Eröffnung) anbieten. </p>
+<p>Weiterhin wollen wir im Herbst ein Handicapturnier (Schnellschach, die Bedenkzeit wird angepasst, so dass Spieler mit weniger DWZ mehr Zeit bekommen) und eine mehrteilige Trainingsserie mit Spielpraxis (entweder zum Thema Endspiele oder aber zu einer Eröffnung) anbieten.</p>
+<p><strong>Anmeldung Pokal</strong></p>
+<div class="wpcf7" dir="ltr" id="wpcf7-f9811-p9800-o1" lang="de-DE" role="form">
+<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
+<form action="/wordpress/news-2/#wpcf7-f9811-p9800-o1" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
+<div style="display: none;">
+<input name="_wpcf7" type="hidden" value="9811"/>
+<input name="_wpcf7_version" type="hidden" value="5.4.2"/>
+<input name="_wpcf7_locale" type="hidden" value="de_DE"/>
+<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p9800-o1"/>
+<input name="_wpcf7_container_post" type="hidden" value="9800"/>
+<input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+</div>
+<p><label> Dein Name<br/>
+<span class="wpcf7-form-control-wrap your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" size="40" type="text" value=""/></span> </label><br/>
+Möchtest Du, dass die Verlierer nicht direkt ausscheiden und dafür ähnlich wie im Dähne Pokal in ein paralell Turnier "fallen":<br/>
+z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Schweizer System fort. Die bisher in einer oder mehreren K-O-Runden erzielten Punkten werden übernommen, bei Blitzentscheid dessen Ergebnis, also 1 oder 0."<br/>
+<span class="wpcf7-form-control-wrap checkbox-476"><span class="wpcf7-form-control wpcf7-checkbox"><span class="wpcf7-list-item first"><label><input name="checkbox-476[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="checkbox-476[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span></p>
+<p><input class="wpcf7-form-control wpcf7-submit" type="submit" value="Senden"/></p>
+<div aria-hidden="true" class="wpcf7-response-output"></div></form></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
