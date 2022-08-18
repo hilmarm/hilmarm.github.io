@@ -18,10 +18,17 @@ parent_title: Turniere
 <div class="post-110 page type-page status-publish hentry" id="post-110">
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
-<p><!--a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2019/12/Pokal-2020.pdf">Ausschreibung Pokal 2020</a>
-
-<a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a--><br/>
-<u>Ein Pokalwettbewerb 2022 ist bislang nicht ausgeschrieben. Bei Interesse und sofern es die Pandemiesituation zulässt kann ggf. im Herbst ein Pokal ausgetragen werden.</u></p>
+<p><span style="text-decoration: underline;">Ausschreibung folgt</span></p>
+<p>Bis jetzt (17.8.) angemeldet:</p>
+<p><strong>Andreas</strong><br/>
+<strong>Hans-Dieter</strong><br/>
+<strong>Thomas M.</strong><br/>
+<strong>Michael</strong><br/>
+<strong>Tomas</strong><br/>
+<strong>Lukas</strong></p>
+<p>Abstimmung „Loser-Turnier“</p>
+<p>3x Ja<br/>
+3x Nein</p>
 </div><!-- .entry-content -->
 </div> #post-110 
 <div id="comments">

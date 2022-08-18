@@ -13,7 +13,7 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/" rel="bookmark" title="15:20"><span class="entry-date">15. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Schon einmal als Vorankündigung: wir werden den Vereinspokal 2022 im Herbst noch spielen, und zwar voraussichtlich mit einer Teilnehmerbegrenzung (maximal 16).<br/>
+<p>Schon einmal als Vorankündigung: wir werden den <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Vereinspokal 2022</a> im Herbst noch spielen, und zwar voraussichtlich mit einer Teilnehmerbegrenzung (maximal 16).<br/>
 Meldeschluss wird am 22. September sein, Runde 1 am 6. Oktober, Runde 2 voraussichtlich am 20. Oktober. Die Termine für Halbfinale und Finale stehen noch nicht fest.<br/>
 Die Auslosung erfolgt jeweils direkt nach der Runde, es wird also kein Nachspielen möglich sein.</p>
 <p>Weiterhin wollen wir im Herbst ein Handicapturnier (Schnellschach, die Bedenkzeit wird angepasst, so dass Spieler mit weniger DWZ mehr Zeit bekommen) und eine mehrteilige Trainingsserie mit Spielpraxis (entweder zum Thema Endspiele oder aber zu einer Eröffnung) anbieten.</p>
@@ -29,7 +29,7 @@ Die Auslosung erfolgt jeweils direkt nach der Runde, es wird also kein Nachspiel
 <input name="_wpcf7_container_post" type="hidden" value="9800"/>
 <input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
 </div>
-<p><label> Dein Name<br/>
+<p><label> Ich möchte Pokal mitspielen, Dein Name<br/>
 <span class="wpcf7-form-control-wrap your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" size="40" type="text" value=""/></span> </label><br/>
 Möchtest Du, dass die Verlierer nicht direkt ausscheiden und dafür ähnlich wie im Dähne Pokal in ein paralell Turnier "fallen":<br/>
 z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Schweizer System fort. Die bisher in einer oder mehreren K-O-Runden erzielten Punkten werden übernommen, bei Blitzentscheid dessen Ergebnis, also 1 oder 0."<br/>
