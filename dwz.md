@@ -371,14 +371,6 @@ navs:
 </tr>
 <tr>
 <td>43.</td>
-<td><a href="http://www.schachbund.de/spieler/10760379.html" target="_blank"> Marlene Wolf</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>44.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td></td>
@@ -386,7 +378,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>45.</td>
+<td>44.</td>
 <td><a href="http://www.schachbund.de/spieler/10778617.html" target="_blank"> Jayasurian Makkoth</a></td>
 <td></td>
 <td></td>
@@ -394,7 +386,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>46.</td>
+<td>45.</td>
 <td><a href="http://www.schachbund.de/spieler/10783153.html" target="_blank"> Silas Maiwald</a></td>
 <td></td>
 <td></td>
@@ -402,7 +394,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>47.</td>
+<td>46.</td>
 <td><a href="http://www.schachbund.de/spieler/10796627.html" target="_blank"> Felix Salgueiro</a></td>
 <td></td>
 <td></td>

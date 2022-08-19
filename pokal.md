@@ -25,9 +25,11 @@ parent_title: Turniere
 <strong>Thomas M.</strong><br/>
 <strong>Michael</strong><br/>
 <strong>Tomas</strong><br/>
-<strong>Lukas</strong></p>
+<strong>Lukas</strong><br/>
+<strong>Manfred H.</strong><br/>
+<strong>Klaus</strong></p>
 <p>Abstimmung „Loser-Turnier“</p>
-<p>3x Ja<br/>
+<p>4x Ja<br/>
 3x Nein</p>
 </div><!-- .entry-content -->
 </div> #post-110 

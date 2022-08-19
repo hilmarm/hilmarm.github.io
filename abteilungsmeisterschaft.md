@@ -237,6 +237,101 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
+<h2>5. Runde am 15. September</h2>
+<table class="clean swiss">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>5.</td>
+<td>Schenk,Jonatan</td>
+<td>1698</td>
+<td>–</td>
+<td>3.</td>
+<td>Maetzing,Hans-Di</td>
+<td>1758</td>
+<td> –</td>
+</tr>
+<tr>
+<td>2</td>
+<td>6.</td>
+<td>Kinski,Andreas</td>
+<td>1636</td>
+<td>–</td>
+<td>13.</td>
+<td>Magnusson,Hilmar</td>
+<td></td>
+<td> –</td>
+</tr>
+<tr>
+<td>3</td>
+<td>10.</td>
+<td>Maiwald,Gunar</td>
+<td>1355</td>
+<td>–</td>
+<td>2.</td>
+<td>Krüger,Ekkehard</td>
+<td>1746</td>
+<td> –</td>
+</tr>
+<tr>
+<td>4</td>
+<td>7.</td>
+<td>Mothes,Thomas</td>
+<td>1598</td>
+<td>–</td>
+<td>4.</td>
+<td>Mietzelfeldt,Ger</td>
+<td>1586</td>
+<td> –</td>
+</tr>
+<tr>
+<td>5</td>
+<td>8.</td>
+<td>Kreisel,Alexande</td>
+<td>1505</td>
+<td>–</td>
+<td>15.</td>
+<td>von Kraft,Lukas</td>
+<td>1391</td>
+<td> –</td>
+</tr>
+<tr>
+<td>6</td>
+<td>12.</td>
+<td>Totz,Thomas</td>
+<td>1192</td>
+<td>–</td>
+<td>9.</td>
+<td>Eichstädt,Torste</td>
+<td>1315</td>
+<td> –</td>
+</tr>
+<tr>
+<td>7</td>
+<td>11.</td>
+<td>Heinrich,Manfred</td>
+<td>1202</td>
+<td>–</td>
+<td>14.</td>
+<td>spielfrei</td>
+<td></td>
+<td>+ – –</td>
+</tr>
+</tbody>
+</table>
 <h2>4. Runde am 21. Juli</h2>
 <table class="clean swiss">
 <thead>
@@ -262,7 +357,7 @@ parent_title: Turniere
 <td>5.</td>
 <td>Schenk,Jonatan</td>
 <td>1698</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>2</td>

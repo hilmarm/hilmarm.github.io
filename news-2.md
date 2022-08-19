@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9825 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9825">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/" rel="bookmark">Abteilungsmeisterschaft: letzte Runde ausgelost</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/" rel="bookmark" title="21:58"><span class="entry-date">18. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Obwohl noch drei Partien zu spielen sind wurde heute schon die letzte Runde der Abteilungsmeisterschaft ausgelost, damit ggf. vorgespielt werden kann. Die Paarungen sind auf der <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a> eingetragen. Die Rangliste aktualisiere ich vermutlich nächste Woche – momentan wäre sie wegen der fehlenden Partien nicht besonders aussagekräftig.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9825 
 <div class="post-9800 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9800">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/" rel="bookmark">Vorankündigung Pokal 2022</a></h2>
 <div class="entry-meta">
@@ -356,28 +370,6 @@ Sven spielte in Gruppe 1 und holte 7 Punkte aus 13 Partien.<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/11/lichess-liga-r240/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9683 
-<div class="post-9613 post type-post status-publish format-standard hentry category-bmm" id="post-9613">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/" rel="bookmark">BMM Saisonfinale</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/" rel="bookmark" title="20:07"><span class="entry-date">10. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Erfolgreiches BMM Saisonfinale für die beiden NARVA Teams.</p>
-<p><strong>NARVA 2</strong> gewinnt <strong>5:3</strong> gegen <strong>Eintracht 2</strong> und beendet die Saison auf Platz 1! Glückwunsch!</p>
-<p>Gegen Eintracht 2 gab es einen Punkt geschenkt, Hans-Dieter, Günter und Jonatan gewannen weitere, Alexander und Klaus noch jeweils halbe Punkte dazu.</p>
-<p><a href="https://www.narva-schach.de/wordpress/2022/07/11/narva-gewinnt-die-staffel-2-2/">Bericht von Jonatan (mit kleiner Endspielübung)</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-scaled.jpg"><img alt="" class="alignnone size-large wp-image-9614" height="146" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-1024x234.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-1024x234.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-300x68.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-768x175.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-1536x351.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/InCollage_20220710_191412118-2048x467.jpg 2048w" width="640"/></a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome.jpg"><img alt="" class="alignnone wp-image-9615 size-medium" height="224" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome-300x224.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome-300x224.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome-768x574.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-191221_Chrome.jpg 796w" width="300"/></a></p>
-<p><strong>NARVA 3</strong> gewinnt auswärts in <strong>Babelsberg</strong> mit <strong>4:1</strong> und beendet die Saison im Mittelfeld. Ein Brett blieb von beiden Seiten frei, Lukas, Torsten, Hilmar und Manfred gewinnen, nur Thomas verliert.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome.jpg"><img alt="" class="alignnone size-full wp-image-9616" height="207" loading="lazy" sizes="(max-width: 1008px) 100vw, 1008px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome.jpg 1008w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome-300x62.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/Screenshot_20220710-142221_Chrome-768x158.jpg 768w" width="1008"/></a></p>
-<p>Damit geht eine lange und anstrengende Saison zu Ende. Die neue wirft schon ihre Schatten voraus. Der Fragebogen wurde schon per Mail versendet, demnächst auch hier eine Online-Variante.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/10/bmm-saisonfinale/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9613 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
