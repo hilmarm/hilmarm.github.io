@@ -73,6 +73,16 @@ parent_title: Termine
 <td nowrap="nowrap" style="width: 158px; height: 24px;">24.09.2022</td>
 <td style="width: 154px; height: 24px;">Mannschaft</td>
 </tr>
+<tr style="height: 24px;">
+<td><a href="https://millhillchess.blogspot.com/" rel="noopener" target="_blank">Mill Hill FIDE Congress</a></td>
+<td>24.-25.09.2022</td>
+<td>Jonatan</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
+<td>03.-09.10.2022</td>
+<td>Hans-Dieter, Ulrich</td>
+</tr>
 </tbody>
 </table>
 </div><!-- .entry-content -->
