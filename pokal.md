@@ -19,7 +19,7 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><span style="text-decoration: underline;">Ausschreibung folgt</span></p>
-<p>Bis jetzt (17.8.) angemeldet:</p>
+<p>Bis jetzt (23.8.) angemeldet:</p>
 <p><strong>Andreas</strong><br/>
 <strong>Hans-Dieter</strong><br/>
 <strong>Thomas M.</strong><br/>
@@ -28,9 +28,10 @@ parent_title: Turniere
 <strong>Lukas</strong><br/>
 <strong>Manfred H.</strong><br/>
 <strong>Klaus</strong><br/>
-<strong>Hilmar</strong></p>
+<strong>Hilmar</strong><br/>
+<strong>Torsten</strong></p>
 <p>Abstimmung „Loser-Turnier“</p>
-<p>5x Ja<br/>
+<p>6x Ja<br/>
 3x Nein</p>
 </div><!-- .entry-content -->
 </div> #post-110 

@@ -67,19 +67,19 @@ navs:
 </tr>
 <tr>
 <td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1995</td>
-<td>430</td>
-<td>2015</td>
-</tr>
-<tr>
-<td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
 <td>1962</td>
 <td>57</td>
 <td>1991</td>
+</tr>
+<tr>
+<td>6.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1961</td>
+<td>431</td>
+<td>2015</td>
 </tr>
 <tr>
 <td>7.</td>

@@ -44,12 +44,12 @@ parent_title: Termine
 <td style="width: 154px; height: 24px;">Torsten</td>
 </tr>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;">Berliner Blitz-Einzel</td>
+<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-blitzmeisterschaften.html" rel="noopener" target="_blank">Berliner Blitz-Einzel</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">03.09.2022</td>
 <td style="width: 154px; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;">Berliner Blitz-Mannschaft</td>
+<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-blitzmeisterschaften.html" rel="noopener" target="_blank">Berliner Blitz-Mannschaft</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">04.09.2022</td>
 <td style="width: 154px; height: 24px;"></td>
 </tr>

@@ -8,6 +8,32 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-9772 post type-post status-publish format-standard hentry category-termine" id="post-9772">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/23/vorankuendigungen/" rel="bookmark">Teilnehmer gesucht!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/23/vorankuendigungen/" rel="bookmark" title="7:46"><span class="entry-date">23. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>In den nächsten Wochen stehen einige <strong>Einzel- und Mannschaftsturniere vom BSV</strong> an. Diese Turniere sind für alle Spielklassen geeignet. Bei den Mannschaftsturnieren können, wir auch mit mehreren Mannschaften antreten:</p>
+<p><strong>27.08.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach Einzelmeisterschaft</a></strong></p>
+<p>Aktuell hat hier nur <strong>Bernd</strong> gemeldet. Jeder kann sich hier selbst anmelden.</p>
+<p><strong>28.08.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach Mannschaftsmeisterschaft</a></strong></p>
+<p>Hier ist bereits <strong>eine Mannschaft</strong> gemeldet, wir suchen aber dringend noch Ersatz in Form eines 5. Spielers! Bitte beim Vorsitzenden oder Klaus melden!</p>
+<p><strong>03.09.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibung-blitzmeisterschaften.html" rel="noopener" target="_blank">Berliner Blitz Einzelmeisterschaft</a></strong></p>
+<p>Anmeldungen nur über den Verein möglich, Voraussetzung ist jedoch eine FIDE-Anmeldung für die ELO-Auswertung. Wer noch keine FIDE ID hat, bitte beim Vorsitzenden melden! Meldeschluss 01.09.22!</p>
+<p><strong>04.09.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibung-blitzmeisterschaften.html" rel="noopener" target="_blank">Berliner Blitz Mannschaftsmeisterschaft</a></strong></p>
+<p>Es gibt bereits erste Interessenten, aber noch keine Mannschaft. Bitte beim Vorsitzenden melden! Auch hier ist eine FIDE ID notwendig, aber kein Problem. Meldeschluss 01.09.22!</p>
+<p><strong>ab 08.09.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal Einzelmeisterschaft 2022</a></strong></p>
+<p>Anmeldungen nur über den Verein möglich! Meldeschluss 31.08.22!</p>
+<p><strong>ab 17.09.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal Mannschaftsmeisterschaft 2022</a></strong></p>
+<p>Wer möchte hier in einer Mannschaft teilnehmen? Bitte beim Spielleiter Jonatan melden!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/23/vorankuendigungen/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9772 
 <div class="post-9825 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9825">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/" rel="bookmark">Abteilungsmeisterschaft: letzte Runde ausgelost</a></h2>
 <div class="entry-meta">
@@ -108,31 +134,6 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/12/lichess-liga-r249/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9803 
-<div class="post-9772 post type-post status-publish format-standard hentry category-termine" id="post-9772">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/08/vorankuendigungen/" rel="bookmark">Vorankündigungen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/08/vorankuendigungen/" rel="bookmark" title="15:46"><span class="entry-date">8. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><span style="text-decoration: underline;">Intern:</span> <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a><span style="text-decoration: underline;"><br/>
-</span></p>
-<p><strong>Am 08.09.2022 – 18:30 Uhr – Training mit GM Michael Richter!</strong></p>
-<p><strong>Am 27.10.2022 – 18:30 Uhr – Bughouse Abend bei NARVA (Tandem)</strong></p>
-<p><span style="text-decoration: underline;">Extern:</span> <a href="https://www.narva-schach.de/wordpress/termine/termine-turniere-open/">Termine Open</a><span style="text-decoration: underline;"><br/>
-</span></p>
-<p><strong>27.08.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach Einzelmeisterschaft</a></strong></p>
-<p><strong>28.08.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach Mannschaftsmeisterschaft</a></strong></p>
-<p><strong>03./04.09.2022 – <a href="https://www.schachclub-oranienburg.de/wordpress/2022/07/oranienburger-chess-open-2022/" rel="noopener" target="_blank">Oranienburger Chess Open 2022</a></strong></p>
-<p><strong>ab 08.09.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal Einzelmeisterschaft 2022</a></strong></p>
-<p><strong>ab 17.09.2022 – <a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal Mannschaftsmeisterschaft 2022</a></strong></p>
-<p><strong>24.09.2022 – <a href="http://www.ffoschach.de/240922.pdf" rel="noopener" target="_blank">Spreewaldpokal in Duben</a></strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/08/vorankuendigungen/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9772 
 <div class="post-9770 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9770">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/08/lichess-liga-r248/" rel="bookmark">Lichess Liga (R248)</a></h2>
 <div class="entry-meta">
