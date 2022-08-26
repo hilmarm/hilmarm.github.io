@@ -39,7 +39,14 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/" rel="bookmark" title="21:58"><span class="entry-date">18. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Obwohl noch drei Partien zu spielen sind wurde heute schon die letzte Runde der Abteilungsmeisterschaft ausgelost, damit ggf. vorgespielt werden kann. Die Paarungen sind auf der <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a> eingetragen. Die Rangliste aktualisiere ich vermutlich nächste Woche – momentan wäre sie wegen der fehlenden Partien nicht besonders aussagekräftig.</p>
+<p>Obwohl noch drei Partien zu spielen sind wurde heute schon die letzte Runde der <strong>Abteilungsmeisterschaft</strong> ausgelost, damit ggf. vorgespielt werden kann. Die Paarungen sind auf der <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a> eingetragen. Die Rangliste aktualisiere ich vermutlich nächste Woche – momentan wäre sie wegen der fehlenden Partien nicht besonders aussagekräftig.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-scaled.jpg"><img alt="" class="wp-image-9837 size-medium alignleft" height="173" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-300x173.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-300x173.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-1024x589.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-768x442.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-1536x884.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/20220825_220359-2048x1178.jpg 2048w" width="300"/></a><strong>Ergebnisse Runde 4:</strong><br/>
+Hilmar – Jonatan 0:1<br/>
+Ekkehard – Hans-Dieter ½:½<br/>
+Gerhard – Andreas 0:1<br/>
+Alexander – Gunar 0:1<br/>
+Thomas – Manfred 1:0<br/>
+Lukas – Torsten 1:0</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
