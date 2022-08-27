@@ -52,7 +52,7 @@ Lukas – Torsten 1:0</p>
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/18/abteilungsmeisterschaft-letzte-runde-ausgelost/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9825 
 <div class="post-9800 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9800">

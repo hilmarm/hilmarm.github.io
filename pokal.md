@@ -22,10 +22,10 @@ parent_title: Turniere
 <p>Bis jetzt (23.8.) angemeldet:</p>
 <p><strong>Andreas</strong><br/>
 <strong>Hans-Dieter</strong><br/>
-<strong>Thomas M.</strong><br/>
+<strong>Thomas M.?</strong><br/>
 <strong>Michael</strong><br/>
 <strong>Tomas</strong><br/>
-<strong>Lukas</strong><br/>
+<strong>Lukas?</strong><br/>
 <strong>Manfred H.</strong><br/>
 <strong>Klaus</strong><br/>
 <strong>Hilmar</strong><br/>
