@@ -24,21 +24,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM-Finale</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">18.08. – 20.08.2022</td>
-<td style="width: 154px; height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach-Einzel</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">27.08.2022</td>
-<td style="width: 154px; height: 24px;">Bernd</td>
-</tr>
-<tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibungen-schnellschachmeisterschaften.html" rel="noopener" target="_blank">Berliner Schnellschach-Mannschaft</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">28.08.2022</td>
-<td style="width: 154px; height: 24px;">Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.schachclub-oranienburg.de/wordpress/2022/07/oranienburger-chess-open-2022/" rel="noopener" target="_blank">Oranienburger Chess Open 2022</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">03.09.-04.09.2022</td>
 <td style="width: 154px; height: 24px;">Torsten</td>
@@ -61,7 +46,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-10-september-2022.html" rel="noopener" target="_blank">Schnellschachturnier in Karlshorst</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">10.09.2022</td>
-<td style="width: 154px; height: 24px;">Gerhard</td>
+<td style="width: 154px; height: 24px;">Hans-Dieter, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal-Mannschaftsmeisterschaft 2022</a></td>
