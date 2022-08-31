@@ -29,7 +29,8 @@ parent_title: Turniere
 <strong>Manfred H.</strong><br/>
 <strong>Klaus</strong><br/>
 <strong>Hilmar</strong><br/>
-<strong>Torsten</strong></p>
+<strong>Torsten</strong><br/>
+<strong>Ekkehard</strong></p>
 <p>Abstimmung „Loser-Turnier“</p>
 <p>6x Ja<br/>
 3x Nein</p>

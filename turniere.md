@@ -27,7 +27,7 @@ navs:
 <p><strong>Beitragssätze:</strong><br/>
 Stufe I Erwachsene 7,00 € / Monat = 84,00 € / Jahr<br/>
 Stufe II Ermäßigt 4,80 € / Monat = 57,60 € / Jahr</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/Satzung-Abteilung-Schach_2021.pdf" rel="noopener" target="_blank">Satzung Abteilung Schach</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/Satzung-Abteilung-Schach_2022.pdf" rel="noopener" target="_blank">Satzung Abteilung Schach</a></p>
 <p><a href="https://www.schachbund.de/srk-downloads.html?file=files/dsb/srk/downloads/FIDE-Regeln-2017-Final-DEU-ENG.PDF">FIDE_Regeln 2017</a> – <a href="https://www.schachbund.de/srk-downloads.html?file=files/dsb/srk/2017/171113_FIDERegeln_neu.pdf">Zusatz FIDE_Regeln ab 1.1.2018</a></p>
 </div><!-- .entry-content -->
 </div> #post-74 
