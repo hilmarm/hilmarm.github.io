@@ -20,8 +20,9 @@ parent_title: Turniere
 <div class="entry-content">
 <div class="aligncenter">
 <h2 class="heading2" style="text-align: center;">SG NARVA Schnellschach GP 2022</h2>
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Schnellschachmeisterschaft-2022.pdf">Ausschreibung</a></p>
-</div>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Schnellschachmeisterschaft-2022.pdf">Ausschreibung</a><br/>
+<strong>Aufgrund des Trainings mit GM Richter am 8.9. findet das 5. Schnellschachturnier bereits am 1.9. statt.</strong>
+</p></div>
 <h2>Gesamtwertung</h2>
 <table class="footable">
 <thead>

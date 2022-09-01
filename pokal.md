@@ -18,7 +18,7 @@ parent_title: Turniere
 <div class="post-110 page type-page status-publish hentry" id="post-110">
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
-<p><span style="text-decoration: underline;">Ausschreibung folgt</span></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/Pokal-2022.pdf">Ausschreibung</a></p>
 <p>Bis jetzt (23.8.) angemeldet:</p>
 <p><strong>Andreas</strong><br/>
 <strong>Hans-Dieter</strong><br/>

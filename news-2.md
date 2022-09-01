@@ -16,6 +16,7 @@ navs:
 <p>Schon einmal als Vorankündigung: wir werden den <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Vereinspokal 2022</a> im Herbst noch spielen, und zwar voraussichtlich mit einer Teilnehmerbegrenzung (maximal 16).<br/>
 Meldeschluss wird am 22. September sein, Runde 1 am 6. Oktober, Runde 2 voraussichtlich am 20. Oktober. Die Termine für Halbfinale und Finale stehen noch nicht fest.<br/>
 Die Auslosung erfolgt jeweils direkt nach der Runde, es wird also kein Nachspielen möglich sein.</p>
+<p><strong>Update:</strong> Es gibt jetzt auch eine <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/Pokal-2022.pdf">Ausschreibung</a>.</p>
 <p>Weiterhin wollen wir im Herbst ein Handicapturnier (Schnellschach, die Bedenkzeit wird angepasst, so dass Spieler mit weniger DWZ mehr Zeit bekommen) und eine mehrteilige Trainingsserie mit Spielpraxis (entweder zum Thema Endspiele oder aber zu einer Eröffnung) anbieten.</p>
 <p><strong>Anmeldung Pokal</strong></p>
 <div class="wpcf7" dir="ltr" id="wpcf7-f9811-p9800-o1" lang="de-DE" role="form">
@@ -44,6 +45,26 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9800 
+<div class="post-9875 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9875">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/31/schnellschach-runde-5-schon-morgen/" rel="bookmark">Schnellschach Runde 5 schon morgen!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/31/schnellschach-runde-5-schon-morgen/" rel="bookmark" title="14:44"><span class="entry-date">31. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Morgen ist schon  Runde 5 von unserem NARVA Schnellschach GP 2022!<br/>
+Da nächste Woche GM Michael Richter zum Training kommt, wurde Schnellschach eine Woche vorgelegt. </p>
+<p>– Beginn 18:15 Uhr!!<br/>
+– Bedenkzeit 12+3<br/>
+– Modus je nach Teilnehmerzahl<br/>
+(5 Runden Schweizer System oder max. 7 im Runden System)<br/>
+– Gäste sind natürlich willkommen!!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/31/schnellschach-runde-5-schon-morgen/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9875 
 <div class="post-9858 post type-post status-publish format-standard hentry category-openberichte" id="post-9858">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/30/schnellschach-mannschaftsmeisterschaft/" rel="bookmark">Schnellschach Mannschaftsmeisterschaft</a></h2>
 <div class="entry-meta">
@@ -373,20 +394,6 @@ Sven spielte in Gruppe 1 und holte 7 Punkte aus 13 Partien.<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/29/lichess-liga-r245/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9748 
-<div class="post-9716 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9716">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/25/lichess-liga-r244/" rel="bookmark">Lichess Liga (R244)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/25/lichess-liga-r244/" rel="bookmark" title="10:29"><span class="entry-date">25. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9712" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/liga10c_24072022.jpg"><img alt="" aria-describedby="caption-attachment-9712" class="size-large wp-image-9712" height="344" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/liga10c_24072022-1024x551.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/liga10c_24072022-1024x551.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/liga10c_24072022-300x161.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/liga10c_24072022-768x413.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/liga10c_24072022.jpg 1117w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9712"><strong>24.07.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/25/lichess-liga-r244/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9716 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
