@@ -21,8 +21,8 @@ parent_title: Turniere
 <div class="aligncenter">
 <h2 class="heading2" style="text-align: center;">SG NARVA Schnellschach GP 2022</h2>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Schnellschachmeisterschaft-2022.pdf">Ausschreibung</a><br/>
-<strong>Aufgrund des Trainings mit GM Richter am 8.9. findet das 5. Schnellschachturnier bereits am 1.9. statt.</strong>
-</p></div>
+<strong>Aufgrund des Trainings mit GM Richter am 8.9. findet das 5. Schnellschachturnier bereits am 1.9. statt.</strong></p>
+</div>
 <h2>Gesamtwertung</h2>
 <table class="footable">
 <thead>
@@ -32,7 +32,7 @@ parent_title: Turniere
 <th style="padding-right: 10px; width: 50px;">12.5.</th>
 <th style="padding-right: 10px; width: 50px;"> 9.6.</th>
 <th style="padding-right: 10px; width: 50px;">14.7.</th>
-<th style="padding-right: 10px; width: 50px;"> 8.9.</th>
+<th style="padding-right: 10px; width: 50px;"> 1.9.</th>
 <th data-type="numeric" style="padding-right: 10px; width: 60px;"><strong>Gesamt</strong></th>
 </tr>
 </thead>
@@ -41,10 +41,19 @@ parent_title: Turniere
 <td>Hintze</td>
 <td>12</td>
 <td>12</td>
-<td>8</td>
+<td><del>8</del></td>
 <td>12</td>
-<td></td>
-<td>44</td>
+<td>10</td>
+<td>46</td>
+</tr>
+<tr>
+<td>Brinckmann</td>
+<td>10</td>
+<td><del>6</del></td>
+<td>10</td>
+<td>10</td>
+<td>8</td>
+<td>38</td>
 </tr>
 <tr>
 <td>Schenk</td>
@@ -56,15 +65,6 @@ parent_title: Turniere
 <td>38</td>
 </tr>
 <tr>
-<td>Brinckmann</td>
-<td>10</td>
-<td>6</td>
-<td>10</td>
-<td>10</td>
-<td></td>
-<td>36</td>
-</tr>
-<tr>
 <td>Bradschetl</td>
 <td></td>
 <td></td>
@@ -72,6 +72,24 @@ parent_title: Turniere
 <td>10</td>
 <td></td>
 <td>16</td>
+</tr>
+<tr>
+<td>Kreisel</td>
+<td></td>
+<td>5</td>
+<td></td>
+<td>5</td>
+<td>5</td>
+<td>15</td>
+</tr>
+<tr>
+<td>Olariu</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>12</td>
+<td>12</td>
 </tr>
 <tr>
 <td>Eichstädt</td>
@@ -83,15 +101,6 @@ parent_title: Turniere
 <td>11</td>
 </tr>
 <tr>
-<td>Kreisel</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>5</td>
-<td></td>
-<td>10</td>
-</tr>
-<tr>
 <td>Krüger</td>
 <td>10</td>
 <td></td>
@@ -99,6 +108,24 @@ parent_title: Turniere
 <td></td>
 <td></td>
 <td>10</td>
+</tr>
+<tr>
+<td>Totz</td>
+<td>6</td>
+<td></td>
+<td></td>
+<td></td>
+<td>4</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Mothes</td>
+<td></td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>6</td>
+<td>9</td>
 </tr>
 <tr>
 <td>Segerberg</td>
@@ -110,13 +137,13 @@ parent_title: Turniere
 <td>8</td>
 </tr>
 <tr>
-<td>Totz</td>
-<td>6</td>
+<td>Salgueiro</td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>6</td>
+<td>4</td>
+<td>4</td>
+<td>8</td>
 </tr>
 <tr>
 <td>Herrscher</td>
@@ -128,15 +155,6 @@ parent_title: Turniere
 <td>5</td>
 </tr>
 <tr>
-<td>Salgueiro</td>
-<td></td>
-<td></td>
-<td></td>
-<td>4</td>
-<td></td>
-<td>4</td>
-</tr>
-<tr>
 <td>Mietzelfeldt</td>
 <td></td>
 <td></td>
@@ -144,15 +162,6 @@ parent_title: Turniere
 <td></td>
 <td></td>
 <td>4</td>
-</tr>
-<tr>
-<td>Mothes</td>
-<td></td>
-<td>3</td>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
 </tr>
 <tr>
 <td>von Kraft</td>
@@ -174,6 +183,130 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
+<div style="overflow: auto;">
+<h2>5. Schnellschachturnier, 01.09.2022</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<td colspan="12">Rangliste: Stand nach der 7. Runde</td>
+</tr>
+<tr>
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td nowrap="nowrap">Olariu,Luca-Stefan</td>
+<td>2113</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.0</td>
+<td>15.00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hintze,Peter</td>
+<td>1931</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Brinckmann,Klaus</td>
+<td>1677</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>3.5</td>
+<td>5.50</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Mothes,Thomas</td>
+<td>1550</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>½</td>
+<td>+</td>
+<td>1</td>
+<td>2.5</td>
+<td>3.00</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Kreisel,Alexander</td>
+<td>1527</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>½</td>
+<td>**</td>
+<td>0</td>
+<td>+</td>
+<td>2.0</td>
+<td>4.00</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Salgueiro,Felix</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>–</td>
+<td>1</td>
+<td>**</td>
+<td>–</td>
+<td>1.0</td>
+<td>2.00</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Totz,Thomas</td>
+<td>1161</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>–</td>
+<td>+</td>
+<td>**</td>
+<td>1.0</td>
+<td>1.00</td>
+</tr>
+</tbody>
+</table>
+</div>
 <div style="overflow: auto;">
 <h2>4. Schnellschachturnier, 14.07.2022</h2>
 <table class="clean swiss footable">
