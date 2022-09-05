@@ -62,6 +62,29 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9800 
+<div class="post-9871 post type-post status-publish format-standard hentry category-interne-turniere category-tandem" id="post-9871">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/05/bughouse-abend-bei-narva/" rel="bookmark">Bughouse Abend bei NARVA</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/05/bughouse-abend-bei-narva/" rel="bookmark" title="12:45"><span class="entry-date">5. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>Donnerstag 27.10.2022</strong> findet bei uns im Club ein <strong>Bughouse Abend</strong> statt, vielen auch bekannt als Tandem-Schach!</p>
+<p>Alle Tandemschach Spieler sind dazu herzlich eingeladen!<br/>
+Start ist wie immer bei uns um 18 Uhr.<br/>
+Bei Teilnahme von Gästen Bitte vorher eine Info an <span style="text-decoration: underline;"><em>vorsitzender(at)narva-schach.de</em></span>, damit wir die Teilnehmerzahl besser planen können.</p>
+<p>Bei genügend Teilnehmer gibt es auch ein kleines Turnier!</p>
+<p><span style="text-decoration: underline;">Ort:</span><br/>
+Begegnungsstätte Club „Lebensfreude“, Kadiner Str. 1, 10243 Berlin<br/>
+(ca. 2. min. von U5 Frankfurter Tor)</p>
+<p><span style="text-decoration: underline;">Wie wir spielen:</span><br/>
+<strong>Kein Einsetzen mit Schach oder Matt!</strong> Bauernumwandlung wie im Schach, durch Bauernumwandlung entstandene geschlagene Figuren werden als Bauern transferiert. Matt auf einem Brett beendet die Partie. Die detaillierten Regeln liegen am Turniertag aus.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/tandem/" rel="category tag">Tandem</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/05/bughouse-abend-bei-narva/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9871 
 <div class="post-9886 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9886">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/02/lichess-liga-r255/" rel="bookmark">Lichess Liga (R255)</a></h2>
 <div class="entry-meta">
@@ -369,30 +392,6 @@ Link zu Tabellen unter den Fotos.</em></p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/01/lichess-liga-r246/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9751 
-<div class="post-9706 post type-post status-publish format-standard hentry category-bmm category-dwz" id="post-9706">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/29/bmm-rueckblick/" rel="bookmark">BMM Rückblick</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/07/29/bmm-rueckblick/" rel="bookmark" title="13:07"><span class="entry-date">29. Juli 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nun wo alle Tabellen aktualisiert sind und die DWZ Auswertung da ist, hier noch ein kleiner BMM Rückblick:</p>
-<p><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-1-mannschaft/">1.Mannschaft</a><br/>
-<a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-2-mannschaft/">2.Mannschaft</a><br/>
-<a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-3-mannschaft/">3.Mannschaft</a><br/>
-<a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/">Chronik der BMM von NARVA insgesamt</a></p>
-<p>Insgesamt kommen wir übrigens auf <strong>16x kampflos Minus</strong> (9/3/4) und hatten 6x kampflos Plus (0/4/2).<br/>
-Wenn man jetzt noch die beiden ausgelassenen Runden (4x Erste/1x Dritte) einrechnet und den sonst gültigen Strafenkatalog anwendet, kommen wir auf eine Strafe von: <strong>370,- €</strong> (das sonst übliche verdoppeln der Beträge in den letzten beiden Runde lasse ich mal raus…)</p>
-<p>Bester Spieler über alle Mannschaften war <strong>Günter</strong>, er blieb ohne Niederlage und holte 8 Punkte aus 9 Runden, bei einer DWZ Leistung von 2120 macht er hier +36 auf 1882<br/>
-Ebenfalls gut unterwegs waren, <strong>Hans-Dieter</strong> +24, <strong>Magnus</strong> +32 und <strong>Manfred</strong> Heinrich +35! Neuzugang <strong>Hilmar</strong> kam auch auf starke 4 aus 5, bleibt aber noch ohne Zahl.<br/>
-In der 1.Mannschaft fiel <strong>Tomas</strong> noch auf, 100% Remisquote und dann in der Zweiten mit 3 aus 3 (davon einmal +).</p>
-<div class="wp-caption alignnone" id="attachment_9782" style="width: 561px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg"><img alt="" aria-describedby="caption-attachment-9782" class="size-full wp-image-9782" height="600" loading="lazy" sizes="(max-width: 551px) 100vw, 551px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022.jpg 551w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/07/dwz_bmm_2022-276x300.jpg 276w" width="551"/></a><p class="wp-caption-text" id="caption-attachment-9782">DWZ Auswertung – Update, Stand 12.08.</p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/07/29/bmm-rueckblick/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9706 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
