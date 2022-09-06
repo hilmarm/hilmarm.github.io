@@ -291,19 +291,19 @@ navs:
 </tr>
 <tr>
 <td>33.</td>
+<td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
+<td></td>
+<td>1261</td>
+<td>29</td>
+<td>1392</td>
+</tr>
+<tr>
+<td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
 <td>1258</td>
 <td>10</td>
 <td></td>
-</tr>
-<tr>
-<td>34.</td>
-<td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
-<td></td>
-<td>1255</td>
-<td>29</td>
-<td>1392</td>
 </tr>
 <tr>
 <td>35.</td>
