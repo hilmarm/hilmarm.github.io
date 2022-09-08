@@ -13,7 +13,7 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/01/training-mit-gm-michael-richter/" rel="bookmark" title="21:39"><span class="entry-date">1. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Nächsten Donnerstag (08.09.2022) ist <strong>GM Michael Richter</strong> bei uns zum Training!!</p>
+<p>Morgen Donnerstag (08.09.2022) ist <strong>GM Michael Richter</strong> bei uns zum Training!!</p>
 <p><strong>Thema: Planfindung und Variantenberechnung</strong></p>
 <p>Start ist um 18:30 Uhr.<br/>
 Gäste sind auch willkommen!</p>
