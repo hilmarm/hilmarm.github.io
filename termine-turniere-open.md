@@ -24,29 +24,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.schachclub-oranienburg.de/wordpress/2022/07/oranienburger-chess-open-2022/" rel="noopener" target="_blank">Oranienburger Chess Open 2022</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">03.09.-04.09.2022</td>
-<td style="width: 154px; height: 24px;">Torsten</td>
-</tr>
-<tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-blitzmeisterschaften.html" rel="noopener" target="_blank">Berliner Blitz-Einzel</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">03.09.2022</td>
-<td style="width: 154px; height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-blitzmeisterschaften.html" rel="noopener" target="_blank">Berliner Blitz-Mannschaft</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">04.09.2022</td>
-<td style="width: 154px; height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2022</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">ab 08.09.2022</td>
 <td style="width: 154px; height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-10-september-2022.html" rel="noopener" target="_blank">Schnellschachturnier in Karlshorst</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">10.09.2022</td>
-<td style="width: 154px; height: 24px;">Hans-Dieter, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="https://www.berlinerschachverband.de/entry/ausschreibung-pokalmeisterschaften-einzel-und-mannschaft.html" rel="noopener" target="_blank">Berliner Pokal-Mannschaftsmeisterschaft 2022</a></td>
@@ -67,6 +47,11 @@ parent_title: Termine
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>03.-09.10.2022</td>
 <td>Hans-Dieter, Ulrich</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://bsg-eckbauer.de/v2/eckbauer-open-2/" rel="noopener" target="_blank">Eckbauer Open 2022</a></td>
+<td>10.10.-21.11.2022</td>
+<td></td>
 </tr>
 </tbody>
 </table>

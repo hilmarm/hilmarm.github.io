@@ -71,7 +71,7 @@ navs:
 <td>P</td>
 <td>1971</td>
 <td>432</td>
-<td>2015</td>
+<td>1977</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -191,7 +191,7 @@ navs:
 <td></td>
 <td>1648</td>
 <td>54</td>
-<td>1662</td>
+<td>1644</td>
 </tr>
 <tr>
 <td>21.</td>

@@ -19,7 +19,7 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/Pokal-2022.pdf">Ausschreibung</a></p>
-<p>Bis jetzt (23.8.) angemeldet:</p>
+<p>Bis jetzt (12.9.) angemeldet:</p>
 <p><strong>Andreas</strong><br/>
 <strong>Hans-Dieter</strong><br/>
 <strong>Thomas M.?</strong><br/>
@@ -30,7 +30,8 @@ parent_title: Turniere
 <strong>Klaus</strong><br/>
 <strong>Hilmar</strong><br/>
 <strong>Torsten</strong><br/>
-<strong>Ekkehard</strong></p>
+<strong>Ekkehard</strong><br/>
+<strong>Gerhard</strong></p>
 <p>Abstimmung „Loser-Turnier“</p>
 <p>6x Ja<br/>
 3x Nein</p>
