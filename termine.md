@@ -174,7 +174,7 @@ navs:
 </tr>
 <tr>
 <th>27.10.2022</th>
-<td class="versammlung">Bughouse Abend</td>
+<td class="versammlung"><del datetime="2022-09-13T05:18:16+00:00">Bughouse Abend</del></td>
 <td>(Tandem)</td>
 </tr>
 </tbody>
