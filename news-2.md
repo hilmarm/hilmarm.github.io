@@ -45,6 +45,28 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9800 
+<div class="post-9917 post type-post status-publish format-standard hentry category-openberichte category-termine" id="post-9917">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/" rel="bookmark">Einladungs-Mannschaftsblitz bei NARVA</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/" rel="bookmark" title="11:28"><span class="entry-date">15. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nachdem unser für 2020 geplantes Einladungs-Mannschaftsblitz-Turnier zu unserem <strong>70. Geburtstag</strong>, Corona zum Opfer gefallen war, wollen wir dieses mit nun 72 Jahren nachholen!!<br/>
+<strong><span style="color: #ff0000;">Termin ist Samstag der 29.10.2022</span></strong></p>
+<p>Auch sind zuletzt die bekannten Blitzturniere in Fredersdorf, Himmelfahrt in Weißensee oder Brötchenblitz in Erftstadt* ausgefallen und dadurch viele Fragen nach solchen Events aufgekommen.</p>
+<p>Also laden wir eine Auswahl an befreundeten Berliner Schachvereinen zu uns ein (<strong>SC Kreuzberg, TSG Fredersdorf-Vogelsdorf, SG Weißensee, TSV Mariendorf, SC Rochade, Borussia Lichtenberg</strong>).<br/>
+Dazu unsere Freunde vom <strong>Schaakhuis Den Haag</strong>, vom <strong>Team Ex&amp;Hopp</strong>, <strong>passive NARVA Spieler</strong>, befreundete Einzelspieler (die uns z.B. wie „miflosch“ in der Quarantäne-Liga unterstützen) und natürlich auch den <strong>BSV Vorstand</strong> darf gerne eine 4er Mannschaftstellen.</p>
+<p>Die ersten Zusagen sind schon eingetroffen, diese stehen im Mitgliederbereich.</p>
+<p>NARVA selbst sollte natürlich auch mindestens eine Mannschaft stellen! Also Bitte schon jetzt bei mir melden. Auch sind Helfer, Gäste und Zuschauer aus dem Verein gerne gesehen!</p>
+<p>Hoffen wir auf gutes Wetter und keine Corona Einschränkungen.</p>
+<p><em>* = soll 2023 im September stattfinden!</em></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9917 
 <div class="post-9905 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9905">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/12/lichess-liga-r258/" rel="bookmark">Lichess Liga (R258)</a></h2>
 <div class="entry-meta">
@@ -346,34 +368,6 @@ Lukas – Torsten 1:0</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/05/lichess-liga-r247/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9768 
-<div class="post-9758 post type-post status-publish format-standard hentry category-intern" id="post-9758">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark">Mitgliederversammlung am 11.08.2022</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/" rel="bookmark" title="7:35"><span class="entry-date">3. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hallo Schachfreunde,</p>
-<p>Wie Ihr schon der Einladung per Mail entnehmen konntet, findet am <strong>11.08.2022</strong> um <strong>18:30 Uhr</strong> unsere <strong>Mitgliederversammlung</strong> statt! Hauptsächlich wird es dabei um die nächste BMM Saison gehen.</p>
-<p>Bitte denkt dazu alle an den Fragebogen (online im Mitgliederbereich und kam per Mail). Einige fehlen noch.</p>
-<p>Außerdem geht es um eine Satzungsänderung im Bezug auf den Beitritt von neuen Mitgliedern.</p>
-<p><strong>Tagesordnung:</strong></p>
-<p>– Kassenabschluss 2021<br/>
-– Ergebnis Kassenprüfung<br/>
-– Etat 2022<br/>
-– Saisonabschluss BMM 2021/22<br/>
-– Planungen BMM/BFL 2022/23<br/>
-– Interne Turniere/Terminplan<br/>
-– Sonstiges<br/>
-– Anträge:<br/>
-Antrag auf Satzungsänderung durch den Vorstand:<br/>
-● Der Spielleiter Jonatan Schenk beantragt, die vom Vorstand unterstützte, Satzungsänderung.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/03/mitgliederversammlung-am-11-08-2022/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9758 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

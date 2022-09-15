@@ -49,14 +49,14 @@ parent_title: Termine
 <td>Hans-Dieter, Ulrich</td>
 </tr>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;">Einladungs Mannschaftsblitz RuDi</td>
+<td nowrap="nowrap" style="width: 332px; height: 24px;"><strong>Einladungs Mannschaftsblitz RuDi</strong></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">29.09.2022</td>
 <td style="width: 154px; height: 24px;">Siehe Mitgliederbereich</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://bsg-eckbauer.de/v2/eckbauer-open-2/" rel="noopener" target="_blank">Eckbauer Open 2022</a></td>
 <td>10.10.-21.11.2022</td>
-<td></td>
+<td>Torsten</td>
 </tr>
 </tbody>
 </table>
