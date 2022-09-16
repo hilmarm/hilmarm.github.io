@@ -37,8 +37,8 @@ navs:
 <td>1.</td>
 <td><a href="http://www.schachbund.de/spieler/10013642.html" target="_blank"> Bram Van Den Berg</a></td>
 <td></td>
-<td>2200</td>
-<td>56</td>
+<td>2198</td>
+<td>57</td>
 <td>2184</td>
 </tr>
 <tr>
@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1971</td>
-<td>432</td>
+<td>1964</td>
+<td>433</td>
 <td>1977</td>
 </tr>
 <tr>

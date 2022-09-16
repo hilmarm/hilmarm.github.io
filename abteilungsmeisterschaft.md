@@ -262,7 +262,7 @@ parent_title: Turniere
 <td>3.</td>
 <td>Maetzing,Hans-Di</td>
 <td>1758</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -273,7 +273,7 @@ parent_title: Turniere
 <td>13.</td>
 <td>Magnusson,Hilmar</td>
 <td></td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>3</td>
@@ -295,7 +295,7 @@ parent_title: Turniere
 <td>4.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>5</td>
