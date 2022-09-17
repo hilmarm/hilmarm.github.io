@@ -45,6 +45,28 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9800 
+<div class="post-9923 post type-post status-publish format-standard hentry category-skat" id="post-9923">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/" rel="bookmark">Skat am Donnerstag 22.09.!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/" rel="bookmark" title="21:13"><span class="entry-date">16. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag findet unser Skat 2022 statt!<br/>
+Nun auch wieder in der <strong>Kadiner Str.</strong></p>
+<p>Das <strong>Startgeld</strong> beträgt für Mitglieder 2 €, für Gäste 3 €.</p>
+<p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
+danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
+<p>Wir spielen nach der internationalen Skatordnung: <a href="https://www.narva-schach.de/wordpress/turniere/blitz/" rel="noopener" target="_blank">Link</a></p>
+<p>Gut Blatt !</p>
+<p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone size-large wp-image-5889" height="526" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9923 
 <div class="post-9917 post type-post status-publish format-standard hentry category-openberichte category-termine" id="post-9917">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/" rel="bookmark">Einladungs-Mannschaftsblitz bei NARVA</a></h2>
 <div class="entry-meta">
@@ -64,7 +86,7 @@ Dazu unsere Freunde vom <strong>Schaakhuis Den Haag</strong>, vom <strong>Team E
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9917 
 <div class="post-9905 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9905">
@@ -354,20 +376,6 @@ Lukas – Torsten 1:0</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/08/lichess-liga-r248/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9770 
-<div class="post-9768 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9768">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/05/lichess-liga-r247/" rel="bookmark">Lichess Liga (R247)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/05/lichess-liga-r247/" rel="bookmark" title="14:49"><span class="entry-date">5. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9767" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga10c_04082022.jpg"><img alt="" aria-describedby="caption-attachment-9767" class="size-large wp-image-9767" height="324" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga10c_04082022-1024x518.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga10c_04082022-1024x518.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga10c_04082022-300x152.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga10c_04082022-768x389.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga10c_04082022.jpg 1116w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9767"><strong>04.08.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/05/lichess-liga-r247/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9768 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
