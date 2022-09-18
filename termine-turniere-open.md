@@ -36,7 +36,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="http://www.ffoschach.de/240922.pdf" rel="noopener" target="_blank">Spreewaldpokal in Duben</a></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">24.09.2022</td>
-<td style="width: 154px; height: 24px;">2 Mannschaften</td>
+<td style="width: 154px; height: 24px;">1 Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://millhillchess.blogspot.com/" rel="noopener" target="_blank">Mill Hill FIDE Congress</a></td>

@@ -21,6 +21,71 @@ parent_title: Turniere
 <div class="aligncenter">
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/03/Blitzschach-2022.pdf">Ausschreibung</a></p>
 <h2 class="heading2"><a href="http://www.narva-schach.de/dateien/blitz2022.html" rel="noopener noreferrer" target="_blank">Gesamtwertung 2022</a></h2>
+<p>Monatsblitz August – 25.08.2022</p>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<td colspan="9">Rangliste: Stand nach der 3. Runde im 2. Durchgang</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Hintze,Peter</td>
+<td>1931</td>
+<td>**</td>
+<td>11</td>
+<td>11</td>
+<td>11</td>
+<td>6.0</td>
+<td>12.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Magnusson,Hilmar</td>
+<td></td>
+<td>00</td>
+<td>**</td>
+<td>11</td>
+<td>11</td>
+<td>4.0</td>
+<td>4.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td>Mothes,Thomas</td>
+<td>1550</td>
+<td>00</td>
+<td>00</td>
+<td>**</td>
+<td>11</td>
+<td>2.0</td>
+<td>0.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td>Salgueiro,Felix</td>
+<td></td>
+<td>00</td>
+<td>00</td>
+<td>00</td>
+<td>**</td>
+<td>0.0</td>
+<td>0.00</td>
+</tr>
+</tbody>
+</table>
 <p>Monatsblitz Juli – 28.07.2022</p>
 <table class="clean swiss footable">
 <thead>
