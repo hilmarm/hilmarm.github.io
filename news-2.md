@@ -30,6 +30,30 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9923 
+<div class="post-9941 post type-post status-publish format-standard hentry category-bmm" id="post-9941">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/" rel="bookmark">BMM Runde 1</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/" rel="bookmark" title="10:04"><span class="entry-date">19. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Auf geht´s in die neue Saison!</p>
+<p><strong>NARVA 1</strong> mit Heimspiel gegen <strong>SV Königsjäger Süd-West 3</strong>. Wir gehen schnell 3:0 in Führung, <strong>Andreas</strong> gewinnt kampflos, dann gewinnen <strong>Tomas</strong> und <strong>Hilmar</strong>.<br/>
+<strong>Meine</strong> Niederlage führt dann zum „Gegentreffer“, aber kurz danach stellt <strong>Jonatan</strong> (Partie im Mitgliederbereich) auf 4:1.<br/>
+Leider verlieren dann <strong>Magnus</strong>, <strong>Peter</strong> und <strong>Alex</strong>. So bleibt es beim Punkt.<br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1.jpg"><img alt="" class="alignnone size-full wp-image-9942" height="186" loading="lazy" sizes="(max-width: 759px) 100vw, 759px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1.jpg 759w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1-300x74.jpg 300w" width="759"/></a></p>
+<p>Die <strong>Dritte</strong> musste auswärts gegen <strong>SVG Läufer Reinickendorf 3</strong> ran.<br/>
+Nur <strong>Felix</strong> kann seine allererste Langpartie am Brett gewinnen – Glückwunsch! Der Rest geht leer aus.<br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3.jpg"><img alt="" class="alignnone size-full wp-image-9943" height="149" loading="lazy" sizes="(max-width: 773px) 100vw, 773px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3.jpg 773w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3-300x58.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3-768x148.jpg 768w" width="773"/></a></p>
+<p>Die weiteren Termin sind <a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">hier</a>.</p>
+<p>Die Links oben im Menü bei Mannschaften führen auch direkt zu den jeweiligen Staffel-Skript.</p>
+<p>Die BMM Hefte gibt es nun auch wieder, alle sind <a href="https://www.berlinerschachverband.de/entry/bmm-mannschaftshefte-und-nachmeldungen-erste-runde.html" rel="noopener" target="_blank">hier verlinkt</a>. Ich werde auch zeitnah welche drucken.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9941 
 <div class="post-9928 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9928">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/17/abteilungsmeister-mit-100/" rel="bookmark">Abteilungsmeister mit 100%</a></h2>
 <div class="entry-meta">
@@ -73,7 +97,7 @@ Dazu unsere Freunde vom <strong>Schaakhuis Den Haag</strong>, vom <strong>Team E
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/#comments">Ein Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9917 
 <div class="post-9905 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9905">
@@ -372,20 +396,6 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9789 
-<div class="post-9803 post type-post status-publish format-standard hentry category-online" id="post-9803">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/12/lichess-liga-r249/" rel="bookmark">Lichess Liga (R249)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/12/lichess-liga-r249/" rel="bookmark" title="11:10"><span class="entry-date">12. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9804" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga11c_11082022.jpg"><img alt="" aria-describedby="caption-attachment-9804" class="size-large wp-image-9804" height="313" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga11c_11082022-1024x500.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga11c_11082022-1024x500.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga11c_11082022-300x146.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga11c_11082022-768x375.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga11c_11082022.jpg 1155w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9804"><strong>11.08.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/12/lichess-liga-r249/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9803 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

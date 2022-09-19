@@ -4,9 +4,9 @@ layout: default
 navs:
   DSOL Liga 5c: https://dsol.schachbund.de/tabelle.php?s=2022&l=5c
   Spielberichte BMM: spielberichte-bmm
-  1. Mannschaft: http://www.mattzug.de/bmm/skript/2122/Stand/Stadtliga+B/runde=9/menu=knoeppe/
-  2. Mannschaft: http://www.mattzug.de/bmm/skript/2122/Stand/Klasse+2.2/runde=9/menu=knoeppe/
-  3. Mannschaft: http://www.mattzug.de/bmm/skript/2122/Stand/Klasse+3.4/runde=9/menu=knoeppe/
+  1. Mannschaft: http://www.mattzug.de/bmm/skript/2223/Stand/Klasse+1.2/runde=9/menu=knoeppe/
+  2. Mannschaft: http://www.mattzug.de/bmm/skript/2223/Stand/Klasse+2.4/runde=9/menu=knoeppe/
+  3. Mannschaft: http://www.mattzug.de/bmm/skript/2223/Stand/Klasse+3.2/runde=9/menu=knoeppe/
   BFL 1.Mannschaft: http://www.mattzug.de/bmm/skript/1920/Stand/Feierabendliga+B/runde=9/menu=knoeppe/
   BFL 2.Mannschaft: http://www.mattzug.de/bmm/skript/1920/Stand/Feierabendliga+C/runde=9/menu=knoeppe/
   BPMM: bpmm
