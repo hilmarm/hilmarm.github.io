@@ -30,6 +30,24 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9923 
+<div class="post-9950 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9950">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/" rel="bookmark">Pokal: Meldeschluss am Donnerstag</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/" rel="bookmark" title="18:10"><span class="entry-date">20. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Bitte denkt an den Meldeschluss am Donnerstag, wenn ihr am Pokal teilnehmen wollt.<br/>
+Aktuell gibt es 12 Anmeldungen, es können also noch bis zu 4 weitere Spieler teilnehmen.</p>
+<p>Bezüglich der Runden, für die noch keine Termine festgelegt wurden:<br/>
+Das Halbfinale (Runde 3) wird voraussichtlich am 3. oder 10. November gespielt.<br/>
+Das Finale und Spiel um Platz 3 (Runde 4) werden voraussichtlich am 17. November oder am 1. Dezember gespielt.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9950 
 <div class="post-9941 post type-post status-publish format-standard hentry category-bmm" id="post-9941">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/" rel="bookmark">BMM Runde 1</a></h2>
 <div class="entry-meta">
@@ -374,28 +392,6 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9806 
-<div class="post-9789 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9789">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/" rel="bookmark">Runde 250 Quarantäne-Liga!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/" rel="bookmark" title="15:46"><span class="entry-date">13. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Sonntag, 14.08., um 20:00 Uhr bestreiten wir unsere 250. Quarantäne-Liga Runde!!!</p>
-<p>Am 24.03.2020 hat das online gezocke angefangen und trotz vielen Auf und Ab sind wir noch dabei.</p>
-<p>Einige andere Vereine haben das zweimal wöchentlich stattfindende online Turnier inzwischen verlassen oder haben Pausen eingelegt. Wir halten durch, auch dank fleißiger Unterstützung von extern. (Grüße an miflosch!!)</p>
-<p>Zum Jubiläum hier ein Auszug aus meiner Statistik (Stand nach der Runde am Donnerstag (249)):</p>
-<div class="wp-caption alignnone" id="attachment_9784" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL.jpg"><img alt="" aria-describedby="caption-attachment-9784" class="wp-image-9784 size-large" height="324" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-1024x518.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-1024x518.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-300x152.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL-768x388.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL.jpg 1098w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9784">unser Ligaverlauf</p></div>
-<div class="wp-caption alignnone" id="attachment_9786" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien.jpg"><img alt="" aria-describedby="caption-attachment-9786" class="wp-image-9786 size-medium" height="281" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien-300x281.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien-300x281.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Partien.jpg 597w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-9786">Partien</p></div>
-<div class="wp-caption alignnone" id="attachment_9787" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte.jpg"><img alt="" aria-describedby="caption-attachment-9787" class="wp-image-9787 size-medium" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Punkte.jpg 604w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-9787">Punkte</p></div>
-<div class="wp-caption alignnone" id="attachment_9788" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen.jpg"><img alt="" aria-describedby="caption-attachment-9788" class="wp-image-9788 size-medium" height="273" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen-300x273.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen-300x273.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/QL_Teilnahmen.jpg 602w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-9788">Teilnahmen</p></div>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL_Schnitt.jpg"><img alt="" class="alignnone size-full wp-image-9785" height="282" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/250QL_Schnitt.jpg" width="298"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9789 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
