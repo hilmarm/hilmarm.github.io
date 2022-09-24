@@ -8,35 +8,42 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-9923 post type-post status-publish format-standard sticky hentry category-skat" id="post-9923">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/" rel="bookmark">Skat am Donnerstag 22.09.!</a></h2>
+<div class="post-9966 post type-post status-publish format-standard hentry category-openberichte" id="post-9966">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/23/16-tegel-blitz-cup/" rel="bookmark">18. Tegel Blitz-Cup</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/" rel="bookmark" title="21:13"><span class="entry-date">16. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/23/16-tegel-blitz-cup/" rel="bookmark" title="20:06"><span class="entry-date">23. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Am Donnerstag findet unser Skat 2022 statt!<br/>
-Nun auch wieder in der <strong>Kadiner Str.</strong></p>
-<p>Das <strong>Startgeld</strong> beträgt für Mitglieder 2 €, für Gäste 3 €.</p>
-<p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
-danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
-<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2020/09/ISkO-2018-3.6.pdf" rel="noopener" target="_blank">Link</a></p>
-<p>Gut Blatt !</p>
-<p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" height="247" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
+<p><strong>Håvard</strong> (Borussia Lichtenberg), <strong>Batu</strong> und <strong>Hilmar</strong> waren alle gestern beim <strong>18. Tegeler Blitz-Cup</strong>.<br/>
+<a href="https://www.berlinerschachverband.de/entry/18-tegeler-blitz-cup-mit-live-ergebnissen.html" rel="noopener" target="_blank">BSV Seite </a></p>
+<p>Gewonnen hat <strong>GM Robert Rabiega</strong> mit einem vollen Punkt Abstand zu Håvard, der den zweiten Platz belegt hat. Håvard hatte gegen Rabiega auch seinen einzigen Verlust.</p>
+<p>Batu hat mit 7 Punkten den 13en Plartz bekommen, wo zu erkennen ist dass das Turner sehr stark besetzt war.</p>
+<p>Hilmar hat mit 5.5 Punkten und einen 35en Platz eine Perfomance von 1805 Elo. Da hat er gegen einen CM (2058 Elo) gewonnen und gegen einen FM (2099 Elo) Remis gehalten.</p>
+<p>Das Remis wurde durch ein Patt ereicht, und die Stellung sah etwa so aus:<br/>
+<a href="https://lichess.org/study/l3BuBBqj/SBcygzt5" rel="noopener" target="_blank">https://lichess.org/study/l3BuBBqj/SBcygzt5</a></p>
+<p>Hilmar</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-scaled.jpg"><img alt="" class="alignnone wp-image-9963 size-medium" height="300" loading="lazy" sizes="(max-width: 169px) 100vw, 169px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-169x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-169x300.jpg 169w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-576x1024.jpg 576w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-768x1365.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-864x1536.jpg 864w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-1152x2048.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/20220922_220829-scaled.jpg 1440w" width="169"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#comments">3 Kommentare</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/23/16-tegel-blitz-cup/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-9923 
+</div> #post-9966 
 <div class="post-9950 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9950">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/" rel="bookmark">Pokal: Meldeschluss am Donnerstag</a></h2>
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/" rel="bookmark">Pokal: Auslosung 1.Runde</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/" rel="bookmark" title="18:10"><span class="entry-date">20. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Bitte denkt an den Meldeschluss am Donnerstag, wenn ihr am Pokal teilnehmen wollt.<br/>
-Aktuell gibt es 12 Anmeldungen, es können also noch bis zu 4 weitere Spieler teilnehmen.</p>
+<p><strong>Auslosung Runde 1 (Achtelfinale):</strong></p>
+<p>Andreas – Peter<br/>
+Ulrich – Gerhard<br/>
+Torsten – Hilmar<br/>
+Jay – Ekkehard<br/>
+Jonatan – Hans-Dieter<br/>
+Tomas – Klaus<br/>
+Michael – Lukas<br/>
+Gunar – Manfred</p>
 <p>Bezüglich der Runden, für die noch keine Termine festgelegt wurden:<br/>
 Das Halbfinale (Runde 3) wird voraussichtlich am 3. oder 10. November gespielt.<br/>
 Das Finale und Spiel um Platz 3 (Runde 4) werden voraussichtlich am 17. November oder am 1. Dezember gespielt.</p>
@@ -96,6 +103,28 @@ Nur <strong>Felix</strong> kann seine allererste Langpartie am Brett gewinnen �
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/17/abteilungsmeister-mit-100/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9928 
+<div class="post-9923 post type-post status-publish format-standard hentry category-skat" id="post-9923">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/" rel="bookmark">Skat am Donnerstag 22.09.!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/" rel="bookmark" title="21:13"><span class="entry-date">16. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag findet unser Skat 2022 statt!<br/>
+Nun auch wieder in der <strong>Kadiner Str.</strong></p>
+<p>Das <strong>Startgeld</strong> beträgt für Mitglieder 2 €, für Gäste 3 €.</p>
+<p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
+danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
+<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2020/09/ISkO-2018-3.6.pdf" rel="noopener" target="_blank">Link</a></p>
+<p>Gut Blatt !</p>
+<p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" height="247" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#comments">3 Kommentare</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9923 
 <div class="post-9917 post type-post status-publish format-standard hentry category-openberichte category-termine" id="post-9917">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/15/einladungs-mannschaftsblitz-bei-narva/" rel="bookmark">Einladungs-Mannschaftsblitz bei NARVA</a></h2>
 <div class="entry-meta">
@@ -378,20 +407,6 @@ z.B. "Die ausscheidenden Spieler setzen den Wettbewerb in einem Turnier nach Sch
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/vorankuendigung-pokal-2022/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9800 
-<div class="post-9806 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9806">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/" rel="bookmark">Lichess Liga (R250)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/" rel="bookmark" title="11:12"><span class="entry-date">15. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9807" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga12c_14082022.jpg"><img alt="" aria-describedby="caption-attachment-9807" class="size-large wp-image-9807" height="314" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga12c_14082022-1024x502.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga12c_14082022-1024x502.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga12c_14082022-300x147.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga12c_14082022-768x377.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/08/liga12c_14082022.jpg 1150w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9807"><strong>14.08.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9806 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
