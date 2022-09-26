@@ -37,8 +37,8 @@ navs:
 <td>1.</td>
 <td><a href="http://www.schachbund.de/spieler/10013642.html" target="_blank"> Bram Van Den Berg</a></td>
 <td></td>
-<td>2198</td>
-<td>57</td>
+<td>2183</td>
+<td>58</td>
 <td>2184</td>
 </tr>
 <tr>
@@ -77,25 +77,25 @@ navs:
 <td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
-<td>1962</td>
-<td>57</td>
+<td>1963</td>
+<td>58</td>
 <td>1991</td>
 </tr>
 <tr>
 <td>7.</td>
+<td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
+<td></td>
+<td>1957</td>
+<td>12</td>
+<td>1963</td>
+</tr>
+<tr>
+<td>8.</td>
 <td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
 <td></td>
 <td>1955</td>
 <td>126</td>
 <td>2084</td>
-</tr>
-<tr>
-<td>8.</td>
-<td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
-<td></td>
-<td>1936</td>
-<td>11</td>
-<td>1963</td>
 </tr>
 <tr>
 <td>9.</td>
@@ -115,14 +115,6 @@ navs:
 </tr>
 <tr>
 <td>11.</td>
-<td><a href="http://www.schachbund.de/spieler/10608443.html" target="_blank"> Derk Dekker</a></td>
-<td></td>
-<td>1886</td>
-<td>7</td>
-<td></td>
-</tr>
-<tr>
-<td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
 <td></td>
 <td>1882</td>
@@ -130,12 +122,20 @@ navs:
 <td>1914</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
 <td>1870</td>
 <td>63</td>
 <td>1891</td>
+</tr>
+<tr>
+<td>13.</td>
+<td><a href="http://www.schachbund.de/spieler/10608443.html" target="_blank"> Derk Dekker</a></td>
+<td></td>
+<td>1870</td>
+<td>8</td>
+<td></td>
 </tr>
 <tr>
 <td>14.</td>

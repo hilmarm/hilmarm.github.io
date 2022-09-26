@@ -122,7 +122,7 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#comments">3 Kommentare</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/16/skat-am-donnerstag-22-09/#comments">4 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9923 
 <div class="post-9917 post type-post status-publish format-standard hentry category-openberichte category-termine" id="post-9917">
