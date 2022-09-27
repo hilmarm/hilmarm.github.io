@@ -199,12 +199,75 @@ parent_title: Chronik
 <td align="left">2021</td>
 <td align="left">Peter Hintze</td>
 </tr>
+<tr>
+<td align="left">2022</td>
+<td align="left">Jonatan Schenk</td>
+</tr>
 </tbody>
 </table>
 <h2 align="center"><span style="text-decoration: underline;"><b>!! Grand Ouvert !! </b>von Torsten Behrendt am 17.01.1991</span></h2>
 <p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" rel="noopener" target="_blank"><img alt="grandouvert" class="aligncenter wp-image-543 size-full" height="351" loading="lazy" sizes="(max-width: 255px) 100vw, 255px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg 255w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert-218x300.jpg 218w" width="255"/></a></p>
 <h1 align="center"><strong><u>Einzelergebnisse</u></strong></h1>
 </div>
+<hr/>
+<h3>2022</h3>
+<h4>22. September 2022</h4>
+<table>
+<thead>
+<tr>
+<th>Platz</th>
+<th>Name</th>
+<th>Punkte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Jonatan Schenk</td>
+<td>1661</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Klaus Brinckmann</td>
+<td>1060</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Dr.Hans-Dieter Maetzing</td>
+<td>1023</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Eberhard (G)</td>
+<td>905</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Peter Hintze</td>
+<td>753</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Tomas Segerberg</td>
+<td>624</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Lars (G)</td>
+<td>401</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Frieder Arms</td>
+<td>284</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Alexander Kreisel</td>
+<td>-208</td>
+</tr>
+</tbody>
+</table>
 <hr/>
 <h3>2021</h3>
 <h4>21. Oktober 2021</h4>
