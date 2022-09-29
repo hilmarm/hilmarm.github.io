@@ -24,17 +24,7 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><a href="http://www.ffoschach.de/240922.pdf" rel="noopener" target="_blank">Spreewaldpokal in Duben</a></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">24.09.2022</td>
-<td style="width: 154px; height: 24px;">1 Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://millhillchess.blogspot.com/" rel="noopener" target="_blank">Mill Hill FIDE Congress</a></td>
-<td>24.-25.09.2022</td>
-<td>Jonatan</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/ausschreibung-26-ueberbezirkliches-senioren-schnellschachturnier.html" rel="noopener" target="_blank">26. Überbezirkliches Senioren Schnellschachturnier</a></td>
+<td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-19-oktober-2022-14-00-uhr.html" rel="noopener" target="_blank">26. Überbezirkliches Senioren Schnellschachturnier</a></td>
 <td>28.09.2022</td>
 <td></td>
 </tr>
