@@ -317,7 +317,7 @@ parent_title: Turniere
 <td>9.</td>
 <td>Eichstädt,Torste</td>
 <td>1315</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>7</td>

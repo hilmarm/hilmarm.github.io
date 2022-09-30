@@ -12,7 +12,7 @@ navs:
 <div class="post-174 page type-page status-publish hentry" id="post-174">
 <h1 class="entry-title">Termine</h1>
 <div class="entry-content">
-<style><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; } --></style>
+<style><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; } --></style>
 <table class="clean calendar">
 <thead>
 <tr>
@@ -154,28 +154,63 @@ navs:
 </tr>
 <tr>
 <th>29.09.2022</th>
-<td class="blitz">( Blitzschach )</td>
+<td class="blitz">Blitzschach</td>
 <td>ohne Wertung</td>
 </tr>
 <tr>
 <th>06.10.2022</th>
-<td></td>
+<td class="pokal">Pokal 1.Runde</td>
 <td></td>
 </tr>
 <tr>
 <th>13.10.2022</th>
-<td></td>
+<td>BFL/Training</td>
 <td></td>
 </tr>
 <tr>
 <th>20.10.2022</th>
-<td></td>
+<td class="pokal">Pokal 2.Runde</td>
 <td></td>
 </tr>
 <tr>
 <th>27.10.2022</th>
-<td class="versammlung"><del datetime="2022-09-13T05:18:16+00:00">Bughouse Abend</del></td>
-<td>(Tandem)</td>
+<td class="training">Training</td>
+<td></td>
+</tr>
+<tr>
+<th>03.11.2022</th>
+<td class="pokal">Pokal 3.Runde</td>
+<td></td>
+</tr>
+<tr>
+<th>10.11.2022</th>
+<td class="training">Training</td>
+<td></td>
+</tr>
+<tr>
+<th>17.11.2022</th>
+<td class="pokal">Pokal Finale</td>
+<td></td>
+</tr>
+<tr>
+<th>24.11.2022</th>
+<td>BFL/Training</td>
+<td></td>
+</tr>
+<tr>
+<th>01.12.2022</th>
+<td class="versammlung">Bughouse</td>
+<td>Tandem</td>
+</tr>
+<tr>
+<th>08.12.2022</th>
+<td>BFL/Training</td>
+<td></td>
+</tr>
+<tr>
+<th>15.12.2022</th>
+<td class="versammlung">Weihnachtsfeier</td>
+<td></td>
 </tr>
 </tbody>
 </table>

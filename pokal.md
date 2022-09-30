@@ -24,9 +24,9 @@ parent_title: Turniere
 Ulrich – Gerhard<br/>
 Torsten – Hilmar<br/>
 Jay – Ekkehard<br/>
-Jonatan – Hans-Dieter<br/>
+Jonatan – Hans-Dieter 1:0<br/>
 Tomas – Klaus<br/>
-Michael – Lukas/Alexander<br/>
+Michael – Lukas 1:0<br/>
 Gunar – Manfred</p>
 </div><!-- .entry-content -->
 </div> #post-110 

@@ -24,11 +24,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-19-oktober-2022-14-00-uhr.html" rel="noopener" target="_blank">26. Überbezirkliches Senioren Schnellschachturnier</a></td>
-<td>28.09.2022</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>03.-09.10.2022</td>
 <td>Hans-Dieter, Ulrich</td>
@@ -42,6 +37,11 @@ parent_title: Termine
 <td><a href="https://bsg-eckbauer.de/v2/eckbauer-open-2/" rel="noopener" target="_blank">Eckbauer Open 2022</a></td>
 <td>10.10.-21.11.2022</td>
 <td>Torsten</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-19-oktober-2022-14-00-uhr.html" rel="noopener" target="_blank">26. Überbezirkliches Senioren Schnellschachturnier</a></td>
+<td>19.10.2022</td>
+<td>Peter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Hamburg</a></td>
