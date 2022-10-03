@@ -16,6 +16,34 @@ parent_title: Impressum
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10016 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-10016">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/02/zweimal-jonatan-dieter/" rel="bookmark">Geschützt: Zweimal Jonatan – Dieter</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/02/zweimal-jonatan-dieter/" rel="bookmark" title="22:18"><span class="entry-date">2. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-10016 
+<div class="post-10012 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-10012">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/02/mill-hill-fide-congress-september-2022/" rel="bookmark">Geschützt: Mill Hill FIDE Congress September 2022</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/02/mill-hill-fide-congress-september-2022/" rel="bookmark" title="22:13"><span class="entry-date">2. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-10012 
 <div class="post-9952 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-9952">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/21/bmm-2021-22-runde-2/" rel="bookmark">Geschützt: BMM 2021/22 Runde 2</a></h2>
 <div class="entry-meta">
@@ -268,34 +296,6 @@ parent_title: Impressum
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-6009 
-<div class="post-5954 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-5954">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2019/05/24/partien-abteilungsmeisterschaft-runde-3/" rel="bookmark">Geschützt: Partien Abteilungsmeisterschaft Runde 3</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2019/05/24/partien-abteilungsmeisterschaft-runde-3/" rel="bookmark" title="19:19"><span class="entry-date">24. Mai 2019</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-5954 
-<div class="post-5870 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-5870">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2019/04/28/partien-oqt-2019/" rel="bookmark">Geschützt: Partien OQT 2019</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2019/04/28/partien-oqt-2019/" rel="bookmark" title="18:39"><span class="entry-date">28. April 2019</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-5870 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
