@@ -12,7 +12,7 @@ navs:
 <div class="post-174 page type-page status-publish hentry" id="post-174">
 <h1 class="entry-title">Termine</h1>
 <div class="entry-content">
-<style><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; } --></style>
+<style><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; }  #content table.clean.calendar tbody tr td.bfl{ background:#f29b9b; }  #content table.clean.calendar tbody tr td.pokal{ background:#f2f29b; }  --></style>
 <table class="clean calendar">
 <thead>
 <tr>
@@ -164,7 +164,7 @@ navs:
 </tr>
 <tr>
 <th>13.10.2022</th>
-<td>BFL/Training</td>
+<td class="bfl">BFL</td>
 <td></td>
 </tr>
 <tr>
@@ -174,27 +174,27 @@ navs:
 </tr>
 <tr>
 <th>27.10.2022</th>
-<td class="training">Training</td>
+<td class="training">Training?</td>
 <td></td>
 </tr>
 <tr>
 <th>03.11.2022</th>
-<td class="pokal">Pokal 3.Runde</td>
+<td class="training">Training?</td>
 <td></td>
 </tr>
 <tr>
 <th>10.11.2022</th>
-<td class="training">Training</td>
+<td class="pokal">Pokal Halbfinale?</td>
 <td></td>
 </tr>
 <tr>
 <th>17.11.2022</th>
-<td class="pokal">Pokal Finale</td>
-<td></td>
+<td class="training">Training?</td>
+<td>BFL Auswärtsspiel</td>
 </tr>
 <tr>
 <th>24.11.2022</th>
-<td>BFL/Training</td>
+<td class="pokal">Pokalfinale?</td>
 <td></td>
 </tr>
 <tr>
@@ -204,7 +204,7 @@ navs:
 </tr>
 <tr>
 <th>08.12.2022</th>
-<td>BFL/Training</td>
+<td class="bfl">BFL</td>
 <td></td>
 </tr>
 <tr>
