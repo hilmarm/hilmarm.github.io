@@ -8,6 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10056 post type-post status-publish format-standard hentry category-allgemein category-interne-turniere" id="post-10056">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/07/pokalauslosung-und-terminplan/" rel="bookmark">Pokalauslosung und Terminplan</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/07/pokalauslosung-und-terminplan/" rel="bookmark" title="21:11"><span class="entry-date">7. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern wurden fast alle Partien der ersten Pokalrunde gespielt. Die zweite Runde habe ich anschließend ausgelost, die Paarungen sind auf der <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Turnierseite</a> zu finden.</p>
+<p>Es fehlen noch der Blitzentscheid zwischen Gunar und Manfred sowie die Partie zwischen Ulrich (der diese Woche in Wernigerode beim <a href="https://www.deutschlandcup.org/">Deutschland-Cup</a> spielt und – ebenso wie Hans-Dieter – nach 5 Runden noch ungeschlagen ist!) und Gerhard.</p>
+<p>Außerdem gibt es inzwischen die Auslosung zur BFL. Der <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a> wurde damit auch aktualisiert. Da wir in diesem Jahr zwei Heimspiele sowie ein Auswärtsspiel an einem Donnerstag haben ist leider nicht mehr genügend Zeit für die geplante Trainingsserie mit Spielpraxis. Immerhin soll es aber mindestens ein, vermutlich zwei Trainingsabende zum gewünschten Thema Endspiele geben. Auch das Handicapturnier – ein Vorschlag, der ja auf der Mitgliederversammlung auch einige Zustimmung fand – ist noch nicht vom Tisch.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/07/pokalauslosung-und-terminplan/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10056 
 <div class="post-10038 post type-post status-publish format-standard hentry category-offene-turniere" id="post-10038">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/04/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark">Vorankündigung: DWZ-Turnier am 30.10.</a></h2>
 <div class="entry-meta">
@@ -507,20 +523,6 @@ Dazu unsere Freunde vom <strong>Schaakhuis Den Haag</strong>, vom <strong>Team E
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/12/lichess-liga-r258/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9905 
-<div class="post-9903 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9903">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/09/lichess-liga-r257/" rel="bookmark">Lichess Liga (R257)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/09/lichess-liga-r257/" rel="bookmark" title="8:41"><span class="entry-date">9. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9899" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga10c_08092022.jpg"><img alt="" aria-describedby="caption-attachment-9899" class="size-large wp-image-9899" height="343" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga10c_08092022-1024x549.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga10c_08092022-1024x549.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga10c_08092022-300x161.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga10c_08092022-768x412.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga10c_08092022.jpg 1144w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9899"><strong>08.09.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/09/lichess-liga-r257/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9903 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
