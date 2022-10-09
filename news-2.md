@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10038 post type-post status-publish format-standard sticky hentry category-offene-turniere" id="post-10038">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark">Kleeblatt-Turnier am 30.10.</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark" title="18:32"><span class="entry-date">8. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am 30. Oktober (einem Sonntag) wird NARVA das „Kleeblatt-Turnier“, ein Rundenturnier in 4er-Gruppen, veranstalten.</strong> Es werden Turnierpartien mit einer Bedenkzeit von 60+30 gespielt. Die Ergebnisse werden zur DWZ-Auswertung eingereicht.</p>
+<p>Die Gruppeneinteilung erfolgt, wie von vergleichbaren Turnieren (z.B. in Briesen, Ludwigsfelde, Müncheberg) bekannt, im Wesentlichen nach DWZ. Man spielt also von Anfang an gegen ähnlich starke Gegner, was das Turnier für Spieler aller Spielstärken interessant machen sollte. Es wird ein kleines Startgeld erhoben, Sachpreise für alle Teilnehmer sind vorgesehen.</p>
+<p>Ursprünglich wollten wir ein solches Turnier bereits 2020 anlässlich des 70jährigen Jubiläums unserer Schachabteilung austragen, was dann ja aus bekannten Gründen nicht möglich war. Nun werden wir es in drei Wochen nachholen. Die Zusage für die Räume haben wir inzwischen – wir spielen im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin.</p>
+<p>Eine <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier/">Turnierseite</a> habe ich eingerichtet, dort findet ihr auch die Ausschreibung und später die Teilnehmerliste und die Ergebnisse.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10038 
 <div class="post-10056 post type-post status-publish format-standard hentry category-allgemein category-interne-turniere" id="post-10056">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/07/pokalauslosung-und-terminplan/" rel="bookmark">Pokalauslosung und Terminplan</a></h2>
 <div class="entry-meta">
@@ -24,24 +41,6 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/07/pokalauslosung-und-terminplan/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10056 
-<div class="post-10038 post type-post status-publish format-standard hentry category-offene-turniere" id="post-10038">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/04/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark">Vorankündigung: DWZ-Turnier am 30.10.</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/04/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark" title="13:23"><span class="entry-date">4. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hier schon einmal als Vorankündigung, damit ihr euch den Termin freihalten könnt:</p>
-<p><strong>Am 30. Oktober (einem Sonntag) wird NARVA ein Rundenturnier in 4er-Gruppen veranstalten.</strong> Es werden Turnierpartien mit einer Bedenkzeit von 60+30 gespielt. Die Ergebnisse werden zur DWZ-Auswertung eingereicht.</p>
-<p>Die Gruppeneinteilung erfolgt, wie von vergleichbaren Turnieren (z.B. in Briesen, Ludwigsfelde, Müncheberg) bekannt, im Wesentlichen nach DWZ. Man spielt also von Anfang an gegen ähnlich starke Gegner, was das Turnier für Spieler aller Spielstärken interessant machen sollte. Es wird ein kleines Startgeld erhoben, Sachpreise für alle Teilnehmer sind vorgesehen.</p>
-<p>Ursprünglich wollten wir ein solches Turnier bereits 2020 anlässlich des 70jährigen Jubiläums unserer Schachabteilung austragen, was dann ja aus bekannten Gründen nicht möglich war. Nun werden wir es in knapp 4 Wochen nachholen. Die Zusage für die Räume haben wir inzwischen – wir spielen im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin.</p>
-<p>Wir klären in dieser Woche noch die letzten Details, die Ausschreibung werden wir spätestens am kommenden Wochenende veröffentlichen.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/04/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10038 
 <div class="post-10035 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10035">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/" rel="bookmark">Rapid Liga (1)</a></h2>
 <div class="entry-meta">
