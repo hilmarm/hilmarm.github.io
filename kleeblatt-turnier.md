@@ -26,6 +26,7 @@ parent_title: Turniere
 <ol>
 <li>von Kraft, Lukas (SG NARVA Berlin, DWZ 1380)</li>
 <li>Pilgram, Leonhard (SC Kreuzberg, DWZ 1354)</li>
+<li>Köppen, Ilja (BSV 63 Chemie Weißensee, DWZ 1444)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
