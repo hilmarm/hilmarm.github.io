@@ -27,6 +27,13 @@ parent_title: Turniere
 <li>von Kraft, Lukas (SG NARVA Berlin, DWZ 1380)</li>
 <li>Pilgram, Leonhard (SC Kreuzberg, DWZ 1354)</li>
 <li>Köppen, Ilja (BSV 63 Chemie Weißensee, DWZ 1444)</li>
+<li>Kellner, René (Potsdamer SV Mitte, DWZ 1520)</li>
+<li>Sundui, Chinguun (TSG Oberschöneweide, DWZ 1879)</li>
+<li>Sundui, Baatarjav (SC Zitadelle Spandau, DWZ 1571)</li>
+<li>Kalkowski, Thomas (BA Tempelhof, Elo 1467)</li>
+<li>Krawczyk, Harald (SG Rot-Weiß Neuenhagen, DWZ 1413)</li>
+<li>Zimmer, Michel (Ludwigsfelder SC 54, DWZ 1723)</li>
+<li>Zimmer, Lennard (Ludwigsfelder SC 54, DWZ 1160)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
