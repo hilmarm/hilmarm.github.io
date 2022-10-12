@@ -19,6 +19,20 @@ parent_title: Mannschaften
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10106 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-10106">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/11/kantersieg-der-zweiten/" rel="bookmark">Kantersieg der Zweiten</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/11/kantersieg-der-zweiten/" rel="bookmark" title="13:18"><span class="entry-date">11. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Nach der 1.Runde spielfrei, hat nun auch die 2.Mannschaft ins Geschehen der BMM Saison 22/23 eingegriffen. Es ging zum Auswärtsspiel zur SG Weißensee 3. Wir waren mit 8 Spielern komplett, ohne Ersatz aus der Dritten! Nicht selbstverständlich in der heutigen … <a href="https://www.narva-schach.de/wordpress/2022/10/11/kantersieg-der-zweiten/">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/11/kantersieg-der-zweiten/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10106 
 <div class="post-9630 post type-post status-publish format-standard hentry category-spielberichte-bmm" id="post-9630">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/07/11/narva-gewinnt-die-staffel-2-2/" rel="bookmark">NARVA gewinnt die Staffel 2.2</a></h2>
 <div class="entry-meta">
@@ -285,20 +299,6 @@ parent_title: Mannschaften
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2018/01/15/tabellenfuehrung-verteidigt/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-3576 
-<div class="post-3459 post type-post status-publish format-standard hentry category-bmm category-spielberichte-bmm" id="post-3459">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2017/12/17/bericht-1-mannschaft-4-runde/" rel="bookmark">Bericht – 1. Mannschaft 4. Runde</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2017/12/17/bericht-1-mannschaft-4-runde/" rel="bookmark" title="16:31"><span class="entry-date">17. Dezember 2017</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/schwede/" title="Alle Beiträge von Tomas Segerberg anzeigen">Tomas Segerberg</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Da war nicht nur Maetzing krank. Ich hatte Probleme mit meinen Ohren. Shenis hätte fast abgesagt. Immerhin. Das Match verlief sehr gut. Zuerst macht Ekkehard Remis gegen Bensiek (1646), der bisher richtig viel gewonnen hatte, unser Spieler auch noch mit … <a href="https://www.narva-schach.de/wordpress/2017/12/17/bericht-1-mannschaft-4-runde/">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/" rel="category tag">Spielberichte BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2017/12/17/bericht-1-mannschaft-4-runde/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-3459 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/spielberichte-bmm/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

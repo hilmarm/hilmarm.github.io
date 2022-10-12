@@ -34,6 +34,9 @@ parent_title: Turniere
 <li>Krawczyk, Harald (SG Rot-Weiß Neuenhagen, DWZ 1413)</li>
 <li>Zimmer, Michel (Ludwigsfelder SC 54, DWZ 1723)</li>
 <li>Zimmer, Lennard (Ludwigsfelder SC 54, DWZ 1160)</li>
+<li>Petersen, Henrik (SV 03/25 Koblenz, DWZ 2038)</li>
+<li>Reichert, Lutz (SV Königsjäger Süd-West, DWZ 1542)</li>
+<li>Döpmann, Christoph (SF Nord-Ost Berlin, DWZ 1445)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
