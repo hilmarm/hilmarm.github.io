@@ -11,6 +11,7 @@ navs:
   BPMM Archiv: bpmm-archiv
   Online Turniere: online-turniere
   Quarantäne Liga: quarantaene-liga
+  Rapid-Liga: rapid-liga
   Schnellschach Open: schnellschach-open
   Schnellschach Open 2016: schnellschach-open-2016
   Rangliste: ergebnisse-runden

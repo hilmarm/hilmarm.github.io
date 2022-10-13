@@ -37,6 +37,8 @@ parent_title: Turniere
 <li>Petersen, Henrik (SV 03/25 Koblenz, DWZ 2038)</li>
 <li>Reichert, Lutz (SV Königsjäger Süd-West, DWZ 1542)</li>
 <li>Döpmann, Christoph (SF Nord-Ost Berlin, DWZ 1445)</li>
+<li>Bolk, Matthias (SC Kreuzberg, DWZ 2014)</li>
+<li>Sakalli, Selçuk Orkun (SC Zugzwang 95, Elo 1672)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
