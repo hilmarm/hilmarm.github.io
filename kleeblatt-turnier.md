@@ -39,6 +39,7 @@ parent_title: Turniere
 <li>Döpmann, Christoph (SF Nord-Ost Berlin, DWZ 1445)</li>
 <li>Bolk, Matthias (SC Kreuzberg, DWZ 2014)</li>
 <li>Sakalli, Selçuk Orkun (SC Zugzwang 95, Elo 1672)</li>
+<li>Hintze, Peter (SG NARVA Berlin, DWZ 1931)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 

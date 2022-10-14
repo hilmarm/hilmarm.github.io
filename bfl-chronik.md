@@ -61,6 +61,13 @@ parent_title: Chronik
 </thead>
 <tbody>
 <tr>
+<td>2023</td>
+<td>Staffel A</td>
+<td></td>
+<td>Staffel B</td>
+<td></td>
+</tr>
+<tr>
 <td>2022</td>
 <td><em>Corona</em></td>
 <td><em>ausgefallen</em></td>

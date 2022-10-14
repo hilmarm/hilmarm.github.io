@@ -25,6 +25,27 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10128 post type-post status-publish format-standard hentry category-bfl" id="post-10128">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/14/bfl-gestartet/" rel="bookmark">BFL gestartet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/14/bfl-gestartet/" rel="bookmark" title="10:26"><span class="entry-date">14. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die <strong>BFL</strong> geht nun nach 2 Jahren Pause in eine neue Saison.</p>
+<p>NARVA ist wie vor Corona mit 2 Mannschaften dabei, insgesamt gibt es aber deutlich weniger Teams. Dadurch gibt es nur 2 Staffeln – A und B.</p>
+<p><strong>NARVA 1 ist in der A-Staffel.</strong><br/>
+<strong>NARVA 2 ist in der B-Staffel.</strong></p>
+<p>Alle Info, Aufstellungen, Termine, Ergebnisse usw. sind aktuell auf der Seite der<a href="http://www.schachjugend-in-berlin.de/berliner-feierabendliga-2022-23/"> Schachjugend Berlin</a>.</p>
+<p>Auf unsere Seite hier zumindest die <a href="https://www.narva-schach.de/wordpress/termine/bfl-termine/">Termine</a>.</p>
+<p>Die 1.Runde ging auch direkt diese Woche los, aber nur für unsere 1.Mannschaft. Der Kampf der Zweiten gegen Neukölln wurde verlegt.</p>
+<p><a href="https://www.narva-schach.de/wordpress/chronik/bfl-chronik/">Unsere BFL-Chronik</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/14/bfl-gestartet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10128 
 <div class="post-10122 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10122">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/" rel="bookmark">Rapid Liga (2)</a></h2>
 <div class="entry-meta">
@@ -491,30 +512,6 @@ Nur <strong>Felix</strong> kann seine allererste Langpartie am Brett gewinnen �
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9941 
-<div class="post-9928 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9928">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/17/abteilungsmeister-mit-100/" rel="bookmark">Abteilungsmeister mit 100%</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/17/abteilungsmeister-mit-100/" rel="bookmark" title="17:17"><span class="entry-date">17. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag fand Runde 5 zur <strong>Abteilungsmeisterschaft 2022</strong> statt und obwohl noch einige Partien fehlen, steht der Abteilungsmeister 2022 schon fest!</p>
-<p><strong>Jonatan holt sich den Titel 2022 mit beeindruckenden 100%, 5 Partien, 5 Siege!! Stark!</strong></p>
-<p>Auf den Plätzen 2 und 3 liegen aktuell Hilmar und Andreas, beide 3,5 Punkte, die sich am Donnerstag auch Remis trennten.</p>
-<p>Es fehlen noch die Partien:</p>
-<ul>
-<li>Gunar – Ekkehard</li>
-<li>Alexander – Lukas</li>
-<li>Thomas – Torsten</li>
-</ul>
-<p>Hier kann nur Gunar noch auf 3,5 Punkte kommen, der Rest spielt keine Rolle mehr für die Plätze 1 – 3.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/17/abteilungsmeister-mit-100/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9928 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
