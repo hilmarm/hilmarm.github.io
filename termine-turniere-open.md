@@ -24,11 +24,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
-<td>03.-09.10.2022</td>
-<td>Hans-Dieter, Ulrich</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://bsg-eckbauer.de/v2/eckbauer-open-2/" rel="noopener" target="_blank">Eckbauer Open 2022</a></td>
 <td>10.10.-21.11.2022</td>
 <td>Torsten</td>

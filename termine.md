@@ -174,27 +174,27 @@ navs:
 </tr>
 <tr>
 <th>27.10.2022</th>
-<td class="training">Training?</td>
+<td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
 <th>03.11.2022</th>
-<td class="training">Training?</td>
+<td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
 <th>10.11.2022</th>
-<td class="pokal">Pokal Halbfinale?</td>
-<td></td>
+<td class="pokal">Pokal Halbfinale</td>
+<td class="bfl">BFL Nachholspiel</td>
 </tr>
 <tr>
 <th>17.11.2022</th>
-<td class="training">Training?</td>
-<td>BFL Auswärtsspiel</td>
+<td class="training">Training</td>
+<td class="bfl">BFL Auswärtsspiel</td>
 </tr>
 <tr>
 <th>24.11.2022</th>
-<td class="pokal">Pokalfinale?</td>
+<td class="pokal">Pokalfinale</td>
 <td></td>
 </tr>
 <tr>

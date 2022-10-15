@@ -25,6 +25,29 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10140 post type-post status-publish format-standard hentry category-interne-turniere category-termine category-training" id="post-10140">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/14/terminplan-vervollstaendigt/" rel="bookmark">Terminplan vervollständigt</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/14/terminplan-vervollstaendigt/" rel="bookmark" title="19:53"><span class="entry-date">14. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a> für den Rest des Jahres ist nun endlich vollständig. Die beiden noch nicht terminierten <strong>Pokalrunden</strong> werden am 10. November und am 24. November gespielt, Verlegungen sind natürlich möglich.</p>
+<p>Am 10. November wird parallel auch das BFL-Spiel zwischen NARVA 2 und SW Neukölln nachgeholt.</p>
+<p>Weiterhin sind drei Trainingstermine geplant:</p>
+<ul>
+<li>Am <strong>27. Oktober</strong> wird Rouven ein Training zur <strong>Holländischen Verteidigung</strong> geben.</li>
+<li>Am <strong>3. November</strong> zeige ich <strong>scheinbar verlorene Endspiele</strong>.</li>
+<li>Am <strong>17. November</strong> gibt es voraussichtlich noch ein Training zum Thema Endspiele, das sich hauptsächlich an die „schwächeren“ Spieler richtet.</li>
+</ul>
+<p>Am 27. Oktober wird außerdem die letzte Partie der Abteilungsmeisterschaft nachgespielt.</p>
+<p>Der <strong>Tandem-/Bughouse-Abend</strong> ist nun für den 1. Dezember angesetzt.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a>, <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/14/terminplan-vervollstaendigt/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10140 
 <div class="post-10128 post type-post status-publish format-standard hentry category-bfl" id="post-10128">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/14/bfl-gestartet/" rel="bookmark">BFL gestartet</a></h2>
 <div class="entry-meta">
@@ -488,30 +511,6 @@ Das Finale und Spiel um Platz 3 (Runde 4) werden voraussichtlich am 17. November
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/19/lichess-liga-r260/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9981 
-<div class="post-9941 post type-post status-publish format-standard hentry category-bmm" id="post-9941">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/" rel="bookmark">BMM Runde 1</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/" rel="bookmark" title="10:04"><span class="entry-date">19. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auf geht´s in die neue Saison!</p>
-<p><strong>NARVA 1</strong> mit Heimspiel gegen <strong>SV Königsjäger Süd-West 3</strong>. Wir gehen schnell 3:0 in Führung, <strong>Andreas</strong> gewinnt kampflos, dann gewinnen <strong>Tomas</strong> und <strong>Hilmar</strong>.<br/>
-<strong>Meine</strong> Niederlage führt dann zum „Gegentreffer“, aber kurz danach stellt <strong>Jonatan</strong> (Partie im Mitgliederbereich) auf 4:1.<br/>
-Leider verlieren dann <strong>Magnus</strong>, <strong>Peter</strong> und <strong>Alex</strong>. So bleibt es beim Punkt.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1.jpg"><img alt="" class="alignnone size-full wp-image-9942" height="186" loading="lazy" sizes="(max-width: 759px) 100vw, 759px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1.jpg 759w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m1-300x74.jpg 300w" width="759"/></a></p>
-<p>Die <strong>Dritte</strong> musste auswärts gegen <strong>SVG Läufer Reinickendorf 3</strong> ran.<br/>
-Nur <strong>Felix</strong> kann seine allererste Langpartie am Brett gewinnen – Glückwunsch! Der Rest geht leer aus.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3.jpg"><img alt="" class="alignnone size-full wp-image-9943" height="149" loading="lazy" sizes="(max-width: 773px) 100vw, 773px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3.jpg 773w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3-300x58.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/bmm2223r1m3-768x148.jpg 768w" width="773"/></a></p>
-<p>Die weiteren Termin sind <a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">hier</a>.</p>
-<p>Die Links oben im Menü bei Mannschaften führen auch direkt zu den jeweiligen Staffel-Skript.</p>
-<p>Die BMM Hefte gibt es nun auch wieder, alle sind <a href="https://www.berlinerschachverband.de/entry/bmm-mannschaftshefte-und-nachmeldungen-erste-runde.html" rel="noopener" target="_blank">hier verlinkt</a>. Ich werde auch zeitnah welche drucken.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/19/bmm-runde-1/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9941 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

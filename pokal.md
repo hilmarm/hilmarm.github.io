@@ -23,7 +23,7 @@ parent_title: Turniere
 <table style="width: 118%;">
 <tbody>
 <tr>
-<td colspan="8" style="width: 99.8681%; background-color: #3ae817;">Finale</td>
+<td colspan="8" style="width: 99.8681%; background-color: #3ae817;">Finale – 24.11.2022</td>
 </tr>
 <tr>
 <th style="width: 20.9763%;">Teilnehmer</th>
@@ -45,7 +45,7 @@ parent_title: Turniere
 <td style="width: 8.83905%;"></td>
 </tr>
 <tr>
-<td colspan="8" style="background-color: #3ae817; width: 99.8681%;">Spiel um Platz 3</td>
+<td colspan="8" style="background-color: #3ae817; width: 99.8681%;">Spiel um Platz 3 – 24.11.2022</td>
 </tr>
 <tr>
 <td style="width: 20.9763%;"></td>
@@ -57,7 +57,7 @@ parent_title: Turniere
 <td style="width: 8.83905%;"></td>
 </tr>
 <tr>
-<td colspan="8" style="width: 99.8681%; background-color: #3ae817;">Halbfinale</td>
+<td colspan="8" style="width: 99.8681%; background-color: #3ae817;">Halbfinale – 10.11.2022</td>
 </tr>
 <tr>
 <th style="width: 20.9763%;">Teilnehmer</th>
@@ -128,7 +128,7 @@ parent_title: Turniere
 <td style="width: 8.83905%;"></td>
 </tr>
 <tr>
-<td nowrap="nowrap" style="width: 20.9763%;">Ulrich/Gerhard</td>
+<td nowrap="nowrap" style="width: 20.9763%;">Gerhard</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Jonatan</td>
@@ -164,8 +164,9 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Gerhard</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">½</td>
+<td style="width: 8.83905%;">½</td>
+<td>Gerhard gewinnt</td>
 </tr>
 <tr>
 <td style="width: 20.9763%;">Torsten</td>
