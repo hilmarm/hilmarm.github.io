@@ -40,12 +40,18 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Hamburg</a></td>
-<td>18.11.-20.11.2022</td>
-<td></td>
+<td>02.12.-04.12.2022</td>
+<td>Jonatan?, Lukas?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>06.01.-08.01.2023</td>
+<td>Mannschaft?</td>
+</tr>
+
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
+<td>27.01.-29.01.2023</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
@@ -56,7 +62,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>17.02.-19.02.2023</td>
-<td></td>
+<td>Mannschaft?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Koblenz</a></td>
@@ -66,17 +72,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a></td>
 <td>24.03.-26.03.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Willingen</a></td>
-<td>05.05.-07.05.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
-<td>09.06.-11.06.2023</td>
-<td></td>
+<td>Jonatan?</td>
 </tr>
 </tbody>
 </table>
