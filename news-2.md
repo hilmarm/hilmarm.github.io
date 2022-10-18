@@ -25,6 +25,26 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10154 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-10154">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark">VSR- und RSR-Lehrgang im November bei NARVA</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark" title="10:02"><span class="entry-date">18. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am 5./6. sowie 12./13. November finden die nächsten Schiedsrichterlehrgänge statt, dieses mal direkt bei uns in der Kadiner Str.!!!<br/>
+Angehende <strong>Verbandsschiedsrichter (VSR)</strong> haben ihre Termine an den beiden Sonntagen: 6. und 13. November.<br/>
+Die <strong>Regionale Schiedsrichterausbildung (RSR)</strong> findet an den drei Tagen 5./12./13. November statt.</p>
+<p>Die perfekte Gelegenheit damit wir zu mehr Schiedsrichter kommen!<br/>
+Die RSR Ausbildung kommt dabei nur für bereits bestehende Schiedsrichter in Frage (z.B. Jonatan macht das), wir würden uns aber über möglichst viele neue VSR freuen.<br/>
+Der Verein bezahlt auch die Kursgebühr!</p>
+<p><a href="https://www.berlinerschachverband.de/entry/vsr-und-rsr-lehrgang-im-november-bei-mattnetz.html" rel="noopener" target="_blank">Alle Infos auf der BSV Seite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10154 
 <div class="post-10140 post type-post status-publish format-standard hentry category-interne-turniere category-termine category-training" id="post-10140">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/14/terminplan-vervollstaendigt/" rel="bookmark">Terminplan vervollständigt</a></h2>
 <div class="entry-meta">
@@ -39,7 +59,6 @@ navs:
 <li>Am <strong>17. November</strong> gibt es voraussichtlich noch ein Training zum Thema Endspiele, das sich hauptsächlich an die „schwächeren“ Spieler richtet.</li>
 </ul>
 <p>Am 27. Oktober wird außerdem die letzte Partie der Abteilungsmeisterschaft nachgespielt.</p>
-<p>Der <strong>Tandem-/Bughouse-Abend</strong> ist nun für den 1. Dezember angesetzt.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -497,20 +516,6 @@ Das Finale und Spiel um Platz 3 (Runde 4) werden voraussichtlich am 17. November
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/20/pokal-meldeschluss-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9950 
-<div class="post-9981 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9981">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/19/lichess-liga-r260/" rel="bookmark">Lichess Liga (R260)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/19/lichess-liga-r260/" rel="bookmark" title="10:53"><span class="entry-date">19. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_9961" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga11a_18092022.jpg"><img alt="" aria-describedby="caption-attachment-9961" class="size-large wp-image-9961" height="316" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga11a_18092022-1024x506.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga11a_18092022-1024x506.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga11a_18092022-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga11a_18092022-768x379.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/liga11a_18092022.jpg 1144w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-9961"><strong>18.09.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/19/lichess-liga-r260/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9981 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
