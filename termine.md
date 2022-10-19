@@ -199,7 +199,7 @@ navs:
 </tr>
 <tr>
 <th>01.12.2022</th>
-<td class="versammlung"></td>
+<td></td>
 <td></td>
 </tr>
 <tr>

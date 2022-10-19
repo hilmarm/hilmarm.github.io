@@ -44,6 +44,10 @@ parent_title: Turniere
 <li>Schrodt, Horst (SC Eintracht Berlin, DWZ 1496)</li>
 <li>Alali Alkath, Youssef (SC Eintracht Berlin, DWZ 1199)</li>
 <li>Schacht, Thomas (BSV 63 Chemie Weißensee, DWZ 1358)</li>
+<li>Kinski, Andreas (SG NARVA Berlin, DWZ 1617)</li>
+<li>Schmidt, Jossip (Barnimer SF, DWZ 1211)</li>
+<li>Madel, Tim (Barnimer SF, DWZ 805)</li>
+<li>Madel, Luca (Barnimer SF, DWZ 1322)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
