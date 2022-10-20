@@ -48,6 +48,9 @@ parent_title: Turniere
 <li>Schmidt, Jossip (Barnimer SF, DWZ 1211)</li>
 <li>Madel, Tim (Barnimer SF, DWZ 805)</li>
 <li>Madel, Luca (Barnimer SF, DWZ 1322)</li>
+<li>Christen, Jan (Barnimer SF, DWZ 1210)</li>
+<li>Wallat, Alisha (SC Kreuzberg, ohne DWZ)</li>
+<li>Bayer, Klara (SC Zitadelle Spandau, DWZ 837)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 

@@ -106,8 +106,8 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td nowrap="nowrap" style="width: 21.2401%;">Gunar</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">–</td>
+<td style="width: 8.83905%;">+</td>
 </tr>
 <tr>
 <td style="width: 20.9763%;">Michael</td>

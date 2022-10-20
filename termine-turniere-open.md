@@ -39,9 +39,14 @@ parent_title: Termine
 <td style="width: 154px; height: 24px;">Siehe Mitgliederbereich</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier" rel="noopener" target="_blank">Kleeblatt-Turnier</a></td>
+<td>30.10.2022</td>
+<td>Lukas, Peter, Andreas</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Hamburg</a></td>
 <td>02.12.-04.12.2022</td>
-<td>Jonatan?, Lukas?</td>
+<td>Jonatan, Lukas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
@@ -62,7 +67,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>17.02.-19.02.2023</td>
-<td>Mannschaft?</td>
+<td>Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Koblenz</a></td>
