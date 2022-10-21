@@ -25,6 +25,24 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10196 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10196">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/" rel="bookmark">Pokal: Halbfinale ausgelost</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/" rel="bookmark" title="23:44"><span class="entry-date">20. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Im <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a> wurden heute zwei Partien des Viertelfinals gespielt. <strong>Peter</strong> gewann nach langem Kampf gegen <strong>Jay</strong>, <strong>ich</strong> gewann gegen <strong>Gerhard</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352.jpg"><img alt="" class="alignnone wp-image-10202 size-medium" height="231" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352-300x231.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352-300x231.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352-1024x788.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352-768x591.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352-1536x1182.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191352-2048x1576.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532.jpg"><img alt="" class="alignnone wp-image-10203 size-medium" height="300" loading="lazy" sizes="(max-width: 239px) 100vw, 239px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532-239x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532-239x300.jpg 239w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532-816x1024.jpg 816w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532-768x963.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532-1224x1536.jpg 1224w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532-1633x2048.jpg 1633w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_192532.jpg 1906w" width="239"/></a></p>
+<p>Micha und Hilmar mussten kurzfristig krankheitsbedingt verlegen und werden ihre Partie voraussichtlich am 3. November nachspielen.<br/>
+Auch Tomas musste absagen, er kann auch nicht nachspielen und verliert somit kampflos gegen Gunar.</p>
+<p>Im <strong>Halbfinale am 10. November</strong> spielt Gunar gegen mich, der Sieger aus der Partie Micha – Hilmar spielt gegen Peter.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/#comments">Ein Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10196 
 <div class="post-10154 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-10154">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark">VSR- und RSR-Lehrgang im November bei NARVA</a></h2>
 <div class="entry-meta">
@@ -457,6 +475,7 @@ zu schnelles schematisches Ziehen einen Figurengewinn ausgelassen hatte.</p>
 <p><span style="text-decoration: underline;">Glücklich:</span> In der drittletzten Runde gewannen wir 2,5 : 1,5 gegen Rüdersdorf, es wurde aber wohl falsch herum eingetragen, (wurde nach der Auslosung zuerst von Frank wahrgenommen und erfolgreich moniert, wäre mir aber sicher auch irgendwann aufgefallen), sodass wir in der vorletzten Runde ein sattes 4:0 spielfrei geschenkt bekamen und noch etwas Kräfte vor der letzten sammeln konnten, in der uns dann tatsächlich ein 4:0 gegen den bis dahin viertplatzierten Gastgeber gelang.</p>
 <p>Am Ende waren wir dann mit einem halben Brettpunk Rückstand auf Platz Zwei glücklicher Dritter, der Sieger war überlegen <strong>Glaskönig Döbern</strong> (gegen uns 3,5:0,5).</p>
 <p>In der Hoffnung, dass es im nächsten Jahr doch einmal mit zwei Mannschaften klappen könnte, grüßt der <strong>Berichterstatter Klaus</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-scaled.jpg"><img alt="" class="alignnone wp-image-10200 size-medium" height="300" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-204x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-204x300.jpg 204w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-697x1024.jpg 697w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-768x1128.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-1046x1536.jpg 1046w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-1394x2048.jpg 1394w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-scaled.jpg 1743w" width="204"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955.jpg"><img alt="" class="alignnone wp-image-10201 size-medium" height="195" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-300x195.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-300x195.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-1024x666.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-768x499.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-1536x998.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-2048x1331.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -486,20 +505,6 @@ möge, grüßt Euer <strong>Berichterstatter Klaus</strong>, der gelernt hat, da
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/26/skat-2022-hue-hochueberlegen/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9971 
-<div class="post-10026 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10026">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/26/lichess-liga-r262/" rel="bookmark">Lichess Liga (R262)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/26/lichess-liga-r262/" rel="bookmark" title="8:06"><span class="entry-date">26. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10027" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_25092022.jpg"><img alt="" aria-describedby="caption-attachment-10027" class="size-large wp-image-10027" height="314" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_25092022-1024x502.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_25092022-1024x502.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_25092022-300x147.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_25092022-768x377.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_25092022.jpg 1144w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10027"><strong>25.09.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/26/lichess-liga-r262/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10026 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

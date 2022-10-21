@@ -24,16 +24,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://bsg-eckbauer.de/v2/eckbauer-open-2/" rel="noopener" target="_blank">Eckbauer Open 2022</a></td>
-<td>10.10.-21.11.2022</td>
-<td>Torsten</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-19-oktober-2022-14-00-uhr.html" rel="noopener" target="_blank">26. Überbezirkliches Senioren Schnellschachturnier</a></td>
-<td>19.10.2022</td>
-<td>Peter</td>
-</tr>
-<tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 332px; height: 24px;"><strong>Einladungs Mannschaftsblitz RuDi</strong></td>
 <td nowrap="nowrap" style="width: 158px; height: 24px;">29.10.2022</td>
 <td style="width: 154px; height: 24px;">Siehe Mitgliederbereich</td>
@@ -53,7 +43,6 @@ parent_title: Termine
 <td>06.01.-08.01.2023</td>
 <td>Mannschaft?</td>
 </tr>
-
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
 <td>27.01.-29.01.2023</td>

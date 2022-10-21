@@ -70,19 +70,19 @@ parent_title: Turniere
 <th style="width: 9.63061%;">Blitz</th>
 </tr>
 <tr>
-<td style="width: 20.9763%;"></td>
+<td style="width: 20.9763%;">Gunar</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 7.12401%;">–</td>
-<td style="width: 21.2401%;"></td>
+<td style="width: 21.2401%;">Jonatan</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 8.83905%;"></td>
 <td style="width: 8.83905%;"></td>
 </tr>
 <tr>
-<td style="width: 20.9763%;"></td>
+<td style="width: 20.9763%;">Micha/Hilmar</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 7.12401%;">–</td>
-<td style="width: 21.2401%;"></td>
+<td style="width: 21.2401%;">Peter</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 8.83905%;"></td>
 <td style="width: 8.83905%;"></td>
@@ -124,8 +124,8 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Jay</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">1</td>
+<td style="width: 8.83905%;">0</td>
 </tr>
 <tr>
 <td nowrap="nowrap" style="width: 20.9763%;">Gerhard</td>
@@ -133,8 +133,8 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Jonatan</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">0</td>
+<td style="width: 8.83905%;">1</td>
 </tr>
 <tr>
 <td colspan="8" style="width: 99.8681%; background-color: #3ae817;">Achtelfinale – 06.10.2022</td>

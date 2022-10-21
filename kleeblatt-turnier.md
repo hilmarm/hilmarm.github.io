@@ -51,6 +51,10 @@ parent_title: Turniere
 <li>Christen, Jan (Barnimer SF, DWZ 1210)</li>
 <li>Wallat, Alisha (SC Kreuzberg, ohne DWZ)</li>
 <li>Bayer, Klara (SC Zitadelle Spandau, DWZ 837)</li>
+<li>Lehmann, Michael (SC Zitadelle Spandau, DWZ 1591)</li>
+<li>Villuela, Roberto (SC Friesen Lichtenberg, DWZ 1773)</li>
+<li>Hildebrand, Katrin (SG NARVA Berlin, DWZ 1649)</li>
+<li>Makkoth, Jayasurian (SG NARVA Berlin, ohne DWZ)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
