@@ -25,6 +25,27 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10210 post type-post status-publish format-standard hentry category-bfl" id="post-10210">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/" rel="bookmark">BFL gestartet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/" rel="bookmark" title="22:04"><span class="entry-date">21. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Bereits am 13.10. wurde für unsere erste Mannschaft die BFL-Saison eröffnet. Beim Heimspiel gegen den SK Zehlendorf erkämpften wir uns ein 2:2! Die Punkte holten die beiden aus der Zweiten aufgerückten Spieler, Tomas (der erst noch schimpfte, dass er an Brett 3 schon wieder Schwarz hat, aber schnell eine Qualität gewann, dann eine zweite, und dann die Partie) und Jay (der die Stellung gegen einen starken Gegner so lange ausgeglichen hielt, bis der Gegner einen Turm einstellte). Ekkehard an Brett 2 hatte zwar einen Bauern mehr, aber sein Gegner konnte Kompensation nachweisen, und ich hatte an Brett 1 immerhin eine interessante Partie gegen einen FIDE-Meister. </p>
+<pre>SG NARVA Berlin 1      - SK Zehlendorf         2:2
+==================================================
+104 Jonatan Schenk     - 101 FM Dirk Paulsen   0:1
+105 Ekkehard Krüger    - 103 Thomas Heerde     0:1
+201 Tomas Segerberg    - 106 Mirza Hasic       1:0
+210 Jayasurian Makkoth - 107 Dr. Timo Hartman  1:0</pre>
+<p>Für die 2. Mannschaft geht es erst am 10. November los, das Spiel gegen SW Neukölln wurde verschoben.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10210 
 <div class="post-10196 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10196">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/" rel="bookmark">Pokal: Halbfinale ausgelost</a></h2>
 <div class="entry-meta">
@@ -40,7 +61,7 @@ Auch Tomas musste absagen, er kann auch nicht nachspielen und verliert somit kam
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/#comments">Ein Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10196 
 <div class="post-10154 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-10154">
@@ -484,27 +505,6 @@ zu schnelles schematisches Ziehen einen Figurengewinn ausgelassen hatte.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/26/dritter-beim-spreewaldpokal/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9977 
-<div class="post-9971 post type-post status-publish format-standard hentry category-skat" id="post-9971">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/26/skat-2022-hue-hochueberlegen/" rel="bookmark">Skat 2022 – hü – hochüberlegen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/26/skat-2022-hue-hochueberlegen/" rel="bookmark" title="19:34"><span class="entry-date">26. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>hü – hochüberlegen</strong> – so lautet der Richterspruch bei entsprechendem Abstand<br/>
-des Siegers zu den nächstplatzierten beim Pferderennen, gewann<strong> Jonatan</strong> kurz nach seinem Sieg in der Abteilungsmeisterschaft auch unser diesjähriges <strong>Skatturnier</strong>.</p>
-<p><del>Trabantische</del> Gigantische 601 Punkte hatte er am Ende Vorsprung vor dem Nächstplatzierten, diese Differenz schaffte niemand außer ihm selbst als Serienergebnis. Dennoch seien auch die Platzierten – um im Bilde zu bleiben – eine Viertellänge (37 Punkte) der <strong>Berichterstatter</strong> vor <strong>Hans-Dieter</strong> als Drittem und dieser wiederum eine dreiviertel Länge (118 Punkte) vorm Vierten, wobei auch die 1000-er-Grenze das »Treppchen« vom »Rest« trennte – <strong>Eberhard</strong>, eventuell sollte er seine Karten doch so auf der Hand sortieren wie die Anfänger.<br/>
-Das Kulturgut »Skatspiel« scheint doch noch eine kleine Überlebenschance zu besitzen, konnten wir doch mit <strong>Lars</strong>, dem Sohn vom Dr., »Nachwuchs«, aber vor allem mit <strong>Frieder</strong> einen Jugendlichen begrüßen.</p>
-<p>In der Hoffnung, dass auch im folgenden Turnier der Zweite des Vorjahres gewinnen<br/>
-möge, grüßt Euer <strong>Berichterstatter Klaus</strong>, der gelernt hat, dass er die Preise im nächsten Turnier mehr auf die fleischlichen statt auf die »geistigen« Gelüste ausrichten sollte.</p>
-<p><a href="https://www.narva-schach.de/wordpress/chronik/skat/">Skat Seite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014.jpg"><img alt="" class="alignnone wp-image-9974" height="299" loading="lazy" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014-300x224.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014-300x224.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014-1024x765.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014-768x574.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014-1536x1148.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/09/IMG-20220922-WA0014.jpg 1600w" width="400"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/26/skat-2022-hue-hochueberlegen/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9971 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

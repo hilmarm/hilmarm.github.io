@@ -55,6 +55,8 @@ parent_title: Turniere
 <li>Villuela, Roberto (SC Friesen Lichtenberg, DWZ 1773)</li>
 <li>Hildebrand, Katrin (SG NARVA Berlin, DWZ 1649)</li>
 <li>Makkoth, Jayasurian (SG NARVA Berlin, ohne DWZ)</li>
+<li>Müller, Johannes (SC Eintracht Berlin, DWZ 1617)</li>
+<li>Brühl, Gundula (BSV 63 Chemie Weißensee, DWZ 1109)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
