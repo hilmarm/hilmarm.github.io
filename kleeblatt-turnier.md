@@ -57,6 +57,12 @@ parent_title: Turniere
 <li>Makkoth, Jayasurian (SG NARVA Berlin, ohne DWZ)</li>
 <li>Müller, Johannes (SC Eintracht Berlin, DWZ 1617)</li>
 <li>Brühl, Gundula (BSV 63 Chemie Weißensee, DWZ 1109)</li>
+<li>Jiranek, Benno (SC Kreuzberg, DWZ 1259)</li>
+<li>Knick, Luca (SC Zitadelle Spandau, DWZ 978)</li>
+<li>Deppe, Leo (SC Bad Soden, DWZ 1933)</li>
+<li>Mlynarski, Milosz (SV Empor Berlin, DWZ 787)</li>
+<li>NN</li>
+<li>NN</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
