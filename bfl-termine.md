@@ -30,7 +30,7 @@ parent_title: Termine
 <td nowrap="nowrap">Zehlendorf 1 (H)</td>
 <td>13.10.22</td>
 <td nowrap="nowrap">SW Neukölln 1 (H)</td>
-<td></td>
+<td>10.11.22</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">2</td>

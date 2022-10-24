@@ -25,19 +25,35 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10223 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10223">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/" rel="bookmark">Lichess Liga (R270)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/" rel="bookmark" title="11:20"><span class="entry-date">24. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Klassenerhalt in Liga 10, ganz knapp…<br/>
+Am Donnerstag dann ein Berliner Dreikampf, gegen Nord-Ost und Eckbauer!!</p>
+<div class="wp-caption alignnone" id="attachment_10224" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga10b_23102022.jpg"><img alt="" aria-describedby="caption-attachment-10224" class="size-large wp-image-10224" height="298" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga10b_23102022-1024x477.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga10b_23102022-1024x477.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga10b_23102022-300x140.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga10b_23102022-768x358.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga10b_23102022.jpg 1116w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10224"><strong>23.10.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10223 
 <div class="post-10210 post type-post status-publish format-standard hentry category-bfl" id="post-10210">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/" rel="bookmark">BFL gestartet</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/" rel="bookmark" title="22:04"><span class="entry-date">21. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Bereits am 13.10. wurde für unsere erste Mannschaft die BFL-Saison eröffnet. Beim Heimspiel gegen den SK Zehlendorf erkämpften wir uns ein 2:2! Die Punkte holten die beiden aus der Zweiten aufgerückten Spieler, Tomas (der erst noch schimpfte, dass er an Brett 3 schon wieder Schwarz hat, aber schnell eine Qualität gewann, dann eine zweite, und dann die Partie) und Jay (der die Stellung gegen einen starken Gegner so lange ausgeglichen hielt, bis der Gegner einen Turm einstellte). Ekkehard an Brett 2 hatte zwar einen Bauern mehr, aber sein Gegner konnte Kompensation nachweisen, und ich hatte an Brett 1 immerhin eine interessante Partie gegen einen FIDE-Meister. </p>
+<p>Bereits am 13.10. wurde für unsere erste Mannschaft die <strong>BFL-Saison</strong> eröffnet. Beim Heimspiel gegen den <strong>SK Zehlendorf</strong> erkämpften wir uns ein <strong>2:2</strong>! Die Punkte holten die beiden aus der Zweiten aufgerückten Spieler, <strong>Tomas</strong> (der erst noch schimpfte, dass er an Brett 3 schon wieder Schwarz hat, aber schnell eine Qualität gewann, dann eine zweite, und dann die Partie) und <strong>Jay</strong> (der die Stellung gegen einen starken Gegner so lange ausgeglichen hielt, bis der Gegner einen Turm einstellte). <strong>Ekkehard</strong> an Brett 2 hatte zwar einen Bauern mehr, aber sein Gegner konnte Kompensation nachweisen, und <strong>ich</strong> hatte an Brett 1 immerhin eine interessante Partie gegen einen FIDE-Meister.</p>
 <pre>SG NARVA Berlin 1      - SK Zehlendorf         2:2
 ==================================================
 104 Jonatan Schenk     - 101 FM Dirk Paulsen   0:1
 105 Ekkehard Krüger    - 103 Thomas Heerde     0:1
 201 Tomas Segerberg    - 106 Mirza Hasic       1:0
 210 Jayasurian Makkoth - 107 Dr. Timo Hartman  1:0</pre>
-<p>Für die 2. Mannschaft geht es erst am 10. November los, das Spiel gegen SW Neukölln wurde verschoben.</p>
+<p>Für die <strong>2. Mannschaft</strong> geht es erst am <strong>10. November</strong> los, das Spiel gegen <strong>SW Neukölln</strong> wurde verschoben.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -46,6 +62,21 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10210 
+<div class="post-10220 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10220">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/" rel="bookmark">Lichess Liga (R269)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/" rel="bookmark" title="11:16"><span class="entry-date">21. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Aufstieg in Liga 10!!</p>
+<div class="wp-caption alignnone" id="attachment_10221" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022.jpg"><img alt="" aria-describedby="caption-attachment-10221" class="size-large wp-image-10221" height="325" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-1024x520.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-1024x520.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-300x152.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-768x390.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022.jpg 1118w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10221"><strong>20.10.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10220 
 <div class="post-10196 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10196">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/" rel="bookmark">Pokal: Halbfinale ausgelost</a></h2>
 <div class="entry-meta">
@@ -460,51 +491,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/02/blitz-am-29-09-2022/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9995 
-<div class="post-10029 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10029">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/30/lichess-liga-r263/" rel="bookmark">Lichess Liga (R263)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/30/lichess-liga-r263/" rel="bookmark" title="8:08"><span class="entry-date">30. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10030" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga12b_29092022.jpg"><img alt="" aria-describedby="caption-attachment-10030" class="size-large wp-image-10030" height="309" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga12b_29092022-1024x495.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga12b_29092022-1024x495.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga12b_29092022-300x145.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga12b_29092022-768x371.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga12b_29092022.jpg 1152w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10030"><strong>29.09.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/30/lichess-liga-r263/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10029 
-<div class="post-9977 post type-post status-publish format-standard hentry category-openberichte" id="post-9977">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/09/26/dritter-beim-spreewaldpokal/" rel="bookmark">Dritter beim Spreewaldpokal!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/09/26/dritter-beim-spreewaldpokal/" rel="bookmark" title="19:42"><span class="entry-date">26. September 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Wahrscheinlich so schnell nicht wieder: Dritter beim Spreewaldpokal</strong></p>
-<p>Dabei hatten wir aber auch etwas Glück, viele hatten abgesagt, sodass es schließlich im Vergleich zu den früheren Jahren lediglich dreizehn teilnehmende Mannschaften gab.</p>
-<p>Vor Beginn der ersten Runde waren wir erstmal zufrieden, als bekannt wurde, dass wegen der relativ geringen Teilnehmerzahl wohl keine Mannschaft leer nach Hause fahren müsste,<br/>
-sprich jede Preise bekäme. Wir selbst hatten ja erst gedrängelt, mit zwei Mannschaften teilnehmen zu dürfen, konnten dann aber nach reihenweisen Absagen, unvermeidbar z.B. die des Schweden, der im Mannschaftsinteresse seine SchiRi-Lizenz auffrischte, froh sein, dass Peter seinen, wie er selbst sagt – »Kumpel Hoppe« – überzeugen konnte, uns zu verstärken, vielen Dank, Frank!</p>
-<p>Obwohl es am ersten Brett, <strong>Frank</strong> holte dort großartige 5,5 Punkte, sicher schwerer war als am zweiten, war unser Spieler des Tages <strong>Peter</strong>, der lediglich zwei Remis abgab.<br/>
-Im Vergleich zur Berliner Schnellschach-Mannschaftsmeisterschaft zeigte er damit<br/>
-eine riesige Performance, im Gegensatz zum <strong>Berichterstatter</strong>, der aber immerhin<br/>
-etwas beitragen konnte, davon zweimal, u.a. in einer wilden Partie gegen Rotation,<br/>
-zum knappen 2,5:1,5 sowie zum selben Ergebnis gegen USC Viadrina I.</p>
-<p>Ein etwas besseres Einzelergebnis erzielte <strong>Gerhard</strong> an Brett 4, der sicher seine Wertzahl mindestens eingestellt hat und dem es nach eigenem Bekunden – wie wohl allen von uns – viel Spaß gemacht hat.</p>
-<p><span style="text-decoration: underline;">Tragisch:</span> 2.Runde gegen Gymnasium Frankfurt: Nachdem wir an den ersten beiden<br/>
-Brettern bereits 1,5 Punkte hatten, übersah Gerhard in klarer Gewinnstellung<br/>
-ein einzügiges Matt und ich selbst verlor, nachdem ich in der Eröffnung durch<br/>
-zu schnelles schematisches Ziehen einen Figurengewinn ausgelassen hatte.</p>
-<p><span style="text-decoration: underline;">Glücklich:</span> In der drittletzten Runde gewannen wir 2,5 : 1,5 gegen Rüdersdorf, es wurde aber wohl falsch herum eingetragen, (wurde nach der Auslosung zuerst von Frank wahrgenommen und erfolgreich moniert, wäre mir aber sicher auch irgendwann aufgefallen), sodass wir in der vorletzten Runde ein sattes 4:0 spielfrei geschenkt bekamen und noch etwas Kräfte vor der letzten sammeln konnten, in der uns dann tatsächlich ein 4:0 gegen den bis dahin viertplatzierten Gastgeber gelang.</p>
-<p>Am Ende waren wir dann mit einem halben Brettpunk Rückstand auf Platz Zwei glücklicher Dritter, der Sieger war überlegen <strong>Glaskönig Döbern</strong> (gegen uns 3,5:0,5).</p>
-<p>In der Hoffnung, dass es im nächsten Jahr doch einmal mit zwei Mannschaften klappen könnte, grüßt der <strong>Berichterstatter Klaus</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-scaled.jpg"><img alt="" class="alignnone wp-image-10200 size-medium" height="300" loading="lazy" sizes="(max-width: 204px) 100vw, 204px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-204x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-204x300.jpg 204w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-697x1024.jpg 697w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-768x1128.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-1046x1536.jpg 1046w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-1394x2048.jpg 1394w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_191032-scaled.jpg 1743w" width="204"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955.jpg"><img alt="" class="alignnone wp-image-10201 size-medium" height="195" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-300x195.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-300x195.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-1024x666.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-768x499.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-1536x998.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/20221020_190955-2048x1331.jpg 2048w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/09/26/dritter-beim-spreewaldpokal/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9977 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

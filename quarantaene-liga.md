@@ -52,6 +52,34 @@ parent_title: Chronik
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10223 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10223">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/" rel="bookmark">Lichess Liga (R270)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/" rel="bookmark" title="11:20"><span class="entry-date">24. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Klassenerhalt in Liga 10, ganz knapp… Am Donnerstag dann ein Berliner Dreikampf, gegen Nord-Ost und Eckbauer!!</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10223 
+<div class="post-10220 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10220">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/" rel="bookmark">Lichess Liga (R269)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/" rel="bookmark" title="11:16"><span class="entry-date">21. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Aufstieg in Liga 10!!</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10220 
 <div class="post-10183 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10183">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/17/lichess-liga-r268/" rel="bookmark">Lichess Liga (R268)</a></h2>
 <div class="entry-meta">
@@ -289,33 +317,6 @@ parent_title: Chronik
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/19/lichess-liga-r251/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9849 
-<div class="post-9806 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9806">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/" rel="bookmark">Lichess Liga (R250)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/" rel="bookmark" title="11:12"><span class="entry-date">15. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/15/lichess-liga-r250/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9806 
-<div class="post-9789 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-9789">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/" rel="bookmark">Runde 250 Quarantäne-Liga!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/" rel="bookmark" title="15:46"><span class="entry-date">13. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Am Sonntag, 14.08., um 20:00 Uhr bestreiten wir unsere 250. Quarantäne-Liga Runde!!! Am 24.03.2020 hat das online gezocke angefangen und trotz vielen Auf und Ab sind wir noch dabei. Einige andere Vereine haben das zweimal wöchentlich stattfindende online Turnier inzwischen … <a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/08/13/runde-250-quarantaene-liga/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9789 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
