@@ -39,9 +39,24 @@ parent_title: Termine
 <td>Jonatan, Lukas</td>
 </tr>
 <tr style="height: 24px;">
+<td>Weihnachtsblitz Fredersdorf</td>
+<td>11.12.2022</td>
+<td>Mannschaft?</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/vereine/zugz/2022/winteropen22_ausschreibung_a4_2.pdf" rel="noopener" target="_blank">Winteropen 2022</a></td>
+<td>27.12.-30.12.2022</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>06.01.-08.01.2023</td>
 <td>Mannschaft?</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2022/10/OBSenEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
+<td>24.01.-01.02.2023</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
@@ -49,7 +64,7 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td>Chess Houseboat (Kerala, Indien)</td>
+<td><a href="http://www.chesshouseboat.org/" rel="noopener" target="_blank">Chess Houseboat</a> (Kerala, Indien)</td>
 <td>22.-28.01.2023</td>
 <td>Jay</td>
 </tr>

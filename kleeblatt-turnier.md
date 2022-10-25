@@ -63,6 +63,11 @@ parent_title: Turniere
 <li>Mlynarski, Milosz (SV Empor Berlin, DWZ 787)</li>
 <li>NN</li>
 <li>NN</li>
+<li>Stöckel, Johannes (SC Weisse Dame, DWZ 1722)</li>
+<li>Daum, Norman (SC Rotation Pankow, DWZ 2066)</li>
+<li>Rutschmann, Polly (Barnimer SF, DWZ 862)</li>
+<li>Reekers, Anton (SC Kreuzberg, ohne DWZ)</li>
+<li>Wadepfuhl, Jeremy (SC Borussia Lichtenberg, DWZ 1949)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
