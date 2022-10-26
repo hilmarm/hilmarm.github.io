@@ -25,6 +25,22 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10038 
+<div class="post-10238 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10238">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark">Rapid Liga (4)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark" title="11:09"><span class="entry-date">25. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der 4.Aufstieg in Folge!! Nächste Woche Liga 3!!<br/>
+Ganz stark Jungs</p>
+<div class="wp-caption alignnone" id="attachment_10239" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022.jpg"><img alt="" aria-describedby="caption-attachment-10239" class="size-large wp-image-10239" height="318" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-1024x508.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-1024x508.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-768x381.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022.jpg 1146w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10239"><strong>24.10.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10238 
 <div class="post-10223 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10223">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/" rel="bookmark">Lichess Liga (R270)</a></h2>
 <div class="entry-meta">
@@ -328,169 +344,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/02/schach-in-england-mill-hill-fide-congress/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-9998 
-<div class="post-9995 post type-post status-publish format-standard hentry category-interne-turniere" id="post-9995">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/02/blitz-am-29-09-2022/" rel="bookmark">Blitz am 29.09.2022</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/02/blitz-am-29-09-2022/" rel="bookmark" title="17:58"><span class="entry-date">2. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Als Überbrückung zu unserem <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan 2022 Teil 2</a> (endgültig erst, wenn BFL ausgelost), gab es am Donnerstag eine Blitz-Runde außer der Reihe – ohne Wertung.</p>
-<p>Einen Sieger gab es natürlich trotzdem – oder sogar 2? Der frischgebackene Blitzmeister 2022 <strong>Peter</strong> landet am Ende punktgleich mit <strong>Martin</strong> auf Platz 1, das direkte Duell endet Remis, Peter hat die etwas bessere Wertung.</p>
-<p>Platz 3 belegt ein gut aufgelegter <strong>Klaus</strong>, der im Anschluss noch Platz 1 im Team-Ranking in der Quarantäne-Liga holt. Der <strong>Präsident</strong> kam auf Platz 4.</p>
-<table class="clean swiss footable">
-<thead>
-<tr>
-<td colspan="13">Rangliste: Stand nach der 7. Runde</td>
-</tr>
-<tr bgcolor="#00FF00">
-<th>Nr.</th>
-<th>Teilnehmer</th>
-<th>TWZ</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>Punkte</th>
-<th>SoBerg</th>
-</tr>
-</thead>
-<tbody>
-<tr bgcolor="#00FFFF">
-<td>1</td>
-<td>Hintze,Peter</td>
-<td>1931</td>
-<td>**</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5.5</td>
-<td>16.75</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>2</td>
-<td>Schäfer,Martin</td>
-<td>1874</td>
-<td>½</td>
-<td>**</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>5.5</td>
-<td>14.75</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>3</td>
-<td>Brinckmann,Klaus</td>
-<td>1677</td>
-<td>0</td>
-<td>1</td>
-<td>**</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>½</td>
-<td>5.0</td>
-<td>15.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>4</td>
-<td>Mothes,Thomas</td>
-<td>1550</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>½</td>
-<td>4.0</td>
-<td>10.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>5</td>
-<td>Krüger,Ekkehard</td>
-<td>1700</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>3.0</td>
-<td>8.50</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>6</td>
-<td>Salgueiro,Felix</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>**</td>
-<td>0</td>
-<td>1</td>
-<td>2.0</td>
-<td>4.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>7</td>
-<td>Miles,Alexis</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>**</td>
-<td>1</td>
-<td>2.0</td>
-<td>3.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>8</td>
-<td>Totz,Thomas</td>
-<td>1161</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>½</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1.0</td>
-<td>4.50</td>
-</tr>
-</tbody>
-</table>
-<p>Außerdem wurden schon 2 Partien vom <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a> gespielt:<br/>
-<strong>Jonatan – Hans-Dieter 1:0</strong><br/>
-<strong>Michael – Lukas 1:0</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/02/blitz-am-29-09-2022/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9995 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

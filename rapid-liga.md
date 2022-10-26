@@ -48,6 +48,20 @@ parent_title: Chronik
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Rapid-Liga</span> </h1>
+<div class="post-10238 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10238">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark">Rapid Liga (4)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark" title="11:09"><span class="entry-date">25. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Der 4.Aufstieg in Folge!! Nächste Woche Liga 3!! Ganz stark Jungs</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10238 
 <div class="post-10176 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10176">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/rapid-liga-3/" rel="bookmark">Rapid Liga (3)</a></h2>
 <div class="entry-meta">

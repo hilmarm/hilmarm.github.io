@@ -61,13 +61,16 @@ parent_title: Turniere
 <li>Knick, Luca (SC Zitadelle Spandau, DWZ 978)</li>
 <li>Deppe, Leo (SC Bad Soden, DWZ 1933)</li>
 <li>Mlynarski, Milosz (SV Empor Berlin, DWZ 787)</li>
-<li>NN</li>
+<li>Kreisel, Alexander (SG NARVA Berlin, DWZ 1527)</li>
 <li>NN</li>
 <li>Stöckel, Johannes (SC Weisse Dame, DWZ 1722)</li>
 <li>Daum, Norman (SC Rotation Pankow, DWZ 2066)</li>
 <li>Rutschmann, Polly (Barnimer SF, DWZ 862)</li>
 <li>Reekers, Anton (SC Kreuzberg, ohne DWZ)</li>
 <li>Wadepfuhl, Jeremy (SC Borussia Lichtenberg, DWZ 1949)</li>
+<li>Beyer, Lorenz (Barnimer SF, DWZ 1916)</li>
+<li>Buzzoni, Eugenio (SF Berlin 1903, DWZ 1976)</li>
+<li>Neri, Marzia (vereinslos, ohne DWZ)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
