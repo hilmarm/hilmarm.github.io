@@ -43,7 +43,7 @@ parent_title: Termine
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Mannschaft22.pdf" rel="noopener" target="_blank">Mannschaft</a> + <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Einzel22.pdf" rel="noopener" target="_blank">Einzel</a></td>
 <td>11.12.2022</td>
 <td>Mannschaft mit<br/>
-Peter, Günter, Hans-Dieter, Bernd?</td>
+Peter, Günter, Hans-Dieter, Tomas, Bernd?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/vereine/zugz/2022/winteropen22_ausschreibung_a4_2.pdf" rel="noopener" target="_blank">Winteropen 2022</a></td>

@@ -195,7 +195,7 @@ navs:
 <tr>
 <th>24.11.2022</th>
 <td class="pokal">Pokalfinale</td>
-<td></td>
+<td>SG NARVA Hauptversammlung</td>
 </tr>
 <tr>
 <th>01.12.2022</th>

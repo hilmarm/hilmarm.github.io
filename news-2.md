@@ -8,23 +8,46 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-10038 post type-post status-publish format-standard sticky hentry category-offene-turniere" id="post-10038">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark">Kleeblatt-Turnier am 30.10.</a></h2>
+<div class="post-10154 post type-post status-publish format-standard sticky hentry category-schiedsrichter" id="post-10154">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark">VSR- und RSR-Lehrgang im November bei NARVA</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark" title="18:32"><span class="entry-date">8. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark" title="10:02"><span class="entry-date">18. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p><strong>Am 30. Oktober (einem Sonntag) wird NARVA das „Kleeblatt-Turnier“, ein Rundenturnier in 4er-Gruppen, veranstalten.</strong> Es werden Turnierpartien mit einer Bedenkzeit von 60+30 gespielt. Die Ergebnisse werden zur DWZ-Auswertung eingereicht.</p>
-<p>Die Gruppeneinteilung erfolgt, wie von vergleichbaren Turnieren (z.B. in Briesen, Ludwigsfelde, Müncheberg) bekannt, im Wesentlichen nach DWZ. Man spielt also von Anfang an gegen ähnlich starke Gegner, was das Turnier für Spieler aller Spielstärken interessant machen sollte. Es wird ein kleines Startgeld erhoben, Sachpreise für alle Teilnehmer sind vorgesehen.</p>
-<p>Ursprünglich wollten wir ein solches Turnier bereits 2020 anlässlich des 70jährigen Jubiläums unserer Schachabteilung austragen, was dann ja aus bekannten Gründen nicht möglich war. Nun werden wir es in drei Wochen nachholen. Die Zusage für die Räume haben wir inzwischen – wir spielen im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin.</p>
-<p>Eine <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier/">Turnierseite</a> habe ich eingerichtet, dort findet ihr auch die Ausschreibung und später die Teilnehmerliste und die Ergebnisse.</p>
+<p>Am 5./6. sowie 12./13. November finden die nächsten Schiedsrichterlehrgänge statt, dieses mal direkt bei uns in der Kadiner Str.!!!<br/>
+Angehende <strong>Verbandsschiedsrichter (VSR)</strong> haben ihre Termine an den beiden Sonntagen: 6. und 13. November.<br/>
+Die <strong>Regionale Schiedsrichterausbildung (RSR)</strong> findet an den drei Tagen 5./12./13. November statt.</p>
+<p>Die perfekte Gelegenheit damit wir zu mehr Schiedsrichter kommen!<br/>
+Die RSR Ausbildung kommt dabei nur für bereits bestehende Schiedsrichter in Frage (z.B. Jonatan macht das), wir würden uns aber über möglichst viele neue VSR freuen.<br/>
+Der Verein bezahlt auch die Kursgebühr!</p>
+<p><a href="https://www.berlinerschachverband.de/entry/vsr-und-rsr-lehrgang-im-november-bei-mattnetz.html" rel="noopener" target="_blank">Alle Infos auf der BSV Seite</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-10038 
+</div> #post-10154 
+<div class="post-10247 post type-post status-publish format-standard hentry category-sg-narva" id="post-10247">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/" rel="bookmark">SG NARVA Jahreshauptversammlung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/" rel="bookmark" title="19:21"><span class="entry-date">26. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der <strong>Hauptverein SG NARVA Berlin e.V.</strong> lädt zu einer außerordentlichen Jahreshauptversammlung des Vereins am <strong>Donnerstag, den 24.11.2022 um 18:30 Uhr</strong> in die Räume in der Mansarde des Rudi-Kiez-Laden ein.</p>
+<p><span style="text-decoration: underline;">Die Tagesordnung der außerordentlichen Versammlung:</span></p>
+<p><strong>TOP 1</strong> Bestätigung des Wahlergebnisses vom 31.03.2022 <em><br/>
+(*die bearbeitenden Beamten im Vereinsregister haben unsere Wahlveranstaltung in diesem Jahr moniert. Wir hatten eine „Delegiertenversammlung“ durchgeführt; und dies wird bemängelt.)</em></p>
+<p><strong>TOP 2</strong> Beauftragung des Vorstandes mit der Überarbeitung der Vereinssatzung zur Anpassung an die Beschlüsse vom 07.05.2015 (Delegiertenversammlung). Zur Jahreshauptversammlung 2023 ist diese vorzustellen und kann dann beschlossen werden.</p>
+<p>Zu diesem Teil der Veranstaltung sind alle Sportfreunde die am 24.11.2022 ordentliches Mitglied des Vereins sind und das 18. Lebensjahr vollendet haben stimmberechtigt.</p>
+<p>Mitglieder der Abteilung Schach, die daran teilnehmen möchten, Bitte um vorab Info an den Vorsitzenden-Schach.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10247 
 <div class="post-10238 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10238">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark">Rapid Liga (4)</a></h2>
 <div class="entry-meta">
@@ -111,26 +134,6 @@ Auch Tomas musste absagen, er kann auch nicht nachspielen und verliert somit kam
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10196 
-<div class="post-10154 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-10154">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark">VSR- und RSR-Lehrgang im November bei NARVA</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark" title="10:02"><span class="entry-date">18. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am 5./6. sowie 12./13. November finden die nächsten Schiedsrichterlehrgänge statt, dieses mal direkt bei uns in der Kadiner Str.!!!<br/>
-Angehende <strong>Verbandsschiedsrichter (VSR)</strong> haben ihre Termine an den beiden Sonntagen: 6. und 13. November.<br/>
-Die <strong>Regionale Schiedsrichterausbildung (RSR)</strong> findet an den drei Tagen 5./12./13. November statt.</p>
-<p>Die perfekte Gelegenheit damit wir zu mehr Schiedsrichter kommen!<br/>
-Die RSR Ausbildung kommt dabei nur für bereits bestehende Schiedsrichter in Frage (z.B. Jonatan macht das), wir würden uns aber über möglichst viele neue VSR freuen.<br/>
-Der Verein bezahlt auch die Kursgebühr!</p>
-<p><a href="https://www.berlinerschachverband.de/entry/vsr-und-rsr-lehrgang-im-november-bei-mattnetz.html" rel="noopener" target="_blank">Alle Infos auf der BSV Seite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10154 
 <div class="post-10176 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10176">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/rapid-liga-3/" rel="bookmark">Rapid Liga (3)</a></h2>
 <div class="entry-meta">
@@ -270,6 +273,23 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/09/lichess-liga-r266/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10094 
+<div class="post-10038 post type-post status-publish format-standard hentry category-offene-turniere" id="post-10038">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark">Kleeblatt-Turnier am 30.10.</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark" title="18:32"><span class="entry-date">8. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am 30. Oktober (einem Sonntag) wird NARVA das „Kleeblatt-Turnier“, ein Rundenturnier in 4er-Gruppen, veranstalten.</strong> Es werden Turnierpartien mit einer Bedenkzeit von 60+30 gespielt. Die Ergebnisse werden zur DWZ-Auswertung eingereicht.</p>
+<p>Die Gruppeneinteilung erfolgt, wie von vergleichbaren Turnieren (z.B. in Briesen, Ludwigsfelde, Müncheberg) bekannt, im Wesentlichen nach DWZ. Man spielt also von Anfang an gegen ähnlich starke Gegner, was das Turnier für Spieler aller Spielstärken interessant machen sollte. Es wird ein kleines Startgeld erhoben, Sachpreise für alle Teilnehmer sind vorgesehen.</p>
+<p>Ursprünglich wollten wir ein solches Turnier bereits 2020 anlässlich des 70jährigen Jubiläums unserer Schachabteilung austragen, was dann ja aus bekannten Gründen nicht möglich war. Nun werden wir es in drei Wochen nachholen. Die Zusage für die Räume haben wir inzwischen – wir spielen im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin.</p>
+<p>Eine <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier/">Turnierseite</a> habe ich eingerichtet, dort findet ihr auch die Ausschreibung und später die Teilnehmerliste und die Ergebnisse.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10038 
 <div class="post-10056 post type-post status-publish format-standard hentry category-allgemein category-interne-turniere" id="post-10056">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/07/pokalauslosung-und-terminplan/" rel="bookmark">Pokalauslosung und Terminplan</a></h2>
 <div class="entry-meta">
@@ -329,21 +349,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/03/lichess-liga-r264/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10032 
-<div class="post-9998 post type-post status-publish format-standard hentry category-openberichte" id="post-9998">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/02/schach-in-england-mill-hill-fide-congress/" rel="bookmark">Schach in England – Mill Hill FIDE Congress</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/02/schach-in-england-mill-hill-fide-congress/" rel="bookmark" title="20:42"><span class="entry-date">2. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auf der Suche nach einem interessanten Turnier an einem auch unabhängig vom Schach interessanten Reiseziel bin ich in England fündig geworden. Am letzten Wochenende habe ich beim <a href="https://millhillchess.blogspot.com/">Mill Hill FIDE Congress</a>, einem Turnier in London, mitgespielt. Fünf Runden, verteilt auf Samstag (3 Runden) und Sonntag (2 Runden) mit relativ kurzer Bedenkzeit (60 Minuten + 30 Sekunden Inkrement). Mit relativ spätem Turnierbeginn (Samstag 10:30, Sonntag 11 Uhr englische Zeit) und gestärkt durch ein englisches Frühstück muss es doch gut laufen, oder?<br/>
-<a class="more-link" href="https://www.narva-schach.de/wordpress/2022/10/02/schach-in-england-mill-hill-fide-congress/#more-9998">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/02/schach-in-england-mill-hill-fide-congress/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9998 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
