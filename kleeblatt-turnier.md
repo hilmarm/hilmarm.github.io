@@ -22,7 +22,7 @@ parent_title: Turniere
 <p>Am 30. Oktober 2022 tragen wir im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin, das <b>Kleeblatt-Turnier</b> 2022 aus. </p>
 <p>Das (<i>vier</i>blättrige) Kleeblatt steht dabei für die <i>Vierergruppen</i>, in denen jeweils ein DWZ-gewertetes Rundenturnier gespielt wird. Das Turnier richtet sich ausdrücklich an Spieler <i>aller</i> Spielstärken und Altersgruppen, eine Mitgliedschaft in einem Schachverein ist nicht erforderlich.</p>
 <p>Alle weiteren Informationen findet ihr in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/Kleeblatt-Turnier-2022.pdf">Ausschreibung</a>.</p>
-<div class="grtTournament" style="width:750px;">
+<div class="grtTournament">
 <style><!--.grtTournament div.grtTab.grtTabInactive {
     display:none;
 }
@@ -85,7 +85,7 @@ parent_title: Turniere
 }
 --></style>
 <h1>Kleeblatt-Turnier (Voranmeldungen)</h1>
-<p><span>30. Oktober 2022</span></p>
+<p><span>2022 Oct 30</span></p>
 <div class="grtNav"><button class="grtButtonInitial" id="grtButton_playerList" onclick="grt.activateTab('playerList');">Teilnehmerliste</button></div>
 <div class="grtTab grtTabActive" id="grtTab_playerList">
 <h2>Teilnehmerliste</h2>
@@ -103,10 +103,10 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>NN</td>
-<td>2100</td>
-<td></td>
-<td></td>
+<td>Riedel,​Hartmut</td>
+<td>2131</td>
+<td>2071</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
 <td></td>
 </tr>
 <tr>
@@ -327,14 +327,6 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>29</td>
-<td>von Kraft,​Lukas</td>
-<td>1380</td>
-<td>1461</td>
-<td>SG NARVA Berlin e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>30</td>
 <td>Schacht,​Thomas</td>
 <td>1358</td>
 <td>1521</td>
@@ -342,7 +334,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>30</td>
 <td>Pilgram,​Leonhard</td>
 <td>1354</td>
 <td>0</td>
@@ -350,7 +342,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>31</td>
 <td>Madel,​Luca</td>
 <td>1322</td>
 <td>1104</td>
@@ -358,7 +350,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>32</td>
 <td>Jiranek,​Benno</td>
 <td>1259</td>
 <td>1426</td>
@@ -366,7 +358,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>34</td>
+<td>33</td>
 <td>Schmidt,​Jossip</td>
 <td>1211</td>
 <td>0</td>
@@ -374,7 +366,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>34</td>
 <td>Christen,​Jan</td>
 <td>1210</td>
 <td>0</td>
@@ -382,7 +374,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>35</td>
 <td>Alali Alkath,​Youssef</td>
 <td>1199</td>
 <td>0</td>
@@ -390,7 +382,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>37</td>
+<td>36</td>
 <td>Zimmer,​Lennard</td>
 <td>1160</td>
 <td>0</td>
@@ -398,7 +390,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>38</td>
+<td>37</td>
 <td>Brühl,​Gundula</td>
 <td>1109</td>
 <td>0</td>
@@ -406,7 +398,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>39</td>
+<td>38</td>
 <td>Knick,​Luca</td>
 <td>978</td>
 <td>0</td>
@@ -414,7 +406,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>39</td>
 <td>Rutschmann,​Polly</td>
 <td>862</td>
 <td>0</td>
@@ -422,7 +414,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>41</td>
+<td>40</td>
 <td>Bayer,​Klara</td>
 <td>837</td>
 <td>0</td>
@@ -430,7 +422,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>42</td>
+<td>41</td>
 <td>Madel,​Tim</td>
 <td>805</td>
 <td>0</td>
@@ -438,7 +430,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>43</td>
+<td>42</td>
 <td>Mlynarski,​Milosz</td>
 <td>787</td>
 <td>0</td>
@@ -446,7 +438,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>44</td>
+<td>43</td>
 <td>Sakalli,​Selcuk Orkun</td>
 <td>0</td>
 <td>0</td>
@@ -454,7 +446,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>45</td>
+<td>44</td>
 <td>Wallat,​Alisha Lara</td>
 <td>0</td>
 <td>0</td>
@@ -462,7 +454,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>46</td>
+<td>45</td>
 <td>Makkoth,​Jayasurian</td>
 <td>0</td>
 <td>0</td>
@@ -470,7 +462,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>47</td>
+<td>46</td>
 <td>Reekers,​Anton</td>
 <td>0</td>
 <td>0</td>
@@ -478,11 +470,19 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>48</td>
+<td>47</td>
 <td>Neri,​Marzia</td>
 <td>0</td>
 <td>0</td>
 <td>ohne Verein</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Sandler,​Lieven</td>
+<td>0</td>
+<td>0</td>
+<td>Ludwigsfelder Schachclub 54</td>
 <td></td>
 </tr>
 </tbody>
@@ -528,7 +528,7 @@ grt.activateTab = function(id) {
 </script></p></div>
 <h3>Warteliste</h3>
 <ol>
-<li>…</li>
+<li>Salgueiro, Felix (SG NARVA Berlin)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
