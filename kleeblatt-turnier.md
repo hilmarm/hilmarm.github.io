@@ -143,14 +143,6 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>6</td>
-<td>Wadepfuhl,​Jeremy</td>
-<td>1949</td>
-<td>1780</td>
-<td>SC Borussia Lichtenberg</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
 <td>Deppe,​Leo</td>
 <td>1933</td>
 <td>1980</td>
@@ -158,7 +150,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>7</td>
 <td>Hintze,​Peter</td>
 <td>1931</td>
 <td>2081</td>
@@ -166,7 +158,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>8</td>
 <td>Beyer,​Lorenz</td>
 <td>1916</td>
 <td>1883</td>
@@ -174,7 +166,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>9</td>
 <td>Sundui,​Chinguun</td>
 <td>1879</td>
 <td>1773</td>
@@ -182,7 +174,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>10</td>
 <td>Beyer,​Clemens</td>
 <td>1777</td>
 <td>1768</td>
@@ -190,7 +182,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>11</td>
 <td>Villuela,​Roberto</td>
 <td>1773</td>
 <td>1729</td>
@@ -198,7 +190,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>12</td>
 <td>Zimmer,​Michel</td>
 <td>1723</td>
 <td>1765</td>
@@ -206,7 +198,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>13</td>
 <td>Stöckel,​Johannes</td>
 <td>1722</td>
 <td>1730</td>
@@ -214,7 +206,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>14</td>
 <td>Bleicher,​Eiko</td>
 <td>1721</td>
 <td>1759</td>
@@ -222,7 +214,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>15</td>
 <td>Hildebrand,​Katrin</td>
 <td>1649</td>
 <td>0</td>
@@ -230,7 +222,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>16</td>
 <td>Kinski,​Andreas</td>
 <td>1617</td>
 <td>1626</td>
@@ -238,7 +230,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>17</td>
 <td>Müller,​Johannes</td>
 <td>1617</td>
 <td>1652</td>
@@ -246,7 +238,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>18</td>
 <td>Lehmann,​Michael</td>
 <td>1591</td>
 <td>1616</td>
@@ -254,7 +246,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>19</td>
 <td>Sundui,​Baatarjav</td>
 <td>1571</td>
 <td>1611</td>
@@ -262,7 +254,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>20</td>
 <td>Reichert,​Lutz</td>
 <td>1542</td>
 <td>1612</td>
@@ -270,7 +262,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>21</td>
 <td>Kreisel,​Alexander</td>
 <td>1527</td>
 <td>0</td>
@@ -278,7 +270,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>22</td>
 <td>Kellner,​Rene</td>
 <td>1524</td>
 <td>1538</td>
@@ -286,7 +278,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>23</td>
 <td>Schrodt,​Horst</td>
 <td>1496</td>
 <td>1726</td>
@@ -294,7 +286,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>24</td>
 <td>Kalkowski,​Thomas</td>
 <td>0</td>
 <td>1467</td>
@@ -302,7 +294,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>25</td>
 <td>Döpmann,​Christoph</td>
 <td>1445</td>
 <td>1549</td>
@@ -310,7 +302,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>26</td>
 <td>Köppen,​Ilja</td>
 <td>1444</td>
 <td>1511</td>
@@ -318,7 +310,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>27</td>
 <td>Krawczyk,​Harald</td>
 <td>1413</td>
 <td>1647</td>
@@ -326,7 +318,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>28</td>
 <td>Schacht,​Thomas</td>
 <td>1358</td>
 <td>1521</td>
@@ -334,7 +326,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>29</td>
 <td>Pilgram,​Leonhard</td>
 <td>1354</td>
 <td>0</td>
@@ -342,7 +334,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>31</td>
+<td>30</td>
 <td>Madel,​Luca</td>
 <td>1322</td>
 <td>1104</td>
@@ -350,7 +342,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>32</td>
+<td>31</td>
 <td>Jiranek,​Benno</td>
 <td>1259</td>
 <td>1426</td>
@@ -358,7 +350,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>32</td>
 <td>Schmidt,​Jossip</td>
 <td>1211</td>
 <td>0</td>
@@ -366,7 +358,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>34</td>
+<td>33</td>
 <td>Christen,​Jan</td>
 <td>1210</td>
 <td>0</td>
@@ -374,7 +366,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>35</td>
+<td>34</td>
 <td>Alali Alkath,​Youssef</td>
 <td>1199</td>
 <td>0</td>
@@ -382,7 +374,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>36</td>
+<td>35</td>
 <td>Zimmer,​Lennard</td>
 <td>1160</td>
 <td>0</td>
@@ -390,7 +382,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>37</td>
+<td>36</td>
 <td>Brühl,​Gundula</td>
 <td>1109</td>
 <td>0</td>
@@ -398,7 +390,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>38</td>
+<td>37</td>
 <td>Knick,​Luca</td>
 <td>978</td>
 <td>0</td>
@@ -406,7 +398,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>39</td>
+<td>38</td>
 <td>Rutschmann,​Polly</td>
 <td>862</td>
 <td>0</td>
@@ -414,7 +406,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>40</td>
+<td>39</td>
 <td>Bayer,​Klara</td>
 <td>837</td>
 <td>0</td>
@@ -422,7 +414,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>41</td>
+<td>40</td>
 <td>Madel,​Tim</td>
 <td>805</td>
 <td>0</td>
@@ -430,7 +422,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>42</td>
+<td>41</td>
 <td>Mlynarski,​Milosz</td>
 <td>787</td>
 <td>0</td>
@@ -438,7 +430,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>43</td>
+<td>42</td>
 <td>Sakalli,​Selcuk Orkun</td>
 <td>0</td>
 <td>0</td>
@@ -446,7 +438,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>44</td>
+<td>43</td>
 <td>Wallat,​Alisha Lara</td>
 <td>0</td>
 <td>0</td>
@@ -454,7 +446,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>45</td>
+<td>44</td>
 <td>Makkoth,​Jayasurian</td>
 <td>0</td>
 <td>0</td>
@@ -462,7 +454,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>46</td>
+<td>45</td>
 <td>Reekers,​Anton</td>
 <td>0</td>
 <td>0</td>
@@ -470,7 +462,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>47</td>
+<td>46</td>
 <td>Neri,​Marzia</td>
 <td>0</td>
 <td>0</td>
@@ -478,11 +470,19 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>48</td>
+<td>47</td>
 <td>Sandler,​Lieven</td>
 <td>0</td>
 <td>0</td>
 <td>Ludwigsfelder Schachclub 54</td>
+<td></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Salgueiro,​Felix</td>
+<td>0</td>
+<td>0</td>
+<td>SG NARVA Berlin e.V.</td>
 <td></td>
 </tr>
 </tbody>
@@ -528,7 +528,7 @@ grt.activateTab = function(id) {
 </script></p></div>
 <h3>Warteliste</h3>
 <ol>
-<li>Salgueiro, Felix (SG NARVA Berlin)</li>
+<li>Lane, Hakan (Barnimer SF)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
