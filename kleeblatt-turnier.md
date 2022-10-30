@@ -84,12 +84,12 @@ parent_title: Turniere
     color:#0000FF;
 }
 --></style>
-<h1>Kleeblatt-Turnier (Voranmeldungen)</h1>
+<h1>Kleeblatt-Turnier</h1>
 <p><span>2022 Oct 30</span></p>
-<div class="grtNav"><button class="grtButtonInitial" id="grtButton_playerList" onclick="grt.activateTab('playerList');">Teilnehmerliste</button></div>
+<div class="grtNav"><button class="grtButtonInitial" id="grtButton_playerList" onclick="grt.activateTab('playerList');">Teilnehmerliste</button><button class="grtButtonInactive" id="grtButton_67748356-a870-4ef8-a371-72ad7a4cc62d" onclick="grt.activateTab('67748356-a870-4ef8-a371-72ad7a4cc62d');">Gruppe Steinitz</button><button class="grtButtonInactive" id="grtButton_14ea7402-530b-460a-a305-9877841f2d34" onclick="grt.activateTab('14ea7402-530b-460a-a305-9877841f2d34');">Gruppe Lasker</button><button class="grtButtonInactive" id="grtButton_799481f5-5b3b-4f1b-9202-10d7d27e0999" onclick="grt.activateTab('799481f5-5b3b-4f1b-9202-10d7d27e0999');">Gruppe Botwinnik</button><button class="grtButtonInactive" id="grtButton_c24eacb9-fa39-4d5d-b5f1-d5cb71c034e8" onclick="grt.activateTab('c24eacb9-fa39-4d5d-b5f1-d5cb71c034e8');">Gruppe Aljechin</button><button class="grtButtonInactive" id="grtButton_97300d3e-1c11-45a3-9147-49c2e9bb5a31" onclick="grt.activateTab('97300d3e-1c11-45a3-9147-49c2e9bb5a31');">Gruppe Tarrasch</button><button class="grtButtonInactive" id="grtButton_d92c1d41-ed5d-4c53-ab97-fe9e51d52f57" onclick="grt.activateTab('d92c1d41-ed5d-4c53-ab97-fe9e51d52f57');">Gruppe Capablanca</button><button class="grtButtonInactive" id="grtButton_f3167422-e957-49d8-bf71-ca2249bd8d39" onclick="grt.activateTab('f3167422-e957-49d8-bf71-ca2249bd8d39');">Gruppe Petrosjan</button><button class="grtButtonInactive" id="grtButton_c16e1cb7-ce1b-4466-a47c-28d10c5f6150" onclick="grt.activateTab('c16e1cb7-ce1b-4466-a47c-28d10c5f6150');">Gruppe Philidor</button><button class="grtButtonInactive" id="grtButton_c8510f16-4c68-45d1-a840-4a5b72cc6ebc" onclick="grt.activateTab('c8510f16-4c68-45d1-a840-4a5b72cc6ebc');">Gruppe Greco</button><button class="grtButtonInactive" id="grtButton_d3733bd2-5135-4f66-aef8-4d499f24cf3d" onclick="grt.activateTab('d3733bd2-5135-4f66-aef8-4d499f24cf3d');">Gruppe Smyslow</button><button class="grtButtonInactive" id="grtButton_3bebe34c-29de-47e1-a794-2b57d296908c" onclick="grt.activateTab('3bebe34c-29de-47e1-a794-2b57d296908c');">Gruppe Anderssen</button><button class="grtButtonInactive" id="grtButton_3977fcd9-f284-4b0a-aea7-93d7cb1f6835" onclick="grt.activateTab('3977fcd9-f284-4b0a-aea7-93d7cb1f6835');">Gruppe Damiano</button></div>
 <div class="grtTab grtTabActive" id="grtTab_playerList">
 <h2>Teilnehmerliste</h2>
-<table class="grtTable grtPlayerList clean swiss footable">
+<table class="grtTable grtPlayerList clean swiss">
 <thead>
 <tr>
 <th data-type="numeric">Nr</th>
@@ -107,7 +107,7 @@ parent_title: Turniere
 <td>2131</td>
 <td>2071</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
-<td></td>
+<td>Gruppe Steinitz</td>
 </tr>
 <tr>
 <td>2</td>
@@ -115,7 +115,7 @@ parent_title: Turniere
 <td>2066</td>
 <td>2138</td>
 <td>SC Rotation Pankow e.V.</td>
-<td></td>
+<td>Gruppe Steinitz</td>
 </tr>
 <tr>
 <td>3</td>
@@ -123,7 +123,7 @@ parent_title: Turniere
 <td>2035</td>
 <td>1994</td>
 <td>SV 03/25 Koblenz </td>
-<td></td>
+<td>Gruppe Steinitz</td>
 </tr>
 <tr>
 <td>4</td>
@@ -131,327 +131,327 @@ parent_title: Turniere
 <td>2014</td>
 <td>2080</td>
 <td>SC Kreuzberg e.V.</td>
-<td></td>
+<td>Gruppe Steinitz</td>
 </tr>
 <tr>
 <td>5</td>
+<td>Lane,​Hakan</td>
+<td>2004</td>
+<td>2017</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>Gruppe Lasker</td>
+</tr>
+<tr>
+<td>6</td>
 <td>Buzzoni,​Eugenio</td>
 <td>1976</td>
 <td>0</td>
 <td>Schachfreunde Berlin 1903 e.V.</td>
-<td></td>
+<td>Gruppe Lasker</td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
+<td>Nguyen,​Phuc Nhat</td>
+<td>1962</td>
+<td>2046</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>Gruppe Lasker</td>
+</tr>
+<tr>
+<td>8</td>
 <td>Deppe,​Leo</td>
 <td>1933</td>
 <td>1980</td>
 <td>SC Bad Soden</td>
-<td></td>
+<td>Gruppe Botwinnik</td>
 </tr>
 <tr>
-<td>7</td>
+<td>9</td>
 <td>Hintze,​Peter</td>
 <td>1931</td>
 <td>2081</td>
 <td>SG NARVA Berlin e.V.</td>
-<td></td>
+<td>Gruppe Botwinnik</td>
 </tr>
 <tr>
-<td>8</td>
+<td>10</td>
 <td>Beyer,​Lorenz</td>
 <td>1916</td>
 <td>1883</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
+<td>Gruppe Lasker</td>
 </tr>
 <tr>
-<td>9</td>
+<td>11</td>
 <td>Sundui,​Chinguun</td>
-<td>1879</td>
+<td>1835</td>
 <td>1773</td>
 <td>TSG Oberschöneweide e.V.</td>
-<td></td>
+<td>Gruppe Botwinnik</td>
 </tr>
 <tr>
-<td>10</td>
+<td>12</td>
 <td>Beyer,​Clemens</td>
 <td>1777</td>
 <td>1768</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
+<td>Gruppe Botwinnik</td>
 </tr>
 <tr>
-<td>11</td>
+<td>13</td>
 <td>Villuela,​Roberto</td>
 <td>1773</td>
 <td>1729</td>
 <td>SC Friesen Lichtenberg e.V.</td>
-<td></td>
+<td>Gruppe Aljechin</td>
 </tr>
 <tr>
-<td>12</td>
+<td>14</td>
+<td>Stöckel,​Johannes</td>
+<td>1744</td>
+<td>1730</td>
+<td>SC Weisse Dame e.V.</td>
+<td>Gruppe Aljechin</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Fitzke,​Ulrich</td>
+<td>1740</td>
+<td>1800</td>
+<td>Deutsche Bahn</td>
+<td>Gruppe Aljechin</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Kuban,​Andreas</td>
+<td>1732</td>
+<td>1727</td>
+<td>SG Weißensee 49 e.V.</td>
+<td>Gruppe Aljechin</td>
+</tr>
+<tr>
+<td>17</td>
 <td>Zimmer,​Michel</td>
 <td>1723</td>
 <td>1765</td>
 <td>Ludwigsfelder Schachclub 54</td>
-<td></td>
+<td>Gruppe Tarrasch</td>
 </tr>
 <tr>
-<td>13</td>
-<td>Stöckel,​Johannes</td>
-<td>1722</td>
-<td>1730</td>
-<td>SC Weisse Dame e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>14</td>
+<td>18</td>
 <td>Bleicher,​Eiko</td>
 <td>1721</td>
 <td>1759</td>
 <td>SK CAISSA Hermsdorf-Frohnau</td>
-<td></td>
+<td>Gruppe Tarrasch</td>
 </tr>
 <tr>
-<td>15</td>
-<td>Hildebrand,​Katrin</td>
-<td>1649</td>
-<td>0</td>
-<td>SG NARVA Berlin e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>16</td>
-<td>Kinski,​Andreas</td>
-<td>1617</td>
-<td>1626</td>
-<td>SG NARVA Berlin e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>17</td>
+<td>19</td>
 <td>Müller,​Johannes</td>
 <td>1617</td>
 <td>1652</td>
 <td>SC Eintracht Berlin e.V.</td>
-<td></td>
+<td>Gruppe Capablanca</td>
 </tr>
 <tr>
-<td>18</td>
+<td>20</td>
+<td>Kinski,​Andreas</td>
+<td>1617</td>
+<td>1626</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>Gruppe Tarrasch</td>
+</tr>
+<tr>
+<td>21</td>
 <td>Lehmann,​Michael</td>
 <td>1591</td>
 <td>1616</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
-<td></td>
+<td>Gruppe Tarrasch</td>
 </tr>
 <tr>
-<td>19</td>
+<td>22</td>
 <td>Sundui,​Baatarjav</td>
 <td>1571</td>
 <td>1611</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
-<td></td>
+<td>Gruppe Capablanca</td>
 </tr>
 <tr>
-<td>20</td>
+<td>23</td>
 <td>Reichert,​Lutz</td>
 <td>1542</td>
 <td>1612</td>
 <td>SV Königsjäger Süd-West e.V.</td>
-<td></td>
+<td>Gruppe Capablanca</td>
 </tr>
 <tr>
-<td>21</td>
+<td>24</td>
 <td>Kreisel,​Alexander</td>
 <td>1527</td>
 <td>0</td>
 <td>SG NARVA Berlin e.V.</td>
-<td></td>
+<td>Gruppe Capablanca</td>
 </tr>
 <tr>
-<td>22</td>
+<td>25</td>
 <td>Kellner,​Rene</td>
 <td>1524</td>
 <td>1538</td>
 <td>Potsdamer SV Mitte e.V.</td>
-<td></td>
+<td>Gruppe Petrosjan</td>
 </tr>
 <tr>
-<td>23</td>
+<td>26</td>
 <td>Schrodt,​Horst</td>
 <td>1496</td>
 <td>1726</td>
 <td>SC Eintracht Berlin e.V.</td>
-<td></td>
+<td>Gruppe Petrosjan</td>
 </tr>
 <tr>
-<td>24</td>
+<td>27</td>
 <td>Kalkowski,​Thomas</td>
 <td>0</td>
 <td>1467</td>
 <td>BA Tempelhof</td>
-<td></td>
+<td>Gruppe Philidor</td>
 </tr>
 <tr>
-<td>25</td>
+<td>28</td>
 <td>Döpmann,​Christoph</td>
 <td>1445</td>
 <td>1549</td>
 <td>Schachfreunde Nordost Berlin</td>
-<td></td>
+<td>Gruppe Philidor</td>
 </tr>
 <tr>
-<td>26</td>
+<td>29</td>
 <td>Köppen,​Ilja</td>
 <td>1444</td>
 <td>1511</td>
 <td>BSV 63 Chemie Weißensee</td>
-<td></td>
+<td>Gruppe Petrosjan</td>
 </tr>
 <tr>
-<td>27</td>
+<td>30</td>
 <td>Krawczyk,​Harald</td>
 <td>1413</td>
 <td>1647</td>
 <td>SG Rot-Weiß Neuenhagen</td>
-<td></td>
+<td>Gruppe Philidor</td>
 </tr>
 <tr>
-<td>28</td>
+<td>31</td>
 <td>Schacht,​Thomas</td>
 <td>1358</td>
 <td>1521</td>
 <td>BSV 63 Chemie Weißensee</td>
-<td></td>
+<td>Gruppe Greco</td>
 </tr>
 <tr>
-<td>29</td>
+<td>32</td>
 <td>Pilgram,​Leonhard</td>
 <td>1354</td>
 <td>0</td>
 <td>SC Kreuzberg e.V.</td>
-<td></td>
+<td>Gruppe Philidor</td>
 </tr>
 <tr>
-<td>30</td>
+<td>33</td>
 <td>Madel,​Luca</td>
 <td>1322</td>
 <td>1104</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
+<td>Gruppe Greco</td>
 </tr>
 <tr>
-<td>31</td>
+<td>34</td>
+<td>Eichstädt,​Torsten</td>
+<td>1261</td>
+<td>1391</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>Gruppe Greco</td>
+</tr>
+<tr>
+<td>35</td>
 <td>Jiranek,​Benno</td>
 <td>1259</td>
 <td>1426</td>
 <td>SC Kreuzberg e.V.</td>
-<td></td>
+<td>Gruppe Smyslow</td>
 </tr>
 <tr>
-<td>32</td>
+<td>36</td>
 <td>Schmidt,​Jossip</td>
 <td>1211</td>
 <td>0</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
+<td>Gruppe Smyslow</td>
 </tr>
 <tr>
-<td>33</td>
+<td>37</td>
 <td>Christen,​Jan</td>
 <td>1210</td>
 <td>0</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
+<td>Gruppe Greco</td>
 </tr>
 <tr>
-<td>34</td>
+<td>38</td>
 <td>Alali Alkath,​Youssef</td>
-<td>1199</td>
+<td>1170</td>
 <td>0</td>
 <td>SC Eintracht Berlin e.V.</td>
-<td></td>
+<td>Gruppe Anderssen</td>
 </tr>
 <tr>
-<td>35</td>
+<td>39</td>
 <td>Zimmer,​Lennard</td>
 <td>1160</td>
 <td>0</td>
 <td>Ludwigsfelder Schachclub 54</td>
-<td></td>
+<td>Gruppe Anderssen</td>
 </tr>
 <tr>
-<td>36</td>
-<td>Brühl,​Gundula</td>
-<td>1109</td>
-<td>0</td>
-<td>BSV 63 Chemie Weißensee</td>
-<td></td>
-</tr>
-<tr>
-<td>37</td>
+<td>40</td>
 <td>Knick,​Luca</td>
 <td>978</td>
 <td>0</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
-<td></td>
+<td>Gruppe Damiano</td>
 </tr>
 <tr>
-<td>38</td>
+<td>41</td>
 <td>Rutschmann,​Polly</td>
 <td>862</td>
 <td>0</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
+<td>Gruppe Damiano</td>
 </tr>
 <tr>
-<td>39</td>
+<td>42</td>
 <td>Bayer,​Klara</td>
-<td>837</td>
+<td>830</td>
 <td>0</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
-<td></td>
+<td>Gruppe Damiano</td>
 </tr>
 <tr>
-<td>40</td>
+<td>43</td>
 <td>Madel,​Tim</td>
 <td>805</td>
 <td>0</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>41</td>
-<td>Mlynarski,​Milosz</td>
-<td>787</td>
-<td>0</td>
-<td>SV Empor Berlin e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>42</td>
-<td>Sakalli,​Selcuk Orkun</td>
-<td>0</td>
-<td>0</td>
-<td>SC Zugzwang 95 e.V.</td>
-<td></td>
-</tr>
-<tr>
-<td>43</td>
-<td>Wallat,​Alisha Lara</td>
-<td>0</td>
-<td>0</td>
-<td>SC Kreuzberg e.V.</td>
-<td></td>
+<td>Gruppe Damiano</td>
 </tr>
 <tr>
 <td>44</td>
-<td>Makkoth,​Jayasurian</td>
+<td>Mlynarski,​Milosz</td>
+<td>786</td>
 <td>0</td>
-<td>0</td>
-<td>SG NARVA Berlin e.V.</td>
-<td></td>
+<td>SV Empor Berlin e.V.</td>
+<td>Gruppe Damiano</td>
 </tr>
 <tr>
 <td>45</td>
@@ -459,31 +459,1824 @@ parent_title: Turniere
 <td>0</td>
 <td>0</td>
 <td>SC Kreuzberg e.V.</td>
-<td></td>
+<td>Gruppe Smyslow</td>
 </tr>
 <tr>
 <td>46</td>
-<td>Neri,​Marzia</td>
-<td>0</td>
-<td>0</td>
-<td>ohne Verein</td>
-<td></td>
-</tr>
-<tr>
-<td>47</td>
 <td>Sandler,​Lieven</td>
 <td>0</td>
 <td>0</td>
 <td>Ludwigsfelder Schachclub 54</td>
-<td></td>
+<td>Gruppe Smyslow</td>
+</tr>
+<tr>
+<td>47</td>
+<td>Wallat,​Alisha Lara</td>
+<td>0</td>
+<td>0</td>
+<td>SC Kreuzberg e.V.</td>
+<td>Gruppe Damiano</td>
 </tr>
 <tr>
 <td>48</td>
+<td>Neri,​Marzia</td>
+<td>0</td>
+<td>0</td>
+<td>ohne Verein</td>
+<td>Gruppe Anderssen</td>
+</tr>
+<tr>
+<td>49</td>
 <td>Salgueiro,​Felix</td>
 <td>0</td>
 <td>0</td>
 <td>SG NARVA Berlin e.V.</td>
-<td></td>
+<td>Gruppe Anderssen</td>
+</tr>
+<tr>
+<td>50</td>
+<td>Heinrich,​Hubertus Johannes</td>
+<td>0</td>
+<td>0</td>
+<td>ohne Verein</td>
+<td>Gruppe Petrosjan</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_67748356-a870-4ef8-a371-72ad7a4cc62d">
+<h1>Gruppe Steinitz</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Petersen,​Henrik</td>
+<td>SV 03/25 Koblenz </td>
+<td>2035</td>
+<td>1994</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Bolk,​Matthias</td>
+<td>SC Kreuzberg e.V.</td>
+<td>2014</td>
+<td>2080</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Daum,​Norman</td>
+<td>SC Rotation Pankow e.V.</td>
+<td>2066</td>
+<td>2138</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Riedel,​Hartmut</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>2131</td>
+<td>2071</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Riedel,Hartmut</td>
+<td> – </td>
+<td>Petersen,Henrik</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bolk,Matthias</td>
+<td> – </td>
+<td>Daum,Norman</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Daum,Norman</td>
+<td> – </td>
+<td>Riedel,Hartmut</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Petersen,Henrik</td>
+<td> – </td>
+<td>Bolk,Matthias</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Riedel,Hartmut</td>
+<td> – </td>
+<td>Bolk,Matthias</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Daum,Norman</td>
+<td> – </td>
+<td>Petersen,Henrik</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_14ea7402-530b-460a-a305-9877841f2d34">
+<h1>Gruppe Lasker</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Lane,​Hakan</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>2004</td>
+<td>2017</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Buzzoni,​Eugenio</td>
+<td>Schachfreunde Berlin 1903 e.V.</td>
+<td>1976</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Nguyen,​Phuc Nhat</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1962</td>
+<td>2046</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Beyer,​Lorenz</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1916</td>
+<td>1883</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Beyer,Lorenz</td>
+<td> – </td>
+<td>Lane,Hakan</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Buzzoni,Eugenio</td>
+<td> – </td>
+<td>Nguyen,Phuc Nhat</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Nguyen,Phuc Nhat</td>
+<td> – </td>
+<td>Beyer,Lorenz</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Lane,Hakan</td>
+<td> – </td>
+<td>Buzzoni,Eugenio</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Beyer,Lorenz</td>
+<td> – </td>
+<td>Buzzoni,Eugenio</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Nguyen,Phuc Nhat</td>
+<td> – </td>
+<td>Lane,Hakan</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_799481f5-5b3b-4f1b-9202-10d7d27e0999">
+<h1>Gruppe Botwinnik</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sundui,​Chinguun</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1835</td>
+<td>1773</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Deppe,​Leo</td>
+<td>SC Bad Soden</td>
+<td>1933</td>
+<td>1980</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Hintze,​Peter</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1931</td>
+<td>2081</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Beyer,​Clemens</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1777</td>
+<td>1768</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Beyer,Clemens</td>
+<td> – </td>
+<td>Sundui,Chinguun</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Deppe,Leo</td>
+<td> – </td>
+<td>Hintze,Peter</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Hintze,Peter</td>
+<td> – </td>
+<td>Beyer,Clemens</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sundui,Chinguun</td>
+<td> – </td>
+<td>Deppe,Leo</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Beyer,Clemens</td>
+<td> – </td>
+<td>Deppe,Leo</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Hintze,Peter</td>
+<td> – </td>
+<td>Sundui,Chinguun</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_c24eacb9-fa39-4d5d-b5f1-d5cb71c034e8">
+<h1>Gruppe Aljechin</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Villuela,​Roberto</td>
+<td>SC Friesen Lichtenberg e.V.</td>
+<td>1773</td>
+<td>1729</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Stöckel,​Johannes</td>
+<td>SC Weisse Dame e.V.</td>
+<td>1744</td>
+<td>1730</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Fitzke,​Ulrich</td>
+<td>Deutsche Bahn</td>
+<td>1740</td>
+<td>1800</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Kuban,​Andreas</td>
+<td>SG Weißensee 49 e.V.</td>
+<td>1732</td>
+<td>1727</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Kuban,Andreas</td>
+<td> – </td>
+<td>Villuela,Roberto</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Stöckel,Johannes</td>
+<td> – </td>
+<td>Fitzke,Ulrich</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Fitzke,Ulrich</td>
+<td> – </td>
+<td>Kuban,Andreas</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Villuela,Roberto</td>
+<td> – </td>
+<td>Stöckel,Johannes</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Kuban,Andreas</td>
+<td> – </td>
+<td>Stöckel,Johannes</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fitzke,Ulrich</td>
+<td> – </td>
+<td>Villuela,Roberto</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_97300d3e-1c11-45a3-9147-49c2e9bb5a31">
+<h1>Gruppe Tarrasch</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Kinski,​Andreas</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1617</td>
+<td>1626</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Lehmann,​Michael</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>1591</td>
+<td>1616</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Zimmer,​Michel</td>
+<td>Ludwigsfelder Schachclub 54</td>
+<td>1723</td>
+<td>1765</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Bleicher,​Eiko</td>
+<td>SK CAISSA Hermsdorf-Frohnau</td>
+<td>1721</td>
+<td>1759</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Bleicher,Eiko</td>
+<td> – </td>
+<td>Kinski,Andreas</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Lehmann,Michael</td>
+<td> – </td>
+<td>Zimmer,Michel</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Zimmer,Michel</td>
+<td> – </td>
+<td>Bleicher,Eiko</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Kinski,Andreas</td>
+<td> – </td>
+<td>Lehmann,Michael</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Bleicher,Eiko</td>
+<td> – </td>
+<td>Lehmann,Michael</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zimmer,Michel</td>
+<td> – </td>
+<td>Kinski,Andreas</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_d92c1d41-ed5d-4c53-ab97-fe9e51d52f57">
+<h1>Gruppe Capablanca</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Müller,​Johannes</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1617</td>
+<td>1652</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Reichert,​Lutz</td>
+<td>SV Königsjäger Süd-West e.V.</td>
+<td>1542</td>
+<td>1612</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Kreisel,​Alexander</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1527</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sundui,​Baatarjav</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>1571</td>
+<td>1611</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sundui,Baatarjav</td>
+<td> – </td>
+<td>Müller,Johannes</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Reichert,Lutz</td>
+<td> – </td>
+<td>Kreisel,Alexander</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Kreisel,Alexander</td>
+<td> – </td>
+<td>Sundui,Baatarjav</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Müller,Johannes</td>
+<td> – </td>
+<td>Reichert,Lutz</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Sundui,Baatarjav</td>
+<td> – </td>
+<td>Reichert,Lutz</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Kreisel,Alexander</td>
+<td> – </td>
+<td>Müller,Johannes</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_f3167422-e957-49d8-bf71-ca2249bd8d39">
+<h1>Gruppe Petrosjan</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Heinrich,​Hubertus Johannes</td>
+<td>ohne Verein</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Schrodt,​Horst</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1496</td>
+<td>1726</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Kellner,​Rene</td>
+<td>Potsdamer SV Mitte e.V.</td>
+<td>1524</td>
+<td>1538</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Köppen,​Ilja</td>
+<td>BSV 63 Chemie Weißensee</td>
+<td>1444</td>
+<td>1511</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Köppen,Ilja</td>
+<td> – </td>
+<td>Heinrich,Hubertus Johannes</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Schrodt,Horst</td>
+<td> – </td>
+<td>Kellner,Rene</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Kellner,Rene</td>
+<td> – </td>
+<td>Köppen,Ilja</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Heinrich,Hubertus Johannes</td>
+<td> – </td>
+<td>Schrodt,Horst</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Köppen,Ilja</td>
+<td> – </td>
+<td>Schrodt,Horst</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Kellner,Rene</td>
+<td> – </td>
+<td>Heinrich,Hubertus Johannes</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_c16e1cb7-ce1b-4466-a47c-28d10c5f6150">
+<h1>Gruppe Philidor</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Döpmann,​Christoph</td>
+<td>Schachfreunde Nordost Berlin</td>
+<td>1445</td>
+<td>1549</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Kalkowski,​Thomas</td>
+<td>BA Tempelhof</td>
+<td>0</td>
+<td>1467</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Pilgram,​Leonhard</td>
+<td>SC Kreuzberg e.V.</td>
+<td>1354</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Krawczyk,​Harald</td>
+<td>SG Rot-Weiß Neuenhagen</td>
+<td>1413</td>
+<td>1647</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Krawczyk,Harald</td>
+<td> – </td>
+<td>Döpmann,Christoph</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Kalkowski,Thomas</td>
+<td> – </td>
+<td>Pilgram,Leonhard</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Pilgram,Leonhard</td>
+<td> – </td>
+<td>Krawczyk,Harald</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Döpmann,Christoph</td>
+<td> – </td>
+<td>Kalkowski,Thomas</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Krawczyk,Harald</td>
+<td> – </td>
+<td>Kalkowski,Thomas</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pilgram,Leonhard</td>
+<td> – </td>
+<td>Döpmann,Christoph</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_c8510f16-4c68-45d1-a840-4a5b72cc6ebc">
+<h1>Gruppe Greco</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Eichstädt,​Torsten</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1261</td>
+<td>1391</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Christen,​Jan</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1210</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Madel,​Luca</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1322</td>
+<td>1104</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Schacht,​Thomas</td>
+<td>BSV 63 Chemie Weißensee</td>
+<td>1358</td>
+<td>1521</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Schacht,Thomas</td>
+<td> – </td>
+<td>Eichstädt,Torsten</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Christen,Jan</td>
+<td> – </td>
+<td>Madel,Luca</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Madel,Luca</td>
+<td> – </td>
+<td>Schacht,Thomas</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Eichstädt,Torsten</td>
+<td> – </td>
+<td>Christen,Jan</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Schacht,Thomas</td>
+<td> – </td>
+<td>Christen,Jan</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Madel,Luca</td>
+<td> – </td>
+<td>Eichstädt,Torsten</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_d3733bd2-5135-4f66-aef8-4d499f24cf3d">
+<h1>Gruppe Smyslow</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Reekers,​Anton</td>
+<td>SC Kreuzberg e.V.</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Sandler,​Lieven</td>
+<td>Ludwigsfelder Schachclub 54</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Jiranek,​Benno</td>
+<td>SC Kreuzberg e.V.</td>
+<td>1259</td>
+<td>1426</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Schmidt,​Jossip</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1211</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Schmidt,Jossip</td>
+<td> – </td>
+<td>Reekers,Anton</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Sandler,Lieven</td>
+<td> – </td>
+<td>Jiranek,Benno</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Jiranek,Benno</td>
+<td> – </td>
+<td>Schmidt,Jossip</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Reekers,Anton</td>
+<td> – </td>
+<td>Sandler,Lieven</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Schmidt,Jossip</td>
+<td> – </td>
+<td>Sandler,Lieven</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Jiranek,Benno</td>
+<td> – </td>
+<td>Reekers,Anton</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_3bebe34c-29de-47e1-a794-2b57d296908c">
+<h1>Gruppe Anderssen</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Zimmer,​Lennard</td>
+<td>Ludwigsfelder Schachclub 54</td>
+<td>1160</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Neri,​Marzia</td>
+<td>ohne Verein</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Alali Alkath,​Youssef</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1170</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Salgueiro,​Felix</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Salgueiro,Felix</td>
+<td> – </td>
+<td>Zimmer,Lennard</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Neri,Marzia</td>
+<td> – </td>
+<td>Alali Alkath,Youssef</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Alali Alkath,Youssef</td>
+<td> – </td>
+<td>Salgueiro,Felix</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zimmer,Lennard</td>
+<td> – </td>
+<td>Neri,Marzia</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Salgueiro,Felix</td>
+<td> – </td>
+<td>Neri,Marzia</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Alali Alkath,Youssef</td>
+<td> – </td>
+<td>Zimmer,Lennard</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="grtTab grtTabInactive" id="grtTab_3977fcd9-f284-4b0a-aea7-93d7cb1f6835">
+<h1>Gruppe Damiano</h1>
+<h2>Rangliste</h2>
+<table class="grtTable grtRanking clean swiss">
+<thead>
+<tr>
+<th data-type="numeric">Platz</th>
+<th>Name</th>
+<th>Verein</th>
+<th data-type="numeric">DWZ</th>
+<th data-type="numeric">Elo</th>
+<th data-type="numeric">Punkte</th>
+<th data-type="numeric">SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Rutschmann,​Polly</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>862</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Mlynarski,​Milosz</td>
+<td>SV Empor Berlin e.V.</td>
+<td>786</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Bayer,​Klara</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>830</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Madel,​Tim</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>805</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Knick,​Luca</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>978</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Wallat,​Alisha Lara</td>
+<td>SC Kreuzberg e.V.</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 1</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Wallat,Alisha Lara</td>
+<td> – </td>
+<td>Rutschmann,Polly</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mlynarski,Milosz</td>
+<td> – </td>
+<td>Knick,Luca</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Bayer,Klara</td>
+<td> – </td>
+<td>Madel,Tim</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 2</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Madel,Tim</td>
+<td> – </td>
+<td>Wallat,Alisha Lara</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Knick,Luca</td>
+<td> – </td>
+<td>Bayer,Klara</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rutschmann,Polly</td>
+<td> – </td>
+<td>Mlynarski,Milosz</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 3</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Wallat,Alisha Lara</td>
+<td> – </td>
+<td>Mlynarski,Milosz</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bayer,Klara</td>
+<td> – </td>
+<td>Rutschmann,Polly</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Madel,Tim</td>
+<td> – </td>
+<td>Knick,Luca</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 4</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Knick,Luca</td>
+<td> – </td>
+<td>Wallat,Alisha Lara</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Rutschmann,Polly</td>
+<td> – </td>
+<td>Madel,Tim</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mlynarski,Milosz</td>
+<td> – </td>
+<td>Bayer,Klara</td>
+<td>?:?</td>
+</tr>
+</tbody>
+</table>
+<h2>Paarungen der Runde 5</h2>
+<table class="grtTable grtPairing clean swiss">
+<thead>
+<tr>
+<th>Brett</th>
+<th>Weiß</th>
+<th></th>
+<th>Schwarz</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Wallat,Alisha Lara</td>
+<td> – </td>
+<td>Bayer,Klara</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Madel,Tim</td>
+<td> – </td>
+<td>Mlynarski,Milosz</td>
+<td>?:?</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Knick,Luca</td>
+<td> – </td>
+<td>Rutschmann,Polly</td>
+<td>?:?</td>
 </tr>
 </tbody>
 </table>
@@ -526,10 +2319,6 @@ grt.activateTab = function(id) {
 })();
 //-->
 </script></p></div>
-<h3>Warteliste</h3>
-<ol>
-<li>Lane, Hakan (Barnimer SF)</li>
-</ol>
 </div><!-- .entry-content -->
 </div> #post-10058 
 <div id="comments">

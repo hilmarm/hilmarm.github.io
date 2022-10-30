@@ -28,6 +28,22 @@ Der Verein bezahlt auch die Kursgebühr!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10154 
+<div class="post-10261 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10261">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/" rel="bookmark">Abteilungsmeisterschaft beendet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/" rel="bookmark" title="15:12"><span class="entry-date">29. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag wurde unsere diesjährige Abteilungsmeisterschaft beendet. Die letzte Partie wurde als kampfloser Sieg für Alex gewertet. Das ist sehr ärgerlich, wie die Auswertung mit dem Rechner zeigt: bei einer regulär gespielten Partie hätte der Sieger einen Ratingpreis bekommen, aber der kampflose Sieg reicht dafür ganz knapp nicht – es fehlt ein halber Buchholzpunkt, um zumindest mit Thomas gleichzuziehen.</p>
+<p>Dieses seltsame Szenario ergibt sich aus der Wertung von kampflosen Partien mit „virtuellem Gegner“ nach dem FIDE-Beschluss von 2009. Der kampflose Sieg zählt für die Feinwertung als Sieg gegen einen „virtuellen Gegner“, der vor dem Spiel – genau wie Alex – 1,5 Punkte hatte. Der eigentlich zugeloste Gegner hätte aber 2 Punkte gehabt, dazu kommt in der Feinwertung sogar noch ein halber Punkt für die nicht gespielte Runde 1. Ein ausgespielter Sieg hätte also einen ganzen Buchholzpunkt mehr gebracht.</p>
+<p>Die <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite </a>habe ich mit dem Endstand aktualisiert.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10261 
 <div class="post-10247 post type-post status-publish format-standard hentry category-sg-narva" id="post-10247">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/" rel="bookmark">SG NARVA Jahreshauptversammlung</a></h2>
 <div class="entry-meta">
@@ -335,20 +351,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10035 
-<div class="post-10032 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10032">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/03/lichess-liga-r264/" rel="bookmark">Lichess Liga (R264)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/03/lichess-liga-r264/" rel="bookmark" title="8:09"><span class="entry-date">3. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10033" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_02102022.jpg"><img alt="" aria-describedby="caption-attachment-10033" class="size-large wp-image-10033" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_02102022-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_02102022-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_02102022-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_02102022-768x347.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_02102022.jpg 1143w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10033"><strong>02.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/03/lichess-liga-r264/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10032 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
