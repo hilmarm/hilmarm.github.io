@@ -522,39 +522,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Petersen,​Henrik</td>
-<td>SV 03/25 Koblenz </td>
-<td>2035</td>
-<td>1994</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Bolk,​Matthias</td>
-<td>SC Kreuzberg e.V.</td>
-<td>2014</td>
-<td>2080</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Daum,​Norman</td>
-<td>SC Rotation Pankow e.V.</td>
-<td>2066</td>
-<td>2138</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Riedel,​Hartmut</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
 <td>2131</td>
 <td>2071</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.5</td>
+<td>2.75</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Bolk,​Matthias</td>
+<td>SC Kreuzberg e.V.</td>
+<td>2014</td>
+<td>2080</td>
+<td>1.5</td>
+<td>2.25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Daum,​Norman</td>
+<td>SC Rotation Pankow e.V.</td>
+<td>2066</td>
+<td>2138</td>
+<td>1.0</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Petersen,​Henrik</td>
+<td>SV 03/25 Koblenz </td>
+<td>2035</td>
+<td>1994</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -575,14 +575,14 @@ parent_title: Turniere
 <td>Riedel,Hartmut</td>
 <td> – </td>
 <td>Petersen,Henrik</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bolk,Matthias</td>
 <td> – </td>
 <td>Daum,Norman</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -603,14 +603,14 @@ parent_title: Turniere
 <td>Daum,Norman</td>
 <td> – </td>
 <td>Riedel,Hartmut</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Petersen,Henrik</td>
 <td> – </td>
 <td>Bolk,Matthias</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -631,14 +631,14 @@ parent_title: Turniere
 <td>Riedel,Hartmut</td>
 <td> – </td>
 <td>Bolk,Matthias</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Daum,Norman</td>
 <td> – </td>
 <td>Petersen,Henrik</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -661,39 +661,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Lane,​Hakan</td>
-<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td>2004</td>
-<td>2017</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Buzzoni,​Eugenio</td>
 <td>Schachfreunde Berlin 1903 e.V.</td>
 <td>1976</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.75</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Nguyen,​Phuc Nhat</td>
-<td>TSG Oberschöneweide e.V.</td>
-<td>1962</td>
-<td>2046</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Beyer,​Lorenz</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
 <td>1916</td>
 <td>1883</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nguyen,​Phuc Nhat</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1962</td>
+<td>2046</td>
+<td>1.5</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lane,​Hakan</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>2004</td>
+<td>2017</td>
+<td>0.5</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -714,14 +714,14 @@ parent_title: Turniere
 <td>Beyer,Lorenz</td>
 <td> – </td>
 <td>Lane,Hakan</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Buzzoni,Eugenio</td>
 <td> – </td>
 <td>Nguyen,Phuc Nhat</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -742,14 +742,14 @@ parent_title: Turniere
 <td>Nguyen,Phuc Nhat</td>
 <td> – </td>
 <td>Beyer,Lorenz</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Lane,Hakan</td>
 <td> – </td>
 <td>Buzzoni,Eugenio</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -770,14 +770,14 @@ parent_title: Turniere
 <td>Beyer,Lorenz</td>
 <td> – </td>
 <td>Buzzoni,Eugenio</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Nguyen,Phuc Nhat</td>
 <td> – </td>
 <td>Lane,Hakan</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -800,21 +800,12 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Sundui,​Chinguun</td>
-<td>TSG Oberschöneweide e.V.</td>
-<td>1835</td>
-<td>1773</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Deppe,​Leo</td>
-<td>SC Bad Soden</td>
-<td>1933</td>
-<td>1980</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>Beyer,​Clemens</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1777</td>
+<td>1768</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
 <td>1</td>
@@ -822,17 +813,26 @@ parent_title: Turniere
 <td>SG NARVA Berlin e.V.</td>
 <td>1931</td>
 <td>2081</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Beyer,​Clemens</td>
-<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td>1777</td>
-<td>1768</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3</td>
+<td>Sundui,​Chinguun</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1835</td>
+<td>1773</td>
+<td>1.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Deppe,​Leo</td>
+<td>SC Bad Soden</td>
+<td>1933</td>
+<td>1980</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -853,14 +853,14 @@ parent_title: Turniere
 <td>Beyer,Clemens</td>
 <td> – </td>
 <td>Sundui,Chinguun</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Deppe,Leo</td>
 <td> – </td>
 <td>Hintze,Peter</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -881,14 +881,14 @@ parent_title: Turniere
 <td>Hintze,Peter</td>
 <td> – </td>
 <td>Beyer,Clemens</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Sundui,Chinguun</td>
 <td> – </td>
 <td>Deppe,Leo</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -909,14 +909,14 @@ parent_title: Turniere
 <td>Beyer,Clemens</td>
 <td> – </td>
 <td>Deppe,Leo</td>
-<td>?:?</td>
+<td>+:-</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Hintze,Peter</td>
 <td> – </td>
 <td>Sundui,Chinguun</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -939,39 +939,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Villuela,​Roberto</td>
-<td>SC Friesen Lichtenberg e.V.</td>
-<td>1773</td>
-<td>1729</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Stöckel,​Johannes</td>
-<td>SC Weisse Dame e.V.</td>
-<td>1744</td>
-<td>1730</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Fitzke,​Ulrich</td>
-<td>Deutsche Bahn</td>
-<td>1740</td>
-<td>1800</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Kuban,​Andreas</td>
 <td>SG Weißensee 49 e.V.</td>
 <td>1732</td>
 <td>1727</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Fitzke,​Ulrich</td>
+<td>Deutsche Bahn</td>
+<td>1740</td>
+<td>1800</td>
+<td>1.5</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Villuela,​Roberto</td>
+<td>SC Friesen Lichtenberg e.V.</td>
+<td>1773</td>
+<td>1729</td>
+<td>1.0</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Stöckel,​Johannes</td>
+<td>SC Weisse Dame e.V.</td>
+<td>1744</td>
+<td>1730</td>
+<td>0.5</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>
@@ -992,14 +992,14 @@ parent_title: Turniere
 <td>Kuban,Andreas</td>
 <td> – </td>
 <td>Villuela,Roberto</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Stöckel,Johannes</td>
 <td> – </td>
 <td>Fitzke,Ulrich</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1020,14 +1020,14 @@ parent_title: Turniere
 <td>Fitzke,Ulrich</td>
 <td> – </td>
 <td>Kuban,Andreas</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Villuela,Roberto</td>
 <td> – </td>
 <td>Stöckel,Johannes</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1048,14 +1048,14 @@ parent_title: Turniere
 <td>Kuban,Andreas</td>
 <td> – </td>
 <td>Stöckel,Johannes</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Fitzke,Ulrich</td>
 <td> – </td>
 <td>Villuela,Roberto</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1078,37 +1078,37 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Kinski,​Andreas</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>1617</td>
-<td>1626</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Lehmann,​Michael</td>
-<td>SC Zitadelle Spandau 1977 e.V.</td>
-<td>1591</td>
-<td>1616</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Zimmer,​Michel</td>
-<td>Ludwigsfelder Schachclub 54</td>
-<td>1723</td>
-<td>1765</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Bleicher,​Eiko</td>
 <td>SK CAISSA Hermsdorf-Frohnau</td>
 <td>1721</td>
 <td>1759</td>
+<td>2.5</td>
+<td>2.5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Zimmer,​Michel</td>
+<td>Ludwigsfelder Schachclub 54</td>
+<td>1723</td>
+<td>1765</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Kinski,​Andreas</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1617</td>
+<td>1626</td>
+<td>1.5</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Lehmann,​Michael</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>1591</td>
+<td>1616</td>
 <td>0.0</td>
 <td>0.0</td>
 </tr>
@@ -1131,14 +1131,14 @@ parent_title: Turniere
 <td>Bleicher,Eiko</td>
 <td> – </td>
 <td>Kinski,Andreas</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Lehmann,Michael</td>
 <td> – </td>
 <td>Zimmer,Michel</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1159,14 +1159,14 @@ parent_title: Turniere
 <td>Zimmer,Michel</td>
 <td> – </td>
 <td>Bleicher,Eiko</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Kinski,Andreas</td>
 <td> – </td>
 <td>Lehmann,Michael</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1187,14 +1187,14 @@ parent_title: Turniere
 <td>Bleicher,Eiko</td>
 <td> – </td>
 <td>Lehmann,Michael</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zimmer,Michel</td>
 <td> – </td>
 <td>Kinski,Andreas</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1217,39 +1217,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Müller,​Johannes</td>
-<td>SC Eintracht Berlin e.V.</td>
-<td>1617</td>
-<td>1652</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Reichert,​Lutz</td>
 <td>SV Königsjäger Süd-West e.V.</td>
 <td>1542</td>
 <td>1612</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.5</td>
+<td>3.25</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Kreisel,​Alexander</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>1527</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Sundui,​Baatarjav</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
 <td>1571</td>
 <td>1611</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Kreisel,​Alexander</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1527</td>
+<td>0</td>
+<td>1.0</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Müller,​Johannes</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1617</td>
+<td>1652</td>
+<td>0.5</td>
+<td>1.25</td>
 </tr>
 </tbody>
 </table>
@@ -1270,14 +1270,14 @@ parent_title: Turniere
 <td>Sundui,Baatarjav</td>
 <td> – </td>
 <td>Müller,Johannes</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Reichert,Lutz</td>
 <td> – </td>
 <td>Kreisel,Alexander</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1298,14 +1298,14 @@ parent_title: Turniere
 <td>Kreisel,Alexander</td>
 <td> – </td>
 <td>Sundui,Baatarjav</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Müller,Johannes</td>
 <td> – </td>
 <td>Reichert,Lutz</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1326,14 +1326,14 @@ parent_title: Turniere
 <td>Sundui,Baatarjav</td>
 <td> – </td>
 <td>Reichert,Lutz</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Kreisel,Alexander</td>
 <td> – </td>
 <td>Müller,Johannes</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1360,35 +1360,35 @@ parent_title: Turniere
 <td>ohne Verein</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Schrodt,​Horst</td>
-<td>SC Eintracht Berlin e.V.</td>
-<td>1496</td>
-<td>1726</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Kellner,​Rene</td>
 <td>Potsdamer SV Mitte e.V.</td>
 <td>1524</td>
 <td>1538</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>2.75</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
+<td>Schrodt,​Horst</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1496</td>
+<td>1726</td>
+<td>1.5</td>
+<td>1.75</td>
+</tr>
+<tr>
+<td>4</td>
 <td>Köppen,​Ilja</td>
 <td>BSV 63 Chemie Weißensee</td>
 <td>1444</td>
 <td>1511</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.5</td>
 </tr>
 </tbody>
 </table>
@@ -1409,14 +1409,14 @@ parent_title: Turniere
 <td>Köppen,Ilja</td>
 <td> – </td>
 <td>Heinrich,Hubertus Johannes</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Schrodt,Horst</td>
 <td> – </td>
 <td>Kellner,Rene</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1437,14 +1437,14 @@ parent_title: Turniere
 <td>Kellner,Rene</td>
 <td> – </td>
 <td>Köppen,Ilja</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Heinrich,Hubertus Johannes</td>
 <td> – </td>
 <td>Schrodt,Horst</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1465,14 +1465,14 @@ parent_title: Turniere
 <td>Köppen,Ilja</td>
 <td> – </td>
 <td>Schrodt,Horst</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Kellner,Rene</td>
 <td> – </td>
 <td>Heinrich,Hubertus Johannes</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1499,35 +1499,35 @@ parent_title: Turniere
 <td>Schachfreunde Nordost Berlin</td>
 <td>1445</td>
 <td>1549</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.5</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Kalkowski,​Thomas</td>
-<td>BA Tempelhof</td>
-<td>0</td>
-<td>1467</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Pilgram,​Leonhard</td>
 <td>SC Kreuzberg e.V.</td>
 <td>1354</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>1.5</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
+<td>Kalkowski,​Thomas</td>
+<td>BA Tempelhof</td>
+<td>0</td>
+<td>1467</td>
+<td>1.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>4</td>
 <td>Krawczyk,​Harald</td>
 <td>SG Rot-Weiß Neuenhagen</td>
 <td>1413</td>
 <td>1647</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -1548,14 +1548,14 @@ parent_title: Turniere
 <td>Krawczyk,Harald</td>
 <td> – </td>
 <td>Döpmann,Christoph</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Kalkowski,Thomas</td>
 <td> – </td>
 <td>Pilgram,Leonhard</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1576,14 +1576,14 @@ parent_title: Turniere
 <td>Pilgram,Leonhard</td>
 <td> – </td>
 <td>Krawczyk,Harald</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Döpmann,Christoph</td>
 <td> – </td>
 <td>Kalkowski,Thomas</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1604,14 +1604,14 @@ parent_title: Turniere
 <td>Krawczyk,Harald</td>
 <td> – </td>
 <td>Kalkowski,Thomas</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Pilgram,Leonhard</td>
 <td> – </td>
 <td>Döpmann,Christoph</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1634,39 +1634,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Eichstädt,​Torsten</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>1261</td>
-<td>1391</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Christen,​Jan</td>
-<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td>1210</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Madel,​Luca</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
 <td>1322</td>
 <td>1104</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
 <td>1</td>
+<td>Eichstädt,​Torsten</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1261</td>
+<td>1391</td>
+<td>2.0</td>
+<td>2.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Christen,​Jan</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1210</td>
+<td>0</td>
+<td>1.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>4</td>
 <td>Schacht,​Thomas</td>
 <td>BSV 63 Chemie Weißensee</td>
 <td>1358</td>
 <td>1521</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -1687,14 +1687,14 @@ parent_title: Turniere
 <td>Schacht,Thomas</td>
 <td> – </td>
 <td>Eichstädt,Torsten</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Christen,Jan</td>
 <td> – </td>
 <td>Madel,Luca</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1715,14 +1715,14 @@ parent_title: Turniere
 <td>Madel,Luca</td>
 <td> – </td>
 <td>Schacht,Thomas</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Eichstädt,Torsten</td>
 <td> – </td>
 <td>Christen,Jan</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1743,14 +1743,14 @@ parent_title: Turniere
 <td>Schacht,Thomas</td>
 <td> – </td>
 <td>Christen,Jan</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Madel,Luca</td>
 <td> – </td>
 <td>Eichstädt,Torsten</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1773,39 +1773,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Reekers,​Anton</td>
-<td>SC Kreuzberg e.V.</td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Sandler,​Lieven</td>
 <td>Ludwigsfelder Schachclub 54</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Jiranek,​Benno</td>
-<td>SC Kreuzberg e.V.</td>
-<td>1259</td>
-<td>1426</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Schmidt,​Jossip</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
 <td>1211</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Reekers,​Anton</td>
+<td>SC Kreuzberg e.V.</td>
+<td>0</td>
+<td>0</td>
+<td>1.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Jiranek,​Benno</td>
+<td>SC Kreuzberg e.V.</td>
+<td>1259</td>
+<td>1426</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -1826,14 +1826,14 @@ parent_title: Turniere
 <td>Schmidt,Jossip</td>
 <td> – </td>
 <td>Reekers,Anton</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Sandler,Lieven</td>
 <td> – </td>
 <td>Jiranek,Benno</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1854,14 +1854,14 @@ parent_title: Turniere
 <td>Jiranek,Benno</td>
 <td> – </td>
 <td>Schmidt,Jossip</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Reekers,Anton</td>
 <td> – </td>
 <td>Sandler,Lieven</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1882,14 +1882,14 @@ parent_title: Turniere
 <td>Schmidt,Jossip</td>
 <td> – </td>
 <td>Sandler,Lieven</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Jiranek,Benno</td>
 <td> – </td>
 <td>Reekers,Anton</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1912,39 +1912,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Zimmer,​Lennard</td>
-<td>Ludwigsfelder Schachclub 54</td>
-<td>1160</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Neri,​Marzia</td>
-<td>ohne Verein</td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Alali Alkath,​Youssef</td>
 <td>SC Eintracht Berlin e.V.</td>
 <td>1170</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Salgueiro,​Felix</td>
 <td>SG NARVA Berlin e.V.</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>2.75</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Zimmer,​Lennard</td>
+<td>Ludwigsfelder Schachclub 54</td>
+<td>1160</td>
+<td>0</td>
+<td>1.5</td>
+<td>1.75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Neri,​Marzia</td>
+<td>ohne Verein</td>
+<td>0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1.5</td>
 </tr>
 </tbody>
 </table>
@@ -1965,14 +1965,14 @@ parent_title: Turniere
 <td>Salgueiro,Felix</td>
 <td> – </td>
 <td>Zimmer,Lennard</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Neri,Marzia</td>
 <td> – </td>
 <td>Alali Alkath,Youssef</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1993,14 +1993,14 @@ parent_title: Turniere
 <td>Alali Alkath,Youssef</td>
 <td> – </td>
 <td>Salgueiro,Felix</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zimmer,Lennard</td>
 <td> – </td>
 <td>Neri,Marzia</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -2021,14 +2021,14 @@ parent_title: Turniere
 <td>Salgueiro,Felix</td>
 <td> – </td>
 <td>Neri,Marzia</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Alali Alkath,Youssef</td>
 <td> – </td>
 <td>Zimmer,Lennard</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -2051,57 +2051,57 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Rutschmann,​Polly</td>
-<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td>862</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Mlynarski,​Milosz</td>
 <td>SV Empor Berlin e.V.</td>
 <td>786</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>4.0</td>
+<td>7.5</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Bayer,​Klara</td>
-<td>SC Zitadelle Spandau 1977 e.V.</td>
-<td>830</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Madel,​Tim</td>
-<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td>805</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Knick,​Luca</td>
-<td>SC Zitadelle Spandau 1977 e.V.</td>
-<td>978</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Wallat,​Alisha Lara</td>
 <td>SC Kreuzberg e.V.</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.5</td>
+<td>8.25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Rutschmann,​Polly</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>862</td>
+<td>0</td>
+<td>2.5</td>
+<td>4.75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Bayer,​Klara</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>830</td>
+<td>0</td>
+<td>2.0</td>
+<td>6.0</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Madel,​Tim</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>805</td>
+<td>0</td>
+<td>2.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Knick,​Luca</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td>978</td>
+<td>0</td>
+<td>1.0</td>
+<td>2.0</td>
 </tr>
 </tbody>
 </table>
@@ -2122,21 +2122,21 @@ parent_title: Turniere
 <td>Wallat,Alisha Lara</td>
 <td> – </td>
 <td>Rutschmann,Polly</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Mlynarski,Milosz</td>
 <td> – </td>
 <td>Knick,Luca</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Bayer,Klara</td>
 <td> – </td>
 <td>Madel,Tim</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -2157,21 +2157,21 @@ parent_title: Turniere
 <td>Madel,Tim</td>
 <td> – </td>
 <td>Wallat,Alisha Lara</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Knick,Luca</td>
 <td> – </td>
 <td>Bayer,Klara</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Rutschmann,Polly</td>
 <td> – </td>
 <td>Mlynarski,Milosz</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -2192,21 +2192,21 @@ parent_title: Turniere
 <td>Wallat,Alisha Lara</td>
 <td> – </td>
 <td>Mlynarski,Milosz</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bayer,Klara</td>
 <td> – </td>
 <td>Rutschmann,Polly</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Madel,Tim</td>
 <td> – </td>
 <td>Knick,Luca</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -2227,21 +2227,21 @@ parent_title: Turniere
 <td>Knick,Luca</td>
 <td> – </td>
 <td>Wallat,Alisha Lara</td>
-<td>?:?</td>
+<td>-:+</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Rutschmann,Polly</td>
 <td> – </td>
 <td>Madel,Tim</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Mlynarski,Milosz</td>
 <td> – </td>
 <td>Bayer,Klara</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -2262,21 +2262,21 @@ parent_title: Turniere
 <td>Wallat,Alisha Lara</td>
 <td> – </td>
 <td>Bayer,Klara</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Madel,Tim</td>
 <td> – </td>
 <td>Mlynarski,Milosz</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>3</td>
 <td>Knick,Luca</td>
 <td> – </td>
 <td>Rutschmann,Polly</td>
-<td>?:?</td>
+<td>-:+</td>
 </tr>
 </tbody>
 </table>
