@@ -6,7 +6,6 @@ navs:
   Kalender: kalender
   BMM Termine: bmm-termine
   BFL Termine: bfl-termine
-  DSOL Termine: dsol-termine
   Termine Turniere/Open: termine-turniere-open
 ---
 <div class="post-174 page type-page status-publish hentry" id="post-174">

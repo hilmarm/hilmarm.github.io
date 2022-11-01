@@ -8,26 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-10154 post type-post status-publish format-standard sticky hentry category-schiedsrichter" id="post-10154">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark">VSR- und RSR-Lehrgang im November bei NARVA</a></h2>
+<div class="post-10274 post type-post status-publish format-standard hentry category-offene-turniere" id="post-10274">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/31/50-teilnehmer-beim-kleeblatt-turnier/" rel="bookmark">50 Teilnehmer beim Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark" title="10:02"><span class="entry-date">18. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/31/50-teilnehmer-beim-kleeblatt-turnier/" rel="bookmark" title="17:09"><span class="entry-date">31. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Am 5./6. sowie 12./13. November finden die nächsten Schiedsrichterlehrgänge statt, dieses mal direkt bei uns in der Kadiner Str.!!!<br/>
-Angehende <strong>Verbandsschiedsrichter (VSR)</strong> haben ihre Termine an den beiden Sonntagen: 6. und 13. November.<br/>
-Die <strong>Regionale Schiedsrichterausbildung (RSR)</strong> findet an den drei Tagen 5./12./13. November statt.</p>
-<p>Die perfekte Gelegenheit damit wir zu mehr Schiedsrichter kommen!<br/>
-Die RSR Ausbildung kommt dabei nur für bereits bestehende Schiedsrichter in Frage (z.B. Jonatan macht das), wir würden uns aber über möglichst viele neue VSR freuen.<br/>
-Der Verein bezahlt auch die Kursgebühr!</p>
-<p><a href="https://www.berlinerschachverband.de/entry/vsr-und-rsr-lehrgang-im-november-bei-mattnetz.html" rel="noopener" target="_blank">Alle Infos auf der BSV Seite</a></p>
+<p>Gestern fand unser diesjähriges offenes Turnier, das <strong>Kleeblatt-Turnier</strong> statt. Das (<i>vier</i>blättrige) Kleeblatt stand dabei für die <i>Vierer</i>Gruppen, in die die Teilnehmer eingeteilt wurden. In jeder Gruppe spielte dann jeder gegen jeden. Die Startnummern innerhalb der Gruppe wurden zufällig vergeben, so dass jeder die gleiche Chance hatte, zweimal Weiß zu bekommen.</p>
+<p>Damit wollten wir als Ergänzung zu unserem Einladungsturnier am Samstag auch ein offenes, für Spieler aller Spielstärken interessantes Turnier schaffen, nachdem ja schon für unser anderes offenes Turnier, das Kurt-Richter-Turnier, in diesem Jahr kein Termin gefunden werden konnte. Die Turnierleitung vor Ort bestand aus Klaus Brinckmann (Turnierleitung, Küche), Torsten Eichstädt (Turnierleitung, Schiedsrichter) und mir (Turnierleitung, Schiedsrichter). Unser Vorsitzender Thomas Mothes konnte beim Turnier selbst nicht vor Ort sein, aber seine Unterstützung vor und nach dem Turnier (z.B. Transport des Spielmaterials und der Preise) war natürlich auch ganz wichtig.<br/>
+Im Vordergrund stand dabei klar der Spaß am Schachspielen – wir verzichteten bewusst auf Geldpreise, aber jeder Teilnehmer bekam (sofern er zur Siegerehrung noch anwesend war) eine Urkunde und einen Sachpreis – z.B. Schachbücher, Pralinen, Spiele oder für die Erwachsenen auch Wein.</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2022/10/31/50-teilnehmer-beim-kleeblatt-turnier/#more-10274">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/31/50-teilnehmer-beim-kleeblatt-turnier/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-10154 
+</div> #post-10274 
 <div class="post-10261 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10261">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/" rel="bookmark">Abteilungsmeisterschaft beendet</a></h2>
 <div class="entry-meta">
@@ -150,6 +147,26 @@ Auch Tomas musste absagen, er kann auch nicht nachspielen und verliert somit kam
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/20/pokal-halbfinale-ausgelost/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10196 
+<div class="post-10154 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-10154">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark">VSR- und RSR-Lehrgang bei NARVA – ausgebucht!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/" rel="bookmark" title="10:02"><span class="entry-date">18. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am 5./6. sowie 12./13. November finden die nächsten Schiedsrichterlehrgänge statt, dieses mal direkt bei uns in der Kadiner Str.!!!<br/>
+Angehende <strong>Verbandsschiedsrichter (VSR)</strong> haben ihre Termine an den beiden Sonntagen: 6. und 13. November.<br/>
+Die <strong>Regionale Schiedsrichterausbildung (RSR)</strong> findet an den drei Tagen 5./12./13. November statt.</p>
+<p>Die perfekte Gelegenheit damit wir zu mehr Schiedsrichter kommen!<br/>
+Die RSR Ausbildung kommt dabei nur für bereits bestehende Schiedsrichter in Frage (z.B. Jonatan macht das), wir würden uns aber über möglichst viele neue VSR freuen.<br/>
+Der Verein bezahlt auch die Kursgebühr!</p>
+<p><a href="https://www.berlinerschachverband.de/entry/vsr-und-rsr-lehrgang-im-november-bei-mattnetz.html" rel="noopener" target="_blank">Alle Infos auf der BSV Seite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/vsr-und-rsr-lehrgang-im-november-bei-narva/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10154 
 <div class="post-10176 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10176">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/18/rapid-liga-3/" rel="bookmark">Rapid Liga (3)</a></h2>
 <div class="entry-meta">
@@ -336,21 +353,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/07/lichess-liga-r265/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10091 
-<div class="post-10035 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10035">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/" rel="bookmark">Rapid Liga (1)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/" rel="bookmark" title="8:31"><span class="entry-date">4. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nun spielen wir online auch die neu geschaffene <strong>Rapid (Schnellschach) Liga</strong>. Gespielt wird immer <strong>Montags</strong> um <strong>20 Uhr</strong>, bis 22 Uhr, <strong>Bedenkzeit 7+5</strong>. Los ging es für uns in Liga 7 und gleich mit Aufstieg!</p>
-<div class="wp-caption alignnone" id="attachment_10036" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga7_03102022.jpg"><img alt="" aria-describedby="caption-attachment-10036" class="size-large wp-image-10036" height="316" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga7_03102022-1024x506.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga7_03102022-1024x506.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga7_03102022-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga7_03102022-768x379.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga7_03102022.jpg 1144w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10036"><strong>03.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10035 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

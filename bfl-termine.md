@@ -6,7 +6,6 @@ navs:
   Kalender: kalender
   BMM Termine: bmm-termine
   BFL Termine: bfl-termine
-  DSOL Termine: dsol-termine
   Termine Turniere/Open: termine-turniere-open
 navbar: false
 parent_title: Termine

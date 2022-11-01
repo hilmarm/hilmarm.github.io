@@ -6,7 +6,6 @@ navs:
   Kalender: kalender
   BMM Termine: bmm-termine
   BFL Termine: bfl-termine
-  DSOL Termine: dsol-termine
   Termine Turniere/Open: termine-turniere-open
 navbar: false
 parent_title: Termine
@@ -23,16 +22,6 @@ parent_title: Termine
 </tr>
 </thead>
 <tbody>
-<tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 332px; height: 24px;"><strong>Einladungs Mannschaftsblitz RuDi</strong></td>
-<td nowrap="nowrap" style="width: 158px; height: 24px;">29.10.2022</td>
-<td style="width: 154px; height: 24px;">Siehe Mitgliederbereich</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier" rel="noopener" target="_blank">Kleeblatt-Turnier</a></td>
-<td>30.10.2022</td>
-<td>Lukas, Peter, Andreas</td>
-</tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Hamburg</a></td>
 <td>02.12.-04.12.2022</td>
