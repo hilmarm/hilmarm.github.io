@@ -46,6 +46,20 @@ Auch in der Wertung der Einzelspieler haben sie die Bestwerte gesetzt, so gab Ha
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/01/rapid-liga-5/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10300 
+<div class="post-10310 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10310">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/01/lichess-liga-r272/" rel="bookmark">Lichess Liga (R272)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/01/lichess-liga-r272/" rel="bookmark" title="10:43"><span class="entry-date">1. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10307" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_30102022.jpg"><img alt="" aria-describedby="caption-attachment-10307" class="size-large wp-image-10307" height="311" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_30102022-1024x498.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_30102022-1024x498.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_30102022-300x146.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_30102022-768x374.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_30102022.jpg 1151w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10307"><strong>30.10.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/01/lichess-liga-r272/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10310 
 <div class="post-10274 post type-post status-publish format-standard hentry category-offene-turniere" id="post-10274">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/31/50-teilnehmer-beim-kleeblatt-turnier/" rel="bookmark">50 Teilnehmer beim Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
@@ -79,6 +93,20 @@ Im Vordergrund stand dabei klar der Spaß am Schachspielen – wir verzichteten 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10261 
+<div class="post-10305 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10305">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/" rel="bookmark">Lichess Liga (R271)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/" rel="bookmark" title="10:41"><span class="entry-date">28. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10308" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022.jpg"><img alt="" aria-describedby="caption-attachment-10308" class="size-large wp-image-10308" height="349" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-1024x558.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-1024x558.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-300x164.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-768x419.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022.jpg 1154w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10308"><strong>27.10.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10305 
 <div class="post-10247 post type-post status-publish format-standard hentry category-sg-narva" id="post-10247">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/" rel="bookmark">SG NARVA Jahreshauptversammlung</a></h2>
 <div class="entry-meta">
@@ -330,37 +358,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/09/bmm-runde-2-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10072 
-<div class="post-10094 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10094">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/09/lichess-liga-r266/" rel="bookmark">Lichess Liga (R266)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/09/lichess-liga-r266/" rel="bookmark" title="22:12"><span class="entry-date">9. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10095" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_09102022.jpg"><img alt="" aria-describedby="caption-attachment-10095" class="size-large wp-image-10095" height="316" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_09102022-1024x506.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_09102022-1024x506.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_09102022-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_09102022-768x380.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_09102022.jpg 1147w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10095"><strong>09.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/09/lichess-liga-r266/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10094 
-<div class="post-10038 post type-post status-publish format-standard hentry category-offene-turniere" id="post-10038">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark">Kleeblatt-Turnier am 30.10.</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/" rel="bookmark" title="18:32"><span class="entry-date">8. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Am 30. Oktober (einem Sonntag) wird NARVA das „Kleeblatt-Turnier“, ein Rundenturnier in 4er-Gruppen, veranstalten.</strong> Es werden Turnierpartien mit einer Bedenkzeit von 60+30 gespielt. Die Ergebnisse werden zur DWZ-Auswertung eingereicht.</p>
-<p>Die Gruppeneinteilung erfolgt, wie von vergleichbaren Turnieren (z.B. in Briesen, Ludwigsfelde, Müncheberg) bekannt, im Wesentlichen nach DWZ. Man spielt also von Anfang an gegen ähnlich starke Gegner, was das Turnier für Spieler aller Spielstärken interessant machen sollte. Es wird ein kleines Startgeld erhoben, Sachpreise für alle Teilnehmer sind vorgesehen.</p>
-<p>Ursprünglich wollten wir ein solches Turnier bereits 2020 anlässlich des 70jährigen Jubiläums unserer Schachabteilung austragen, was dann ja aus bekannten Gründen nicht möglich war. Nun werden wir es in drei Wochen nachholen. Die Zusage für die Räume haben wir inzwischen – wir spielen im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin.</p>
-<p>Eine <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier/">Turnierseite</a> habe ich eingerichtet, dort findet ihr auch die Ausschreibung und später die Teilnehmerliste und die Ergebnisse.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/08/vorankuendigung-dwz-turnier-am-30-10/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10038 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
