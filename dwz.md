@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2182</td>
 <td>59</td>
-<td>2190</td>
+<td>2177</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1957</td>
 <td>12</td>
-<td>1957</td>
+<td>1971</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -123,19 +123,19 @@ navs:
 </tr>
 <tr>
 <td>12.</td>
+<td><a href="http://www.schachbund.de/spieler/10608443.html" target="_blank"> Derk Dekker</a></td>
+<td></td>
+<td>1870</td>
+<td>8</td>
+<td>1893</td>
+</tr>
+<tr>
+<td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
 <td>1870</td>
 <td>63</td>
 <td>1891</td>
-</tr>
-<tr>
-<td>13.</td>
-<td><a href="http://www.schachbund.de/spieler/10608443.html" target="_blank"> Derk Dekker</a></td>
-<td></td>
-<td>1870</td>
-<td>8</td>
-<td>1888</td>
 </tr>
 <tr>
 <td>14.</td>
