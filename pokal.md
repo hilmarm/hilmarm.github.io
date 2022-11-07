@@ -79,7 +79,7 @@ parent_title: Turniere
 <td style="width: 8.83905%;"></td>
 </tr>
 <tr>
-<td style="width: 20.9763%;">Micha/Hilmar</td>
+<td style="width: 20.9763%;">Hilmar</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Peter</td>
@@ -115,8 +115,8 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Hilmar</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">0</td>
+<td style="width: 8.83905%;">1</td>
 </tr>
 <tr>
 <td style="width: 20.9763%;">Peter</td>
