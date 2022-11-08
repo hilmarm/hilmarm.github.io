@@ -23,6 +23,16 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
+<td><a href="http://www.schachjugend-in-berlin.de/2-vorrunde-zur-bjem-2023/" rel="noopener" target="_blank">Jugendherbstopen</a></td>
+<td>12.11.-13.11.2022</td>
+<td>Frieder, Felix</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="http://www.schachjugend-in-berlin.de/2-vorrunde-zur-bjem-2023/" rel="noopener" target="_blank">Kinderherbstopen</a></td>
+<td>26.11.2022</td>
+<td>Silas</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Hamburg</a></td>
 <td>02.12.-04.12.2022</td>
 <td>Jonatan, Lukas</td>
