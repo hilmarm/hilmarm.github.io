@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10325 post type-post status-publish format-standard hentry category-bfl" id="post-10325">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/11/bfl-gestartet-narva-2/" rel="bookmark">BFL gestartet – NARVA 2</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/11/bfl-gestartet-narva-2/" rel="bookmark" title="20:50"><span class="entry-date">11. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern wurde die 1. Runde BFL für <strong>NARVA 2</strong> nachgespielt. Gegen <strong>SW Neukölln</strong> spielte man 2:2 Unentschieden.<br/>
+Die Bretter 1 und 2 (<strong>Klaus</strong> und <strong>Tom</strong>) trennten sich Remis.<br/>
+<strong>Alexander</strong> an Brett 3 gewann, <strong>Torsten</strong> an Brett 4 verlor.</p>
+<p>Bereits nächste Woche geht es für beide Teams in Runde 2.<br/>
+NARVA 2 schon am Montag beim SK International.<br/>
+NARVA 2 dann am Donnerstag in Hermsdorf.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746.jpg"><img alt="" class="alignnone size-large wp-image-10324" height="361" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-1024x578.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-1024x578.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-768x433.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-1536x867.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-2048x1156.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/11/bfl-gestartet-narva-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10325 
 <div class="post-10312 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10312">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/08/lichess-liga-r273/" rel="bookmark">Lichess Liga (R273)</a></h2>
 <div class="entry-meta">
@@ -335,21 +355,6 @@ Gerne dürfen natürlich auch mehr Schnellschachfreunde mitspielen. Immer montag
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/14/lichess-liga-r267/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10179 
-<div class="post-10122 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10122">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/" rel="bookmark">Rapid Liga (2)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/" rel="bookmark" title="11:06"><span class="entry-date">11. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>2. Runde – 2. Aufstieg!</p>
-<div class="wp-caption alignnone" id="attachment_10123" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga_10102022.jpg"><img alt="" aria-describedby="caption-attachment-10123" class="size-large wp-image-10123" height="315" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga_10102022-1024x504.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga_10102022-1024x504.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga_10102022-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga_10102022-768x378.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapidliga_10102022.jpg 1151w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10123"><strong>10.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10122 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

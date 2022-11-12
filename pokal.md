@@ -36,10 +36,10 @@ parent_title: Turniere
 <th style="width: 9.63061%;">Blitz</th>
 </tr>
 <tr>
-<td style="width: 20.9763%;"></td>
+<td style="width: 20.9763%;">Peter</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 7.12401%;">–</td>
-<td style="width: 21.2401%;"></td>
+<td style="width: 21.2401%;">Jonatan</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 8.83905%;"></td>
 <td style="width: 8.83905%;"></td>
@@ -48,10 +48,10 @@ parent_title: Turniere
 <td colspan="8" style="background-color: #3ae817; width: 99.8681%;">Spiel um Platz 3 – 24.11.2022</td>
 </tr>
 <tr>
-<td style="width: 20.9763%;"></td>
+<td style="width: 20.9763%;">Gunar</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 7.12401%;">–</td>
-<td style="width: 21.2401%;"></td>
+<td style="width: 21.2401%;">Hilmar</td>
 <td style="width: 11.6095%;">()</td>
 <td style="width: 8.83905%;"></td>
 <td style="width: 8.83905%;"></td>
@@ -75,8 +75,8 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Jonatan</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">0</td>
+<td style="width: 8.83905%;">1</td>
 </tr>
 <tr>
 <td style="width: 20.9763%;">Hilmar</td>
@@ -84,8 +84,9 @@ parent_title: Turniere
 <td style="width: 7.12401%;">–</td>
 <td style="width: 21.2401%;">Peter</td>
 <td style="width: 11.6095%;">()</td>
-<td style="width: 8.83905%;"></td>
-<td style="width: 8.83905%;"></td>
+<td style="width: 8.83905%;">½</td>
+<td style="width: 8.83905%;">½</td>
+<td>0:2</td>
 </tr>
 <tr>
 <td colspan="8" style="width: 99.8681%; background-color: #3ae817;">Viertelfinale – 20.10.2022</td>
