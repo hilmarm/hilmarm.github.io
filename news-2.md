@@ -18,7 +18,7 @@ Die Bretter 1 und 2 (<strong>Klaus</strong> und <strong>Tom</strong>) trennten s
 <strong>Alexander</strong> an Brett 3 gewann, <strong>Torsten</strong> an Brett 4 verlor.</p>
 <p>Bereits nächste Woche geht es für beide Teams in Runde 2.<br/>
 NARVA 2 schon am Montag beim SK International.<br/>
-NARVA 2 dann am Donnerstag in Hermsdorf.</p>
+NARVA 1 dann am Donnerstag in Hermsdorf.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746.jpg"><img alt="" class="alignnone size-large wp-image-10324" height="361" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-1024x578.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-1024x578.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-768x433.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-1536x867.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221110_190746-2048x1156.jpg 2048w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
