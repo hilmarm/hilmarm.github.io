@@ -18,25 +18,25 @@ parent_title: Termine
 <tr>
 <th>Runde</th>
 <th>1.Mannschaft</th>
-<th>Datum</th>
+<th style="text-align: center;">Datum</th>
 <th>2.Mannschaft</th>
-<th>Datum</th>
+<th style="text-align: center;">Datum</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align: center; width: 84px;">1</td>
 <td nowrap="nowrap">Zehlendorf 1 (H)</td>
-<td>13.10.22</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2 : 2</span></strong></td>
 <td nowrap="nowrap">SW Neukölln 1 (H)</td>
-<td>10.11.22</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2 : 2</span></strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">2</td>
 <td>Caissa Hermsdorf 1 (A)</td>
 <td>17.11.22</td>
 <td>SK International 1 (A)</td>
-<td>14.11.22</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">1½ : 2½</span></strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">3</td>
