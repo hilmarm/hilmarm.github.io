@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="http://www.schachjugend-in-berlin.de/2-vorrunde-zur-bjem-2023/" rel="noopener" target="_blank">Jugendherbstopen</a></td>
-<td>12.11.-13.11.2022</td>
-<td>Frieder, Felix</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="http://www.schachjugend-in-berlin.de/2-vorrunde-zur-bjem-2023/" rel="noopener" target="_blank">Kinderherbstopen</a></td>
 <td>26.11.2022</td>
 <td>Silas</td>
@@ -50,14 +45,27 @@ Peter, Günter, Hans-Dieter, Tomas, Bernd?</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
-<td>06.01.-08.01.2023</td>
-<td>Mannschaft?</td>
+<td><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">3. Berlin Mitte Neujahrs – Schachfestival</a><br/>
+Neujahrs-Open<br/>
+Blitzschach-Open (11R 3+2)<br/>
+Schnellschach-Open (9R 10+5)<br/>
+Kinderschachturnier (7R 15+0)</td>
+<td>___<br/>
+03.01.-06.01.2023<br/>
+08.01.2023<br/>
+07.01.2023<br/>
+02.01.2023</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2022/10/OBSenEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
+<td>06.01.-08.01.2023</td>
+<td>Andreas, Mannschaft?</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/39-obsenem-teilnehmerliste.html" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
 <td>24.01.-01.02.2023</td>
-<td></td>
+<td>Hans-Dieter, Ulrich, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
