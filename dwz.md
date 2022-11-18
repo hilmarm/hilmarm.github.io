@@ -227,6 +227,14 @@ navs:
 </tr>
 <tr>
 <td>25.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1581</td>
+<td>94</td>
+<td>1703</td>
+</tr>
+<tr>
+<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
 <td>1575</td>
@@ -234,20 +242,12 @@ navs:
 <td>1581</td>
 </tr>
 <tr>
-<td>26.</td>
+<td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1574</td>
 <td>37</td>
 <td>0</td>
-</tr>
-<tr>
-<td>27.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1533</td>
-<td>93</td>
-<td>1703</td>
 </tr>
 <tr>
 <td>28.</td>
