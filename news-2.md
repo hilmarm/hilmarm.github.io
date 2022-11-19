@@ -8,6 +8,51 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10366 post type-post status-publish format-standard hentry category-bfl" id="post-10366">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/18/bfl-runde-2/" rel="bookmark">BFL Runde 2</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/18/bfl-runde-2/" rel="bookmark" title="17:13"><span class="entry-date">18. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Diese Woche lief <strong>Runde 2</strong> zur <strong>BFL</strong>. NARVA 1 spielte gestern beim <strong>Schachklub CAÏSSA Hermsdorf-Frohnau e.V.</strong>, NARVA 2 war bereits am Montagabend beim<strong> SK International Berlin 2010</strong> zu Gast.</p>
+<p><strong>NARVA 2</strong> kam dabei zu einem <strong>2,5:1,5</strong> Sieg. Hier die Einzelergebnisse:</p>
+<pre>SK International      - SG NARVA Berlin 2         1,5:2,5
+==================================================
+103 Reis de Ascencao,G - 201 Segerberg,Tomas   ½:½
+102 Gunkel,Wolfgang    - 203 Brinckmann,Klaus  0:1
+105 Storck,Thorsten    - 204 Bradschetl,Tom    0:1
+106 Wolfram,Henning    - 213 Eichstädt,Torsten 1:0</pre>
+<p>Wer genau aufgepasst hat sieht, dass bei SK International die Bretter 1 und 2 vertauscht sind.</p>
+<p><strong>NARVA 1</strong> hat dann gestern, trotz 1,5:0,5 Führung, noch <strong>1,5:2,5</strong> verloren. Auch hier die Einzelergebnisse:</p>
+<pre>CAÏSSA Hermsdorf      - SG NARVA Berlin 1         2,5:1,5
+==================================================
+102 Zöller,Ralf        - 102 Lenhardt,Manfred  1:0
+103 Burger,Heinrich    - 104 Schenk,Jonatan    1:0
+109 Zwingel,Reinhold   - 106 Idaczek,Günter    0:1
+114 Niemann,Andreas    - 107 Kinski,Andreas    ½:½</pre>
+<p>Weiter geht es für die 1.Mannschaft am 08.12.22 zu Hause gegen Berolina, die 2.Mannschaft hat da spielfrei und muss erst zu Runde 4 am 04.01.23 wieder ran.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/18/bfl-runde-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10366 
+<div class="post-10370 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10370">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/18/lichess-liga-r277/" rel="bookmark">Lichess Liga (R277)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/18/lichess-liga-r277/" rel="bookmark" title="7:31"><span class="entry-date">18. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Aufstieg in Liga 9!! Dort waren wir zuletzt im Juli 2022.</p>
+<div class="wp-caption alignnone" id="attachment_10371" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_17112022.jpg"><img alt="" aria-describedby="caption-attachment-10371" class="size-large wp-image-10371" height="313" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_17112022-1024x500.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_17112022-1024x500.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_17112022-300x147.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_17112022-768x375.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_17112022.jpg 1163w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10371"><strong>17.11.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/18/lichess-liga-r277/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10370 
 <div class="post-10352 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10352">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/15/rapid-liga-7/" rel="bookmark">Rapid Liga (7)</a></h2>
 <div class="entry-meta">
@@ -306,42 +351,6 @@ Am Donnerstag dann ein Berliner Dreikampf, gegen Nord-Ost und Eckbauer!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/24/lichess-liga-r270/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10223 
-<div class="post-10210 post type-post status-publish format-standard hentry category-bfl" id="post-10210">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/" rel="bookmark">BFL gestartet</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/" rel="bookmark" title="22:04"><span class="entry-date">21. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Bereits am 13.10. wurde für unsere erste Mannschaft die <strong>BFL-Saison</strong> eröffnet. Beim Heimspiel gegen den <strong>SK Zehlendorf</strong> erkämpften wir uns ein <strong>2:2</strong>! Die Punkte holten die beiden aus der Zweiten aufgerückten Spieler, <strong>Tomas</strong> (der erst noch schimpfte, dass er an Brett 3 schon wieder Schwarz hat, aber schnell eine Qualität gewann, dann eine zweite, und dann die Partie) und <strong>Jay</strong> (der die Stellung gegen einen starken Gegner so lange ausgeglichen hielt, bis der Gegner einen Turm einstellte). <strong>Ekkehard</strong> an Brett 2 hatte zwar einen Bauern mehr, aber sein Gegner konnte Kompensation nachweisen, und <strong>ich</strong> hatte an Brett 1 immerhin eine interessante Partie gegen einen FIDE-Meister.</p>
-<pre>SG NARVA Berlin 1      - SK Zehlendorf         2:2
-==================================================
-104 Jonatan Schenk     - 101 FM Dirk Paulsen   0:1
-105 Ekkehard Krüger    - 103 Thomas Heerde     0:1
-201 Tomas Segerberg    - 106 Mirza Hasic       1:0
-210 Jayasurian Makkoth - 107 Dr. Timo Hartman  1:0</pre>
-<p>Für die <strong>2. Mannschaft</strong> geht es erst am <strong>10. November</strong> los, das Spiel gegen <strong>SW Neukölln</strong> wurde verschoben.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/21/bfl-gestartet-2/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10210 
-<div class="post-10220 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10220">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/" rel="bookmark">Lichess Liga (R269)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/" rel="bookmark" title="11:16"><span class="entry-date">21. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Aufstieg in Liga 10!!</p>
-<div class="wp-caption alignnone" id="attachment_10221" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022.jpg"><img alt="" aria-describedby="caption-attachment-10221" class="size-large wp-image-10221" height="325" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-1024x520.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-1024x520.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-300x152.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022-768x390.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/liga11a_20102022.jpg 1118w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10221"><strong>20.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/21/lichess-liga-r269/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10220 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

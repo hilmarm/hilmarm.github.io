@@ -34,7 +34,7 @@ parent_title: Termine
 <tr>
 <td style="text-align: center; width: 84px;">2</td>
 <td>Caissa Hermsdorf 1 (A)</td>
-<td>17.11.22</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2½ : 1½</span></strong></td>
 <td>SK International 1 (A)</td>
 <td style="text-align: center;"><strong><span style="color: #ff0000;">1½ : 2½</span></strong></td>
 </tr>
