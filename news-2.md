@@ -8,6 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10412 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10412">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/25/peter-ist-pokalsieger-2022/" rel="bookmark">Peter ist Pokalsieger 2022!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/25/peter-ist-pokalsieger-2022/" rel="bookmark" title="12:54"><span class="entry-date">25. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern Abend fand das Finale im <strong>Pokal 2022</strong> statt. Mit Peter und Jonatan im Finale war zumindest klar, dass wir einen neuen Pokalsieger bekommen würden, keiner von beiden konnte den Pokal bisher gewinnen. Für Jonatan bestand daneben noch die Chance für das Double aus Abteilungsmeisterschaft und Pokal. – zuletzt gelang das Rudolf 2017.</p>
+<p><strong>Peter</strong> gewann die Partie gegen Jonatan und ist damit <strong>Pokalsieger 2022</strong>! Glückwunsch.</p>
+<p>Im kleinen Finale um <strong>Platz 3</strong> setzte sich <strong>Hilma</strong>r gegen Gunar durch, stand aber zwischendurch bedenklich, Gunar verpasste aber die Chance zum Sieg.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/chronik/">Chronik der Sieger</a></p>
+<div class="wp-caption aligncenter" id="attachment_10411" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-scaled.jpg"><img alt="" aria-describedby="caption-attachment-10411" class="wp-image-10411 size-large" height="345" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-1024x552.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-1024x552.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-300x162.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-768x414.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-1536x828.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/20221124_214037-2048x1104.jpg 2048w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10411">hier ist für Jonatan schon nichts mehr zu retten</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/25/peter-ist-pokalsieger-2022/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10412 
 <div class="post-10373 post type-post status-publish format-standard hentry category-bmm" id="post-10373">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/19/heimspiel-sonntag-in-der-bmm/" rel="bookmark">Heimspiel Sonntag in der BMM</a></h2>
 <div class="entry-meta">
@@ -342,22 +361,6 @@ Im Vordergrund stand dabei klar der Spaß am Schachspielen – wir verzichteten 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10247 
-<div class="post-10238 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10238">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark">Rapid Liga (4)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/" rel="bookmark" title="11:09"><span class="entry-date">25. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der 4.Aufstieg in Folge!! Nächste Woche Liga 3!!<br/>
-Ganz stark Jungs</p>
-<div class="wp-caption alignnone" id="attachment_10239" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022.jpg"><img alt="" aria-describedby="caption-attachment-10239" class="size-large wp-image-10239" height="318" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-1024x508.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-1024x508.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022-768x381.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/rapid_liga_4_24102022.jpg 1146w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10239"><strong>24.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/25/rapid-liga-4/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10238 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

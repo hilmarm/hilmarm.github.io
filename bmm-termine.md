@@ -13,6 +13,7 @@ parent_title: Termine
 <div class="post-229 page type-page status-publish hentry" id="post-229">
 <h1 class="entry-title">BMM Termine</h1>
 <div class="entry-content">
+<p> </p>
 <table class="clean bmm" style="width: 688px;">
 <thead>
 <tr>
@@ -67,13 +68,6 @@ parent_title: Termine
 <td style="width: 126px;">SK Zehlendorf 5 (A)</td>
 </tr>
 <tr>
-<td style="text-align: center; width: 84px;">7</td>
-<td style="text-align: center; width: 129px;">12.02.2023</td>
-<td nowrap="nowrap" style="width: 155px;">BSV 63 Chemie Weißensee 2 (H)</td>
-<td nowrap="nowrap" style="width: 145px;">SG Lasker Steglitz-Wilmersdorf 2 (H)</td>
-<td style="width: 126px;">SC Zitadelle Spandau 1977 4 (H)</td>
-</tr>
-<tr>
 <td style="text-align: center; width: 84px;">8</td>
 <td style="text-align: center; width: 129px;">05.03.2023</td>
 <td style="width: 155px;">SV Berolina Mitte 4 (A)</td>
@@ -86,6 +80,13 @@ parent_title: Termine
 <td style="width: 155px;">SVG Läufer Reinickendorf (H)</td>
 <td nowrap="nowrap" style="width: 145px;">SV Rot-Weiß Neuenhagen 2 (H)</td>
 <td style="width: 126px;">TSG Oberschöneweide 8 (H)</td>
+</tr>
+<tr>
+<td style="text-align: center; width: 84px;">7</td>
+<td style="text-align: center; width: 129px;">18.06.2023</td>
+<td nowrap="nowrap" style="width: 155px;">BSV 63 Chemie Weißensee 2 (H)</td>
+<td nowrap="nowrap" style="width: 145px;">SG Lasker Steglitz-Wilmersdorf 2 (H)</td>
+<td style="width: 126px;">SC Zitadelle Spandau 1977 4 (H)</td>
 </tr>
 </tbody>
 </table>
