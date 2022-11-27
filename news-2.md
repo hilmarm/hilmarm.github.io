@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10418 post type-post status-publish format-standard sticky hentry category-intern" id="post-10418">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/" rel="bookmark">Einladung zur Weihnachtsfeier 2022!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/" rel="bookmark" title="16:36"><span class="entry-date">26. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22.jpg"><img alt="" class="size-large wp-image-10419 aligncenter" height="448" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-1024x717.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-1024x717.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-300x210.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-768x538.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22.jpg 1098w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10418 
 <div class="post-10412 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10412">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/25/peter-ist-pokalsieger-2022/" rel="bookmark">Peter ist Pokalsieger 2022!</a></h2>
 <div class="entry-meta">
@@ -341,26 +355,6 @@ Im Vordergrund stand dabei klar der Spaß am Schachspielen – wir verzichteten 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10305 
-<div class="post-10247 post type-post status-publish format-standard hentry category-sg-narva" id="post-10247">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/" rel="bookmark">SG NARVA Jahreshauptversammlung</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/" rel="bookmark" title="19:21"><span class="entry-date">26. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der <strong>Hauptverein SG NARVA Berlin e.V.</strong> lädt zu einer außerordentlichen Jahreshauptversammlung des Vereins am <strong>Donnerstag, den 24.11.2022 um 18:30 Uhr</strong> in die Räume in der Mansarde des Rudi-Kiez-Laden ein.</p>
-<p><span style="text-decoration: underline;">Die Tagesordnung der außerordentlichen Versammlung:</span></p>
-<p><strong>TOP 1</strong> Bestätigung des Wahlergebnisses vom 31.03.2022 <em><br/>
-(*die bearbeitenden Beamten im Vereinsregister haben unsere Wahlveranstaltung in diesem Jahr moniert. Wir hatten eine „Delegiertenversammlung“ durchgeführt; und dies wird bemängelt.)</em></p>
-<p><strong>TOP 2</strong> Beauftragung des Vorstandes mit der Überarbeitung der Vereinssatzung zur Anpassung an die Beschlüsse vom 07.05.2015 (Delegiertenversammlung). Zur Jahreshauptversammlung 2023 ist diese vorzustellen und kann dann beschlossen werden.</p>
-<p>Zu diesem Teil der Veranstaltung sind alle Sportfreunde die am 24.11.2022 ordentliches Mitglied des Vereins sind und das 18. Lebensjahr vollendet haben stimmberechtigt.</p>
-<p>Mitglieder der Abteilung Schach, die daran teilnehmen möchten, Bitte um vorab Info an den Vorsitzenden-Schach.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/26/sg-narva-jahreshauptversammlung/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10247 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
