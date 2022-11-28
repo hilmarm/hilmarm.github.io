@@ -22,6 +22,22 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10418 
+<div class="post-10422 post type-post status-publish format-standard hentry category-training" id="post-10422">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/27/training-mit-rouven-kombinieren/" rel="bookmark">Training mit Rouven – Kombinieren</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/27/training-mit-rouven-kombinieren/" rel="bookmark" title="17:20"><span class="entry-date">27. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Donnerstag 01.12.2022 – 18:15 Uhr – Training mit Rouven!</strong></p>
+<p><strong>Thema: „Kombinieren“</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672.jpg"><img alt="" class="aligncenter wp-image-9491 size-medium" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-768x768.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-1536x1536.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-2048x2048.jpg 2048w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/05/IMG_20220602_195511_672-144x144.jpg 144w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/27/training-mit-rouven-kombinieren/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10422 
 <div class="post-10412 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10412">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/25/peter-ist-pokalsieger-2022/" rel="bookmark">Peter ist Pokalsieger 2022!</a></h2>
 <div class="entry-meta">
@@ -341,20 +357,6 @@ Im Vordergrund stand dabei klar der Spaß am Schachspielen – wir verzichteten 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10261 
-<div class="post-10305 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10305">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/" rel="bookmark">Lichess Liga (R271)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/" rel="bookmark" title="10:41"><span class="entry-date">28. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10308" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022.jpg"><img alt="" aria-describedby="caption-attachment-10308" class="size-large wp-image-10308" height="349" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-1024x558.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-1024x558.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-300x164.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022-768x419.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga10b_27102022.jpg 1154w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10308"><strong>27.10.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/28/lichess-liga-r271/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10305 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

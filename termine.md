@@ -198,7 +198,7 @@ navs:
 </tr>
 <tr>
 <th>01.12.2022</th>
-<td></td>
+<td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
