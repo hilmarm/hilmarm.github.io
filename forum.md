@@ -12,20 +12,6 @@ parent_title: Impressum
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Forum</span> </h1>
-<div class="post-9797 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-9797">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/08/15/9797/" rel="bookmark">Geschützt: BMM-Planung 2022/23</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/08/15/9797/" rel="bookmark" title="15:05"><span class="entry-date">15. August 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/forum/" rel="category tag">Forum</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-9797 
 <div class="post-8753 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-8753">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2021/10/15/bmm-planung-2021-22/" rel="bookmark">Geschützt: BMM-Planung 2021/22</a></h2>
 <div class="entry-meta">
