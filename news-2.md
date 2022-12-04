@@ -13,7 +13,7 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/" rel="bookmark" title="16:36"><span class="entry-date">26. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22.jpg"><img alt="" class="size-large wp-image-10419 aligncenter" height="448" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-1024x717.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-1024x717.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-300x210.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22-768x538.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/weihnachtsfeier22.jpg 1098w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/weihnachtsfeier22.jpg"><img alt="" class="size-large wp-image-10419 aligncenter" height="448" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/weihnachtsfeier22.jpg" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -22,6 +22,24 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10418 
+<div class="post-10432 post type-post status-publish format-standard hentry category-bmm" id="post-10432">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/03/bmm-runde-4-2/" rel="bookmark">BMM Runde 4</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/03/bmm-runde-4-2/" rel="bookmark" title="23:18"><span class="entry-date">3. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Morgen ist Runde 4 zur BMM:</p>
+<p><strong>NARVA 1 hat spielfrei</strong><br/>
+<strong>NARVA 2 ist in Oberschöneweide zu Gast</strong><br/>
+<strong>NARVA 3 hofft in Weißensee auf die ersten Punkte.</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/runde4.jpg"><img alt="" class="alignnone size-full wp-image-10433" height="473" loading="lazy" sizes="(max-width: 931px) 100vw, 931px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/runde4.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/runde4.jpg 931w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/runde4-300x152.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/runde4-768x390.jpg 768w" width="931"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/03/bmm-runde-4-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10432 
 <div class="post-10422 post type-post status-publish format-standard hentry category-training" id="post-10422">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/27/training-mit-rouven-kombinieren/" rel="bookmark">Training mit Rouven – Kombinieren</a></h2>
 <div class="entry-meta">
@@ -341,22 +359,6 @@ Im Vordergrund stand dabei klar der Spaß am Schachspielen – wir verzichteten 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/31/50-teilnehmer-beim-kleeblatt-turnier/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10274 
-<div class="post-10261 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10261">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/" rel="bookmark">Abteilungsmeisterschaft beendet</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/" rel="bookmark" title="15:12"><span class="entry-date">29. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag wurde unsere diesjährige Abteilungsmeisterschaft beendet. Die letzte Partie wurde als kampfloser Sieg für Alex gewertet. Das ist sehr ärgerlich, wie die Auswertung mit dem Rechner zeigt: bei einer regulär gespielten Partie hätte der Sieger einen Ratingpreis bekommen, aber der kampflose Sieg reicht dafür ganz knapp nicht – es fehlt ein halber Buchholzpunkt, um zumindest mit Thomas gleichzuziehen.</p>
-<p>Dieses seltsame Szenario ergibt sich aus der Wertung von kampflosen Partien mit „virtuellem Gegner“ nach dem FIDE-Beschluss von 2009. Der kampflose Sieg zählt für die Feinwertung als Sieg gegen einen „virtuellen Gegner“, der vor dem Spiel – genau wie Alex – 1,5 Punkte hatte. Der eigentlich zugeloste Gegner hätte aber 2 Punkte gehabt, dazu kommt in der Feinwertung sogar noch ein halber Punkt für die nicht gespielte Runde 1. Ein ausgespielter Sieg hätte also einen ganzen Buchholzpunkt mehr gebracht.</p>
-<p>Die <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite </a>habe ich mit dem Endstand aktualisiert.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/29/abteilungsmeisterschaft-beendet/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10261 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
