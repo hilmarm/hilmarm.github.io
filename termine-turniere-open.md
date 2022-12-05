@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="http://www.schachjugend-in-berlin.de/2-vorrunde-zur-bjem-2023/" rel="noopener" target="_blank">Kinderherbstopen</a></td>
-<td>26.11.2022</td>
-<td>Silas</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Hamburg</a></td>
-<td>02.12.-04.12.2022</td>
-<td>Jonatan, Lukas</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Einladung22.pdf" rel="noopener" target="_blank">Weihnachtsblitz Fredersdorf</a><br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Mannschaft22.pdf" rel="noopener" target="_blank">Mannschaft</a> + <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Einzel22.pdf" rel="noopener" target="_blank">Einzel</a></td>
 <td>11.12.2022</td>
@@ -80,7 +70,7 @@ Kinderschachturnier (7R 15+0)</td>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>17.02.-19.02.2023</td>
-<td>Mannschaft</td>
+<td>Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Koblenz</a></td>
@@ -91,6 +81,16 @@ Kinderschachturnier (7R 15+0)</td>
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a></td>
 <td>24.03.-26.03.2023</td>
 <td>Jonatan?</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.seniorenschach-brandenburg.de/2022/10/25/30-offenes-brandenburgisches-seniorenturnier-2023/" rel="noopener" target="_blank">30. offenes brandenburgisches Seniorenturnier Miedzyzdroje</a></td>
+<td>16.06.-26.06.2023</td>
+<td>Hans-Dieter, Gerhard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>
+<td>03.11.-05.11.2023</td>
+<td></td>
 </tr>
 </tbody>
 </table>
