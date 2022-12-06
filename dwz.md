@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1969</td>
-<td>436</td>
+<td>1985</td>
+<td>437</td>
 <td>1960</td>
 </tr>
 <tr>
@@ -163,14 +163,6 @@ navs:
 </tr>
 <tr>
 <td>17.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1706</td>
-<td>55</td>
-<td>1618</td>
-</tr>
-<tr>
-<td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1685</td>
@@ -178,7 +170,7 @@ navs:
 <td>1871</td>
 </tr>
 <tr>
-<td>19.</td>
+<td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1683</td>
@@ -186,12 +178,20 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>20.</td>
+<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1677</td>
 <td>69</td>
 <td>1669</td>
+</tr>
+<tr>
+<td>20.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1674</td>
+<td>56</td>
+<td>1618</td>
 </tr>
 <tr>
 <td>21.</td>
