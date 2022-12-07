@@ -277,8 +277,8 @@ navs:
 <td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
-<td>1400</td>
-<td>11</td>
+<td>1396</td>
+<td>12</td>
 <td>1461</td>
 </tr>
 <tr>
