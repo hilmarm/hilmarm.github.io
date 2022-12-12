@@ -23,13 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Einladung22.pdf" rel="noopener" target="_blank">Weihnachtsblitz Fredersdorf</a><br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Mannschaft22.pdf" rel="noopener" target="_blank">Mannschaft</a> + <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/10/WBT_Einzel22.pdf" rel="noopener" target="_blank">Einzel</a></td>
-<td>11.12.2022</td>
-<td>Mannschaft mit<br/>
-Peter, Günter, Hans-Dieter, Tomas, Bernd?</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/vereine/zugz/2022/winteropen22_ausschreibung_a4_2.pdf" rel="noopener" target="_blank">Winteropen 2022</a></td>
 <td>27.12.-30.12.2022</td>
 <td></td>
@@ -55,7 +48,7 @@ Kinderschachturnier (7R 15+0)</td>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/39-obsenem-teilnehmerliste.html" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
 <td>24.01.-01.02.2023</td>
-<td>Hans-Dieter, Ulrich, Gerhard</td>
+<td>Ekkehard, Hans-Dieter, Ulrich, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>

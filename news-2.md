@@ -22,6 +22,50 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10418 
+<div class="post-10503 post type-post status-publish format-standard hentry category-openberichte" id="post-10503">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/12/45-fredersdorfer-weihnachtsblitzturnier/" rel="bookmark">45. Fredersdorfer Weihnachtsblitzturnier</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/12/45-fredersdorfer-weihnachtsblitzturnier/" rel="bookmark" title="10:31"><span class="entry-date">12. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nach 2 Jahren Pause fand gestern wieder das traditionelle <strong>Fredersdorfer Weihnachtsblitzturnier</strong> statt. Im Mannschafts-Blitzturnier waren wir mit einer 4er Mannschaft mit <strong>Peter</strong>, <strong>Günter</strong>, <strong>Jonatan</strong> und <strong>Tomas</strong> am Start.</p>
+<p>Mit 10:8 MP erreichte <strong>NARVA</strong> einen guten <strong>5.Platz</strong> bei 10 Mannschaften. <strong>Turniersieger</strong> wurde die Mannschaft von <strong>TSG Oberschöneweide</strong>.</p>
+<p>Bester NARVA Mann war Tomas an Brett 4 mit 13 Punkten aus 18 Partien.<br/>
+Günter kam auf 10,5 Punkte.<br/>
+Peter und Jonatan auf 7,5 Punkte.</p>
+<div class="wp-caption aligncenter" id="attachment_10494" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-rotated.jpg"><img alt="" aria-describedby="caption-attachment-10494" class="wp-image-10494 size-medium" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0014-rotated.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-10494">NARVA Einzelergebnisse</p></div>
+<div class="wp-caption aligncenter" id="attachment_10493" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-rotated.jpg"><img alt="" aria-describedby="caption-attachment-10493" class="size-medium wp-image-10493" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/IMG-20221211-WA0016-rotated.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-10493">Tabelle Mannschaftsturnier</p></div>
+<p>Im anschließenden <strong>Einzelturnier</strong> nahm nur <strong>Peter</strong> teil, er wurde bei nur 8 Teilnehmern mit 7 Punkten aus 14 Partien 4.</p>
+<p><a href="https://schachinfredersdorf.de/?p=3854" rel="noopener" target="_blank">Link zur Homepage von Fredersdorf mit Tabellen</a></p>
+<p>Fotos vom Mannschaftsturnier:</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2022/12/12/45-fredersdorfer-weihnachtsblitzturnier/#more-10503">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/12/45-fredersdorfer-weihnachtsblitzturnier/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10503 
+<div class="post-10496 post type-post status-publish format-standard hentry category-bfl" id="post-10496">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/11/bfl-runde-3/" rel="bookmark">BFL Runde 3</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/11/bfl-runde-3/" rel="bookmark" title="19:59"><span class="entry-date">11. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag stand für <strong>NARVA 1</strong> ein Heimspiel zur 3. Runde der BFL an.</p>
+<p>Gegen <strong>Berolina Mitte</strong> gab es aber leider keine Punkte. Nur <strong>Jonatan</strong> konnte seine Partie gewinnen, <strong>Manfred</strong>, <strong>Tom</strong> und <strong>Alex</strong> verlieren. Vor allem Alexander’s Brett war wieder in Flammen. Die Zuschauer waren sich sicher, dass Alex auf Gewinn stand…..</p>
+<p>So blieb es bei der 1:3 Niederlage und NARVA 1 bleibt weiter ohne Sieg.</p>
+<p><strong>NARVA 2</strong> hatte spielfrei.</p>
+<p>Die Ergebnisse stehen jetzt auf chess-results.com – die entsprechenden Links im Menü Mannschaften funktionieren.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-scaled.jpg"><img alt="" class="wp-image-10490 size-medium alignleft" height="300" loading="lazy" sizes="(max-width: 175px) 100vw, 175px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-175x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-175x300.jpg 175w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-597x1024.jpg 597w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-768x1318.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-895x1536.jpg 895w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-1193x2048.jpg 1193w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_195530-scaled.jpg 1491w" width="175"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled.jpg"><img alt="" class="wp-image-10491 size-medium alignright" height="186" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled-e1670828796891-300x186.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled-e1670828796891-300x186.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled-e1670828796891-1024x636.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled-e1670828796891-768x477.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled-e1670828796891-1536x953.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/20221208_220419-scaled-e1670828796891.jpg 1856w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/11/bfl-runde-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10496 
 <div class="post-9871 post type-post status-publish format-standard hentry category-interne-turniere category-tandem" id="post-9871">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark">Bughouse Abend bei NARVA</a></h2>
 <div class="entry-meta">
@@ -315,42 +359,6 @@ Begegnungsstätte Club „Lebensfreude“, Kadiner Str. 1, 10243 Berlin<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/14/lichess-liga-r276/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10358 
-<div class="post-10335 post type-post status-publish format-standard hentry category-jugend category-openberichte" id="post-10335">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/14/jugend-wieder-aktiv-ratingpreise-gewonnen/" rel="bookmark">Jugend wieder aktiv – Ratingpreise gewonnen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/14/jugend-wieder-aktiv-ratingpreise-gewonnen/" rel="bookmark" title="13:56"><span class="entry-date">14. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auch wenn wir aktuell keine aktive Jugendabteilung haben bzw. kein Jugendtraining stattfindet, so sind doch Spieler von uns aktiv bei Turnieren am Start.</p>
-<p>So fand am Wochenende 12./13.11. das<strong> Jugendherbstopen</strong> statt. Von NARVA waren Neuzugang <strong>Felix</strong> (U16) und <strong>Frieder</strong> (U18) am Start (beide schon im Erwachsenentraining dabei). Gespielt wurden 5 Runden im Schweizer System mit 75 min für 30 Züge + 15 min für den Rest der Partie inkl. DWZ Auswertung.</p>
-<p>Die Ergebnisse von beiden waren eher durchwachsen, für Felix war es aber das erste Jugend-Turnier überhaupt (bis jetzt nur 2x BMM und unser Kleeblattturnier gespielt). Für Frieder war es sogar die letzte Möglichkeit an einem Jugendturnier teilnehmen zu können. Felix erreichte 2 Punkte aus den 5 Partien, Frieder 1,5.</p>
-<p>Das reichte aber zumindest um Ratingpreise zu erreichen:<br/>
-<strong>1. Platz u18-Wertung: Frieder Arms, SG Narva Berlin</strong><br/>
-<strong>2. Platz u16-Wertung: Felix Salgueiro, SG Narva Berlin</strong></p>
-<p><a href="http://www.schachjugend-in-berlin.de/2-vorrunde-zur-bjem-2023/" rel="noopener" target="_blank">Turnierseite</a></p>
-<div class="wp-caption aligncenter" id="attachment_10336" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1.jpg"><img alt="" aria-describedby="caption-attachment-10336" class="size-medium wp-image-10336" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/P1220877b-scaled-1-2048x1366.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-10336">Foto Siegerehrung JHO u14 bis u18 (von Olaf Sill)</p></div>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZt42XEAABy75.jpg"><img alt="" class="size-medium wp-image-10332 alignnone" height="250" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZt42XEAABy75-300x250.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZt42XEAABy75-300x250.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZt42XEAABy75-1024x852.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZt42XEAABy75-768x639.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZt42XEAABy75.jpg 1080w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZtl2X0AgghJQ.jpg"><img alt="" class="wp-image-10331 size-medium alignnone" height="160" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZtl2X0AgghJQ-300x160.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZtl2X0AgghJQ-300x160.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZtl2X0AgghJQ-1024x545.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZtl2X0AgghJQ-768x409.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/FheZtl2X0AgghJQ.jpg 1080w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/jugend/" rel="category tag">Jugend</a>, <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/14/jugend-wieder-aktiv-ratingpreise-gewonnen/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10335 
-<div class="post-10356 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10356">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/12/lichess-liga-r275/" rel="bookmark">Lichess Liga (R275)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/12/lichess-liga-r275/" rel="bookmark" title="16:01"><span class="entry-date">12. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10346" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_10112022.jpg"><img alt="" aria-describedby="caption-attachment-10346" class="size-large wp-image-10346" height="313" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_10112022-1024x500.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_10112022-1024x500.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_10112022-300x147.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_10112022-768x375.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/11/liga11b_10112022.jpg 1165w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10346"><strong>10.11.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/12/lichess-liga-r275/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10356 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
