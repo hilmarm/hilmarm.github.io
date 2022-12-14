@@ -63,7 +63,7 @@ Peter und Jonatan auf 7,5 Punkte.</p>
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/11/bfl-runde-3/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/11/bfl-runde-3/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10496 
 <div class="post-9871 post type-post status-publish format-standard hentry category-interne-turniere category-tandem" id="post-9871">
