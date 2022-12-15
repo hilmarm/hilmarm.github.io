@@ -9,7 +9,11 @@ navs:
   BMM Archiv: bmm-archiv
   BFL Archiv: bfl-chronik
   BPMM Archiv: bpmm-archiv
+  BEM-Klassenturniere: bem-klassenturniere
+  C-Klasse 2018: c-klasse-2018
+  D-Klasse 2018: d-klasse-2018
   Online Turniere: online-turniere
+  DSOL Liga 5c: https://dsol.schachbund.de/tabelle.php?s=2022&l=5c
   Quarantäne Liga: quarantaene-liga
   Rapid-Liga: rapid-liga
   Schnellschach Open: schnellschach-open

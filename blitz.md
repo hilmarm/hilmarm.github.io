@@ -7,9 +7,6 @@ navs:
   Blitz: blitz
   Schnellschach: schnellschach
   Kleeblatt-Turnier: kleeblatt-turnier
-  BEM-Klassenturniere: bem-klassenturniere
-  C-Klasse 2018: c-klasse-2018
-  D-Klasse 2018: d-klasse-2018
   Training: training
   Ergebnisse melden: ergebnisse-melden
   Online Schach: online-chessmail-de

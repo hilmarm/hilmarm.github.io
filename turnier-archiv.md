@@ -9,7 +9,11 @@ navs:
   BMM Archiv: bmm-archiv
   BFL Archiv: bfl-chronik
   BPMM Archiv: bpmm-archiv
+  BEM-Klassenturniere: bem-klassenturniere
+  C-Klasse 2018: c-klasse-2018
+  D-Klasse 2018: d-klasse-2018
   Online Turniere: online-turniere
+  DSOL Liga 5c: https://dsol.schachbund.de/tabelle.php?s=2022&l=5c
   Quarantäne Liga: quarantaene-liga
   Rapid-Liga: rapid-liga
   Schnellschach Open: schnellschach-open
@@ -50,6 +54,14 @@ parent_title: Chronik
 <h1 class="entry-title">Turnier Archiv</h1>
 <div class="entry-content">
 <h1><strong>Archiv der internen Turniere</strong></h1>
+<h3>Saison 2022</h3>
+<h4><a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/abteilungsmeisterschaft-2022/" rel="noopener">Abteilungsmeisterschaft 2022</a><br/>
+<a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2022/" rel="noopener">Pokal 2022</a><br/>
+<a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/schnellschach-2022/" rel="noopener">Schnellschach 2022</a><br/>
+<a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/blitz-2022/" rel="noopener">Blitz 2022</a><br/>
+<a href="http://www.narva-schach.de" rel="noopener"> Jahresabschluss Blitz 2022</a></h4>
+<h3>Saison 2021</h3>
+<p>Keine Turniere wegen Corona Unterbrechung</p>
 <h3>Saison 2020</h3>
 <h4><a href="http://www.narva-schach.de/wordpress/chronik/turnier-archiv/abteilungsmeisterschaft-2020/" rel="noopener">Abteilungsmeisterschaft 2020 (abgebrochen)</a><br/>
 <a href="http://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2020/" rel="noopener">Pokal 2020 (abgebrochen)</a><br/>
