@@ -8,20 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-10418 post type-post status-publish format-standard sticky hentry category-intern" id="post-10418">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/" rel="bookmark">Einladung zur Weihnachtsfeier 2022!</a></h2>
+<div class="post-10516 post type-post status-publish format-standard hentry category-bmm" id="post-10516">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/16/bmm-runde-5-heimspiele-im-rudi/" rel="bookmark">BMM Runde 5 – Heimspiele im RuDi</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/" rel="bookmark" title="16:36"><span class="entry-date">26. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/16/bmm-runde-5-heimspiele-im-rudi/" rel="bookmark" title="19:18"><span class="entry-date">16. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/weihnachtsfeier22.jpg"><img alt="" class="size-large wp-image-10419 aligncenter" height="448" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/weihnachtsfeier22.jpg" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/bmmr5.jpg"><img alt="" class="aligncenter wp-image-10517 size-large" height="368" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/bmmr5-1024x589.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/bmmr5-1024x589.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/bmmr5-300x173.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/bmmr5-768x442.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/bmmr5.jpg 1055w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/26/einladung-zur-weihnachtsfeier-2022/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/16/bmm-runde-5-heimspiele-im-rudi/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-10418 
+</div> #post-10516 
 <div class="post-10503 post type-post status-publish format-standard hentry category-openberichte" id="post-10503">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/12/45-fredersdorfer-weihnachtsblitzturnier/" rel="bookmark">45. Fredersdorfer Weihnachtsblitzturnier</a></h2>
 <div class="entry-meta">
