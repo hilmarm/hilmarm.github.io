@@ -11,205 +11,270 @@ navs:
 <div class="post-174 page type-page status-publish hentry" id="post-174">
 <h1 class="entry-title">Termine</h1>
 <div class="entry-content">
-<style><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; } #content table.clean.calendar tbody tr td.bfl{ background:#f29b9b; } #content table.clean.calendar tbody tr td.pokal{ background:#f2f29b; } --></style>
-<table class="clean calendar">
+<style><span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start">﻿</span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><!-- #content table.clean.calendar thead tr th { padding:12px; background:#e9e69d; } #content table.clean.calendar tbody tr th { background:#e9e69d; padding:8px; } #content table.clean.calendar tbody tr td { padding:8px; } #content table.clean.calendar tbody tr td.blitz { background:#f29b30; } #content table.clean.calendar tbody tr td.versammlung { background:#f23000; } #content table.clean.calendar tbody tr td.schnell { background:#9b30f2; } #content table.clean.calendar tbody tr td.training { background:#309bf2; } #content table.clean.calendar tbody tr td.abtm { background:#30f29b; } #content table.clean.calendar tbody tr td.bfl{ background:#f29b9b; } #content table.clean.calendar tbody tr td.pokal{ background:#f2f29b; } --></style>
+<table class="clean calendar" style="width: 107.617%; height: 1266px;">
 <thead>
-<tr>
-<th style="width: 90px;">Tag</th>
-<th style="width: 180px;">Aktivität</th>
-<th style="width: 280px;">Bemerkung</th>
+<tr style="height: 18px;">
+<th style="width: 90px; height: 18px;">Tag</th>
+<th style="width: 180px; height: 18px;">Aktivität</th>
+<th style="width: 280px; height: 18px;">Bemerkung</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<th>31.03.2022</th>
-<td class="blitz">Blitzschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">05.01.23</td>
+<td class="training" style="width: 180px;">Training?</td>
+<td style="width: 280px;">DSAM Potsdam, Neujahrsopen</td>
 </tr>
-<tr>
-<th>07.04.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">12.01.23</td>
+<td class="schnell" style="width: 180px;">Schnellschach</td>
+<td style="width: 280px;">Meldeschluss interne Turniere</td>
 </tr>
-<tr>
-<th>14.04.2022</th>
-<td class="schnell">Schnellschach</td>
-<td>Meldeschluss Abteilungsmeisterschaft</td>
+<tr style="">
+<td style="width: 90px;">19.01.23</td>
+<td class="versammlung" style="width: 180px;">Tandem</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>21.04.2022</th>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td>Runde 1</td>
+<tr style="">
+<td style="width: 90px;">26.01.23</td>
+<td class="bfl" style="width: 180px;">BFL</td>
+<td style="width: 280px;">DSAM Bad Wildungen</td>
 </tr>
-<tr>
-<th>28.04.2022</th>
-<td class="blitz">Blitzschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">02.02.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>05.05.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">09.02.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>12.05.2022</th>
-<td class="schnell">Schnellschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">16.02.23</td>
+<td class="pokal" style="width: 180px;">Pokal</td>
+<td style="width: 280px;">DSAM Magdeburg</td>
 </tr>
-<tr>
-<th>19.05.2022</th>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td>Runde 2</td>
+<tr style="">
+<td style="width: 90px;">23.02.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>26.05.2022</th>
-<td>geschlossen</td>
-<td>Himmelfahrt</td>
+<tr style="">
+<td style="width: 90px;">02.03.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>02.06.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">09.03.23</td>
+<td class="bfl" style="width: 180px;">BFL</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>09.06.2022</th>
-<td class="schnell">Schnellschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">16.03.23</td>
+<td class="schnell" style="width: 180px;">Schnellschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>16.06.2022</th>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td>Runde 3</td>
+<tr style="">
+<td style="width: 90px;">23.03.23</td>
+<td class="bfl" style="width: 180px;">BFL</td>
+<td style="width: 280px;">DSAM Düsseldorf</td>
 </tr>
-<tr>
-<th>23.06.2022</th>
-<td></td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">30.03.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>30.06.2022</th>
-<td class="blitz">Blitzschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">06.04.23</td>
+<td class="versammlung" style="width: 180px;">Mitgliederversammlung</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>07.07.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">13.04.23</td>
+<td class="versammlung" style="width: 180px;">Skat</td>
+<td style="width: 280px;">DSAM Darmstadt, BEM?</td>
 </tr>
-<tr>
-<th>14.07.2022</th>
-<td class="schnell">Schnellschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">20.04.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td align="left" height="17" style="width: 280px;">BFL auswärts (1.)</td>
 </tr>
-<tr>
-<th>21.07.2022</th>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td>Runde 4</td>
+<tr style="">
+<td style="width: 90px;">27.04.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>28.07.2022</th>
-<td class="blitz">Blitzschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">04.05.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>04.08.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">11.05.23</td>
+<td class="schnell" style="width: 180px;">Schnellschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>11.08.2022</th>
-<td class="versammlung">Mitgliederversammlung</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">18.05.23</td>
+<td style="width: 180px;">Himmelfahrt</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>18.08.2022</th>
-<td></td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">25.05.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>25.08.2022</th>
-<td class="blitz">Blitzschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">01.06.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>01.09.2022</th>
-<td class="schnell">Schnellschach</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">08.06.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>08.09.2022</th>
-<td class="training">Training mit GM Richter</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">15.06.23</td>
+<td class="pokal" style="width: 180px;">Pokal</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>15.09.2022</th>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td>Runde 5</td>
+<tr style="">
+<td style="width: 90px;">22.06.23</td>
+<td style="width: 180px;"></td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>22.09.2022</th>
-<td class="versammlung">Skat</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">29.06.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>29.09.2022</th>
-<td class="blitz">Blitzschach</td>
-<td>ohne Wertung</td>
+<tr style="">
+<td style="width: 90px;">06.07.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>06.10.2022</th>
-<td class="pokal">Pokal 1.Runde</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">13.07.23</td>
+<td class="schnell" style="width: 180px;">Schnellschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>13.10.2022</th>
-<td class="bfl">BFL</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">20.07.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>20.10.2022</th>
-<td class="pokal">Pokal 2.Runde</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">27.07.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;">DSAM Finale</td>
 </tr>
-<tr>
-<th>27.10.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">03.08.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>03.11.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">10.08.23</td>
+<td class="pokal" style="width: 180px;">Pokal</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>10.11.2022</th>
-<td class="pokal">Pokal Halbfinale</td>
-<td class="bfl">BFL Nachholspiel</td>
+<tr style="">
+<td style="width: 90px;">17.08.23</td>
+<td class="versammlung" style="width: 180px;">Mitgliederversammlung?</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>17.11.2022</th>
-<td class="training">Training</td>
-<td class="bfl">BFL Auswärtsspiel</td>
+<tr style="">
+<td style="width: 90px;">24.08.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>24.11.2022</th>
-<td class="pokal">Pokalfinale</td>
-<td>SG NARVA Hauptversammlung</td>
+<tr style="">
+<td style="width: 90px;">31.08.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>01.12.2022</th>
-<td class="training">Training</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">07.09.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>08.12.2022</th>
-<td class="bfl">BFL</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">14.09.23</td>
+<td class="schnell" style="width: 180px;">Schnellschach</td>
+<td style="width: 280px;"></td>
 </tr>
-<tr>
-<th>15.12.2022</th>
-<td class="versammlung">Weihnachtsfeier</td>
-<td></td>
+<tr style="">
+<td style="width: 90px;">21.09.23</td>
+<td class="pokal" style="width: 180px;">Pokal</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">28.09.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">05.10.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">12.10.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">19.10.23</td>
+<td style="width: 180px;"></td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">26.10.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">02.11.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">09.11.23</td>
+<td class="schnell" style="width: 180px;">Schnellschach</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">16.11.23</td>
+<td class="pokal" style="width: 180px;">Pokal</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">23.11.23</td>
+<td class="abtm" style="width: 180px;">Abteilungsmeisterschaft</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">30.11.23</td>
+<td class="blitz" style="width: 180px;">Blitzschach</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">07.12.23</td>
+<td class="training" style="width: 180px;">Training</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">14.12.23</td>
+<td class="versammlung" style="width: 180px;">Weihnachtsfeier</td>
+<td style="width: 280px;"></td>
+</tr>
+<tr style="">
+<td style="width: 90px;">21.12.23</td>
+<td style="width: 180px;"></td>
+<td style="width: 280px;"></td>
 </tr>
 </tbody>
 </table>
