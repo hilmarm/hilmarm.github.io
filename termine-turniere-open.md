@@ -38,7 +38,11 @@ Kinderschachturnier (7R 15+0)</td>
 08.01.2023<br/>
 07.01.2023<br/>
 02.01.2023</td>
-<td></td>
+<td>____<br/>
+Jonatan<br/>
+Batuhan<br/>
+Batuhan<br/>
+___</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
