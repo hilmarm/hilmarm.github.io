@@ -52,6 +52,32 @@ parent_title: Chronik
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Rapid-Liga</span> </h1>
+<div class="post-10553 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10553">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/13/rapid-liga-11/" rel="bookmark">Rapid Liga (11)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/13/rapid-liga-11/" rel="bookmark" title="11:58"><span class="entry-date">13. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/13/rapid-liga-11/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10553 
+<div class="post-10550 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10550">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/06/rapid-liga-9-2/" rel="bookmark">Rapid Liga (10)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/06/rapid-liga-9-2/" rel="bookmark" title="11:56"><span class="entry-date">6. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/06/rapid-liga-9-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10550 
 <div class="post-10476 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10476">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/29/rapid-liga-9/" rel="bookmark">Rapid Liga (9)</a></h2>
 <div class="entry-meta">
