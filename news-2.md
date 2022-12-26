@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10548 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10548">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/25/lichess-liga-r286/" rel="bookmark">Lichess Liga (R286)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/25/lichess-liga-r286/" rel="bookmark" title="11:54"><span class="entry-date">25. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10537" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/liga8b_181220222.jpg"><img alt="" aria-describedby="caption-attachment-10537" class="size-large wp-image-10537" height="312" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/liga8b_181220222-1024x499.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/liga8b_181220222-1024x499.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/liga8b_181220222-300x146.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/liga8b_181220222-768x374.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/liga8b_181220222.jpg 1152w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10537"><strong>18.12.2022</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/25/lichess-liga-r286/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10548 
 <div class="post-10516 post type-post status-publish format-standard hentry category-bmm" id="post-10516">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/16/bmm-runde-5-heimspiele-im-rudi/" rel="bookmark">BMM Runde 5 – Heimspiele im RuDi</a></h2>
 <div class="entry-meta">
@@ -320,29 +334,6 @@ Begegnungsstätte Club „Lebensfreude“, Kadiner Str. 1, 10243 Berlin<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/21/lichess-liga-r278/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10457 
-<div class="post-10373 post type-post status-publish format-standard hentry category-bmm" id="post-10373">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/19/heimspiel-sonntag-in-der-bmm/" rel="bookmark">Heimspiel Sonntag in der BMM</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/19/heimspiel-sonntag-in-der-bmm/" rel="bookmark" title="12:52"><span class="entry-date">19. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Alles dabei, Sieg, Niederlage, Unentschieden, in Runde 3 der BMM.</p>
-<p>Unser erster gemeinsamer <strong>BMM Heimspieltag</strong> endet mit folgenden Ereignissen:<br/>
-<strong>NARVA 1</strong> kommt gegen <strong>Empor 2</strong> zu einem<strong> 4:4</strong> Unentschieden.<br/>
-<strong>NARVA 2</strong> gewinnt gegen <strong>Friedrichshagen 2</strong> mit <strong>5,5:2,5</strong><br/>
-<strong>NARVA 3</strong> verliert gegen <strong>SG Weißensee 4</strong> mit <strong>2,5:3,5</strong></p>
-<p>Da meine eigene Partie bereits um 9.15 Uhr auf Abriss stand, blieb mir genügend Zeit, mich als Schiedsrichter und Beobachter bei allen 3 Kämpfen zu beschäftigen.</p>
-<p>Es war das erste mal, dass wir ein gemeinsamen Heimspiel hatten. Bis jetzt spielten die Mannschaften nicht nur an verschiedenen Orten, sondern auch alternierend. Auf der Mitgliederversammlung wurde dann beschlossen, dass wir das zu dieser Saison zur „Förderung des Vereinslebens“ nun anderes machen und die drei NARVA Teams zusammen ihre Heimspiele im RuDi austragen. Bis jetzt habe ich, am Sonntag und auch danach, nur positive Rückmeldung erhalten.</p>
-<p>Ein großer Dank gilt auch <strong>Klaus</strong> für die Versorgung inkl. des leckeren Kartoffelsalat (meine Frau war auch zufrieden!)!</p>
-<p>Nun aber zum Wettkampf:</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2022/11/19/heimspiel-sonntag-in-der-bmm/#more-10373">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/19/heimspiel-sonntag-in-der-bmm/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10373 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
