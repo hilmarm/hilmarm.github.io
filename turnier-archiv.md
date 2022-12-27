@@ -59,7 +59,7 @@ parent_title: Chronik
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2022/" rel="noopener">Pokal 2022</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/schnellschach-2022/" rel="noopener">Schnellschach 2022</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/blitz-2022/" rel="noopener">Blitz 2022</a><br/>
-<a href="http://www.narva-schach.de" rel="noopener"> Jahresabschluss Blitz 2022</a></h4>
+<a href="http://www.narva-schach.de/dateien/chronik/blitzjahres2022.html" rel="noopener" target="_blank"> Jahresabschluss Blitz 2022</a></h4>
 <h3>Saison 2021</h3>
 <p>Keine Turniere wegen Corona Unterbrechung</p>
 <h3>Saison 2020</h3>
