@@ -19,7 +19,10 @@ navs:
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Schnellschachmeisterschaft-2023.pdf">Schnellschach 2023</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Blitzschach 2023</a></p>
 <p>Anmeldungen für Abteilungsmeisterschaft und Pokal sind bereits möglich.<br/>
-Für Schnellschach und Blitzschach ist wie bisher die Anmeldung am jeweiligen Spieltag ausreichend.</p>
+Für Schnellschach und Blitzschach ist wie bisher die Anmeldung am jeweiligen Spieltag ausreichend.<br/>
+<!-- Formular auskommentiert, so lange ich nicht weiß, dass die Mails auch ankommen.
+[contact-form-7 id="9811" title="Anmeldung interne Turniere 2023"]
+--></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
