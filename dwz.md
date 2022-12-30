@@ -123,14 +123,6 @@ navs:
 </tr>
 <tr>
 <td>12.</td>
-<td><a href="http://www.schachbund.de/spieler/10608443.html" target="_blank"> Derk Dekker</a></td>
-<td></td>
-<td>1870</td>
-<td>8</td>
-<td>1893</td>
-</tr>
-<tr>
-<td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
 <td>1870</td>
@@ -138,7 +130,7 @@ navs:
 <td>1891</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10285337.html" target="_blank"> George Calamar</a></td>
 <td></td>
 <td>1789</td>
@@ -146,7 +138,7 @@ navs:
 <td>1723</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>14.</td>
 <td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
 <td></td>
 <td>1784</td>
@@ -154,7 +146,7 @@ navs:
 <td>1615</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
 <td>1745</td>
@@ -162,7 +154,7 @@ navs:
 <td>1821</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1685</td>
@@ -170,7 +162,7 @@ navs:
 <td>1871</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>17.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1683</td>
@@ -178,7 +170,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>19.</td>
+<td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1677</td>
@@ -186,7 +178,7 @@ navs:
 <td>1669</td>
 </tr>
 <tr>
-<td>20.</td>
+<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
 <td>1674</td>
@@ -194,7 +186,7 @@ navs:
 <td>1618</td>
 </tr>
 <tr>
-<td>21.</td>
+<td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10083814.html" target="_blank"> Katrin Hildebrand</a></td>
 <td></td>
 <td>1649</td>
@@ -202,7 +194,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>22.</td>
+<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10594349.html" target="_blank"> Harris-Simon Baytelman</a></td>
 <td>P</td>
 <td>1634</td>
@@ -210,7 +202,7 @@ navs:
 <td>1632</td>
 </tr>
 <tr>
-<td>23.</td>
+<td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1631</td>
@@ -218,7 +210,7 @@ navs:
 <td>1626</td>
 </tr>
 <tr>
-<td>24.</td>
+<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
 <td>1592</td>
@@ -226,7 +218,7 @@ navs:
 <td>1743</td>
 </tr>
 <tr>
-<td>25.</td>
+<td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
 <td>1586</td>
@@ -234,7 +226,7 @@ navs:
 <td>1703</td>
 </tr>
 <tr>
-<td>26.</td>
+<td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
 <td>1575</td>
@@ -242,7 +234,7 @@ navs:
 <td>1581</td>
 </tr>
 <tr>
-<td>27.</td>
+<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1574</td>
@@ -250,7 +242,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>28.</td>
+<td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
 <td>1507</td>
@@ -258,7 +250,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>29.</td>
+<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10286599.html" target="_blank"> Grigory Kornilov</a></td>
 <td></td>
 <td>1413</td>
@@ -266,7 +258,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>30.</td>
+<td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1403</td>
@@ -274,7 +266,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>31.</td>
+<td>30.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
 <td>1396</td>
@@ -282,7 +274,7 @@ navs:
 <td>1461</td>
 </tr>
 <tr>
-<td>32.</td>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10718317.html" target="_blank"> Gunar Maiwald</a></td>
 <td></td>
 <td>1388</td>
@@ -290,7 +282,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>33.</td>
+<td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
 <td></td>
 <td>1351</td>
@@ -298,7 +290,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>34.</td>
+<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
 <td>1280</td>
@@ -306,7 +298,7 @@ navs:
 <td>1391</td>
 </tr>
 <tr>
-<td>35.</td>
+<td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
 <td>1258</td>
@@ -314,7 +306,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>36.</td>
+<td>35.</td>
 <td><a href="http://www.schachbund.de/spieler/10078511.html" target="_blank"> Manfred Heinrich</a></td>
 <td></td>
 <td>1247</td>
@@ -322,7 +314,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>37.</td>
+<td>36.</td>
 <td><a href="http://www.schachbund.de/spieler/10209542.html" target="_blank"> Manfred Smala</a></td>
 <td></td>
 <td>1232</td>
@@ -330,7 +322,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>38.</td>
+<td>37.</td>
 <td><a href="http://www.schachbund.de/spieler/10273928.html" target="_blank"> Thomas Totz</a></td>
 <td></td>
 <td>1131</td>
@@ -338,7 +330,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>39.</td>
+<td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10745115.html" target="_blank"> Myriam Kügler</a></td>
 <td></td>
 <td>1109</td>
@@ -346,7 +338,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>40.</td>
+<td>39.</td>
 <td><a href="http://www.schachbund.de/spieler/10620251.html" target="_blank"> Frieder Arms</a></td>
 <td></td>
 <td>1028</td>
@@ -354,7 +346,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>41.</td>
+<td>40.</td>
 <td><a href="http://www.schachbund.de/spieler/10796627.html" target="_blank"> Felix Salgueiro</a></td>
 <td></td>
 <td>943</td>
@@ -362,7 +354,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>42.</td>
+<td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10405586.html" target="_blank"> Jasper Maiwald</a></td>
 <td></td>
 <td>753</td>
@@ -370,7 +362,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>43.</td>
+<td>42.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
 <td></td>
@@ -378,7 +370,7 @@ navs:
 <td>1705</td>
 </tr>
 <tr>
-<td>44.</td>
+<td>43.</td>
 <td><a href="http://www.schachbund.de/spieler/10082176.html" target="_blank"> Michael Herrscher</a></td>
 <td></td>
 <td></td>
@@ -386,7 +378,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>45.</td>
+<td>44.</td>
 <td><a href="http://www.schachbund.de/spieler/10778617.html" target="_blank"> Jayasurian Makkoth</a></td>
 <td></td>
 <td></td>
@@ -394,7 +386,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>46.</td>
+<td>45.</td>
 <td><a href="http://www.schachbund.de/spieler/10783153.html" target="_blank"> Silas Maiwald</a></td>
 <td></td>
 <td></td>
