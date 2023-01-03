@@ -23,6 +23,9 @@ parent_title: Turniere
 <li>Hintze</li>
 <li>Maetzing</li>
 <li>Kinski</li>
+<li>Segerberg</li>
+<li>Magnusson</li>
+<li>Campe</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 

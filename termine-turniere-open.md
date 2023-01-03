@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/vereine/zugz/2022/winteropen22_ausschreibung_a4_2.pdf" rel="noopener" target="_blank">Winteropen 2022</a></td>
-<td>27.12.-30.12.2022</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">3. Berlin Mitte Neujahrs – Schachfestival</a><br/>
 Neujahrs-Open<br/>
 Blitzschach-Open (11R 3+2)<br/>
@@ -45,14 +40,19 @@ Batuhan<br/>
 ___</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.mariendorf-schach.de/news/" rel="noopener" target="_blank">8. Neujahrs-Turnier Mariendorf</a></td>
+<td>04.01.2023</td>
+<td>Günter, Thomas? Gerhard?</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>06.01.-08.01.2023</td>
-<td>Andreas, Mannschaft?</td>
+<td>Andreas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/39-obsenem-teilnehmerliste.html" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
 <td>24.01.-01.02.2023</td>
-<td>Ekkehard, Hans-Dieter, Ulrich, Gerhard</td>
+<td>Bernd, Ekkehard, Hans-Dieter, Ulrich, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>

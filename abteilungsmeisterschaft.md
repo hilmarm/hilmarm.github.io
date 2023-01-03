@@ -89,6 +89,11 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
+<ul>
+<li>Campe</li>
+<li>Magnusson</li>
+<li>von Kraft</li>
+</ul>
 </div><!-- .entry-content -->
 </div> #post-3561 
 <div id="comments">
