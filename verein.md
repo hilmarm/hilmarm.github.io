@@ -83,7 +83,7 @@ parent_title: Chronik
 </tr>
 </tbody>
 </table>
-<p><img alt="Geschi1" class="alignnone wp-image-527" height="187" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Geschi1.jpg" width="150"/> <img alt="Narva Logo Farbe2" class="alignnone wp-image-528 size-thumbnail" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo-Farbe2-150x150.jpg" width="150"/> <img alt="Narva-Logo" class="alignnone wp-image-529" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo.gif" width="150"/></p>
+<p><img alt="Geschi1" class="alignnone wp-image-527" decoding="async" height="187" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Geschi1.jpg" width="150"/> <img alt="Narva Logo Farbe2" class="alignnone wp-image-528 size-thumbnail" decoding="async" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo-Farbe2-150x150.jpg" width="150"/> <img alt="Narva-Logo" class="alignnone wp-image-529" decoding="async" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo.gif" width="150"/></p>
 <h1 align="center"><strong><span style="text-decoration: underline;">Der Verein</span></strong></h1>
 <p>Im Verein SG NARVA Berlin e.V. gibt es mehrere Abteilungen, in denen die verschiedensten Sportarten ausgeübt werden können.<br/>
 Dazu gehören:</p>
@@ -122,7 +122,7 @@ Dazu gehören:</p>
 </tr>
 </tbody>
 </table>
-<p><img alt="uhrsw" class="size-medium wp-image-531 aligncenter" height="201" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-300x201.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-300x201.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-768x513.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-1024x684.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw.jpg 1556w" width="300"/></p>
+<p><img alt="uhrsw" class="size-medium wp-image-531 aligncenter" decoding="async" height="201" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-300x201.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-300x201.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-768x513.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw-1024x684.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/uhrsw.jpg 1556w" width="300"/></p>
 <h1 align="center"><strong><span style="text-decoration: underline;">Der Start, der Abteilung Schach</span></strong></h1>
 <p>. . . erfolgte am 01.07.1950, etwa ein Jahr nach Gründung der Betriebssportvereinigung Berliner Glühlampenwerk (1.4.49) als Sparte Schach, deren Leiter Hans Jagielski war. Seine Mitstreiter waren u.a. Wilhelm Voigt und Hans Kindt sowie etwas später die Betriebsangehörigen “Charly” Wenslawski, Otto Hahn, Walter Steckling, Rudolf Kettler und weitere Schachfreunde.<br/>
 Schach-Wettkämpfe wurden auch außerhalb Berlins ausgetragen. Reiseziele waren z.B. Schwarzheide, Cottbus, Görlitz. Besucht wurde die Schacholympiade in Leipzig 1960. Die Schachgruppe war von geringer Mitgliederstärke – den Aktivitäten kam dies offenbar zugute. Wechselnde Trainings- und Spielorte waren in der Vergangenheit der Stabilität abträglich, aber stets wurden Möglichkeiten zum weiteren Bestehen gefunden.<br/>
@@ -239,7 +239,7 @@ Danach übernahm kurz Dirk Laurin die Position, bis im April 2016 Alexander Krei
 </tbody>
 </table>
 <p>Mit 3 Mannschaftspunkten (21 Brett-Pkt.) wurde in der 2. Klasse der 9. Platz erreicht, dabei gingen nur drei Punkte kampflos verloren. Das Ergebnis hatte den Abstieg in die 3. Klasse zur Folge.</p>
-<p><img alt="brett" class="aligncenter size-thumbnail wp-image-533" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/brett-150x150.jpg" width="150"/></p>
+<p><img alt="brett" class="aligncenter size-thumbnail wp-image-533" decoding="async" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/brett-150x150.jpg" width="150"/></p>
 <h1 align="center"><strong><span style="text-decoration: underline;">Spielorte / Trainingsorte</span></strong><br/>
 <strong><span style="text-decoration: underline;"> der Abt. Schach</span></strong></h1>
 <p>Die Spiele in der Berliner Mannschaftsmeisterschaft und das Schachtraining fanden in vielen Jahren an verschiedenen Orten statt. Nach der Gründung der Abteilung konnten Räume innerhalb des Betriebsgeländes BGW (Geb. 1, 5 und 6 – Sportgebäude) genutzt werden.<br/>
@@ -261,7 +261,7 @@ In der BMM Saison 2011/12 spielten die 1. und 2.Mannschaft im Jugendclub Feuerwa
 <h1 align="center"><strong><span style="text-decoration: underline;">Entwicklung der Mitgliederzahl</span></strong><br/>
 <strong><span style="text-decoration: underline;"> der Abt. Schach</span></strong></h1>
 <p align="center">Stichtag ist immer der 01.Januar des Jahres</p>
-<p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019.jpg"><img alt="" class="alignnone size-large wp-image-6749" height="415" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-1024x664.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-1024x664.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-300x194.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-768x498.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019.jpg 1159w" width="640"/></a></p>
+<p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019.jpg"><img alt="" class="alignnone size-large wp-image-6749" decoding="async" height="415" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-1024x664.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-1024x664.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-300x194.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-768x498.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019.jpg 1159w" width="640"/></a></p>
 </div><!-- .entry-content -->
 </div> #post-179 
 <div id="comments">

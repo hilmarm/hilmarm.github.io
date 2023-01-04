@@ -36,13 +36,13 @@ Kinderschachturnier (7R 15+0)</td>
 <td>____<br/>
 Jonatan<br/>
 Batuhan<br/>
-Batuhan<br/>
+Batuhan, Günter<br/>
 ___</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.mariendorf-schach.de/news/" rel="noopener" target="_blank">8. Neujahrs-Turnier Mariendorf</a></td>
 <td>04.01.2023</td>
-<td>Günter, Thomas? Gerhard?</td>
+<td>Günter, Gerhard?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>

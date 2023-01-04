@@ -46,10 +46,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 10.11.2017 – 12.11.2017</h2>
 <p><br style="text-align: left;"/><br/>
 <iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R5.html" width="600"> /&gt;</iframe><br/>
-<iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R4.html" width="600"> /&gt;</iframe><br/>
-<iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R3.html" width="600"> /&gt;</iframe><br/>
-<iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R2.html" width="600"> /&gt;</iframe><br/>
-<iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R1.html" width="600"> /&gt;</iframe></p>
+<iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R4.html" width="600"> /&gt;</iframe><br/>
+<iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R3.html" width="600"> /&gt;</iframe><br/>
+<iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R2.html" width="600"> /&gt;</iframe><br/>
+<iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R1.html" width="600"> /&gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-3160 
 <div id="comments">

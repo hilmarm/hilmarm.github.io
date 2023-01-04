@@ -6,9 +6,7 @@ navs:
 <div class="post-38 page type-page status-publish hentry" id="post-38">
 <h2 class="entry-title">Willkommen!</h2>
 <div class="entry-content">
-<div align="left" style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Photo_talks_1671627998627.jpg"><img alt="" class="alignnone size-full wp-image-10557" height="768" loading="lazy" sizes="(max-width: 878px) 100vw, 878px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Photo_talks_1671627998627.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Photo_talks_1671627998627.jpg 878w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Photo_talks_1671627998627-300x262.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Photo_talks_1671627998627-768x672.jpg 768w" width="878"/></a></div>
-<div align="left"></div>
-<p> </p>
+<p style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg"><img alt="" class="size-full wp-image-10593 aligncenter" decoding="async" sizes="(max-width: 725px) 100vw, 725px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg 725w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-298x300.jpg 298w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-144x144.jpg 144w" width="500"/></a>Weiß am Zug gewinnt! (aus dem Training von Rouven)</p>
 <p><span style="color: #000000;"><span style="font-family: AR ESSENCE,serif;"><span style="font-size: x-large;">Du suchst einen Verein?<br/>
 Oder du hast Lust unsere Jugend zu trainieren?<br/>
 Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend setzt!</span></span></span></p>
