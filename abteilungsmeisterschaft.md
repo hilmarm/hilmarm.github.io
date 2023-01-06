@@ -19,7 +19,6 @@ parent_title: Turniere
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Ausschreibung Abteilungsmeisterschaft 2023</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h2>Anmeldungen</h2>
-<p> </p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -35,15 +34,6 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1.</td>
-<td>Mothes,Thomas</td>
-<td></td>
-<td>1575</td>
-<td>1581</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>GER</td>
-</tr>
-<tr>
-<td>2.</td>
 <td>Hintze,Peter</td>
 <td></td>
 <td>1914</td>
@@ -52,25 +42,16 @@ parent_title: Turniere
 <td>GER</td>
 </tr>
 <tr>
+<td>2.</td>
+<td>Arnold,Rouven</td>
+<td></td>
+<td>1902</td>
+<td>2113</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
 <td>3.</td>
-<td>Hildebrand,Katrin</td>
-<td>W</td>
-<td>1649</td>
-<td></td>
-<td>SG NARVA Berlin e.V.</td>
-<td>GER</td>
-</tr>
-<tr>
-<td>4.</td>
-<td>Schenk,Jonatan</td>
-<td></td>
-<td>1674</td>
-<td>1618</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>GER</td>
-</tr>
-<tr>
-<td>5.</td>
 <td>Maetzing,Hans-Dieter</td>
 <td></td>
 <td>1745</td>
@@ -79,7 +60,52 @@ parent_title: Turniere
 <td>GER</td>
 </tr>
 <tr>
+<td>4.</td>
+<td>Krüger,Ekkehard</td>
+<td></td>
+<td>1685</td>
+<td>1871</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Magnusson,Hilmar</td>
+<td></td>
+<td>1683</td>
+<td></td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
 <td>6.</td>
+<td>Brinckmann,Klaus</td>
+<td></td>
+<td>1677</td>
+<td>1669</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Schenk,Jonatan</td>
+<td></td>
+<td>1674</td>
+<td>1618</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Hildebrand,Katrin</td>
+<td>W</td>
+<td>1649</td>
+<td></td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>9.</td>
 <td>Kinski,Andreas</td>
 <td></td>
 <td>1631</td>
@@ -87,12 +113,46 @@ parent_title: Turniere
 <td>SG NARVA Berlin e.V.</td>
 <td>GER</td>
 </tr>
+<tr>
+<td>10.</td>
+<td>Campe,Ulrich</td>
+<td></td>
+<td>1592</td>
+<td>1743</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>11.</td>
+<td>Mothes,Thomas</td>
+<td></td>
+<td>1575</td>
+<td>1581</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>12.</td>
+<td>Kreisel,Alexander</td>
+<td></td>
+<td>1507</td>
+<td></td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>13.</td>
+<td>von Kraft,Lukas</td>
+<td></td>
+<td>1396</td>
+<td>1461</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
 </tbody>
 </table>
 <ul>
-<li>Campe</li>
-<li>Magnusson</li>
-<li>von Kraft</li>
+<li></li>
 </ul>
 </div><!-- .entry-content -->
 </div> #post-3561 

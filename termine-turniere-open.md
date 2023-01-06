@@ -25,19 +25,16 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">3. Berlin Mitte Neujahrs – Schachfestival</a><br/>
 Neujahrs-Open<br/>
-Blitzschach-Open (11R 3+2)<br/>
 Schnellschach-Open (9R 10+5)<br/>
-Kinderschachturnier (7R 15+0)</td>
+Blitzschach-Open (11R 3+2)</td>
 <td>___<br/>
 03.01.-06.01.2023<br/>
-08.01.2023<br/>
 07.01.2023<br/>
-02.01.2023</td>
+08.01.2023</td>
 <td>____<br/>
 Jonatan<br/>
-Batuhan<br/>
-Batuhan, Günter<br/>
-___</td>
+Bernd, Batuhan, Günter<br/>
+Batuhan</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>

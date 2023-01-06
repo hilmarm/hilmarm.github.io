@@ -26,6 +26,10 @@ parent_title: Turniere
 <li>Segerberg</li>
 <li>Magnusson</li>
 <li>Campe</li>
+<li>Krüger</li>
+<li>W. Heinrich</li>
+<li>Kreisel</li>
+<li>Brinckmann</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
