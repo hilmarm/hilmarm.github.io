@@ -30,6 +30,7 @@ parent_title: Turniere
 <li>W. Heinrich</li>
 <li>Kreisel</li>
 <li>Brinckmann</li>
+<li>M. Heinrich</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 

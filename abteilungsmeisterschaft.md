@@ -152,7 +152,7 @@ parent_title: Turniere
 </tbody>
 </table>
 <ul>
-<li></li>
+<li>M. Heinrich</li>
 </ul>
 </div><!-- .entry-content -->
 </div> #post-3561 
