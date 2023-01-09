@@ -153,6 +153,7 @@ parent_title: Turniere
 </table>
 <ul>
 <li>M. Heinrich</li>
+<li>G. Maiwald</li>
 </ul>
 </div><!-- .entry-content -->
 </div> #post-3561 

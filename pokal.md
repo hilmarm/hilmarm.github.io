@@ -31,6 +31,7 @@ parent_title: Turniere
 <li>Kreisel</li>
 <li>Brinckmann</li>
 <li>M. Heinrich</li>
+<li>G. Maiwald</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
