@@ -154,6 +154,8 @@ parent_title: Turniere
 <ul>
 <li>M. Heinrich</li>
 <li>G. Maiwald</li>
+<li>Herrscher</li>
+<li>Mietzelfeldt</li>
 </ul>
 </div><!-- .entry-content -->
 </div> #post-3561 

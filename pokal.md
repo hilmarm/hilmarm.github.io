@@ -32,6 +32,9 @@ parent_title: Turniere
 <li>Brinckmann</li>
 <li>M. Heinrich</li>
 <li>G. Maiwald</li>
+<li>Herrscher</li>
+<li>Mietzelfeldt</li>
+<li>Lange</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
