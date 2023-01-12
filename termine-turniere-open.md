@@ -23,25 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">3. Berlin Mitte Neujahrs – Schachfestival</a><br/>
-Neujahrs-Open<br/>
-Schnellschach-Open (9R 10+5)<br/>
-Blitzschach-Open (11R 3+2)</td>
-<td>___<br/>
-03.01.-06.01.2023<br/>
-07.01.2023<br/>
-08.01.2023</td>
-<td>____<br/>
-Jonatan<br/>
-Bernd, Batuhan, Günter<br/>
-Batuhan</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
-<td>06.01.-08.01.2023</td>
-<td>Andreas</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/39-obsenem-teilnehmerliste.html" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
 <td>24.01.-01.02.2023</td>
 <td>Bernd, Ekkehard, Hans-Dieter, Ulrich, Gerhard</td>
