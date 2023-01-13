@@ -35,6 +35,7 @@ parent_title: Turniere
 <li>Herrscher</li>
 <li>Mietzelfeldt</li>
 <li>Lange</li>
+<li>Salgueiro</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
