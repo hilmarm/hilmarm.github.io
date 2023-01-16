@@ -61,8 +61,8 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1985</td>
-<td>437</td>
+<td>1979</td>
+<td>438</td>
 <td>1979</td>
 </tr>
 <tr>
@@ -171,6 +171,14 @@ navs:
 </tr>
 <tr>
 <td>18.</td>
+<td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
+<td></td>
+<td>1676</td>
+<td>44</td>
+<td>1626</td>
+</tr>
+<tr>
+<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
 <td>1674</td>
@@ -178,7 +186,7 @@ navs:
 <td>1620</td>
 </tr>
 <tr>
-<td>19.</td>
+<td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10083814.html" target="_blank"> Katrin Hildebrand</a></td>
 <td></td>
 <td>1649</td>
@@ -186,20 +194,12 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>20.</td>
+<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10594349.html" target="_blank"> Harris-Simon Baytelman</a></td>
 <td>P</td>
 <td>1634</td>
 <td>15</td>
 <td>1632</td>
-</tr>
-<tr>
-<td>21.</td>
-<td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
-<td></td>
-<td>1631</td>
-<td>43</td>
-<td>1626</td>
 </tr>
 <tr>
 <td>22.</td>
