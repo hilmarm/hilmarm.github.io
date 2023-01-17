@@ -15,14 +15,12 @@ navs:
 <div class="entry-content">
 <p>Die <a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2022.html">Ergebnisse vom Weihnachtsblitz</a> sind nun endlich online, ebenso die Ausschreibungen für die internen Turniere 2023:</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Abteilungsmeisterschaft 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a> –&gt; <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Auslosung 1.Runde</a> – diese ist am <strong>16.02.2023</strong>, Achtung, hier ist auch BFL und einige sind in Magdeburg zur DSAM, also rechtzeitig verlegen!</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Schnellschachmeisterschaft-2023.pdf">Schnellschach 2023</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Blitzschach 2023</a></p>
 <p>Anmeldungen für Abteilungsmeisterschaft und Pokal sind bereits möglich.<br/>
 Für Schnellschach und Blitzschach ist wie bisher die Anmeldung am jeweiligen Spieltag ausreichend.<br/>
-<!-- Formular auskommentiert, so lange ich nicht weiß, dass die Mails auch ankommen.
-[contact-form-7 id="9811" title="Anmeldung interne Turniere 2023"]
---></p>
+<!-- Formular auskommentiert, so lange ich nicht weiß, dass die Mails auch ankommen. [contact-form-7 id="9811" title="Anmeldung interne Turniere 2023"] --></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
