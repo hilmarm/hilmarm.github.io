@@ -61,10 +61,10 @@ parent_title: Termine
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">6</td>
-<td>Weissensee 1 (A) – 19:30 Uhr!</td>
-<td>16.02.23</td>
-<td>Weissensee 2 (A) – 19:30 Uhr!</td>
-<td>16.02.23</td>
+<td>SG Weißensee 1 (A) – 19:30 Uhr!</td>
+<td>23.02.23</td>
+<td>SG Weißensee 2 (A) – 19:30 Uhr!</td>
+<td>23.02.23</td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">7</td>

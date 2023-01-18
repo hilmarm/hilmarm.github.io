@@ -9,13 +9,13 @@ navs:
 <div class="nav-next"></div>
 </div> #nav-above 
 <div class="post-10564 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-10564">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark">Ausschreibungen für die internen Turniere 2023</a></h2>
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark">Internen Turniere 2023</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark" title="18:39"><span class="entry-date">26. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Die <a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2022.html">Ergebnisse vom Weihnachtsblitz</a> sind nun endlich online, ebenso die Ausschreibungen für die internen Turniere 2023:</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Abteilungsmeisterschaft 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a> –&gt; <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Auslosung 1.Runde</a> – diese ist am <strong>16.02.2023</strong>, Achtung, hier ist auch BFL und einige sind in Magdeburg zur DSAM, also rechtzeitig verlegen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a> –&gt; <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Auslosung 1.Runde</a> – diese ist am <strong>16.02.2023</strong>, Achtung, <del>hier ist auch BFL</del> und einige sind in Magdeburg zur DSAM, also rechtzeitig verlegen!</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Schnellschachmeisterschaft-2023.pdf">Schnellschach 2023</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Blitzschach 2023</a></p>
 <p>Anmeldungen für Abteilungsmeisterschaft und Pokal sind bereits möglich.<br/>
