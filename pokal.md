@@ -61,7 +61,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Heinrich,Manfred,Dr.</td>
 <td>–</td>
-<td>Salqueiro,Felix</td>
+<td>Salgueiro,Felix</td>
 <td></td>
 </tr>
 <tr bgcolor="#00ffcf">

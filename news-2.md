@@ -8,27 +8,46 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-10564 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-10564">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark">Internen Turniere 2023</a></h2>
+<div class="post-9871 post type-post status-publish format-standard sticky hentry category-interne-turniere category-tandem" id="post-9871">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark">Bughouse Abend bei NARVA</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark" title="18:39"><span class="entry-date">26. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark" title="12:45"><span class="entry-date">8. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Die <a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2022.html">Ergebnisse vom Weihnachtsblitz</a> sind nun endlich online, ebenso die Ausschreibungen für die internen Turniere 2023:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Abteilungsmeisterschaft 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a> –&gt; <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Auslosung 1.Runde</a> – diese ist am <strong>16.02.2023</strong>, Achtung, <del>hier ist auch BFL</del> und einige sind in Magdeburg zur DSAM, also rechtzeitig verlegen!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Schnellschachmeisterschaft-2023.pdf">Schnellschach 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Blitzschach 2023</a></p>
-<p>Anmeldungen für Abteilungsmeisterschaft und Pokal sind bereits möglich.<br/>
-Für Schnellschach und Blitzschach ist wie bisher die Anmeldung am jeweiligen Spieltag ausreichend.<br/>
-<!-- Formular auskommentiert, so lange ich nicht weiß, dass die Mails auch ankommen. [contact-form-7 id="9811" title="Anmeldung interne Turniere 2023"] --></p>
+<p>Am <strong>Donnerstag 19.01.2023</strong> findet bei uns im Club ein <strong>Bughouse Abend</strong> statt, vielen auch bekannt als Tandem-Schach!</p>
+<p>Alle Tandemschach Spieler sind dazu herzlich eingeladen!<br/>
+<span style="text-decoration: underline;">Start ist um 18:15 Uhr.</span></p>
+<p>Es wird ein freier Spiele- und Trainingsabend. Wenn es gute Resonanz gibt, wird es vielleicht auch ein Bughouse Tandem Turnier bei NARVA geben. Über eure Teilnahme würden wir uns sehr freuen.</p>
+<p><span style="text-decoration: underline;">Ort:</span><br/>
+Begegnungsstätte Club „Lebensfreude“, Kadiner Str. 1, 10243 Berlin<br/>
+(ca. 2. min. von U5 Frankfurter Tor)</p>
+<p><span style="text-decoration: underline;">Wie wir spielen:</span><br/>
+<strong>Kein Einsetzen mit Schach oder Matt!</strong> Bauernumwandlung wie im Schach, durch Bauernumwandlung entstandene geschlagene Figuren werden als Bauern transferiert. Matt auf einem Brett beendet die Partie. Die detaillierten Regeln liegen am Turniertag aus.</p>
+<p>Bei Teilnahme von Gästen Bitte vorher eine Info an <span style="text-decoration: underline;"><em>vorsitzender(at)narva-schach.de</em></span>, damit wir die Teilnehmerzahl besser planen können.</p>
+<p>P. S. Bughouse – Spezies zeigt euch am 19.01. und lasst uns die Szene wieder neu starten!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/tandem/" rel="category tag">Tandem</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-9871 
+<div class="post-10665 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10665">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/" rel="bookmark">Auslosung interne Turniere</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/" rel="bookmark" title="17:21"><span class="entry-date">18. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die erste Runde der Abteilungsmeisterschaft ist nun ausgelost und auf der <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a> zu finden.</p>
+<p>Bereits am vergangenen Donnerstag wurde die erste Pokalrunde ausgelost. Nachdem am Montag noch eine letzte Frage geklärt wurde stehen die Paarungen inzwischen ebenfalls auf der entsprechenden <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Turnierseite</a>. Der reguläre Spieltermin für den Pokal ist der 16. Februar. Allerdings sind an diesem Tag einige schon in Magdeburg zur <a href="https://www.dsam-cup.de/">DSAM</a>. Bitte denkt daran, eure Pokalspiele rechtzeitig zu verlegen. Es kann auch nachgespielt werden.</p>
+<p>Ebenfalls am vergangenen Donnerstag fand unser erstes <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Schnellschachturnier</a> der diesjährigen Serie statt. Sieger wurde Peter vor Hilmar und Klaus. Unter den 13 Teilnehmern waren auch 5 Gäste, von denen Jerry mit drei Punkten und dem fünften Platz das beste Ergebnis erzielte.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-10564 
+</div> #post-10665 
 <div class="post-10648 post type-post status-publish format-standard hentry category-openberichte" id="post-10648">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/11/einladungsturnier-mariendorf/" rel="bookmark">Einladungsturnier Mariendorf</a></h2>
 <div class="entry-meta">
@@ -151,6 +170,27 @@ Für Schnellschach und Blitzschach ist wie bisher die Anmeldung am jeweiligen Sp
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/30/lichess-liga-r289/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10617 
+<div class="post-10564 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10564">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark">Internen Turniere 2023</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/" rel="bookmark" title="18:39"><span class="entry-date">26. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die <a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2022.html">Ergebnisse vom Weihnachtsblitz</a> sind nun endlich online, ebenso die Ausschreibungen für die internen Turniere 2023:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Abteilungsmeisterschaft 2023</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a> –&gt; <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Auslosung 1.Runde</a> – diese ist am <strong>16.02.2023</strong>, Achtung, <del>hier ist auch BFL</del> und einige sind in Magdeburg zur DSAM, also rechtzeitig verlegen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Schnellschachmeisterschaft-2023.pdf">Schnellschach 2023</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Blitzschach 2023</a></p>
+<p>Anmeldungen für Abteilungsmeisterschaft und Pokal sind bereits möglich.<br/>
+Für Schnellschach und Blitzschach ist wie bisher die Anmeldung am jeweiligen Spieltag ausreichend.<br/>
+<!-- Formular auskommentiert, so lange ich nicht weiß, dass die Mails auch ankommen. [contact-form-7 id="9811" title="Anmeldung interne Turniere 2023"] --></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/26/10564/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10564 
 <div class="post-10615 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10615">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/26/lichess-liga-r288/" rel="bookmark">Lichess Liga (R288)</a></h2>
 <div class="entry-meta">
@@ -328,30 +368,6 @@ Peter und Jonatan auf 7,5 Punkte.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/09/lichess-liga-r283/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10542 
-<div class="post-9871 post type-post status-publish format-standard hentry category-interne-turniere category-tandem" id="post-9871">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark">Bughouse Abend bei NARVA</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark" title="12:45"><span class="entry-date">8. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>Donnerstag 19.01.2023</strong> findet bei uns im Club ein <strong>Bughouse Abend</strong> statt, vielen auch bekannt als Tandem-Schach!</p>
-<p>Alle Tandemschach Spieler sind dazu herzlich eingeladen!<br/>
-<span style="text-decoration: underline;">Start ist um 18:15 Uhr.</span></p>
-<p>Es wird ein freier Spiele- und Trainingsabend. Wenn es gute Resonanz gibt, wird es vielleicht auch ein Bughouse Tandem Turnier bei NARVA geben. Über eure Teilnahme würden wir uns sehr freuen.</p>
-<p><span style="text-decoration: underline;">Ort:</span><br/>
-Begegnungsstätte Club „Lebensfreude“, Kadiner Str. 1, 10243 Berlin<br/>
-(ca. 2. min. von U5 Frankfurter Tor)</p>
-<p><span style="text-decoration: underline;">Wie wir spielen:</span><br/>
-<strong>Kein Einsetzen mit Schach oder Matt!</strong> Bauernumwandlung wie im Schach, durch Bauernumwandlung entstandene geschlagene Figuren werden als Bauern transferiert. Matt auf einem Brett beendet die Partie. Die detaillierten Regeln liegen am Turniertag aus.</p>
-<p>Bei Teilnahme von Gästen Bitte vorher eine Info an <span style="text-decoration: underline;"><em>vorsitzender(at)narva-schach.de</em></span>, damit wir die Teilnehmerzahl besser planen können.</p>
-<p>P. S. Bughouse – Spezies zeigt euch am 19.01. und lasst uns die Szene wieder neu starten!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/tandem/" rel="category tag">Tandem</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9871 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
