@@ -8,30 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-9871 post type-post status-publish format-standard sticky hentry category-interne-turniere category-tandem" id="post-9871">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark">Bughouse Abend bei NARVA</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/" rel="bookmark" title="12:45"><span class="entry-date">8. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>Donnerstag 19.01.2023</strong> findet bei uns im Club ein <strong>Bughouse Abend</strong> statt, vielen auch bekannt als Tandem-Schach!</p>
-<p>Alle Tandemschach Spieler sind dazu herzlich eingeladen!<br/>
-<span style="text-decoration: underline;">Start ist um 18:15 Uhr.</span></p>
-<p>Es wird ein freier Spiele- und Trainingsabend. Wenn es gute Resonanz gibt, wird es vielleicht auch ein Bughouse Tandem Turnier bei NARVA geben. Über eure Teilnahme würden wir uns sehr freuen.</p>
-<p><span style="text-decoration: underline;">Ort:</span><br/>
-Begegnungsstätte Club „Lebensfreude“, Kadiner Str. 1, 10243 Berlin<br/>
-(ca. 2. min. von U5 Frankfurter Tor)</p>
-<p><span style="text-decoration: underline;">Wie wir spielen:</span><br/>
-<strong>Kein Einsetzen mit Schach oder Matt!</strong> Bauernumwandlung wie im Schach, durch Bauernumwandlung entstandene geschlagene Figuren werden als Bauern transferiert. Matt auf einem Brett beendet die Partie. Die detaillierten Regeln liegen am Turniertag aus.</p>
-<p>Bei Teilnahme von Gästen Bitte vorher eine Info an <span style="text-decoration: underline;"><em>vorsitzender(at)narva-schach.de</em></span>, damit wir die Teilnehmerzahl besser planen können.</p>
-<p>P. S. Bughouse – Spezies zeigt euch am 19.01. und lasst uns die Szene wieder neu starten!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/tandem/" rel="category tag">Tandem</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/08/bughouse-abend-bei-narva/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-9871 
 <div class="post-10665 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10665">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/" rel="bookmark">Auslosung interne Turniere</a></h2>
 <div class="entry-meta">

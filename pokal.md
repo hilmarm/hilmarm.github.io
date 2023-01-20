@@ -55,7 +55,7 @@ parent_title: Turniere
 <td>Schenk,Jonatan</td>
 <td>–</td>
 <td>Eichstädt,Torsten</td>
-<td></td>
+<td>1:0</td>
 </tr>
 <tr bgcolor="#00ffff">
 <td>5</td>
