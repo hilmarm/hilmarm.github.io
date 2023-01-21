@@ -385,6 +385,22 @@ navs:
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>45.</td>
+<td><a href="http://www.schachbund.de/spieler/10815433.html" target="_blank"> Maurits Theunissen</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>46.</td>
+<td><a href="http://www.schachbund.de/spieler/10815449.html" target="_blank"> Robbert Woldring</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 </div><!-- .entry-content -->
 </div> #post-42 
