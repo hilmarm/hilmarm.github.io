@@ -41,7 +41,7 @@ parent_title: Turniere
 <td>Kinski,Andreas</td>
 <td>–</td>
 <td>Maiwald,Gunar</td>
-<td></td>
+<td>02.03.</td>
 </tr>
 <tr bgcolor="#00ffff">
 <td>3</td>
