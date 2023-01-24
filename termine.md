@@ -59,7 +59,7 @@ navs:
 <tr style="">
 <td style="width: 90px;">23.02.23</td>
 <td class="blitz" style="width: 180px;">Blitzschach</td>
-<td style="width: 280px;"></td>
+<td style="width: 280px;">BFL auswärts (beide)</td>
 </tr>
 <tr style="">
 <td style="width: 90px;">02.03.23</td>
