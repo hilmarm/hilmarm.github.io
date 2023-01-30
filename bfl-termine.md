@@ -55,9 +55,9 @@ parent_title: Termine
 <tr>
 <td style="text-align: center; width: 84px;">5</td>
 <td>SFB 1903 2 (H)</td>
-<td>26.01.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">0 : 4</span></strong></td>
 <td>SFB 1903 6 (H)</td>
-<td>26.01.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">1 : 3</span></strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">6</td>

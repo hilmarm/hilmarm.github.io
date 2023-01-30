@@ -59,14 +59,6 @@ navs:
 </tr>
 <tr>
 <td>4.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1979</td>
-<td>438</td>
-<td>1979</td>
-</tr>
-<tr>
-<td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
 <td>1963</td>
@@ -74,7 +66,7 @@ navs:
 <td>1991</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
 <td></td>
 <td>1957</td>
@@ -82,12 +74,20 @@ navs:
 <td>1967</td>
 </tr>
 <tr>
-<td>7.</td>
+<td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
 <td></td>
 <td>1955</td>
 <td>126</td>
 <td>2084</td>
+</tr>
+<tr>
+<td>7.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1955</td>
+<td>439</td>
+<td>1979</td>
 </tr>
 <tr>
 <td>8.</td>
