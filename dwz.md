@@ -147,6 +147,14 @@ navs:
 </tr>
 <tr>
 <td>15.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1707</td>
+<td>57</td>
+<td>1620</td>
+</tr>
+<tr>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1685</td>
@@ -154,7 +162,7 @@ navs:
 <td>1871</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>17.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1683</td>
@@ -162,7 +170,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1677</td>
@@ -170,20 +178,12 @@ navs:
 <td>1669</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1676</td>
 <td>44</td>
 <td>1626</td>
-</tr>
-<tr>
-<td>19.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1674</td>
-<td>56</td>
-<td>1620</td>
 </tr>
 <tr>
 <td>20.</td>
