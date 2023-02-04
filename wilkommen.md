@@ -6,7 +6,7 @@ navs:
 <div class="post-38 page type-page status-publish hentry" id="post-38">
 <h2 class="entry-title">Willkommen!</h2>
 <div class="entry-content">
-<p style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg"><img alt="" class="aligncenter wp-image-10593" decoding="async" height="654" sizes="(max-width: 650px) 100vw, 650px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg 725w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-298x300.jpg 298w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-144x144.jpg 144w" width="650"/></a>Weiß am Zug gewinnt! (aus dem Training von Rouven)</p>
+<p style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg"><img alt="" class="aligncenter wp-image-10593" decoding="async" sizes="(max-width: 725px) 100vw, 725px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301.jpg 725w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-298x300.jpg 298w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/startseite_202301-144x144.jpg 144w" width="450"/></a>Weiß am Zug gewinnt! (aus dem Training von Rouven)</p>
 <p><span style="color: #000000;"><span style="font-family: AR ESSENCE,serif;"><span style="font-size: x-large;">Du suchst einen Verein?<br/>
 Oder du hast Lust unsere Jugend zu trainieren?<br/>
 Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend setzt!</span></span></span></p>
@@ -14,8 +14,9 @@ Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend 
 </span></span></span></p>
 <h1><b>Wann?</b></h1>
 <p><b>jeden Donnerstag:</b></p>
-<p><b>ab 18.00 Uhr für alle!!</b></p>
-<p><strong><span style="color: #3366ff;">Und ab 09.02.2023 auch wieder <a href="https://www.narva-schach.de/wordpress/jugend/">Jugendtraining</a>!!!</span></strong></p>
+<p><b>ab 16:30 Uhr für alle!! Jugendtraining</b><br/>
+<b>ab 18:00 Uhr für alle!!</b></p>
+<p><strong><span style="color: #3366ff;">Ab 09.02.2023 auch wieder <a href="https://www.narva-schach.de/wordpress/jugend/">Jugendtraining</a>!!!</span></strong></p>
 <h1><strong>Wo?</strong></h1>
 <p><b>SG NARVA Berlin e.V.<br/>
 Abteilung Schach<br/>

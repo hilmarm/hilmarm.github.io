@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/39-obsenem-teilnehmerliste.html" rel="noopener" target="_blank">39. Berliner Senioren-Einzelmeisterschaft</a></td>
-<td>24.01.-01.02.2023</td>
-<td>Bernd, Ekkehard, Hans-Dieter, Ulrich, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
-<td>27.01.-29.01.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="http://www.chesshouseboat.org/" rel="noopener" target="_blank">Chess Houseboat</a> (Kerala, Indien)</td>
 <td>22.-28.01.2023</td>
 <td>Jay</td>
