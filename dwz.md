@@ -45,8 +45,8 @@ navs:
 <td>2.</td>
 <td><a href="http://www.schachbund.de/spieler/10033664.html" target="_blank"> Bernd Daverkausen</a></td>
 <td></td>
-<td>2056</td>
-<td>175</td>
+<td>2062</td>
+<td>176</td>
 <td>2120</td>
 </tr>
 <tr>
@@ -141,25 +141,25 @@ navs:
 <td>14.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
-<td>1745</td>
-<td>95</td>
+<td>1772</td>
+<td>96</td>
 <td>1821</td>
 </tr>
 <tr>
 <td>15.</td>
+<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
+<td></td>
+<td>1741</td>
+<td>62</td>
+<td>1871</td>
+</tr>
+<tr>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
 <td>1707</td>
 <td>57</td>
 <td>1620</td>
-</tr>
-<tr>
-<td>16.</td>
-<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
-<td></td>
-<td>1685</td>
-<td>61</td>
-<td>1871</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -203,22 +203,6 @@ navs:
 </tr>
 <tr>
 <td>22.</td>
-<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
-<td></td>
-<td>1592</td>
-<td>78</td>
-<td>1743</td>
-</tr>
-<tr>
-<td>23.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1586</td>
-<td>94</td>
-<td>1703</td>
-</tr>
-<tr>
-<td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
 <td>1575</td>
@@ -226,12 +210,28 @@ navs:
 <td>1581</td>
 </tr>
 <tr>
-<td>25.</td>
+<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1574</td>
 <td>37</td>
 <td>0</td>
+</tr>
+<tr>
+<td>24.</td>
+<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
+<td></td>
+<td>1566</td>
+<td>79</td>
+<td>1743</td>
+</tr>
+<tr>
+<td>25.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1563</td>
+<td>95</td>
+<td>1703</td>
 </tr>
 <tr>
 <td>26.</td>
