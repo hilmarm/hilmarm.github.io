@@ -87,7 +87,6 @@ parent_title: Chronik
 <h1 align="center"><strong><span style="text-decoration: underline;">Der Verein</span></strong></h1>
 <p>Im Verein SG NARVA Berlin e.V. gibt es mehrere Abteilungen, in denen die verschiedensten Sportarten ausgeübt werden können.<br/>
 Dazu gehören:</p>
-<p> </p>
 <table style="height: 359px;" width="631">
 <tbody>
 <tr>
@@ -100,9 +99,6 @@ Dazu gehören:</p>
 <tr>
 <td nowrap="nowrap" width="200">Ruderclub NARVA-Oberspree e.V.</td>
 <td nowrap="nowrap"><a href="http://www.sgnarva.ag.vu/" rel="noopener noreferrer" target="_blank">www.sgnarva.ag.vu</a> (keine Abteilung der SG NARVA)</td>
-</tr>
-<tr>
-<td width="200">Alterssport</td>
 </tr>
 <tr>
 <td width="200">Volleyball</td>
@@ -175,11 +171,12 @@ Seit 1998 ist die Abteilung Schach nun in der Kadiner Str. 1 zu Hause. Diese sta
 <p>1973 bis 11/73: ? Seiler übt die Funktion aus</p>
 <p>11/73 bis 1976: Karl – Heinz Ollek</p>
 <p>Erneut ab 9/86 wird ein Jugendwart wirksam.<br/>
-Ronald Hübner arbeitet erfolgreich bis 6/91. Fortan geht er einer Erwerbstätigkeit außerhalb Berlins nach.<br/>
-Michael Richter, danach Lars Neumeier, stammen aus seiner “Schule” (auch Thomas Mothes, nur nicht so erfolgreich), die 1989 mit 32 Teilnehmern ein Maximum hatte, danach enorm schrumpfte.<br/>
+<strong>Ronald Hübner</strong> arbeitet erfolgreich bis 6/91. Fortan geht er einer Erwerbstätigkeit außerhalb Berlins nach.<br/>
+<strong>GM Michael Richter</strong>, danach <strong>Lars Neumeier</strong>, stammen aus seiner “Schule” (auch <strong>Thomas Mothes</strong>, nur nicht so erfolgreich), die 1989 mit 32 Teilnehmern ein Maximum hatte, danach enorm schrumpfte.<br/>
 Ende 1992 waren 6 Interessenten im neuen Objekt Auerstr.17 zu zählen.<br/>
-5/92 übernimmt Manfred Smala diese Funktion und übte sie bis 2015 aus.<br/>
-Danach übernahm kurz Dirk Laurin die Position, bis im April 2016 Alexander Kreisel zum Jugendwart gewählt wurde.</p>
+5/92 übernimmt <strong>Manfred Smala</strong> diese Funktion und übte sie bis 2015 aus.<br/>
+Danach übernahm kurz <strong>Dirk Laurin</strong> die Position (<a href="https://www.narva-schach.de/wordpress/2017/04/15/schockierende-tiefe-trauer/">im April 2017 viel zu früh verstorben</a>), bis im April 2016 <strong>Alexander Kreisel</strong> zum Jugendwart gewählt wurde und bis heute aktiv ist. Auch er stammt aus der Jugendabteilung von NARVA, also ein „Eigengewächs“.</p>
+<p>Die Corona-Pandemie ab März 2020 unterbrach unsere Jugendarbeit dann komplett. Erst im Februar 2023 gab es einen Neustart mit Alexander Kreisel und <strong>Ekkehard Krüger</strong>.</p>
 <h1 align="center"><span style="text-decoration: underline;"><strong>Die Abteilung Schach in ihren „Besten Jahren“</strong></span><br/>
 <span style="text-decoration: underline;"><strong> Eine Zwischenbilanz nach 40 Jahren Schach</strong></span><br/>
 – 1990 –</h1>
@@ -253,15 +250,17 @@ Die Räume in der Danneckerstr. mußten, wegen der Mietforderung 4/91 aufgegeben
 <p><u>Die Liste der neuen Adressen:</u></p>
 <p>Auerstr. 17 (Kita; 3/92 bis 5/94)<br/>
 Lasdehner Str.30 (Seniorenfreizeitstätte; 5/94 bis 10/98)<br/>
-Kadiner Str. 1 (Seniorenfreizeitstätte; 10/98 bis heute)</p>
+<strong>Kadiner Str. 1 (Seniorenfreizeitstätte; 10/98 bis heute)</strong></p>
 <p>Seit 2003 werden die BMM Wettkämpfe der unteren Mannschaften im „RuDi Nachbarschaftszentrum“ (Modersohnstr. 55) ausgetragen.<br/>
 In der BMM Saison 2011/12 spielten die 1. und 2.Mannschaft im Jugendclub Feuerwache (Marchlewskistraße 6) ihre BMM Runden. Trainingsort war weiterhin die Kadiner Str.1.</p>
 <p>Ab 2012 ist wieder die Kadiner Str. 1 auch Heimspielstätte für die ersten beiden Mannschaften.</p>
+<p>Während der Corona-Pandemie wurde das „RuDi Nachbarschaftszentrum“ komplett zu unserer BMM Heimspielstätte. Ab der Saison 2022/23 tragen wir unsere Heimspiel dort mit allen Mannschaften zeitgleich aus.</p>
+<p>Die Kadiner Str. ist aber weiterhin unser Club-Abend Zuhause.</p>
 <p>Unsere Hoffnung: Möglichst lange hier Schachsport ausüben zu können und etwas für die Nachwuchsarbeit im Schach, der Zukunft der Abteilung Schach, zu leisten.</p>
 <h1 align="center"><strong><span style="text-decoration: underline;">Entwicklung der Mitgliederzahl</span></strong><br/>
 <strong><span style="text-decoration: underline;"> der Abt. Schach</span></strong></h1>
-<p align="center">Stichtag ist immer der 01.Januar des Jahres</p>
-<p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019.jpg"><img alt="" class="alignnone size-large wp-image-6749" decoding="async" height="415" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-1024x664.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-1024x664.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-300x194.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019-768x498.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Mitglieder2019.jpg 1159w" width="640"/></a></p>
+<p align="center">Stichtag ist immer der 01. Januar des Jahres</p>
+<p align="center"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg"><img alt="" class="aligncenter wp-image-10748 size-large" decoding="async" height="410" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-1024x656.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-1024x656.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-768x492.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg 1158w" width="640"/></a></p>
 </div><!-- .entry-content -->
 </div> #post-179 
 <div id="comments">

@@ -26,6 +26,32 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10729 
+<div class="post-10745 post type-post status-publish format-standard hentry category-allgemein category-sg-narva" id="post-10745">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/" rel="bookmark">Mitgliederstatistik</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/" rel="bookmark" title="19:48"><span class="entry-date">8. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Immer zu Jahresbeginn gibt es die Mitgliederstatistik zur Auswertung an den BSV und auch bei der SG NARVA für den LSB.</p>
+<p>Im Zuge dessen gibt es auch das aktualisierte Diagramm auf unserer <a href="https://www.narva-schach.de/wordpress/chronik/verein/">Chronik Seite „Verein“</a>:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg"><img alt="" class="alignnone size-medium wp-image-10748" decoding="async" height="192" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-1024x656.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-768x492.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg 1158w" width="300"/></a></p>
+<p>Der Anteil der U18 Mitglieder ist zuletzt stark geschrumpft, der Neustart des Jugendtrainings gibt hier hoffentlich Abhilfe.</p>
+<p>Hier noch ein Überblick über die Mitglieder der anderen NARVA Abteilungen (Veränderung zum Vorjahr):</p>
+<p>SG NARVA Gesamt: 800 (+24)<br/>
+Handball: 580 (+25)<br/>
+Freizeit: 65 (+14)<br/>
+Volleyball: 51 (+7)<br/>
+Schach: 47 (+1)<br/>
+Boxen: 33 (-25)<br/>
+Turnen: 12 (+3)<br/>
+Gymnastik: 12 (-1)</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10745 
 <div class="post-10731 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10731">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/" rel="bookmark">Lichess Liga (R299)</a></h2>
 <div class="entry-meta">
@@ -335,20 +361,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/02/lichess-liga-r290/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10619 
-<div class="post-10617 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10617">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/12/30/lichess-liga-r289/" rel="bookmark">Lichess Liga (R289)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/12/30/lichess-liga-r289/" rel="bookmark" title="7:52"><span class="entry-date">30. Dezember 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10607" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_29122022.jpg"><img alt="" aria-describedby="caption-attachment-10607" class="size-large wp-image-10607" decoding="async" height="317" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_29122022-1024x507.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_29122022-1024x507.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_29122022-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_29122022-768x381.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_29122022.jpg 1132w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10607"><strong>29.12.2022</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/30/lichess-liga-r289/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10617 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
