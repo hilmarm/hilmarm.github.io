@@ -65,7 +65,7 @@ parent_title: Turniere
 <td>3.</td>
 <td>Maetzing,Hans-Di</td>
 <td>1745</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>4</td>
@@ -76,7 +76,7 @@ parent_title: Turniere
 <td>13.</td>
 <td>Kreisel,Alexande</td>
 <td>1507</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>5</td>
@@ -98,7 +98,7 @@ parent_title: Turniere
 <td>15.</td>
 <td>Maiwald,Gunar</td>
 <td>1388</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>7</td>
@@ -109,7 +109,7 @@ parent_title: Turniere
 <td>7.</td>
 <td>Schenk,Jonatan</td>
 <td>1674</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>8</td>
@@ -120,7 +120,7 @@ parent_title: Turniere
 <td>17.</td>
 <td>Salgueiro,Felix</td>
 <td>943</td>
-<td> –</td>
+<td>– – +</td>
 </tr>
 <tr>
 <td>9</td>
@@ -131,7 +131,7 @@ parent_title: Turniere
 <td>9.</td>
 <td>Kinski,Andreas</td>
 <td>1631</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 </tbody>
 </table>

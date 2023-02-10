@@ -8,24 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-10729 post type-post status-publish format-standard sticky hentry category-jugend" id="post-10729">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/" rel="bookmark">Neustart Jugendtraining</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/" rel="bookmark" title="13:13"><span class="entry-date">3. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Ab nächsten Donnerstag gibt es bei NARVA wieder ein Jugendtraining!!</strong><br/>
-Nach fast 3 Jahren Pause geht es nun wieder los!</p>
-<p>Start ist immer um <strong>16:30 Uhr</strong>! Jeder ist willkommen!</p>
-<p>Als Trainer sind <strong>Alexander</strong> und <strong>Ekkehard</strong> dabei.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg"><img alt="" class="size-medium wp-image-3899 aligncenter" decoding="async" height="150" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-768x384.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-1024x512.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg 1184w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/jugend/" rel="category tag">Jugend</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10729 
 <div class="post-10745 post type-post status-publish format-standard hentry category-allgemein category-sg-narva" id="post-10745">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/" rel="bookmark">Mitgliederstatistik</a></h2>
 <div class="entry-meta">
@@ -33,7 +15,7 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <div class="entry-content">
 <p>Immer zu Jahresbeginn gibt es die Mitgliederstatistik zur Auswertung an den BSV und auch bei der SG NARVA für den LSB.</p>
 <p>Im Zuge dessen gibt es auch das aktualisierte Diagramm auf unserer <a href="https://www.narva-schach.de/wordpress/chronik/verein/">Chronik Seite „Verein“</a>:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg"><img alt="" class="alignnone size-medium wp-image-10748" decoding="async" height="192" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-1024x656.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-768x492.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg 1158w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg"><img alt="" class="alignnone size-medium wp-image-10748" decoding="async" height="192" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-1024x656.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-768x492.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg 1158w" width="300"/></a></p>
 <p>Der Anteil der U18 Mitglieder ist zuletzt stark geschrumpft, der Neustart des Jugendtrainings gibt hier hoffentlich Abhilfe.</p>
 <p>Hier noch ein Überblick über die Mitglieder der anderen NARVA Abteilungen (Veränderung zum Vorjahr):</p>
 <p>SG NARVA Gesamt: 800 (+24)<br/>
@@ -82,6 +64,24 @@ Gymnastik: 12 (-1)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r298/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10715 
+<div class="post-10729 post type-post status-publish format-standard hentry category-jugend" id="post-10729">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/" rel="bookmark">Neustart Jugendtraining</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/" rel="bookmark" title="13:13"><span class="entry-date">3. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Ab nächsten Donnerstag gibt es bei NARVA wieder ein Jugendtraining!!</strong><br/>
+Nach fast 3 Jahren Pause geht es nun wieder los!</p>
+<p>Start ist immer um <strong>16:30 Uhr</strong>! Jeder ist willkommen!</p>
+<p>Als Trainer sind <strong>Alexander</strong> und <strong>Ekkehard</strong> dabei.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg"><img alt="" class="size-medium wp-image-3899 aligncenter" decoding="async" height="150" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-768x384.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-1024x512.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg 1184w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/jugend/" rel="category tag">Jugend</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10729 
 <div class="post-10720 post type-post status-publish format-standard hentry category-offene-turniere category-openberichte" id="post-10720">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/" rel="bookmark">NARVA bei der OBSenEM 2023</a></h2>
 <div class="entry-meta">
