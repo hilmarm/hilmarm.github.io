@@ -30,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>17.02.-19.02.2023</td>
-<td>Rudolf, Ekkehard, Jonatan, Thomas</td>
+<td>Rudolf, Ekkehard, Jonatan, Thomas, Lukas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Koblenz</a></td>

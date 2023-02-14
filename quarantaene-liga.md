@@ -56,6 +56,20 @@ parent_title: Chronik
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10752 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10752">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/" rel="bookmark">Lichess Liga Runde 300! – Abschluss</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/" rel="bookmark" title="8:24"><span class="entry-date">14. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Bereits letzten Sonntag (05.02.2023) gab es unsere letzte Lichess-Liga Runde. In der letzten Runde lief es aber noch mal richtig gut und es wurde Platz 2 erreicht. Nach 300 Runden seit dem 24.03.2020 war nun Schluss. Allen Teilnehmern vielen Dank! … <a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10752 
 <div class="post-10731 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10731">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/" rel="bookmark">Lichess Liga (R299)</a></h2>
 <div class="entry-meta">
@@ -304,19 +318,6 @@ parent_title: Chronik
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/12/02/lichess-liga-r281/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10468 
-<div class="post-10466 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10466">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/11/28/lichess-liga-r280/" rel="bookmark">Lichess Liga (R280)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/11/28/lichess-liga-r280/" rel="bookmark" title="9:59"><span class="entry-date">28. November 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/11/28/lichess-liga-r280/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10466 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
