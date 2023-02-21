@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="http://www.chesshouseboat.org/" rel="noopener" target="_blank">Chess Houseboat</a> (Kerala, Indien)</td>
-<td>22.-28.01.2023</td>
-<td>Jay</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
-<td>17.02.-19.02.2023</td>
-<td>Rudolf, Ekkehard, Jonatan, Thomas, Lukas</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Koblenz</a></td>
 <td>03.03.-05.03.2023</td>
 <td></td>

@@ -18,86 +18,86 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Ausschreibung</a></p>
 <h3><strong>1. Runde am 16.02.2023</strong></h3>
-<table class="clean swiss footable">
+<table class="clean swiss footable" style="width: 100%; height: 282px;">
 <thead>
-<tr bgcolor="#00ff00">
-<th>Tisch</th>
-<th>Teilnehmer</th>
-<th>–</th>
-<th>Teilnehmer</th>
-<th>Ergebnis</th>
+<tr bgcolor="#00ff00" style="height: 18px;">
+<th style="height: 18px;">Tisch</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">–</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">Ergebnis</th>
 </tr>
 </thead>
 <tbody>
-<tr bgcolor="#00ffff">
-<td>1</td>
-<td>Krüger,Ekkehard</td>
-<td>–</td>
-<td>Mietzelfeldt,Gerhard</td>
-<td></td>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">1</td>
+<td style="height: 24px;">Krüger,Ekkehard</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Mietzelfeldt,Gerhard</td>
+<td style="height: 24px;"></td>
 </tr>
-<tr bgcolor="#00ffcf">
-<td>2</td>
-<td>Kinski,Andreas</td>
-<td>–</td>
-<td>Maiwald,Gunar</td>
-<td>02.03.</td>
+<tr bgcolor="#00ffcf" style="height: 24px;">
+<td style="height: 24px;">2</td>
+<td style="height: 24px;">Kinski,Andreas</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Maiwald,Gunar</td>
+<td style="height: 24px; text-align: center;">02.03.</td>
 </tr>
-<tr bgcolor="#00ffff">
-<td>3</td>
-<td>Kreisel,Alexander</td>
-<td>–</td>
-<td>Maetzing,Hans-Dieter</td>
-<td></td>
+<tr bgcolor="#00ffff" style="height: 48px;">
+<td style="height: 48px;">3</td>
+<td style="height: 48px;">Kreisel,Alexander</td>
+<td style="height: 48px;">–</td>
+<td style="height: 48px;">Maetzing,Hans-Dieter</td>
+<td style="text-align: center; height: 48px;">0 : 1</td>
 </tr>
-<tr bgcolor="#00ffcf">
-<td>4</td>
-<td>Schenk,Jonatan</td>
-<td>–</td>
-<td>Eichstädt,Torsten</td>
-<td>1:0</td>
+<tr bgcolor="#00ffcf" style="height: 24px;">
+<td style="height: 24px;">4</td>
+<td style="height: 24px;">Schenk,Jonatan</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Eichstädt,Torsten</td>
+<td style="text-align: center; height: 24px;">1 : 0</td>
 </tr>
-<tr bgcolor="#00ffff">
-<td>5</td>
-<td>Heinrich,Manfred,Dr.</td>
-<td>–</td>
-<td>Salgueiro,Felix</td>
-<td></td>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">5</td>
+<td style="height: 24px;">Heinrich,Manfred,Dr.</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Salgueiro,Felix</td>
+<td style="height: 24px;"></td>
 </tr>
-<tr bgcolor="#00ffcf">
-<td>6</td>
-<td>Herrscher,Michael</td>
-<td>–</td>
-<td>Campe,Ulrich</td>
-<td></td>
+<tr bgcolor="#00ffcf" style="height: 24px;">
+<td style="height: 24px;">6</td>
+<td style="height: 24px;">Herrscher,Michael</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Campe,Ulrich</td>
+<td style="height: 24px;"></td>
 </tr>
-<tr bgcolor="#00ffff">
-<td>7</td>
-<td>Lange,Rudolf</td>
-<td>–</td>
-<td>Heinrich,Wesko</td>
-<td></td>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">7</td>
+<td style="height: 24px;">Lange,Rudolf</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Heinrich,Wesko</td>
+<td style="height: 24px; text-align: center;">1 : 0</td>
 </tr>
-<tr bgcolor="#00ffcf">
-<td>8</td>
-<td>Magnusson,Hilmar</td>
-<td>–</td>
-<td>Segerberg,Tomas</td>
-<td></td>
+<tr bgcolor="#00ffcf" style="height: 24px;">
+<td style="height: 24px;">8</td>
+<td style="height: 24px;">Magnusson,Hilmar</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Segerberg,Tomas</td>
+<td style="height: 24px; text-align: center;">0 : 1</td>
 </tr>
-<tr bgcolor="#00ffff">
-<td>9</td>
-<td>Hintze,Peter</td>
-<td>–</td>
-<td>Mothes,Thomas</td>
-<td></td>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">9</td>
+<td style="height: 24px;">Hintze,Peter</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Mothes,Thomas</td>
+<td style="height: 24px; text-align: center;">1 : 0</td>
 </tr>
-<tr bgcolor="#00ffff">
-<td>10</td>
-<td>Brinckmann,Klaus</td>
-<td>–</td>
-<td>spielfrei</td>
-<td></td>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">10</td>
+<td style="height: 24px;">Brinckmann,Klaus</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">spielfrei</td>
+<td style="height: 24px;"></td>
 </tr>
 </tbody>
 </table>

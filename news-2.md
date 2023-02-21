@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10771 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10771">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/" rel="bookmark">Ergebnisse Pokal 1.Runde</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/" rel="bookmark" title="19:23"><span class="entry-date">20. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Letzten Donnerstag war die <strong>1.Runde</strong> im <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a>. Hier die Ergebnisse:</p>
+<p><strong>Alexander – Hans-Dieter 0:1</strong><br/>
+<strong>Jonatan – Torsten 1:0</strong><br/>
+<strong>Rudolf – Wesko 1:0</strong><br/>
+<strong>Hilmar – Tomas 0:1</strong><br/>
+<strong>Peter – Thomas 1:0</strong><br/>
+<strong>Manfred – Felix ??</strong></p>
+<p>Also nur Favoritensiege.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10771 
 <div class="post-10752 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10752">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/" rel="bookmark">Lichess Liga Runde 300! – Abschluss</a></h2>
 <div class="entry-meta">
@@ -352,20 +373,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-10580 
-<div class="post-10611 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10611">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/03/rapid-liga-13/" rel="bookmark">Rapid Liga (13)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/03/rapid-liga-13/" rel="bookmark" title="7:46"><span class="entry-date">3. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10610" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga4_02012023.jpg"><img alt="" aria-describedby="caption-attachment-10610" class="size-large wp-image-10610" decoding="async" height="313" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga4_02012023-1024x500.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga4_02012023-1024x500.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga4_02012023-300x147.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga4_02012023-768x375.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga4_02012023.jpg 1146w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10610"><strong>02.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/03/rapid-liga-13/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10611 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

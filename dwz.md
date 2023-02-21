@@ -59,6 +59,14 @@ navs:
 </tr>
 <tr>
 <td>4.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1969</td>
+<td>440</td>
+<td>1979</td>
+</tr>
+<tr>
+<td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
 <td>1963</td>
@@ -66,7 +74,7 @@ navs:
 <td>1991</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
 <td></td>
 <td>1957</td>
@@ -74,20 +82,12 @@ navs:
 <td>1967</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
 <td></td>
 <td>1955</td>
 <td>126</td>
 <td>2084</td>
-</tr>
-<tr>
-<td>7.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1955</td>
-<td>439</td>
-<td>1979</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -117,8 +117,8 @@ navs:
 <td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
-<td>1870</td>
-<td>63</td>
+<td>1843</td>
+<td>64</td>
 <td>1891</td>
 </tr>
 <tr>
@@ -149,16 +149,16 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1741</td>
-<td>62</td>
+<td>1757</td>
+<td>63</td>
 <td>1871</td>
 </tr>
 <tr>
 <td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
-<td>1707</td>
-<td>57</td>
+<td>1740</td>
+<td>58</td>
 <td>1620</td>
 </tr>
 <tr>
@@ -205,8 +205,8 @@ navs:
 <td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
-<td>1575</td>
-<td>70</td>
+<td>1603</td>
+<td>71</td>
 <td>1581</td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ navs:
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
 <td>1396</td>
-<td>12</td>
+<td>13</td>
 <td>1432</td>
 </tr>
 <tr>
