@@ -62,7 +62,7 @@ parent_title: Turniere
 <td style="height: 24px;">Heinrich,Manfred,Dr.</td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Salgueiro,Felix</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px; text-align: center;">0 : 1</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">6</td>

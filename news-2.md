@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10774 post type-post status-publish format-standard hentry category-openberichte" id="post-10774">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/" rel="bookmark">DSAM in Magdeburg</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/" rel="bookmark" title="20:05"><span class="entry-date">21. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am letzten Wochenende fand in <strong>Magdeburg</strong> das nächste <strong>Qualifikationsturnier zur DSAM</strong> statt. Von NARVA nahmen gleich 5 Spieler teil!</p>
+<p><strong>Rudolf</strong> und <strong>Ekkehard</strong> in Gruppe C (88 Teilnehmer). Für Ekkehard war es die erste Teilnahme an der DSAM, für Rudolf seine ersten Langpartien nach 4 Jahren (die erste war die Pokal-Partie am Donnerstag).<br/>
+<strong>Jonatan</strong> ging in der Gruppe D (103 Teilnehmer) an den Start.<br/>
+<strong>Ich</strong> startete in Gruppe E (96 Teilnehmer). Und <strong>Lukas</strong> ging in Gruppe F (77 Teilnehmer) ins Rennen. Insgesamt waren 545 Teilnehmer in Magdeburg am Start.</p>
+<p>Am erfolgreichsten war am Ende <strong>Jonatan</strong>. Er erreichte, ungeschlagen, mit <strong>4 Punkten</strong> aus 5 Runden <strong>Platz 5</strong> und damit die Qualifikation für das Finale in Braunschweig! Dazu gab es eine Steigerung der DWZ um weitere 33 auf jetzt 1740! <strong>Glückwunsch!</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-scaled.jpg"><img alt="" class="aligncenter wp-image-10763 size-medium" decoding="async" height="200" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-2048x1365.jpg 2048w" width="300"/></a></p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#more-10774">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10774 
 <div class="post-10771 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10771">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/" rel="bookmark">Ergebnisse Pokal 1.Runde</a></h2>
 <div class="entry-meta">
@@ -19,8 +39,7 @@ navs:
 <strong>Rudolf – Wesko 1:0</strong><br/>
 <strong>Hilmar – Tomas 0:1</strong><br/>
 <strong>Peter – Thomas 1:0</strong><br/>
-<strong>Manfred – Felix ??</strong></p>
-<p>Also nur Favoritensiege.</p>
+<strong>Manfred – Felix 0:1</strong></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -37,7 +56,7 @@ navs:
 <p>Bereits letzten Sonntag (05.02.2023) gab es unsere letzte Lichess-Liga Runde. In der letzten Runde lief es aber noch mal richtig gut und es wurde Platz 2 erreicht. Nach 300 Runden seit dem 24.03.2020 war nun Schluss.</p>
 <p><strong>Allen Teilnehmern vielen Dank!</strong></p>
 <p>Die Rapid-Liga läuft (noch) weiter, jeden Montag ab 19 Uhr – zuletzt aber auch dünn besetzt.</p>
-<div class="wp-caption alignnone" id="attachment_10751" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023.jpg"><img alt="" aria-describedby="caption-attachment-10751" class="wp-image-10751 size-large" decoding="async" height="321" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-1024x513.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-1024x513.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-768x385.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023.jpg 1121w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10751"><strong>05.02.2023</strong></p></div>
+<div class="wp-caption alignnone" id="attachment_10751" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023.jpg"><img alt="" aria-describedby="caption-attachment-10751" class="wp-image-10751 size-large" decoding="async" height="321" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-1024x513.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-1024x513.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-768x385.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023.jpg 1121w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10751"><strong>05.02.2023</strong></p></div>
 <p>Hier ein abschließender Blick auf die Statistik:</p>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/#more-10752">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
@@ -356,23 +375,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/06/lichess-liga-r291/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10621 
-<div class="post-10580 post type-post status-publish format-standard post-password-required hentry category-intern" id="post-10580">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/03/neujahrsgruss-2023/" rel="bookmark">Geschützt: Neujahrsgruß 2023</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/03/neujahrsgruss-2023/" rel="bookmark" title="13:01"><span class="entry-date">3. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<form action="https://www.narva-schach.de/wordpress/wp-login.php?action=postpass" class="post-password-form" method="post">
-<p>Dieser Inhalt ist passwortgeschützt. Um ihn anschauen zu können, bitte das Passwort eingeben:</p>
-<p><label for="pwbox-10580">Passwort: <input id="pwbox-10580" name="post_password" size="20" type="password"/></label> <input name="Submit" type="submit" value="Absenden"/></p>
-</form>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-10580 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
