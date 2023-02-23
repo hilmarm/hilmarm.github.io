@@ -25,7 +25,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10774 
 <div class="post-10771 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10771">
