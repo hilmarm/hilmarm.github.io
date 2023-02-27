@@ -8,6 +8,24 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10799 post type-post status-publish format-standard hentry category-bfl" id="post-10799">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/" rel="bookmark">BFL Runde 6</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/" rel="bookmark" title="7:45"><span class="entry-date">27. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Letzten Donnerstag fand die verlegte <strong>Runde 6</strong> der <strong>BFL</strong> statt.</p>
+<p>Beide NARVA Teams mussten zur <strong>SG Weißensee</strong>, dazu lief paralell das Monatsblitz und bei Union das Rückspiel gegen Ajax…..die Aufstellungen waren also nicht einfach.</p>
+<p>Die <strong>1.Mannschaft</strong> konnte trotzdem einen souveränen <strong>3,5:0,5</strong> Sieg einfahren, was die Chancen auf Klassenerhalt wieder etwas verbesserte. Mit der SG Weißensee 1 schlug man auch einen direkten Konkurrenten. Auf die Unterstützung der <strong>2.Mannschaft</strong> bzgl. Klassenerhalt, kann man nicht mehr hoffen. Nach der <strong>1,5:2,5</strong> Niederlage gegen SG Weißensee 2 ist man von einem Aufstiegsplatz schon weit entfernt und muss noch gegen den Ersten spielen…..</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1.jpg"><img alt="" class="aligncenter wp-image-10798 size-full" decoding="async" height="140" sizes="(max-width: 635px) 100vw, 635px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1.jpg 635w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1-300x66.jpg 300w" width="635"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2.jpg"><img alt="" class="aligncenter wp-image-10797 size-full" decoding="async" height="137" loading="lazy" sizes="(max-width: 651px) 100vw, 651px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2.jpg 651w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2-300x63.jpg 300w" width="651"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10799 
 <div class="post-10774 post type-post status-publish format-standard hentry category-openberichte" id="post-10774">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/" rel="bookmark">DSAM in Magdeburg</a></h2>
 <div class="entry-meta">
@@ -18,7 +36,7 @@ navs:
 <strong>Jonatan</strong> ging in der Gruppe D (103 Teilnehmer) an den Start.<br/>
 <strong>Ich</strong> startete in Gruppe E (96 Teilnehmer). Und <strong>Lukas</strong> ging in Gruppe F (77 Teilnehmer) ins Rennen. Insgesamt waren 545 Teilnehmer in Magdeburg am Start.</p>
 <p>Am erfolgreichsten war am Ende <strong>Jonatan</strong>. Er erreichte, ungeschlagen, mit <strong>4 Punkten</strong> aus 5 Runden <strong>Platz 5</strong> und damit die Qualifikation für das Finale in Braunschweig! Dazu gab es eine Steigerung der DWZ um weitere 33 auf jetzt 1740! <strong>Glückwunsch!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-scaled.jpg"><img alt="" class="aligncenter wp-image-10763 size-medium" decoding="async" height="200" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-2048x1365.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-scaled.jpg"><img alt="" class="aligncenter wp-image-10763 size-medium" decoding="async" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-2048x1365.jpg 2048w" width="300"/></a></p>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#more-10774">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
@@ -361,20 +379,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/09/lichess-liga-r292/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10694 
-<div class="post-10621 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10621">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/06/lichess-liga-r291/" rel="bookmark">Lichess Liga (R291)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/06/lichess-liga-r291/" rel="bookmark" title="7:55"><span class="entry-date">6. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10605" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_05012023.jpg"><img alt="" aria-describedby="caption-attachment-10605" class="size-large wp-image-10605" decoding="async" height="316" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_05012023-1024x505.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_05012023-1024x505.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_05012023-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_05012023-768x379.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_05012023.jpg 1137w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10605"><strong>05.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/06/lichess-liga-r291/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10621 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

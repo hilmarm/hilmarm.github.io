@@ -33,9 +33,29 @@ parent_title: Termine
 <td>Jonatan?</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/berliner-frauen-blitz-einzelmeisterschaft-2023-am-01-04-23.html" rel="noopener" target="_blank">Berliner-Blitz-Einzelmeisterschaft der Frauen</a></td>
+<td>01.04.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-meisterschaft-meisterklasse-und-qualifikationsturnier-2023.html" rel="noopener" target="_blank">BEM M-Klasse &amp; QT</a></td>
+<td>08.04.-16.04.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.sglasker.de/news/8257/rudolf-teschner-turnier-zu-himmelfahrt-2023.html" rel="noopener" target="_blank">Rudolf Teschner Gedenkturnier</a></td>
+<td>18.05.-21.05.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.seniorenschach-brandenburg.de/2022/10/25/30-offenes-brandenburgisches-seniorenturnier-2023/" rel="noopener" target="_blank">30. offenes brandenburgisches Seniorenturnier Miedzyzdroje</a></td>
 <td>16.06.-26.06.2023</td>
 <td>Hans-Dieter, Gerhard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/berliner-frauen-schnellschach-einzelmeisterschaft-am-24-25-06-2023.html" rel="noopener" target="_blank">Berliner Frauen-Schnellschach-Einzelmeisterschaft</a></td>
+<td>25./26.06.2023</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>
