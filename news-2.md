@@ -8,6 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10805 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10805">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/27/1-blitzrunde-2023/" rel="bookmark">1. Blitzrunde 2023</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/27/1-blitzrunde-2023/" rel="bookmark" title="17:35"><span class="entry-date">27. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nachdem das Monatsblitz im Januar schon der BFL zum Opfer gefallen war, kam die BFL auch dieses mal dazwischen, allerdings auswärts. Dazu ein von Teilen des Vereins besuchtes Europa League Spiel von Union. So blieb es bei nur 6 Teilnehmern für die erste Runde im <strong>Monatsblitz 2023</strong>.</p>
+<p>Der Titelverteidiger von 2022, <strong>Peter Hintze</strong>, legte auch gleich vor und gewann das doppelrundige Turnier mit 10 Punkten aus 10 Partien. Dahinter auf Rang 2 mit 8 Punkten kam <strong>Tomas</strong>. Auf Platz 3 dann der beste Gast <strong>Rudi Wu</strong> (TSG Oberschöneweide) und punktgleich <strong>Thomas T</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/27/1-blitzrunde-2023/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10805 
 <div class="post-10799 post type-post status-publish format-standard hentry category-bfl" id="post-10799">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/" rel="bookmark">BFL Runde 6</a></h2>
 <div class="entry-meta">
@@ -365,20 +381,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/11/bfl-runde-4/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10635 
-<div class="post-10694 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10694">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/09/lichess-liga-r292/" rel="bookmark">Lichess Liga (R292)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/09/lichess-liga-r292/" rel="bookmark" title="17:27"><span class="entry-date">9. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10689" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_08012023.jpg"><img alt="" aria-describedby="caption-attachment-10689" class="size-large wp-image-10689" decoding="async" height="337" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_08012023-1024x539.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_08012023-1024x539.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_08012023-300x158.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_08012023-768x404.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga9a_08012023.jpg 1146w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10689"><strong>08.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/09/lichess-liga-r292/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10694 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
