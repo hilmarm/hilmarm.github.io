@@ -47,15 +47,15 @@ parent_title: Turniere
 <td style="height: 48px;">3</td>
 <td style="height: 48px;">Kreisel,Alexander</td>
 <td style="height: 48px;">–</td>
-<td style="height: 48px;">Maetzing,Hans-Dieter</td>
-<td style="text-align: center; height: 48px;">0 : 1</td>
+<td style="height: 48px;">Maetzing,Hans-Dieter,Dr.</td>
+<td style="text-align: center;">0 : 1</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">4</td>
 <td style="height: 24px;">Schenk,Jonatan</td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Eichstädt,Torsten</td>
-<td style="text-align: center; height: 24px;">1 : 0</td>
+<td style="text-align: center;">1 : 0</td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">5</td>

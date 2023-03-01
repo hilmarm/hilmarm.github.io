@@ -20,108 +20,108 @@ parent_title: Turniere
 <h2 class="heading2" style="text-align: center;">SG NARVA Monats-Blitz 2023</h2>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Ausschreibung</a></p>
 <h2>Gesamtwertung</h2>
-<div style="overflow:auto">
-<table class="footable" style="width: 100%;">
+<div style="overflow: auto;">
+<table class="footable" style="width: 75%;">
 <thead>
 <tr>
-<th style="padding-right: 10px;">Name</th>
-<th style="padding-right: 10px;">23.02.</th>
-<th style="padding-right: 10px;">30.03.</th>
-<th style="padding-right: 10px;">27.04.</th>
-<th style="padding-right: 10px;">25.05.</th>
-<th style="padding-right: 10px;">29.06.</th>
-<th style="padding-right: 10px;">27.07.</th>
-<th style="padding-right: 10px;">31.08.</th>
-<th style="padding-right: 10px;">28.09.</th>
-<th style="padding-right: 10px;">26.10.</th>
-<th style="padding-right: 10px;">30.11.</th>
-<th data-type="numeric" style="padding-right: 10px;"><strong>Gesamt</strong></th>
+<th style="padding-right: 10px; width: 15%;">Name</th>
+<th style="padding-right: 10px; width: 5%;">23.02.</th>
+<th style="padding-right: 10px; width: 5%;">30.03.</th>
+<th style="padding-right: 10px; width: 5%;">27.04.</th>
+<th style="padding-right: 10px; width: 5%;">25.05.</th>
+<th style="padding-right: 10px; width: 5%;">29.06.</th>
+<th style="padding-right: 10px; width: 5%;">27.07.</th>
+<th style="padding-right: 10px; width: 5%;">31.08.</th>
+<th style="padding-right: 10px; width: 5%;">28.09.</th>
+<th style="padding-right: 10px; width: 5%;">26.10.</th>
+<th style="padding-right: 10px; width: 5%;">30.11.</th>
+<th data-type="numeric" style="padding-right: 10px; width: 8.68621%;"><strong>Gesamt</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="width: 21.4062%;">Hintze</td>
-<td style="width: 11.4062%;">12</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="width: 13.4375%;">12</td>
+<td style="width: 16.3952%;">Hintze</td>
+<td style="width: 7.81759%;">12</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">12</td>
 </tr>
 <tr>
-<td style="width: 21.4062%;">Segerberg</td>
-<td style="width: 11.4062%;">10</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="width: 13.4375%;">10</td>
+<td style="width: 16.3952%;">Segerberg</td>
+<td style="width: 7.81759%;">10</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">10</td>
 </tr>
 <tr>
-<td style="width: 21.4062%;">Wu (G)</td>
-<td style="width: 11.4062%;">8</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="width: 13.4375%;">8</td>
+<td style="width: 16.3952%;">Wu (G)</td>
+<td style="width: 7.81759%;">8</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
-<td style="width: 21.4062%;">Totz</td>
-<td style="width: 11.4062%;">6</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="width: 13.4375%;">6</td>
+<td style="width: 16.3952%;">Totz</td>
+<td style="width: 7.81759%;">8</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
-<td style="width: 21.4062%;">Kreisel</td>
-<td style="width: 11.4062%;">5</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="width: 13.4375%;">5</td>
+<td style="width: 16.3952%;">Kreisel</td>
+<td style="width: 7.81759%;">5</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">5</td>
 </tr>
 <tr>
-<td style="width: 21.4062%;">Salgueiro</td>
-<td style="width: 11.4062%;">4</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td style="width: 13.4375%;">4</td>
+<td style="width: 16.3952%;">Salgueiro</td>
+<td style="width: 7.81759%;">5</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">5</td>
 </tr>
 </tbody>
 </table>
