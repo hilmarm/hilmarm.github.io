@@ -17,7 +17,12 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Ausschreibung</a></p>
-<h3><strong>1. Runde am 16.02.2023</strong></h3>
+<h3>2. Runde am 15.06.2023</h3>
+<ul>
+<li>Herrscher/Campe – Schenk</li>
+<li>Brinckmann – Hintze</li>
+</ul>
+<h3>1. Runde am 16.02.2023</h3>
 <table class="clean swiss footable" style="width: 100%; height: 282px;">
 <thead>
 <tr bgcolor="#00ff00" style="height: 18px;">
@@ -41,7 +46,7 @@ parent_title: Turniere
 <td style="height: 24px;">Kinski,Andreas</td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Maiwald,Gunar</td>
-<td style="height: 24px; text-align: center;">02.03.</td>
+<td style="text-align: center;">1 : 0</td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 48px;">
 <td style="height: 48px;">3</td>

@@ -18,6 +18,123 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Ausschreibung Abteilungsmeisterschaft 2023</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>2. Runde am 20. April</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>3.</td>
+<td>Maetzing,Hans-Di</td>
+<td>1745</td>
+<td>–</td>
+<td>18.</td>
+<td>Salgueiro,Felix</td>
+<td>943</td>
+<td> –</td>
+</tr>
+<tr>
+<td>2</td>
+<td>13.</td>
+<td>Kreisel,Alexande</td>
+<td>1507</td>
+<td>–</td>
+<td>6.</td>
+<td>Brinckmann,Klaus</td>
+<td>1677</td>
+<td> –</td>
+</tr>
+<tr>
+<td>3</td>
+<td>7.</td>
+<td>Schenk,Jonatan</td>
+<td>1674</td>
+<td>–</td>
+<td>19.</td>
+<td>Herrscher,Michae</td>
+<td></td>
+<td> –</td>
+</tr>
+<tr>
+<td>4</td>
+<td>1.</td>
+<td>Hintze,Peter</td>
+<td>1914</td>
+<td>–</td>
+<td>14.</td>
+<td>von Kraft,Lukas</td>
+<td>1396</td>
+<td> –</td>
+</tr>
+<tr>
+<td>5</td>
+<td>5.</td>
+<td>Magnusson,Hilmar</td>
+<td>1683</td>
+<td>–</td>
+<td>2.</td>
+<td>Arnold,Rouven</td>
+<td>1902</td>
+<td> –</td>
+</tr>
+<tr>
+<td>6</td>
+<td>11.</td>
+<td>Mietzelfeldt,Ger</td>
+<td>1586</td>
+<td>–</td>
+<td>10.</td>
+<td>Campe,Ulrich</td>
+<td>1592</td>
+<td> –</td>
+</tr>
+<tr>
+<td>7</td>
+<td>15.</td>
+<td>Maiwald,Gunar</td>
+<td>1388</td>
+<td>–</td>
+<td>4.</td>
+<td>Krüger,Ekkehard</td>
+<td>1685</td>
+<td> –</td>
+</tr>
+<tr>
+<td>8</td>
+<td>9.</td>
+<td>Kinski,Andreas</td>
+<td>1631</td>
+<td>–</td>
+<td>17.</td>
+<td>Heinrich,Manfred</td>
+<td>1247</td>
+<td> –</td>
+</tr>
+<tr>
+<td>9</td>
+<td>16.</td>
+<td>Eichstädt,Torste</td>
+<td>1280</td>
+<td>–</td>
+<td>12.</td>
+<td>Mothes,Thomas</td>
+<td>1575</td>
+<td> –</td>
+</tr>
+</tbody>
+</table>
 <h2>1. Runde am 9. Februar</h2>
 <table class="clean swiss footable">
 <thead>
@@ -43,7 +160,7 @@ parent_title: Turniere
 <td>1.</td>
 <td>Hintze,Peter</td>
 <td>1914</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>2</td>
