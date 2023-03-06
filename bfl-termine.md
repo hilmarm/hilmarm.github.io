@@ -62,9 +62,9 @@ parent_title: Termine
 <tr>
 <td style="text-align: center; width: 84px;">6</td>
 <td>SG Weißensee 1 (A) – 19:30 Uhr!</td>
-<td>23.02.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">½ : 3½</span></strong></td>
 <td>SG Weißensee 2 (A) – 19:30 Uhr!</td>
-<td>23.02.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2½ : 1½</span></strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">7</td>
