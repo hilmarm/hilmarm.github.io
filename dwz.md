@@ -37,9 +37,9 @@ navs:
 <td>1.</td>
 <td><a href="http://www.schachbund.de/spieler/10013642.html" target="_blank"> Bram Van Den Berg</a></td>
 <td></td>
-<td>2191</td>
+<td>2189</td>
 <td>60</td>
-<td>2161</td>
+<td>2183</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -47,7 +47,7 @@ navs:
 <td></td>
 <td>2062</td>
 <td>176</td>
-<td>2120</td>
+<td>2130</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -63,7 +63,7 @@ navs:
 <td>P</td>
 <td>1969</td>
 <td>440</td>
-<td>1979</td>
+<td>1973</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1957</td>
 <td>12</td>
-<td>1967</td>
+<td>1962</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -119,7 +119,7 @@ navs:
 <td></td>
 <td>1843</td>
 <td>64</td>
-<td>1891</td>
+<td>1868</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -143,7 +143,7 @@ navs:
 <td></td>
 <td>1772</td>
 <td>96</td>
-<td>1821</td>
+<td>1848</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -151,7 +151,7 @@ navs:
 <td></td>
 <td>1757</td>
 <td>63</td>
-<td>1871</td>
+<td>1883</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -159,7 +159,7 @@ navs:
 <td></td>
 <td>1740</td>
 <td>58</td>
-<td>1620</td>
+<td>1670</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -183,7 +183,7 @@ navs:
 <td></td>
 <td>1676</td>
 <td>44</td>
-<td>1626</td>
+<td>1694</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -207,7 +207,7 @@ navs:
 <td></td>
 <td>1603</td>
 <td>71</td>
-<td>1581</td>
+<td>1591</td>
 </tr>
 <tr>
 <td>23.</td>
@@ -223,7 +223,7 @@ navs:
 <td></td>
 <td>1566</td>
 <td>79</td>
-<td>1743</td>
+<td>1735</td>
 </tr>
 <tr>
 <td>25.</td>
@@ -231,7 +231,7 @@ navs:
 <td></td>
 <td>1563</td>
 <td>95</td>
-<td>1703</td>
+<td>1701</td>
 </tr>
 <tr>
 <td>26.</td>
@@ -263,7 +263,7 @@ navs:
 <td></td>
 <td>1396</td>
 <td>13</td>
-<td>1432</td>
+<td>1434</td>
 </tr>
 <tr>
 <td>30.</td>

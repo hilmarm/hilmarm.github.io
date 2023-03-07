@@ -17,7 +17,8 @@ navs:
 <p><strong>NARVA 1</strong> kam gestern auswärts zu einem <strong>5:3</strong> Erfolg gegen <strong>Berolina Mitte 4</strong> und hat sich auf Platz 3 der Tabelle vorgearbeitet. Punktgleich mit dem Zweiten, aber der Zug für Platz 1 fährt wohl ohne uns. <strong>Norbert</strong> gelang sein erster Sieg für NARVA! Weitere Siege kamen von <strong>George</strong> und <strong>Günter</strong>, <strong>Peter</strong>, <strong>Jonatan</strong>, <strong>Tomas</strong> und <strong>Gerhard</strong> spielten Remis.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome.jpg"><img alt="" class="aligncenter wp-image-10832 size-full" decoding="async" height="227" sizes="(max-width: 951px) 100vw, 951px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome.jpg 951w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome-300x72.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome-768x183.jpg 768w" width="951"/></a>Der <strong>NARVA 2</strong> Zug rollt unaufhaltsam Richtung Aufstieg, auch gegen <strong>Zugzwang 3</strong> wurden wieder fleißig Brettpunkte gesammelt. Die 2.Mannschaft gewann das Auswärtsspiel gestern deutlich mit <strong>6,5:1,5</strong>. Dabei überließ uns Zugzwang direkt 2 Bretter kampflos, <strong>Hilmar</strong> und <strong>Ulrich</strong> hatten also frei, der Rest war Formsache. Nur <strong>Alexander</strong> verliert an Brett 1. <strong>Hans-Dieter</strong> und <strong>Andreas</strong> mussten nur warten, bis der jeweilige Gegner die DWZ auf Brett kot….. so in etwa 😉</p>
 <p>Die Partie von Andreras war komplett ausgeglichen und der halbe Punkt schon fast notiert, als der Gegner in folgender Stellung mit Lxd4 ins Verderben lief – freiwillig. Er sah wohl die Bauerngabel mit c5, aber nicht, dass Andreas einfach Lxc5 und Kxc5 spielt und dann das Endspiel für Schwarz sofort gewonnen ist.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013.jpg"><img alt="" class="aligncenter wp-image-10838 size-thumbnail" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-768x769.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013.jpg 1207w" width="150"/></a>Hans-Dieter baute sich erst langsam über die F-Line auf und startete dann einen schönen Angriff inkl. Turmopfer auf h4! Siehe Foto unten einen Zug später.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013.jpg"><img alt="" class="aligncenter wp-image-10838 size-thumbnail" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-768x769.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013.jpg 1207w" width="150"/></a></p>
+<p>Hans-Dieter baute sich erst langsam über die F-Line auf und startete dann einen schönen Angriff inkl. Turmopfer auf h4! Siehe Foto unten einen Zug später.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome.jpg"><img alt="" class="size-large wp-image-10831 aligncenter" decoding="async" height="155" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-1024x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-1024x248.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-300x73.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-768x186.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome.jpg 1080w" width="640"/></a>Nur <strong>NARVA 3</strong> konnte nichts aus Buch mit bringen, gegen <strong>Nord-Ost 4</strong> verlor man mit <strong>1:5</strong>. <strong>Lukas</strong> konnte zumindest die komplette Pleite verhindern und gewann – gegen DWZ 1569!!</p>
 <p>Im Anschluss trafen sich noch 9 Mann, quer durch alle Mannschaften, zum Essen in der Greifswalder Str.!</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome.jpg"><img alt="" class="size-large wp-image-10830 aligncenter" decoding="async" height="116" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-1024x186.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-1024x186.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-300x54.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-768x139.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome.jpg 1048w" width="640"/></a> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/#more-10837">Weiterlesen <span class="meta-nav">→</span></a></p>
@@ -83,6 +84,20 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10774 
+<div class="post-10863 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10863">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/" rel="bookmark">Rapid Liga (20)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/" rel="bookmark" title="8:27"><span class="entry-date">21. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10864" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023.jpg"><img alt="" aria-describedby="caption-attachment-10864" class="size-large wp-image-10864" decoding="async" height="323" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-1024x517.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-1024x517.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-300x151.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-768x387.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023.jpg 1110w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10864"><strong>20.02.2023</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10863 
 <div class="post-10771 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10771">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/" rel="bookmark">Ergebnisse Pokal 1.Runde</a></h2>
 <div class="entry-meta">
@@ -122,6 +137,20 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10752 
+<div class="post-10860 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10860">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/" rel="bookmark">Rapid Liga (19)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/" rel="bookmark" title="8:23"><span class="entry-date">14. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10861" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023.jpg"><img alt="" aria-describedby="caption-attachment-10861" class="size-large wp-image-10861" decoding="async" height="345" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-1024x552.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-1024x552.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-300x162.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-768x414.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023.jpg 1119w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10861"><strong>13.02.2023</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10860 
 <div class="post-10745 post type-post status-publish format-standard hentry category-allgemein category-sg-narva" id="post-10745">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/" rel="bookmark">Mitgliederstatistik</a></h2>
 <div class="entry-meta">
@@ -148,6 +177,20 @@ Gymnastik: 12 (-1)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10745 
+<div class="post-10857 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10857">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/" rel="bookmark">Rapid Liga (18)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/" rel="bookmark" title="8:21"><span class="entry-date">7. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10858" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023.jpg"><img alt="" aria-describedby="caption-attachment-10858" class="size-large wp-image-10858" decoding="async" height="353" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-1024x565.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-1024x565.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-300x165.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-768x424.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023.jpg 1113w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10858"><strong>06.02.2023</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10857 
 <div class="post-10731 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10731">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/" rel="bookmark">Lichess Liga (R299)</a></h2>
 <div class="entry-meta">
@@ -196,6 +239,20 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10729 
+<div class="post-10854 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10854">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/" rel="bookmark">Rapid Liga (17)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/" rel="bookmark" title="8:18"><span class="entry-date">1. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10855" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023.jpg"><img alt="" aria-describedby="caption-attachment-10855" class="size-large wp-image-10855" decoding="async" height="318" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-1024x508.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-1024x508.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-768x381.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023.jpg 1120w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10855"><strong>30.01.2023</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10854 
 <div class="post-10720 post type-post status-publish format-standard hentry category-offene-turniere category-openberichte" id="post-10720">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/" rel="bookmark">NARVA bei der OBSenEM 2023</a></h2>
 <div class="entry-meta">
@@ -261,6 +318,20 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/27/lichess-liga-r297/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10704 
+<div class="post-10852 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10852">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/24/rapid-liga-16/" rel="bookmark">Rapid Liga (16)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/24/rapid-liga-16/" rel="bookmark" title="8:16"><span class="entry-date">24. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10682" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023.jpg"><img alt="" aria-describedby="caption-attachment-10682" class="size-large wp-image-10682" decoding="async" height="383" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-1024x613.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-1024x613.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-768x460.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023.jpg 1152w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10682"><strong>23.01.2023</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/24/rapid-liga-16/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10852 
 <div class="post-10702 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10702">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/23/lichess-liga-r296/" rel="bookmark">Lichess Liga (R296)</a></h2>
 <div class="entry-meta">
@@ -295,83 +366,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/22/3-siege-in-bmm-runde-6/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10674 
-<div class="post-10700 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10700">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/20/lichess-liga-r295/" rel="bookmark">Lichess Liga (R295)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/20/lichess-liga-r295/" rel="bookmark" title="17:29"><span class="entry-date">20. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10686" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10a_19012023.jpg"><img alt="" aria-describedby="caption-attachment-10686" class="size-large wp-image-10686" decoding="async" height="312" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10a_19012023-1024x499.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10a_19012023-1024x499.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10a_19012023-300x146.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10a_19012023-768x374.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10a_19012023.jpg 1150w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10686"><strong>19.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/20/lichess-liga-r295/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10700 
-<div class="post-10665 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10665">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/" rel="bookmark">Auslosung interne Turniere</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/" rel="bookmark" title="17:21"><span class="entry-date">18. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die erste Runde der Abteilungsmeisterschaft ist nun ausgelost und auf der <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a> zu finden.</p>
-<p>Bereits am vergangenen Donnerstag wurde die erste Pokalrunde ausgelost. Nachdem am Montag noch eine letzte Frage geklärt wurde stehen die Paarungen inzwischen ebenfalls auf der entsprechenden <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Turnierseite</a>. Der reguläre Spieltermin für den Pokal ist der 16. Februar. Allerdings sind an diesem Tag einige schon in Magdeburg zur <a href="https://www.dsam-cup.de/">DSAM</a>. Bitte denkt daran, eure Pokalspiele rechtzeitig zu verlegen. Es kann auch nachgespielt werden.</p>
-<p>Ebenfalls am vergangenen Donnerstag fand unser erstes <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Schnellschachturnier</a> der diesjährigen Serie statt. Sieger wurde Peter vor Hilmar und Klaus. Unter den 13 Teilnehmern waren auch 5 Gäste, von denen Jerry mit drei Punkten und dem fünften Platz das beste Ergebnis erzielte.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/18/auslosung-interne-turniere/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10665 
-<div class="post-10698 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10698">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/16/lichess-liga-r294/" rel="bookmark">Lichess Liga (R294)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/16/lichess-liga-r294/" rel="bookmark" title="17:29"><span class="entry-date">16. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10687" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga11a_15012023.jpg"><img alt="" aria-describedby="caption-attachment-10687" class="size-large wp-image-10687" decoding="async" height="318" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga11a_15012023-1024x508.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga11a_15012023-1024x508.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga11a_15012023-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga11a_15012023-768x381.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga11a_15012023.jpg 1148w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10687"><strong>15.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/16/lichess-liga-r294/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10698 
-<div class="post-10696 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10696">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/13/lichess-liga-r293/" rel="bookmark">Lichess Liga (R293)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/13/lichess-liga-r293/" rel="bookmark" title="17:28"><span class="entry-date">13. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10688" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_12012023.jpg"><img alt="" aria-describedby="caption-attachment-10688" class="size-large wp-image-10688" decoding="async" height="316" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_12012023-1024x505.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_12012023-1024x505.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_12012023-300x148.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_12012023-768x379.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_12012023.jpg 1141w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10688"><strong>12.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/13/lichess-liga-r293/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10696 
-<div class="post-10648 post type-post status-publish format-standard hentry category-openberichte" id="post-10648">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/11/einladungsturnier-mariendorf/" rel="bookmark">Einladungsturnier Mariendorf</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/11/einladungsturnier-mariendorf/" rel="bookmark" title="13:03"><span class="entry-date">11. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Letzten Mittwoch gab das traditionelle <strong>Neujahrs-Einladungsturnier vom TSV Mariendorf</strong>. Eingeladen sind regelmäßig diverse bekannte „Größen“ aus dem Berliner Schach und Freunde der Mariendorfer.</p>
-<p>Von NARVA waren das dieses mal <strong>Gerhard</strong> (als Ehrenpräsident vom BSV), <strong>Günter</strong> (als Ex-Mariendorfer) und <strong>ich</strong> (als Vorsitzender NARVA). Ich musste in der BFL aushelfen und konnte so nicht teilnehmen, bin aber nach meiner Niederlage noch vorbei gefahren.</p>
-<p>Gespielt wurden 5 Runden Schnellschach mit 15min Bedenkzeit.</p>
-<p>Turniersieger wurde Dr. Daniel Eisermann (SV OSRAM) mit 4,5 Punkten, auf Platz 2 mit 4 Punkten BSV Ehrenpräsident Dr. Matthias Kribben (Zita). Dahinter 4 Spieler mit 3,5 Punkten in der Reihenfolge Dr. Herbert Mayer Platz 3, <strong>Günter</strong> Platz 4 und Ulli Fitzke Platz 5. <strong>Gerhard</strong> erreichte Platz 13 mit 2,5 Punkten.</p>
-<p><a href="https://chess-results.com/tnr715041.aspx?lan=0" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-scaled.jpg"><img alt="" class="alignnone wp-image-10643 size-medium" decoding="async" height="202" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-300x202.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-300x202.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-1024x690.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-768x517.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-1536x1034.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212338-2048x1379.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-10645" decoding="async" height="165" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-300x165.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-300x165.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-1024x564.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-768x423.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-1536x846.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212406-2048x1129.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-scaled.jpg"><img alt="" class="alignnone wp-image-10644 size-medium" decoding="async" height="219" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-300x219.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-300x219.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-1024x748.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-768x561.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-1536x1122.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230104_212349-2048x1497.jpg 2048w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/11/einladungsturnier-mariendorf/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10648 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

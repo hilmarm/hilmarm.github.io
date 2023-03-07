@@ -39,7 +39,7 @@ Modersohnstr. 55<br/>
 Thomas Mothes<br/>
 <u>2.Webmaster:</u><br/>
 Jonatan Schenk<br/>
-<u>Facebook Verantwortlich:</u><br/>
+<u>Social-Media Verantwortlich:</u><br/>
 Thomas Mothes</h4>
 <h4>Kontakt (Thomas Mothes):<br/>
 Telefon: +49 (0)30 – 914 30 634<br/>
