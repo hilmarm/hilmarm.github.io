@@ -27,7 +27,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/#comments">2 Kommentare</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10837 
 <div class="post-10805 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10805">
