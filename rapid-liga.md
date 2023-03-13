@@ -52,6 +52,23 @@ parent_title: Chronik
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Rapid-Liga</span> </h1>
+<div class="navigation" id="nav-above">
+<div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
+<div class="nav-next"></div>
+</div> #nav-above 
+<div class="post-10866 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10866">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark">Rapid Liga (21)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark" title="8:29"><span class="entry-date">13. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10866 
 <div class="post-10863 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10863">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/" rel="bookmark">Rapid Liga (20)</a></h2>
 <div class="entry-meta">
@@ -305,17 +322,7 @@ parent_title: Chronik
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10122 
-<div class="post-10035 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10035">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/" rel="bookmark">Rapid Liga (1)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/" rel="bookmark" title="8:31"><span class="entry-date">4. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Nun spielen wir online auch die neu geschaffene Rapid (Schnellschach) Liga. Gespielt wird immer Montags um 20 Uhr, bis 22 Uhr, Bedenkzeit 7+5. Los ging es für uns in Liga 7 und gleich mit Aufstieg!</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/04/rapid-liga-1/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10035 
+<div class="navigation" id="nav-below">
+<div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
+<div class="nav-next"></div>
+</div> #nav-below 

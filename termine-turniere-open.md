@@ -23,18 +23,23 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Koblenz</a></td>
-<td>03.03.-05.03.2023</td>
-<td></td>
+<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2023/03/10oderNull.pdf" rel="noopener" target="_blank">10 oder Null</a></td>
+<td>19.03.2023</td>
+<td>Torsten?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a></td>
 <td>24.03.-26.03.2023</td>
-<td>Jonatan?</td>
+<td>Jonatan, Manfred L.</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/berliner-frauen-blitz-einzelmeisterschaft-2023-am-01-04-23.html" rel="noopener" target="_blank">Berliner-Blitz-Einzelmeisterschaft der Frauen</a></td>
 <td>01.04.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/offenes-kinder-und-jugendschnellturnier-im-rahmen-der-schach-bundesliga.html" rel="noopener" target="_blank">Offenes Kinder- und Jugendschnellschachturnier</a></td>
+<td>02.04.2023</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
@@ -65,6 +70,11 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/berliner-frauen-schnellschach-einzelmeisterschaft-am-24-25-06-2023.html" rel="noopener" target="_blank">Berliner Frauen-Schnellschach-Einzelmeisterschaft</a></td>
 <td>25./26.06.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2023/" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer 2023</a></td>
+<td>15.07.-23.07.2023</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
