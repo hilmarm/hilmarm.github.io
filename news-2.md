@@ -8,12 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10869 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10869">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/" rel="bookmark">Rapid Liga (22)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/" rel="bookmark" title="8:30"><span class="entry-date">14. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<div class="wp-caption alignnone" id="attachment_10870" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023.jpg"><img alt="" aria-describedby="caption-attachment-10870" class="size-large wp-image-10870" decoding="async" height="359" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-1024x575.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-1024x575.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-768x431.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023.jpg 1114w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10870"><strong>06.03.2023</strong></p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10869 
 <div class="post-10866 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10866">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark">Rapid Liga (21)</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark" title="8:29"><span class="entry-date">13. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10867" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023.jpg"><img alt="" aria-describedby="caption-attachment-10867" class="size-large wp-image-10867" decoding="async" height="348" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-1024x556.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-1024x556.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-300x163.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-768x417.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023.jpg 1111w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10867"><strong>27.02.2023</strong></p></div>
+<div class="wp-caption alignnone" id="attachment_10867" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023.jpg"><img alt="" aria-describedby="caption-attachment-10867" class="size-large wp-image-10867" decoding="async" height="348" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-1024x556.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-1024x556.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-300x163.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-768x417.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023.jpg 1111w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10867"><strong>27.02.2023</strong></p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -351,20 +365,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/27/lichess-liga-r297/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10704 
-<div class="post-10852 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10852">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/24/rapid-liga-16/" rel="bookmark">Rapid Liga (16)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/24/rapid-liga-16/" rel="bookmark" title="8:16"><span class="entry-date">24. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10682" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023.jpg"><img alt="" aria-describedby="caption-attachment-10682" class="size-large wp-image-10682" decoding="async" height="383" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-1024x613.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-1024x613.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023-768x460.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/rapidliga2_23012023.jpg 1152w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10682"><strong>23.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/24/rapid-liga-16/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10852 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

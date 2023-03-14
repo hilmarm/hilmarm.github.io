@@ -56,6 +56,19 @@ parent_title: Chronik
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10869 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10869">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/" rel="bookmark">Rapid Liga (22)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/" rel="bookmark" title="8:30"><span class="entry-date">14. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10869 
 <div class="post-10866 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10866">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark">Rapid Liga (21)</a></h2>
 <div class="entry-meta">
@@ -308,20 +321,6 @@ parent_title: Chronik
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/18/rapid-liga-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10176 
-<div class="post-10122 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10122">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/" rel="bookmark">Rapid Liga (2)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/" rel="bookmark" title="11:06"><span class="entry-date">11. Oktober 2022</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>2. Runde – 2. Aufstieg!</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2022/10/11/rapid-liga-2/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10122 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
