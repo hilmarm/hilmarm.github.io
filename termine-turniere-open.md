@@ -48,6 +48,11 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td>Himmelfahrtsblitz SG Weißensee</td>
+<td>18.05.2023</td>
+<td>eine Mannschaft</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.sglasker.de/news/8257/rudolf-teschner-turnier-zu-himmelfahrt-2023.html" rel="noopener" target="_blank">Rudolf Teschner Gedenkturnier</a></td>
 <td>18.05.-21.05.2023</td>
 <td></td>
@@ -76,6 +81,11 @@ parent_title: Termine
 <td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2023/" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer 2023</a></td>
 <td>15.07.-23.07.2023</td>
 <td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
+<td>29.09.-05.10.2023</td>
+<td>Hans-Dieter, Ulrich</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>
