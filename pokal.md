@@ -31,7 +31,7 @@ parent_title: Turniere
 <tbody>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">1</td>
-<td style="height: 24px;">Herrscher/Campe</td>
+<td style="height: 24px;">Campe,Ulrich</td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Schenk,Jonatan</td>
 <td style="height: 24px;"></td>
@@ -96,8 +96,8 @@ parent_title: Turniere
 <td style="height: 24px;">6</td>
 <td style="height: 24px;">Herrscher,Michael</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Campe,Ulrich</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;"><strong>Campe,Ulrich</strong></td>
+<td style="height: 24px; text-align: center;">0 : 1</td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">7</td>
