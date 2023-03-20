@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10896 post type-post status-publish format-standard hentry category-tandem" id="post-10896">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/" rel="bookmark">2. NARVA Tandem-Abend</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/" rel="bookmark" title="8:51"><span class="entry-date">20. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Mittwoch – 19.04.2023</strong><br/>
+<strong>18:15 Uhr</strong><br/>
+<strong>RuDi Nachbarschaftszentrum – oben</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10892" decoding="async" height="418" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-768x502.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1536x1003.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-2048x1338.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/tandem/" rel="category tag">Tandem</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10896 
 <div class="post-10888 post type-post status-publish format-standard hentry category-jugend" id="post-10888">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/16/platz-3-bei-kinderfruehlingsturnier-u7/" rel="bookmark">Platz 3 bei Kinderfrühlingsturnier U7</a></h2>
 <div class="entry-meta">
@@ -17,7 +34,7 @@ navs:
 <strong>Michael Scherbovich</strong> belegt beim <strong>Kinderfrühlingsturnier Platz 3</strong> in der <strong>U7</strong>!!<br/>
 <strong>Glückwunsch!</strong></p>
 <p><a href="http://www.schachjugend-in-berlin.de/bjem-u7-und-u8-sowie-kft/" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499.jpg"><img alt="" class="alignnone wp-image-10886 size-medium" decoding="async" height="199" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-300x199.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-300x199.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-1024x678.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-768x508.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499.jpg 1080w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499.jpg"><img alt="" class="alignnone wp-image-10886 size-medium" decoding="async" height="199" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-300x199.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-300x199.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-1024x678.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-768x508.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499.jpg 1080w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -340,35 +357,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10720 
-<div class="post-10706 post type-post status-publish format-standard hentry category-bfl" id="post-10706">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/29/bfl-runde-5-fast-die-hoechststrafe/" rel="bookmark">BFL Runde 5 – fast die Höchststrafe</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/29/bfl-runde-5-fast-die-hoechststrafe/" rel="bookmark" title="17:50"><span class="entry-date">29. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die <strong>1.Mannschaft</strong> musste nach der Ersten der Schachfreunde, nun gegen die Zweite ran. Auch diese ist immer noch ausreichend stark besetzt, um uns als Außenseiter zu sehen. Außerdem kamen noch Besetzungsprobleme bei uns dazu. Am besten zog sich noch Hilmar, bei seinem BFL-Debüt, aus der Affäre. Die Partie gegen den 2130er ging hin und her, bis Hilmar die bessere Fortsetzung nicht fand und ins Mattnetz lief.</p>
-<pre>SG NARVA Berlin 1        - SFB 1903 2             0,0:4,0
-==================================================
-104 Schenk,Jonatan        - 203 Weber,Daniel (2145)      0:1
-105 Krüger,Ekkehard       - 204 Tomin,Bogdan (1955)      0:1
-113 Magnusson,Hilmar      - 205 Böddeker,Henry (2130)    0:1
-213 Eichstädt,Torsten     - 208 Bender,Leon (1997)       0:1</pre>
-<p><strong>NARVA 2</strong> kann am Ende mit etwas Glück die Höchststrafe verhindern. Peter´s Gegner Sascha Sarré stellt in leicht besserer Stellung, aber in Zeitnot, einzügig den Turm ein. Vorher hatten jedoch Tomas und auch Klaus gute Stellungen vergeben. Es war auf jeden Fall mehr drin.</p>
-<pre>SG NARVA Berlin 2        - SFB 1903 6              1,0:3,0
-==================================================
-201 Segerberg,Tomas       - 601 Cakaciaslan,Mehmet Serdar 0:1
-203 Brinckmann,Klaus      - 605 Abualhayjaa,Khader (1567) 0:1
-215 Steppuhn,Detlef       - 606 Eis,Cedric (1347)         0:1
-216 Hintze,Peter          - 612 Sarré,Sascha (1937)       1:0</pre>
-<p>Die nächste BFL-Runde ist für beide Mannschaften am <strong>23.02.2023</strong> – um 19:30 Uhr!! – gegen die <strong>SG Weißensee</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-scaled.jpg"><img alt="" class="alignnone wp-image-10717 size-medium" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_174621-2048x923.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-10718" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/20230126_194226-2048x923.jpg 2048w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/29/bfl-runde-5-fast-die-hoechststrafe/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10706 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
