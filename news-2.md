@@ -8,6 +8,21 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10901 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10901">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/" rel="bookmark">Klaus gewinnt März-Schnellschach</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/" rel="bookmark" title="16:55"><span class="entry-date">23. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am vergangenen Donnerstag fand das zweite Schnellschachturnier unserer diesjährigen Serie statt. Zwölf Teilnehmer fanden sich dazu ein, darunter sechs Gäste. Unserem aktuellen Vizeschnellschachmeister <strong>Klaus</strong> gelang dabei erstmals der Turniersieg – er gewann unter anderem gegen Peter und mich, und gab nur in der letzten Runde einen halben Punkt ab. Den zweiten Platz belegte <strong>Peter</strong>, Platz drei geht an den besten Gast, <strong>Jerry</strong>.</p>
+<p>Außerdem wurde am Donnerstag eine Pokalpartie nachgeholt. Dabei gewann Uli gegen Micha.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10901 
 <div class="post-10896 post type-post status-publish format-standard hentry category-tandem" id="post-10896">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/" rel="bookmark">2. NARVA Tandem-Abend</a></h2>
 <div class="entry-meta">
@@ -335,28 +350,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10854 
-<div class="post-10720 post type-post status-publish format-standard hentry category-offene-turniere category-openberichte" id="post-10720">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/" rel="bookmark">NARVA bei der OBSenEM 2023</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/" rel="bookmark" title="19:50"><span class="entry-date">30. Januar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Mittwoch ging die <strong>Offene Berliner Senioren Einzelmeisterschaft 2023</strong> (OBSenEM) zu Ende.</p>
-<p>Von NARVA haben gleich 5 Spieler teilgenommen! Bernd, Ekkehard, Hans-Dieter, Gerhard und Ulrich.</p>
-<p>Nach 9 gespielten Runden wurden folgende Punkte erreicht:<br/>
-<strong>Bernd</strong> hat 5,5 Punkte, aus nur 8 Runden! In Runde 8 saß er auf Platz 3 liegend an Brett 1 – verlor und musste dann aber die letzte Runde krankheitsbedingt auslassen. Am Ende liegt er auf <strong>Rang 19</strong> und einer Eloperformance von 2161!</p>
-<p><strong>Ekkehard</strong> hat auch 5,5 Punkte, erreicht <strong>Platz 24</strong>, ein Remis gegen einen FM und Eloperformance 1978!</p>
-<p><strong>Hans-Dieter</strong> hat ebenfalls 5,5 Punkte, kommt auf <strong>Platz 27</strong>, <strong>erreicht den 2.Platz im Rating U1850</strong> und hat eine Eloperformance von 1923!</p>
-<p>In der Mannschaftswertung hätten die 3x 5,5 Punkte ganz knapp nicht für die Top 3 gereicht. Da aber Spieler, die das Turnier nicht beendet haben, nicht in die Wertung kommen……reicht es nur zu Platz 10.</p>
-<p><strong>Gerhard</strong> und <strong>Ulrich</strong> haben je 3 Punkte und landen auf den Plätzen 109 und 113.</p>
-<p>Auf der Turnierseite alle Ergebnisse, ELO und DWZ-Wertung, Partien der Bretter 1-20 und Ranglisten. <a href="https://www.berlinerschachverband.de/chronik-2020/articles/39-berliner-senioren-einzelmeisterschaft.html" rel="noopener" target="_blank">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10720 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
