@@ -204,7 +204,7 @@ parent_title: Turniere
 <td>5.</td>
 <td>Magnusson,Hilmar</td>
 <td>1683</td>
-<td> –</td>
+<td style="text-align: left;">0 – 1</td>
 </tr>
 <tr>
 <td>6</td>
