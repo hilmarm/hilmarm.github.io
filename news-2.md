@@ -8,6 +8,35 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10907 post type-post status-publish format-standard hentry category-bfl" id="post-10907">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/" rel="bookmark">BFL Runde 8</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/" rel="bookmark" title="13:37"><span class="entry-date">28. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am letzten Donnerstag fand die vorletzte Runde zur <strong>BFL</strong> statt. Dabei kam es zu 2 Duellen gegen unsere Bezirksnachbarn aus Kreuzberg.</p>
+<p><strong>NARVA 1</strong> spielte gegen <strong>SC Kreuzberg 1</strong> und erreichte ein <strong>2:2</strong>. Günter und Peter konnten gewinnen, Tomas und Ekkehard verlieren. Das Unentschieden bringt uns etwas nächer an den Klassenerhalt, die letzte Runde ist aber nochmal wichtig.</p>
+<pre>SG NARVA Berlin 1        - SC Kreuzberg 1              2,0:2,0
+==================================================
+105 Krüger,Ekkehard      - 102 Bolk,Matthias (2014)      0:1
+106 Idaczek,Günter       - 104 Fock,Sana (1855)          1:0
+204 Bradschetl,Tom       - 108 Körlin,Hans-Jürgen (1688) 0:1
+215 Hintze,Peter         - 201 Uckar,Klaudijo (1697)     1:0</pre>
+<p><strong>NARVA 2</strong> spielte gegen <strong>SC Kreuzberg 2</strong> und gewann klar mit <strong>4:0</strong>!! Kurz vor der Runde mussten wir noch umstellen, Katrin kam so zu ihrem ersten Einsatz und gewann auch als erste. Torsten, Klaus und Alex steuerten weitere Siege bei. In der letzten Runde geht es dann zu einem Gegner um den Aufstiegsplatz, Mariendorf. Die haben aber die letzte Runde gegen Weißensee verloren, einige Ergebnisse fehlen noch im Skript.</p>
+<pre>SG NARVA Berlin 2        - SC Kreuzberg 2              4,0:0,0
+==================================================
+203 Brinckmann,Klaus     - 203 Pilgrim,Leonhard (1354)   1:0
+207 Kreisel,Alexander    - 204 Körner,Reinhard (1291)    1:0
+208 Hildebrand,Katrin    - 208 Wallat,Alisha Lara (0)    1:0
+213 Eichstädt,Torsten    - 209 Biermann,Oliver (0)       1:0</pre>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10908" decoding="async" height="289" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-2048x923.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10907 
 <div class="post-10901 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10901">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/" rel="bookmark">Klaus gewinnt März-Schnellschach</a></h2>
 <div class="entry-meta">
@@ -15,6 +44,7 @@ navs:
 <div class="entry-content">
 <p>Am vergangenen Donnerstag fand das zweite Schnellschachturnier unserer diesjährigen Serie statt. Zwölf Teilnehmer fanden sich dazu ein, darunter sechs Gäste. Unserem aktuellen Vizeschnellschachmeister <strong>Klaus</strong> gelang dabei erstmals der Turniersieg – er gewann unter anderem gegen Peter und mich, und gab nur in der letzten Runde einen halben Punkt ab. Den zweiten Platz belegte <strong>Peter</strong>, Platz drei geht an den besten Gast, <strong>Jerry</strong>.</p>
 <p>Außerdem wurde am Donnerstag eine Pokalpartie nachgeholt. Dabei gewann Uli gegen Micha.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -31,7 +61,7 @@ navs:
 <p><strong>Mittwoch – 19.04.2023</strong><br/>
 <strong>18:15 Uhr</strong><br/>
 <strong>RuDi Nachbarschaftszentrum – oben</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10892" decoding="async" height="418" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-768x502.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1536x1003.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-2048x1338.jpg 2048w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10892" decoding="async" height="418" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-768x502.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1536x1003.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-2048x1338.jpg 2048w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -336,20 +366,6 @@ Nach fast 3 Jahren Pause geht es nun wieder los!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10729 
-<div class="post-10854 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10854">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/" rel="bookmark">Rapid Liga (17)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/" rel="bookmark" title="8:18"><span class="entry-date">1. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10855" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023.jpg"><img alt="" aria-describedby="caption-attachment-10855" class="size-large wp-image-10855" decoding="async" height="318" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-1024x508.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-1024x508.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023-768x381.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_30012023.jpg 1120w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10855"><strong>30.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/01/rapid-liga-17/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10854 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
