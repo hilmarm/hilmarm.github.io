@@ -69,16 +69,17 @@ parent_title: Termine
 <tr>
 <td style="text-align: center; width: 84px;">7</td>
 <td>SFB 1903 3 (H)</td>
-<td>09.03.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2 : 2</span></strong></td>
 <td>SFB 1903 4 (H)</td>
-<td>09.03.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2½ : 1½</span></strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">8</td>
 <td>Kreuzberg 1 (H)</td>
-<td>23.03.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">2 : 2</span></strong></td>
 <td>Kreuzberg 2 (H)</td>
-<td>23.03.23</td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">4 : 0</span><br/>
+</strong></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">9</td>

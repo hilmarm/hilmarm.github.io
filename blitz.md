@@ -21,7 +21,7 @@ parent_title: Turniere
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Ausschreibung</a></p>
 <h2>Gesamtwertung</h2>
 <div style="overflow: auto;">
-<table class="footable" style="width: 75%;">
+<table class="clean footable">
 <thead>
 <tr>
 <th style="padding-right: 10px; width: 15%;">Name</th>
@@ -126,6 +126,8 @@ parent_title: Turniere
 </tbody>
 </table>
 </div>
+<h2>Monatsblitz März – 30.03.2023</h2>
+<p></p>
 <h2>Monatsblitz Februar – 23.02.2023</h2>
 <div style="overflow: auto;">
 <table class="clean swiss">

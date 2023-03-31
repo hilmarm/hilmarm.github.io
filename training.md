@@ -30,8 +30,8 @@ parent_title: Turniere
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">01. Juni 2023</td>
-<td style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;"></td>
+<td style="height: 24px; width: 175.25px;">Regelkunde + Uhren</td>
+<td style="height: 24px; width: 169.117px;">Thomas Mothes</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">06. Juli 2023</td>
