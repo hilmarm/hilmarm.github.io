@@ -42,6 +42,7 @@ parent_title: Turniere
 <tr>
 <td style="width: 16.3952%;">Hintze</td>
 <td style="width: 7.81759%;">12</td>
+<td style="width: 7.49186%;">12</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -50,8 +51,21 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">24</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Totz</td>
+<td style="width: 7.81759%;">8</td>
+<td style="width: 7.49186%;">3</td>
 <td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">12</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">11</td>
 </tr>
 <tr>
 <td style="width: 16.3952%;">Segerberg</td>
@@ -68,6 +82,48 @@ parent_title: Turniere
 <td style="width: 8.68621%;">10</td>
 </tr>
 <tr>
+<td style="width: 16.3952%;">Magnusson</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">10</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">10</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Kreisel</td>
+<td style="width: 7.81759%;">5</td>
+<td style="width: 7.49186%;">4</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">9</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Dr.Maetzing</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">8</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">8</td>
+</tr>
+<tr>
 <td style="width: 16.3952%;">Wu (G)</td>
 <td style="width: 7.81759%;">8</td>
 <td style="width: 7.49186%;"></td>
@@ -82,8 +138,9 @@ parent_title: Turniere
 <td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
-<td style="width: 16.3952%;">Totz</td>
-<td style="width: 7.81759%;">8</td>
+<td style="width: 16.3952%;">Brickmann</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">6</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -92,13 +149,12 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">8</td>
+<td style="width: 8.68621%;">6</td>
 </tr>
 <tr>
-<td style="width: 16.3952%;">Kreisel</td>
-<td style="width: 7.81759%;">5</td>
-<td style="width: 7.49186%;"></td>
+<td style="width: 16.3952%;">Krüger</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">5</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -123,11 +179,171 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 8.68621%;">5</td>
 </tr>
+<tr>
+<td style="width: 16.3952%;">Dragnev (G)</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">2</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">2</td>
+</tr>
 </tbody>
 </table>
 </div>
 <h2>Monatsblitz März – 30.03.2023</h2>
-<p></p>
+<div style="overflow: auto;">
+<table class="clean swiss">
+<thead>
+<tr>
+<td colspan="13">Rangliste: Stand nach der 7. Runde</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Hintze,Peter</td>
+<td>1914</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>7.0</td>
+<td>21.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Magnusson,Hilmar</td>
+<td>1683</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>12.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td nowrap="nowrap">Maetzing,Hans-Dieter,Dr.</td>
+<td>1772</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>11.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td>Brinckmann,Klaus</td>
+<td>1677</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4.0</td>
+<td>8.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td>Krüger,Ekkehard</td>
+<td>1757</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>3.5</td>
+<td>6.25</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>6</td>
+<td>Kreisel,Alexander</td>
+<td>1507</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>2.5</td>
+<td>2.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>7</td>
+<td>Totz,Thomas</td>
+<td>1131</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1.0</td>
+<td>0.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>8</td>
+<td>Dragnev,Jan (ohne Verein)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>0.0</td>
+<td>0.00</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p> </p>
 <h2>Monatsblitz Februar – 23.02.2023</h2>
 <div style="overflow: auto;">
 <table class="clean swiss">

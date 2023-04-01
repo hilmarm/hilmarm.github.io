@@ -8,6 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10921 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10921">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/" rel="bookmark">Monats Blitz März</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/" rel="bookmark" title="11:36"><span class="entry-date">1. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag fand die 2.Runde im Monats-Blitz 2023 statt. Mit nur 8 Teilnehmern waren es zwar mehr als im Februar, aber immer noch dünn im Verhältnis zu früher (vor Corona) bzw. zum Schnellschach (zuletzt 12 und 13 Teilnehmer). Vor allem das fehlen von Gästen macht sich hier bemerkbar.</p>
+<p>Klarer Sieger wurde wieder mit 100% <strong>Peter</strong>. Dahinter punktgleich <strong>Hilmar</strong> und <strong>Hans-Dieter</strong> mit jeweils 5 Punkten. Das direkte Duell ging hier an Hilmar, er verlor dafür gegen Klaus. So trennt beide nur ein Sonneborn-Berger Punkt. Auf Platz 4 lief der „Gerademacher“ <strong>Klaus</strong> mit 4 Punkten ein – Schnellschach ist eindeutig eher seine Disziplin 😉 .</p>
+<p>In der <strong>Gesamtwertung</strong> führt natürlich mit voller Punktzahl <strong>Peter</strong>, auf Platz 2 dann als Überraschung<strong> Thomas</strong> – nein, nicht Segerberg oder Mothes – <strong>Totz</strong>!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+<p>Nächsten Donnerstag dann Mitgliederversammlung. In 2 Wochen ist Skat!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10918" decoding="async" height="433" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1536x1038.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-2048x1383.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10921 
 <div class="post-10907 post type-post status-publish format-standard hentry category-bfl" id="post-10907">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/" rel="bookmark">BFL Runde 8</a></h2>
 <div class="entry-meta">
@@ -28,7 +47,7 @@ navs:
 207 Kreisel,Alexander    - 204 Körner,Reinhard (1291)    1:0
 208 Hildebrand,Katrin    - 208 Wallat,Alisha Lara (0)    1:0
 213 Eichstädt,Torsten    - 209 Biermann,Oliver (0)       1:0</pre>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10908" decoding="async" height="289" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-2048x923.jpg 2048w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10908" decoding="async" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-2048x923.jpg 2048w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -348,24 +367,6 @@ Gymnastik: 12 (-1)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r298/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10715 
-<div class="post-10729 post type-post status-publish format-standard hentry category-jugend" id="post-10729">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/" rel="bookmark">Neustart Jugendtraining</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/" rel="bookmark" title="13:13"><span class="entry-date">3. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Ab nächsten Donnerstag gibt es bei NARVA wieder ein Jugendtraining!!</strong><br/>
-Nach fast 3 Jahren Pause geht es nun wieder los!</p>
-<p>Start ist immer um <strong>16:30 Uhr</strong>! Jeder ist willkommen!</p>
-<p>Als Trainer sind <strong>Alexander</strong> und <strong>Ekkehard</strong> dabei.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg"><img alt="" class="size-medium wp-image-3899 aligncenter" decoding="async" height="150" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-768x384.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-1024x512.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg 1184w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/jugend/" rel="category tag">Jugend</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/03/neustart-jugendtraining/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10729 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
