@@ -8,6 +8,34 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10926 post type-post status-publish format-standard hentry category-intern" id="post-10926">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/" rel="bookmark">Mitgliederversammlung am 06.04.23</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/" rel="bookmark" title="11:44"><span class="entry-date">2. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hallo Schachfreunde,</p>
+<p>Hiermit lädt Euch der Vorstand der Abteilung Schach zur <strong>Mitgliederversammlung</strong> am <strong>06.04.2023</strong> um <strong>18:30 Uhr</strong> ein!</p>
+<p><span style="text-decoration: underline;"><strong>Tagesordnung:</strong></span></p>
+<ul>
+<li>Kassenabschluss 2022/Etat 2023</li>
+<li>Aktuelles zu BMM/BFL/BPMM</li>
+<li>Aktuelles zur Planung KRT 2023</li>
+<li>Termine für weitere Turniere in Berlin</li>
+<li>Sonstiges</li>
+</ul>
+<p>Viele Grüße<br/>
+Thomas Mothes</p>
+<p><em>Vorsitzender</em><br/>
+<em>SG NARVA Berlin e.V.</em><br/>
+<em>Abteilung Schach</em></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10926 
 <div class="post-10921 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10921">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/" rel="bookmark">Monats Blitz März</a></h2>
 <div class="entry-meta">
@@ -353,20 +381,6 @@ Gymnastik: 12 (-1)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10731 
-<div class="post-10715 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10715">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r298/" rel="bookmark">Lichess Liga (R298)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r298/" rel="bookmark" title="8:34"><span class="entry-date">4. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10712" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_29012023.jpg"><img alt="" aria-describedby="caption-attachment-10712" class="size-large wp-image-10712" decoding="async" height="310" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_29012023-1024x496.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_29012023-1024x496.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_29012023-300x145.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_29012023-768x372.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/01/liga10b_29012023.jpg 1151w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10712"><strong>29.01.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r298/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10715 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
