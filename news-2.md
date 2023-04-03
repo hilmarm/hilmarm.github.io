@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10924 post type-post status-publish format-standard hentry category-skat" id="post-10924">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/" rel="bookmark">Skat am Donnerstag 13.04.23</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/" rel="bookmark" title="11:39"><span class="entry-date">3. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>Donnerstag den 13.04.2023</strong> findet unser <strong>Skat 2023</strong> statt!</p>
+<p>Das <strong>Startgeld</strong> beträgt für <span style="text-decoration: underline;">Mitglieder 2 €, für Gäste 3 €</span>.</p>
+<p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
+danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
+<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2020/09/ISkO-2018-3.6.pdf" rel="noopener" target="_blank">Link</a></p>
+<p>Gut Blatt !</p>
+<p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" decoding="async" height="247" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10924 
 <div class="post-10926 post type-post status-publish format-standard hentry category-intern" id="post-10926">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/" rel="bookmark">Mitgliederversammlung am 06.04.23</a></h2>
 <div class="entry-meta">
@@ -46,7 +67,7 @@ Thomas Mothes</p>
 <p>In der <strong>Gesamtwertung</strong> führt natürlich mit voller Punktzahl <strong>Peter</strong>, auf Platz 2 dann als Überraschung<strong> Thomas</strong> – nein, nicht Segerberg oder Mothes – <strong>Totz</strong>!</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
 <p>Nächsten Donnerstag dann Mitgliederversammlung. In 2 Wochen ist Skat!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10918" decoding="async" height="433" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1536x1038.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-2048x1383.jpg 2048w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10918" decoding="async" height="433" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1536x1038.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-2048x1383.jpg 2048w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -365,22 +386,6 @@ Gymnastik: 12 (-1)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10857 
-<div class="post-10731 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10731">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/" rel="bookmark">Lichess Liga (R299)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/" rel="bookmark" title="9:17"><span class="entry-date">4. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10732" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga10a_02022023.jpg"><img alt="" aria-describedby="caption-attachment-10732" class="wp-image-10732 size-large" decoding="async" height="319" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga10a_02022023-1024x510.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga10a_02022023-1024x510.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga10a_02022023-300x149.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga10a_02022023-768x383.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga10a_02022023.jpg 1118w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10732"><strong>02.02.2023</strong></p></div>
-<p><strong>Morgen dann unsere 300. Quarantäne-/Lichess-Liga Teilnahme!!!</strong></p>
-<p>Und es wird unsere letzte Teilnahme sein. Die Beteiligung war zuletzt immer dünner und so werden wir das Team NARVA dort zurückziehen. Die Rapid-Liga läuft weiterhin jeden Montag 19 Uhr!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/04/lichess-liga-r299/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10731 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
