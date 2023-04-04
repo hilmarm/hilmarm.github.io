@@ -54,6 +54,7 @@ parent_title: Turniere
 <th style="height: 18px;">–</th>
 <th style="height: 18px;">Teilnehmer</th>
 <th style="height: 18px;">Ergebnis</th>
+<th style="height: 18px;">Blitz</th>
 </tr>
 </thead>
 <tbody>
@@ -61,8 +62,9 @@ parent_title: Turniere
 <td style="height: 24px;">1</td>
 <td style="height: 24px;">Krüger,Ekkehard</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Mietzelfeldt,Gerhard</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;"><strong>Mietzelfeldt,Gerhard</strong></td>
+<td style="text-align: center;">½ : ½</td>
+<td style="text-align: center;">1:2</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">2</td>
@@ -70,6 +72,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Maiwald,Gunar</td>
 <td style="text-align: center;">1 : 0</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">3</td>
@@ -77,6 +80,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td nowrap="nowrap" style="height: 24px;"><strong>Maetzing,Hans-Dieter,Dr.</strong></td>
 <td style="text-align: center;">0 : 1</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">4</td>
@@ -84,6 +88,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Eichstädt,Torsten</td>
 <td style="text-align: center;">1 : 0</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">5</td>
@@ -91,6 +96,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;"><strong>Salgueiro,Felix</strong></td>
 <td style="height: 24px; text-align: center;">0 : 1</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">6</td>
@@ -98,6 +104,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;"><strong>Campe,Ulrich</strong></td>
 <td style="height: 24px; text-align: center;">0 : 1</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">7</td>
@@ -105,6 +112,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Heinrich,Wesko</td>
 <td style="height: 24px; text-align: center;">1 : 0</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">8</td>
@@ -112,6 +120,7 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;"><strong>Segerberg,Tomas</strong></td>
 <td style="height: 24px; text-align: center;">0 : 1</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">9</td>
@@ -119,12 +128,14 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Mothes,Thomas</td>
 <td style="height: 24px; text-align: center;">1 : 0</td>
+<td style="height: 24px;"></td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">10</td>
 <td style="height: 24px;"><strong>Brinckmann,Klaus</strong></td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">spielfrei</td>
+<td style="height: 24px;"></td>
 <td style="height: 24px;"></td>
 </tr>
 </tbody>
