@@ -17,7 +17,7 @@ navs:
 <p>Das <strong>Startgeld</strong> beträgt für <span style="text-decoration: underline;">Mitglieder 2 €, für Gäste 3 €</span>.</p>
 <p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
 danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
-<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2020/09/ISkO-2018-3.6.pdf" rel="noopener" target="_blank">Link</a></p>
+<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2022/11/ISkO-2022.pdf" rel="noopener" target="_blank">Link</a></p>
 <p>Gut Blatt !</p>
 <p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" decoding="async" height="247" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
