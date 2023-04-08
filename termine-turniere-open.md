@@ -30,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-meisterschaft-meisterklasse-und-qualifikationsturnier-2023.html" rel="noopener" target="_blank">BEM M-Klasse &amp; QT</a></td>
 <td>08.04.-16.04.2023</td>
-<td></td>
+<td>Jonatan</td>
 </tr>
 <tr style="height: 24px;">
 <td>Himmelfahrtsblitz SG Weißensee</td>
