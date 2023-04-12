@@ -117,7 +117,7 @@ navs:
 <td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
-<td>1843</td>
+<td>1842</td>
 <td>64</td>
 <td>1868</td>
 </tr>
