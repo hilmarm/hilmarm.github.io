@@ -8,6 +8,33 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10937 post type-post status-publish format-standard hentry category-skat" id="post-10937">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/" rel="bookmark">Skat 2023 – Phönix aus der Asche</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/" rel="bookmark" title="21:19"><span class="entry-date">14. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Zu unserem jährlichen <strong>Skatturnier</strong> fanden sich neun Enthusiasten, dieses leider wohl langsam aussterbenden Spiels zusammen, dadurch<br/>
+konnten wir an Dreiertischen spielen und damit auch relativ zeitig fertig werden. Auch für die Zusammenstellung der Tische in den einzelnen Serien ist dies ein günstiger Fall:<br/>
+1 2 3<br/>
+4 5 6<br/>
+7 8 9<br/>
+einmal ‚rüber‘, einmal ‚runter‘ und einmal diagonal☺.</p>
+<p>Nach der ersten Serie hatten sich Ekkehard (deutlich) und Dieter (etwas) vom Rest abgesetzt, erhielten aber beide in der zweiten<br/>
+Serie mit jeweils einem negativen Ergebnis einen Dämpfer. Kurz nach Beginn der zweiten Serie räumte ich meinen Platz für den gerade direkt vom diesjährigen QT eingetroffenen Jonatan – dort unserem einzigen Vertreter -, wobei ich ihm mit meinem mickrigen Ergebnis aus der ersten Serie keine leichte Hypothek mitgab.</p>
+<p>Souveräner Sieger mit drei soliden Serien ohne Ausrutscher wurde – ich will es nicht verhehlen: zu meiner großen Freude – <strong>Hilmar</strong>.</p>
+<p>Mit einer starken dritten Serie konnte <strong>Ekkehard</strong> seinen Rückschlag ausbügeln und landete mit gehörigem Rückstand nach vorn, aber ebenso sicher nach hinten, auf dem zweiten Platz.</p>
+<p>Dritter wurde mit auch klarem Vorsprung auf den Vierten – <strong>Thomas</strong>, neben Ekkehard ein weiterer Neurentner – sie machen heutzutage allerdings den Eindruck wie fourty-ager in meiner Kindheit – auf dem dritten Platz, was mich auch besonders für ihn freute, konnte er doch in den beiden vorangegangenen Jahren schichtbedingt leider nicht teilnehmen.</p>
+<p>Für die weiteren Plätze mit teilweise sehr knappen Abständen siehe Chronik.</p>
+<p>bis zum nächten Jahr – Gut Blatt! – Euer Klaus</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10936" decoding="async" height="289" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-2048x923.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/#comments">Ein Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10937 
 <div class="post-10924 post type-post status-publish format-standard hentry category-skat" id="post-10924">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/" rel="bookmark">Skat am Donnerstag 13.04.23</a></h2>
 <div class="entry-meta">
@@ -20,7 +47,7 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2022/11/ISkO-2022.pdf" rel="noopener" target="_blank">Link</a></p>
 <p>Gut Blatt !</p>
 <p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" decoding="async" height="247" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" decoding="async" height="247" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -372,20 +399,6 @@ Gymnastik: 12 (-1)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10745 
-<div class="post-10857 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10857">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/" rel="bookmark">Rapid Liga (18)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/" rel="bookmark" title="8:21"><span class="entry-date">7. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10858" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023.jpg"><img alt="" aria-describedby="caption-attachment-10858" class="size-large wp-image-10858" decoding="async" height="353" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-1024x565.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-1024x565.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-300x165.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023-768x424.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06022023.jpg 1113w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10858"><strong>06.02.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/07/rapid-liga-18/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10857 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
