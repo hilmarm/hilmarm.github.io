@@ -13,18 +13,16 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/" rel="bookmark" title="21:19"><span class="entry-date">14. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Zu unserem jährlichen <strong>Skatturnier</strong> fanden sich neun Enthusiasten, dieses leider wohl langsam aussterbenden Spiels zusammen, dadurch<br/>
-konnten wir an Dreiertischen spielen und damit auch relativ zeitig fertig werden. Auch für die Zusammenstellung der Tische in den einzelnen Serien ist dies ein günstiger Fall:<br/>
+<p>Zu unserem jährlichen <strong>Skatturnier</strong> fanden sich neun Enthusiasten, dieses leider wohl langsam aussterbenden Spiels zusammen, dadurch konnten wir an Dreiertischen spielen und damit auch relativ zeitig fertig werden. Auch für die Zusammenstellung der Tische in den einzelnen Serien ist dies ein günstiger Fall:<br/>
 1 2 3<br/>
 4 5 6<br/>
 7 8 9<br/>
 einmal ‚rüber‘, einmal ‚runter‘ und einmal diagonal☺.</p>
-<p>Nach der ersten Serie hatten sich Ekkehard (deutlich) und Dieter (etwas) vom Rest abgesetzt, erhielten aber beide in der zweiten<br/>
-Serie mit jeweils einem negativen Ergebnis einen Dämpfer. Kurz nach Beginn der zweiten Serie räumte ich meinen Platz für den gerade direkt vom diesjährigen QT eingetroffenen Jonatan – dort unserem einzigen Vertreter -, wobei ich ihm mit meinem mickrigen Ergebnis aus der ersten Serie keine leichte Hypothek mitgab.</p>
+<p>Nach der ersten Serie hatten sich Ekkehard (deutlich) und Dieter (etwas) vom Rest abgesetzt, erhielten aber beide in der zweiten Serie mit jeweils einem negativen Ergebnis einen Dämpfer. Kurz nach Beginn der zweiten Serie räumte ich meinen Platz für den gerade direkt vom diesjährigen QT eingetroffenen Jonatan – dort unserem einzigen Vertreter -, wobei ich ihm mit meinem mickrigen Ergebnis aus der ersten Serie keine leichte Hypothek mitgab.</p>
 <p>Souveräner Sieger mit drei soliden Serien ohne Ausrutscher wurde – ich will es nicht verhehlen: zu meiner großen Freude – <strong>Hilmar</strong>.</p>
 <p>Mit einer starken dritten Serie konnte <strong>Ekkehard</strong> seinen Rückschlag ausbügeln und landete mit gehörigem Rückstand nach vorn, aber ebenso sicher nach hinten, auf dem zweiten Platz.</p>
 <p>Dritter wurde mit auch klarem Vorsprung auf den Vierten – <strong>Thomas</strong>, neben Ekkehard ein weiterer Neurentner – sie machen heutzutage allerdings den Eindruck wie fourty-ager in meiner Kindheit – auf dem dritten Platz, was mich auch besonders für ihn freute, konnte er doch in den beiden vorangegangenen Jahren schichtbedingt leider nicht teilnehmen.</p>
-<p>Für die weiteren Plätze mit teilweise sehr knappen Abständen siehe Chronik.</p>
+<p>Für die weiteren Plätze mit teilweise sehr knappen Abständen siehe <a href="https://www.narva-schach.de/wordpress/chronik/skat/">Chronik</a>.</p>
 <p>bis zum nächten Jahr – Gut Blatt! – Euer Klaus</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10936" decoding="async" height="289" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-2048x923.jpg 2048w" width="640"/></a></p>
 </div><!-- .entry-content -->
@@ -32,7 +30,7 @@ Serie mit jeweils einem negativen Ergebnis einen Dämpfer. Kurz nach Beginn der 
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/#comments">Ein Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10937 
 <div class="post-10924 post type-post status-publish format-standard hentry category-skat" id="post-10924">
