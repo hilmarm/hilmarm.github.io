@@ -139,6 +139,14 @@ navs:
 </tr>
 <tr>
 <td>14.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1774</td>
+<td>60</td>
+<td>1670</td>
+</tr>
+<tr>
+<td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
 <td>1772</td>
@@ -146,20 +154,12 @@ navs:
 <td>1848</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1757</td>
 <td>63</td>
 <td>1883</td>
-</tr>
-<tr>
-<td>16.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1746</td>
-<td>59</td>
-<td>1670</td>
 </tr>
 <tr>
 <td>17.</td>
