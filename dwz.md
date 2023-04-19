@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2189</td>
 <td>60</td>
-<td>2183</td>
+<td>2176</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -67,27 +67,27 @@ navs:
 </tr>
 <tr>
 <td>5.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1959</td>
+<td>443</td>
+<td>1958</td>
+</tr>
+<tr>
+<td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
 <td></td>
 <td>1957</td>
 <td>12</td>
-<td>1962</td>
+<td>1977</td>
 </tr>
 <tr>
-<td>6.</td>
+<td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
 <td></td>
 <td>1955</td>
 <td>126</td>
 <td>2084</td>
-</tr>
-<tr>
-<td>7.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1952</td>
-<td>442</td>
-<td>1973</td>
 </tr>
 <tr>
 <td>8.</td>
@@ -143,7 +143,7 @@ navs:
 <td></td>
 <td>1774</td>
 <td>60</td>
-<td>1670</td>
+<td>1685</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -207,7 +207,7 @@ navs:
 <td></td>
 <td>1624</td>
 <td>96</td>
-<td>1701</td>
+<td>1739</td>
 </tr>
 <tr>
 <td>23.</td>
