@@ -8,6 +8,29 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10947 post type-post status-publish format-standard hentry category-sg-narva" id="post-10947">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/" rel="bookmark">Mitgliederversammlung Hauptverein am 17.Mai 2023</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/" rel="bookmark" title="10:31"><span class="entry-date">20. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Anbei findet ihr die</p>
+<p><a href="https://www.sg-narva.de/wp-content/uploads/2023/04/Einladung_MV_HV_2023.pdf" rel="noopener" target="_blank">Einladung zur Mitgliederversammlung Hauptverein am 17.05.2023</a></p>
+<p>sowie den</p>
+<p><a href="https://www.sg-narva.de/wp-content/uploads/2023/04/Satzung_neu_Entwurf.pdf" rel="noopener" target="_blank">Entwurf zur Neufassung der Satzung der SG NARVA Berlin e.V.</a></p>
+<p>über den die Versammlung abstimmen wird.</p>
+<p>Sportliche Grüße<br/>
+Heiko Wagner<br/>
+1.Vorsitzender</p>
+<p><strong><em>Wer teilnehmen möchte, Bitte eine Info an die Abteilungsleiter!</em></strong></p>
+<p><img alt="" class="aligncenter wp-image-10949" decoding="async" height="232" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673.jpg 650w" width="400"/></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10947 
 <div class="post-10937 post type-post status-publish format-standard hentry category-skat" id="post-10937">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/" rel="bookmark">Skat 2023 – Phönix aus der Asche</a></h2>
 <div class="entry-meta">
@@ -24,7 +47,7 @@ einmal ‚rüber‘, einmal ‚runter‘ und einmal diagonal☺.</p>
 <p>Dritter wurde mit auch klarem Vorsprung auf den Vierten – <strong>Thomas</strong>, neben Ekkehard ein weiterer Neurentner – sie machen heutzutage allerdings den Eindruck wie fourty-ager in meiner Kindheit – auf dem dritten Platz, was mich auch besonders für ihn freute, konnte er doch in den beiden vorangegangenen Jahren schichtbedingt leider nicht teilnehmen.</p>
 <p>Für die weiteren Plätze mit teilweise sehr knappen Abständen siehe <a href="https://www.narva-schach.de/wordpress/chronik/skat/">Chronik</a>.</p>
 <p>bis zum nächten Jahr – Gut Blatt! – Euer Klaus</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10936" decoding="async" height="289" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-2048x923.jpg 2048w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10936" decoding="async" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-2048x923.jpg 2048w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -371,32 +394,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10860 
-<div class="post-10745 post type-post status-publish format-standard hentry category-allgemein category-sg-narva" id="post-10745">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/" rel="bookmark">Mitgliederstatistik</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/" rel="bookmark" title="19:48"><span class="entry-date">8. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Immer zu Jahresbeginn gibt es die Mitgliederstatistik zur Auswertung an den BSV und auch bei der SG NARVA für den LSB.</p>
-<p>Im Zuge dessen gibt es auch das aktualisierte Diagramm auf unserer <a href="https://www.narva-schach.de/wordpress/chronik/verein/">Chronik Seite „Verein“</a>:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg"><img alt="" class="alignnone size-medium wp-image-10748" decoding="async" height="192" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-300x192.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-1024x656.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023-768x492.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/Mitglieder-Diagramm-1950_2023.jpg 1158w" width="300"/></a></p>
-<p>Der Anteil der U18 Mitglieder ist zuletzt stark geschrumpft, der Neustart des Jugendtrainings gibt hier hoffentlich Abhilfe.</p>
-<p>Hier noch ein Überblick über die Mitglieder der anderen NARVA Abteilungen (Veränderung zum Vorjahr):</p>
-<p>SG NARVA Gesamt: 800 (+24)<br/>
-Handball: 580 (+25)<br/>
-Freizeit: 65 (+14)<br/>
-Volleyball: 51 (+7)<br/>
-Schach: 47 (+1)<br/>
-Boxen: 33 (-25)<br/>
-Turnen: 12 (+3)<br/>
-Gymnastik: 12 (-1)</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/08/mitgliederstatistik/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10745 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

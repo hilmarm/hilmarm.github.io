@@ -23,14 +23,14 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/offenes-kinder-und-jugendschnellturnier-im-rahmen-der-schach-bundesliga.html" rel="noopener" target="_blank">Offenes Kinder- und Jugendschnellschachturnier</a></td>
-<td>02.04.2023</td>
-<td></td>
+<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/97bcbb8f-e357-4a99-ac09-365af49e38ec/Neu%20Berliner%20Schach-Triathlon%202023_merge.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
+<td>30.04.2023</td>
+<td>Günter</td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-meisterschaft-meisterklasse-und-qualifikationsturnier-2023.html" rel="noopener" target="_blank">BEM M-Klasse &amp; QT</a></td>
-<td>08.04.-16.04.2023</td>
-<td>Jonatan</td>
+<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/6e479e87-2759-43b0-8bb5-5b43ebf609fa/Berliner%20Halbmarathon%20Blitzschach%202023(1).pdf" rel="noopener" target="_blank">Halbmarathon im Blitzschach</a></td>
+<td>01.05.2023</td>
+<td>Günter</td>
 </tr>
 <tr style="height: 24px;">
 <td>Himmelfahrtsblitz SG Weißensee</td>
@@ -45,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://psv-mitte.de/" rel="noopener" target="_blank">X. Potsdamer Sommeropen</a></td>
 <td>18.05.-21.05.2023</td>
-<td></td>
+<td>Andreas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://scwittstock.de/ranandenturm" rel="noopener" target="_blank">9. „´ran an den Turm!“ in Blumenthal 2023</a></td>
@@ -68,9 +68,19 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
+<td>15.09.2023</td>
+<td>eine Mannschaft</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>29.09.-05.10.2023</td>
 <td>Hans-Dieter, Ulrich</td>
+</tr>
+<tr style="height: 24px;">
+<td><strong>Kurt-Richter-Gedenkturnier 2023</strong></td>
+<td>27.10.-29.10.2023</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>

@@ -86,7 +86,7 @@ parent_title: Termine
 <td>Zita 1 (A)</td>
 <td></td>
 <td>TSV Mariendorf 1 (A)</td>
-<td></td>
+<td style="text-align: center;"><strong><span style="color: #ff0000;">1 : 3</span></strong></td>
 </tr>
 </tbody>
 </table>

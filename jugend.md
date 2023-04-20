@@ -6,8 +6,6 @@ navs:
 <div class="post-2845 page type-page status-publish hentry" id="post-2845">
 <h1 class="entry-title">Jugend</h1>
 <div class="entry-content">
-<h2 style="text-align: center;"><strong><span style="color: #ff0000;">Ab 09.02.2023 wieder </span></strong><strong><span style="color: #ff0000;">Jugendtraining </span></strong><strong><span style="color: #ff0000;">bei NARVA!!<br/>
-</span></strong></h2>
 <p style="text-align: center;"><strong>Jetzt wieder jeden Donnerstag ab 16:30 Uhr!!<br/>
 </strong></p>
 <p>Unsere Trainer: Alexander Kreisel und Ekkehard Krüger</p>
