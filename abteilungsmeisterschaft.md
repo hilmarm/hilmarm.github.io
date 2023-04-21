@@ -43,7 +43,7 @@ parent_title: Turniere
 <td>18.</td>
 <td>Salgueiro,Felix</td>
 <td>943</td>
-<td> –</td>
+<td> 1 – 0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -87,7 +87,7 @@ parent_title: Turniere
 <td>2.</td>
 <td>Arnold,Rouven</td>
 <td>1902</td>
-<td> –</td>
+<td> 0 – 1</td>
 </tr>
 <tr>
 <td>6</td>
