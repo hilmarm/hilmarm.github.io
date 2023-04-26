@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10961 post type-post status-publish format-standard hentry category-termine" id="post-10961">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/" rel="bookmark">Kommende Trainingsabende</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/" rel="bookmark" title="16:30"><span class="entry-date">25. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hier schon einmal als Ankündigung die Themen der nächsten Trainingsabende:</p>
+<p>Am <strong>4. Mai</strong> zeige ich etwas zum Thema <u>Vorbereitung auf den Gegner</u>, unter anderem: Wie findet man Partien – und einen Plan? Wie prägt man sich die Varianten ein? Warum soll man sich überhaupt vorbereiten, wenn der Gegner vielleicht etwas ganz anderes spielt? Bringt gerne auch eigene Gedanken zum Thema mit!</p>
+<p>Am <strong>1. Juni</strong> findet ein Training mit Thomas zum Thema <u>Regelkunde</u> statt. Natürlich geht es nicht darum, wie die Figuren ziehen, sondern eher um fortgeschrittene Themen wie z.B. regelwidrige Züge, richtige Remisreklamation oder wann man das Mitschreiben einstellen kann.</p>
+<p>Für den 6. Juli steht noch kein Thema fest, aber den <strong>3. August</strong> könnt ihr euch schon mal vormerken. Für diesen Tag haben wir wieder <u>GM Michael Richter</u> eingeladen.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10961 
 <div class="post-10947 post type-post status-publish format-standard hentry category-sg-narva" id="post-10947">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/" rel="bookmark">Mitgliederversammlung Hauptverein am 17.Mai 2023</a></h2>
 <div class="entry-meta">
@@ -380,20 +397,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10752 
-<div class="post-10860 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10860">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/" rel="bookmark">Rapid Liga (19)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/" rel="bookmark" title="8:23"><span class="entry-date">14. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10861" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023.jpg"><img alt="" aria-describedby="caption-attachment-10861" class="size-large wp-image-10861" decoding="async" height="345" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-1024x552.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-1024x552.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-300x162.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023-768x414.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_13022023.jpg 1119w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10861"><strong>13.02.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/rapid-liga-19/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10860 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

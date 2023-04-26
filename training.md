@@ -25,8 +25,8 @@ parent_title: Turniere
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">04. Mai 2023</td>
-<td style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;"></td>
+<td style="height: 24px; width: 175.25px;">Vorbereitung auf den Gegner</td>
+<td style="height: 24px; width: 169.117px;">Jonatan Schenk</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">01. Juni 2023</td>
