@@ -8,6 +8,34 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10965 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-10965">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/" rel="bookmark">Runde 9 BMM und BFL</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/" rel="bookmark" title="12:02"><span class="entry-date">27. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>BMM</strong><br/>
+In Abwesenheit des Präsidenten:</p>
+<p>NARVA 1 gewinnt mit 4,5:3,5</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg"><img alt="" class="alignnone size-full wp-image-10966" decoding="async" height="253" sizes="(max-width: 1015px) 100vw, 1015px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg 1015w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-768x191.jpg 768w" width="1015"/></a></p>
+<p>NARVA 2 gewinnt mit 6:2</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155.jpg"><img alt="" class="alignnone size-large wp-image-10967" decoding="async" height="136" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-1024x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-1024x218.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-300x64.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-768x164.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-940x198.jpg 940w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155.jpg 1027w" width="640"/></a></p>
+<p>NARVA 3 spielt 3:3 Unentschieden</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815.jpg"><img alt="" class="alignnone size-large wp-image-10968" decoding="async" height="114" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-1024x183.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-1024x183.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-300x54.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-768x137.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815.jpg 1035w" width="640"/></a></p>
+<p><strong>BFL</strong></p>
+<p>NARVA 1 verliert 1,5:2,5</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome.jpg"><img alt="" class="alignnone size-large wp-image-10969" decoding="async" height="93" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-1024x148.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-1024x148.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-300x43.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-768x111.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome.jpg 1026w" width="640"/></a></p>
+<p>NARVA 2 gewinnt 3:1</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome.jpg"><img alt="" class="alignnone size-large wp-image-10970" decoding="async" height="88" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-1024x141.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-1024x141.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-300x41.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-768x106.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome.jpg 1080w" width="640"/></a><br/>
+An den Brettern 1 bis 3 steht eine klare DWZ-Überlegenheit zu unseren Gunsten. Nur an Brett 4 ist Mariendorf Favorit.<br/>
+Der Kampf ist bereits nach gut 1,5h entschieden. NARVA 2 gewinnt mit 3:1 – so wie die Zahlen es wollten…</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10965 
 <div class="post-10961 post type-post status-publish format-standard hentry category-termine" id="post-10961">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/" rel="bookmark">Kommende Trainingsabende</a></h2>
 <div class="entry-meta">
@@ -39,7 +67,7 @@ navs:
 Heiko Wagner<br/>
 1.Vorsitzender</p>
 <p><strong><em>Wer teilnehmen möchte, Bitte eine Info an die Abteilungsleiter!</em></strong></p>
-<p><img alt="" class="aligncenter wp-image-10949" decoding="async" height="232" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673.jpg 650w" width="400"/></p>
+<p><img alt="" class="aligncenter wp-image-10949" decoding="async" height="232" loading="lazy" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673.jpg 650w" width="400"/></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -378,25 +406,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10771 
-<div class="post-10752 post type-post status-publish format-standard hentry category-online category-quarantaene-liga" id="post-10752">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/" rel="bookmark">Lichess Liga Runde 300! – Abschluss</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/" rel="bookmark" title="8:24"><span class="entry-date">14. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Bereits letzten Sonntag (05.02.2023) gab es unsere letzte Lichess-Liga Runde. In der letzten Runde lief es aber noch mal richtig gut und es wurde Platz 2 erreicht. Nach 300 Runden seit dem 24.03.2020 war nun Schluss.</p>
-<p><strong>Allen Teilnehmern vielen Dank!</strong></p>
-<p>Die Rapid-Liga läuft (noch) weiter, jeden Montag ab 19 Uhr – zuletzt aber auch dünn besetzt.</p>
-<div class="wp-caption alignnone" id="attachment_10751" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023.jpg"><img alt="" aria-describedby="caption-attachment-10751" class="wp-image-10751 size-large" decoding="async" height="321" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-1024x513.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-1024x513.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023-768x385.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/liga11b_05022023.jpg 1121w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10751"><strong>05.02.2023</strong></p></div>
-<p>Hier ein abschließender Blick auf die Statistik:</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/#more-10752">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/quarantaene-liga/" rel="category tag">Quarantäne Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/14/lichess-liga-runde-300-abschluss/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10752 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
