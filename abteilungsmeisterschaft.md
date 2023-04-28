@@ -18,6 +18,134 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Ausschreibung Abteilungsmeisterschaft 2023</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>3. Runde am 8. Juni</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>7.</td>
+<td>Schenk,Jonatan</td>
+<td>1674</td>
+<td>–</td>
+<td>3.</td>
+<td>Maetzing,Hans-Di</td>
+<td>1745</td>
+<td> –</td>
+</tr>
+<tr>
+<td>2</td>
+<td>1.</td>
+<td>Hintze,Peter</td>
+<td>1914</td>
+<td>–</td>
+<td>6.</td>
+<td>Brinckmann,Klaus</td>
+<td>1677</td>
+<td> –</td>
+</tr>
+<tr>
+<td>3</td>
+<td>2.</td>
+<td>Arnold,Rouven</td>
+<td>1902</td>
+<td>–</td>
+<td>13.</td>
+<td>Kreisel,Alexande</td>
+<td>1507</td>
+<td> –</td>
+</tr>
+<tr>
+<td>4</td>
+<td>4.</td>
+<td>Krüger,Ekkehard</td>
+<td>1685</td>
+<td>–</td>
+<td>11.</td>
+<td>Mietzelfeldt,Ger</td>
+<td>1586</td>
+<td> –</td>
+</tr>
+<tr>
+<td>5</td>
+<td>10.</td>
+<td>Campe,Ulrich</td>
+<td>1592</td>
+<td>–</td>
+<td>5.</td>
+<td>Magnusson,Hilmar</td>
+<td>1683</td>
+<td> –</td>
+</tr>
+<tr>
+<td>6</td>
+<td>18.</td>
+<td>Salgueiro,Felix</td>
+<td>943</td>
+<td>–</td>
+<td>9.</td>
+<td>Kinski,Andreas</td>
+<td>1631</td>
+<td> –</td>
+</tr>
+<tr>
+<td>7</td>
+<td>19.</td>
+<td>Herrscher,Michae</td>
+<td></td>
+<td>–</td>
+<td>16.</td>
+<td>Eichstädt,Torste</td>
+<td>1280</td>
+<td> –</td>
+</tr>
+<tr>
+<td>8</td>
+<td>12.</td>
+<td>Mothes,Thomas</td>
+<td>1575</td>
+<td>–</td>
+<td>14.</td>
+<td>von Kraft,Lukas</td>
+<td>1396</td>
+<td> –</td>
+</tr>
+<tr>
+<td>9</td>
+<td>20.</td>
+<td>Pape,Philipp</td>
+<td></td>
+<td>–</td>
+<td>15.</td>
+<td>Maiwald,Gunar</td>
+<td>1388</td>
+<td> –</td>
+</tr>
+<tr>
+<td>10</td>
+<td>17.</td>
+<td>Heinrich,Manfred</td>
+<td>1247</td>
+<td>–</td>
+<td>21.</td>
+<td>Mach,Wolfgang</td>
+<td></td>
+<td> –</td>
+</tr>
+</tbody>
+</table>
 <h2>2. Runde am 20. April</h2>
 <table class="clean swiss footable">
 <thead>
@@ -43,7 +171,7 @@ parent_title: Turniere
 <td>18.</td>
 <td>Salgueiro,Felix</td>
 <td>943</td>
-<td> 1 – 0</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>2</td>
@@ -65,7 +193,7 @@ parent_title: Turniere
 <td>19.</td>
 <td>Herrscher,Michae</td>
 <td></td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -76,7 +204,7 @@ parent_title: Turniere
 <td>14.</td>
 <td>von Kraft,Lukas</td>
 <td>1396</td>
-<td> –</td>
+<td>+ – –</td>
 </tr>
 <tr>
 <td>5</td>
@@ -87,7 +215,7 @@ parent_title: Turniere
 <td>2.</td>
 <td>Arnold,Rouven</td>
 <td>1902</td>
-<td> 0 – 1</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>6</td>
@@ -98,7 +226,7 @@ parent_title: Turniere
 <td>10.</td>
 <td>Campe,Ulrich</td>
 <td>1592</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>7</td>
@@ -109,7 +237,7 @@ parent_title: Turniere
 <td>4.</td>
 <td>Krüger,Ekkehard</td>
 <td>1685</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>8</td>
@@ -120,7 +248,7 @@ parent_title: Turniere
 <td>17.</td>
 <td>Heinrich,Manfred</td>
 <td>1247</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -332,7 +460,7 @@ parent_title: Turniere
 <tr>
 <td>8.</td>
 <td>Hildebrand,Katrin</td>
-<td>W</td>
+<td>*</td>
 <td>1649</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
@@ -403,6 +531,15 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>16.</td>
+<td>Eichstädt,Torsten</td>
+<td></td>
+<td>1280</td>
+<td>1391</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>GER</td>
+</tr>
+<tr>
+<td>17.</td>
 <td>Heinrich,Manfred,Dr.</td>
 <td></td>
 <td>1247</td>
@@ -411,7 +548,7 @@ parent_title: Turniere
 <td>–</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>18.</td>
 <td>Salgueiro,Felix</td>
 <td></td>
 <td>943</td>
@@ -420,13 +557,31 @@ parent_title: Turniere
 <td>–</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>19.</td>
 <td>Herrscher,Michael</td>
 <td></td>
 <td></td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
 <td>GER</td>
+</tr>
+<tr>
+<td>20.</td>
+<td>Pape,Philipp</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>21.</td>
+<td>Mach,Wolfgang</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
