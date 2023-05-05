@@ -43,6 +43,7 @@ parent_title: Turniere
 <td style="width: 16.3952%;">Hintze</td>
 <td style="width: 7.81759%;">12</td>
 <td style="width: 7.49186%;">12</td>
+<td style="width: 7.49186%;">12</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -50,8 +51,63 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">36</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Segerberg</td>
+<td style="width: 7.81759%;">10</td>
 <td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">24</td>
+<td style="width: 7.49186%;">10</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">20</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Dr.Maetzing</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">8</td>
+<td style="width: 7.49186%;">8</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">16</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Kreisel</td>
+<td style="width: 7.81759%;">5</td>
+<td style="width: 7.49186%;">4</td>
+<td style="width: 7.49186%;">4</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">13</td>
+</tr>
+<tr>
+<td style="width: 16.3952%;">Brinckmann</td>
+<td style="width: 7.81759%;"></td>
+<td style="width: 7.49186%;">6</td>
+<td style="width: 7.49186%;">6</td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;"></td>
+<td style="width: 8.68621%;">12</td>
 </tr>
 <tr>
 <td style="width: 16.3952%;">Totz</td>
@@ -68,20 +124,6 @@ parent_title: Turniere
 <td style="width: 8.68621%;">11</td>
 </tr>
 <tr>
-<td style="width: 16.3952%;">Segerberg</td>
-<td style="width: 7.81759%;">10</td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">10</td>
-</tr>
-<tr>
 <td style="width: 16.3952%;">Magnusson</td>
 <td style="width: 7.81759%;"></td>
 <td style="width: 7.49186%;">10</td>
@@ -94,34 +136,6 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 8.68621%;">10</td>
-</tr>
-<tr>
-<td style="width: 16.3952%;">Kreisel</td>
-<td style="width: 7.81759%;">5</td>
-<td style="width: 7.49186%;">4</td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">9</td>
-</tr>
-<tr>
-<td style="width: 16.3952%;">Dr.Maetzing</td>
-<td style="width: 7.81759%;"></td>
-<td style="width: 7.49186%;">8</td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
 <td style="width: 16.3952%;">Wu (G)</td>
@@ -138,9 +152,9 @@ parent_title: Turniere
 <td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
-<td style="width: 16.3952%;">Brickmann</td>
-<td style="width: 7.81759%;"></td>
-<td style="width: 7.49186%;">6</td>
+<td style="width: 16.3952%;">Salgueiro</td>
+<td style="width: 7.81759%;">5</td>
+<td style="width: 7.49186%;">2</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -149,7 +163,7 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
-<td style="width: 8.68621%;">6</td>
+<td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
 <td style="width: 16.3952%;">Krüger</td>
@@ -166,10 +180,10 @@ parent_title: Turniere
 <td style="width: 8.68621%;">5</td>
 </tr>
 <tr>
-<td style="width: 16.3952%;">Salgueiro</td>
-<td style="width: 7.81759%;">5</td>
+<td style="width: 16.3952%;">Herrmann (G)</td>
+<td style="width: 7.81759%;"></td>
 <td style="width: 7.49186%;"></td>
-<td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;">5</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -192,6 +206,150 @@ parent_title: Turniere
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 8.68621%;">2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Monatsblitz April – 27.04.2023</h2>
+<div style="overflow: auto;">
+<table class="clean swiss">
+<thead>
+<tr>
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Hintze,Peter</td>
+<td>2081</td>
+<td>**</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td>11.0</td>
+<td>52.00</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Segerberg,Tomas</td>
+<td>1991</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td>10.0</td>
+<td>45.00</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Maetzing,Hans-Die</td>
+<td>1848</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td>8.0</td>
+<td>30.00</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Brinckmann,Klaus</td>
+<td>1669</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>2</td>
+<td>2</td>
+<td></td>
+<td>6.0</td>
+<td>18.00</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Herrmann,Eberhard</td>
+<td>1824</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>2</td>
+<td></td>
+<td>4.0</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Kreisel,Alexander</td>
+<td>1507</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td></td>
+<td>2.0</td>
+<td>5.00</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Salgueiro,Felix</td>
+<td>943</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td></td>
+<td>1.0</td>
+<td>2.00</td>
+</tr>
+<tr>
+<td>8.</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>**</td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
