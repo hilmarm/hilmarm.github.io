@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2189</td>
 <td>60</td>
-<td>2176</td>
+<td>2180</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -71,7 +71,7 @@ navs:
 <td>P</td>
 <td>1960</td>
 <td>443</td>
-<td>1958</td>
+<td>1961</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1957</td>
 <td>12</td>
-<td>1977</td>
+<td>1973</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -143,7 +143,7 @@ navs:
 <td></td>
 <td>1774</td>
 <td>60</td>
-<td>1685</td>
+<td>1708</td>
 </tr>
 <tr>
 <td>15.</td>
