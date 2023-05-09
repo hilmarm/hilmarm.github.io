@@ -154,8 +154,8 @@ parent_title: Turniere
 <tr>
 <td style="width: 16.3952%;">Salgueiro</td>
 <td style="width: 7.81759%;">5</td>
-<td style="width: 7.49186%;">2</td>
 <td style="width: 7.49186%;"></td>
+<td style="width: 7.49186%;">3</td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
 <td style="width: 7.49186%;"></td>
@@ -225,7 +225,6 @@ parent_title: Turniere
 <th>5</th>
 <th>6</th>
 <th>7</th>
-<th>8</th>
 <th>Punkte</th>
 <th>SoBerg</th>
 </tr>
@@ -242,7 +241,6 @@ parent_title: Turniere
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td></td>
 <td>11.0</td>
 <td>52.00</td>
 </tr>
@@ -257,13 +255,12 @@ parent_title: Turniere
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td></td>
 <td>10.0</td>
 <td>45.00</td>
 </tr>
 <tr>
 <td>3.</td>
-<td>Maetzing,Hans-Die</td>
+<td nowrap="nowrap">Maetzing,Hans-Dieter,Dr.</td>
 <td>1848</td>
 <td>0</td>
 <td>1</td>
@@ -272,7 +269,6 @@ parent_title: Turniere
 <td>2</td>
 <td>2</td>
 <td>2</td>
-<td></td>
 <td>8.0</td>
 <td>30.00</td>
 </tr>
@@ -287,13 +283,12 @@ parent_title: Turniere
 <td>1</td>
 <td>2</td>
 <td>2</td>
-<td></td>
 <td>6.0</td>
 <td>18.00</td>
 </tr>
 <tr>
 <td>5.</td>
-<td>Herrmann,Eberhard</td>
+<td>Herrmann,Eberhard (G)</td>
 <td>1824</td>
 <td>0</td>
 <td>0</td>
@@ -302,7 +297,6 @@ parent_title: Turniere
 <td>**</td>
 <td>1</td>
 <td>2</td>
-<td></td>
 <td>4.0</td>
 <td>10.00</td>
 </tr>
@@ -317,7 +311,6 @@ parent_title: Turniere
 <td>1</td>
 <td>**</td>
 <td>1</td>
-<td></td>
 <td>2.0</td>
 <td>5.00</td>
 </tr>
@@ -332,24 +325,8 @@ parent_title: Turniere
 <td>0</td>
 <td>1</td>
 <td>**</td>
-<td></td>
 <td>1.0</td>
 <td>2.00</td>
-</tr>
-<tr>
-<td>8.</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>**</td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>

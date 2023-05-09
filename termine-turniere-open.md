@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/97bcbb8f-e357-4a99-ac09-365af49e38ec/Neu%20Berliner%20Schach-Triathlon%202023_merge.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
-<td>30.04.2023</td>
-<td>Günter</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/6e479e87-2759-43b0-8bb5-5b43ebf609fa/Berliner%20Halbmarathon%20Blitzschach%202023(1).pdf" rel="noopener" target="_blank">Halbmarathon im Blitzschach</a></td>
-<td>01.05.2023</td>
-<td>Günter</td>
-</tr>
-<tr style="height: 24px;">
 <td>Himmelfahrtsblitz SG Weißensee</td>
 <td>18.05.2023</td>
 <td>eine Mannschaft</td>
