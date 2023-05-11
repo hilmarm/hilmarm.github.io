@@ -8,6 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10989 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10989">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/" rel="bookmark">April Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/" rel="bookmark" title="7:28"><span class="entry-date">11. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Beim Monatsblitz April am 27.04. gab es den 3. Sieg von <strong>Peter</strong> in diesem Jahr. Beim doppelrundig gespielten Turnier, gab er nur einen Punkt an Tomas ab und gewann so mit 11 Punkten aus 12 Partien.</p>
+<p><strong>Tomas</strong> kam auf Platz 2 mit 10 Punkten, <strong>Hans-Dieter</strong> wurde mit 8 Punkten Dritter.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10989 
 <div class="post-10965 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-10965">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/" rel="bookmark">Runde 9 BMM und BFL</a></h2>
 <div class="entry-meta">
@@ -386,26 +402,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10863 
-<div class="post-10771 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10771">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/" rel="bookmark">Ergebnisse Pokal 1.Runde</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/" rel="bookmark" title="19:23"><span class="entry-date">20. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Letzten Donnerstag war die <strong>1.Runde</strong> im <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a>. Hier die Ergebnisse:</p>
-<p><strong>Alexander – Hans-Dieter 0:1</strong><br/>
-<strong>Jonatan – Torsten 1:0</strong><br/>
-<strong>Rudolf – Wesko 1:0</strong><br/>
-<strong>Hilmar – Tomas 0:1</strong><br/>
-<strong>Peter – Thomas 1:0</strong><br/>
-<strong>Manfred – Felix 0:1</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/20/ergebnisse-pokal-1-runde/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10771 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
