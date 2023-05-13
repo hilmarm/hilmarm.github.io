@@ -182,7 +182,7 @@ parent_title: Turniere
 <td>6.</td>
 <td>Brinckmann,Klaus</td>
 <td>1677</td>
-<td> –</td>
+<td>18.05.23</td>
 </tr>
 <tr>
 <td>3</td>

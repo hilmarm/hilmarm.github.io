@@ -8,6 +8,31 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-10993 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10993">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/" rel="bookmark">Schnellschach Runde 3</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/" rel="bookmark" title="13:41"><span class="entry-date">12. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>15 Teilnehmer heute beim Schnellschach! Und es wurde zu einem T(h)omas Turnier…..<br/>
+Sieger wurde unser Schwede <strong>Tomas</strong>.<br/>
+Platz 2 geht punktgleich an <strong>Klaus</strong>, der die Führung in der Gesamtwertung übernimmt! (er spielte gegen alle T(h)omas und gegen Tom…)<br/>
+Ebenfalls 4 Punkte hat auf Platz 3 der beste Gast, <strong>Cory</strong>!<br/>
+<strong>Peter</strong> erreicht nur Platz 6, noch hinter dem Präsidenten <strong>Thomas, </strong>der sich gegen Ekkehard in ein Endspiel K – K+S+L „schummelte“ und mit Patt „belohnt“ wurde.</p>
+<p>Ein starkes Turnier spielte auch <strong>Thomas</strong> Totz, er kam auch auf 3 Punkte und auf Platz 7!</p>
+<p>In der Gesamtwertung führt nun Klaus vor Peter und Jonatan.</p>
+<p>Die nächste Runde gibt es am 13.07.23</p>
+<p>In 2 Wochen geht’s im Club mit dem Monatsblitz weiter!</p>
+<p>An Himmelfahrt ist geschlossen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
+<p>P.S. – auch <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Runde 3 zur Abteilungsmeisterschaft</a> wurde inzwischen ausgelost – Spieltermin ist der 8.6.23!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-10993 
 <div class="post-10989 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10989">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/" rel="bookmark">April Blitz</a></h2>
 <div class="entry-meta">
@@ -388,20 +413,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10774 
-<div class="post-10863 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10863">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/" rel="bookmark">Rapid Liga (20)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/" rel="bookmark" title="8:27"><span class="entry-date">21. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10864" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023.jpg"><img alt="" aria-describedby="caption-attachment-10864" class="size-large wp-image-10864" decoding="async" height="323" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-1024x517.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-1024x517.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-300x151.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023-768x387.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_20022023.jpg 1110w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10864"><strong>20.02.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/rapid-liga-20/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10863 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
