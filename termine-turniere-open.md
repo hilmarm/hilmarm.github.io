@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td>Himmelfahrtsblitz SG Weißensee</td>
-<td>18.05.2023</td>
-<td>eine Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.sglasker.de/news/8257/rudolf-teschner-turnier-zu-himmelfahrt-2023.html" rel="noopener" target="_blank">Rudolf Teschner Gedenkturnier</a></td>
 <td>18.05.-21.05.2023</td>
 <td></td>
@@ -35,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://psv-mitte.de/" rel="noopener" target="_blank">X. Potsdamer Sommeropen</a></td>
 <td>18.05.-21.05.2023</td>
-<td>Andreas</td>
+<td>Andreas und Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://scwittstock.de/ranandenturm" rel="noopener" target="_blank">9. „´ran an den Turm!“ in Blumenthal 2023</a></td>
