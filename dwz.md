@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1960</td>
-<td>443</td>
+<td>1963</td>
+<td>444</td>
 <td>1961</td>
 </tr>
 <tr>
@@ -203,19 +203,19 @@ navs:
 </tr>
 <tr>
 <td>22.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1624</td>
-<td>96</td>
-<td>1739</td>
-</tr>
-<tr>
-<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
 <td>1603</td>
 <td>71</td>
 <td>1591</td>
+</tr>
+<tr>
+<td>23.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1588</td>
+<td>97</td>
+<td>1739</td>
 </tr>
 <tr>
 <td>24.</td>
