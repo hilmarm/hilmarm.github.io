@@ -8,6 +8,226 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11007 post type-post status-publish format-standard sticky hentry category-allgemein category-bmm" id="post-11007">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/" rel="bookmark">Umfrage zu BMM Start für Verbandstag</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/" rel="bookmark" title="20:03"><span class="entry-date">26. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>11.06.2023</strong> findet der <strong>Verbandstag vom BSV</strong> statt.<br/>
+Dabei wird es einen Antrag vom Präsidium des BSV zur <strong>Startzeit der BMM</strong> geben. Es gibt den Vorschlag für 10 Uhr statt wie jetzt 9 Uhr.</p>
+<p>Wie schon beim letzten Antrag zu diesem Thema, wollen wir entsprechend der Mehrheit im Verein unsere Stimme abgeben.</p>
+<p>Außerdem gibt es einen Antrag zur Beitragserhöhung,  die wohl nach der beschlossenen Erhöhung vom Schachbund Pflicht ist.</p>
+<p>Die kompletten Unterlagen zum anstehenden Verbandstag findet ihr auf der <a href="https://www.berlinerschachverband.de/entry/verbandstagsmaterialien-2.html" rel="noopener" target="_blank">BSV Seite </a>(Anträge ab Seite 17).</p>
+<p>Dazu hier die Umfrage:<br/>
+<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f11006-p11007-o1" lang="de-DE">
+<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
+<form action="/wordpress/news-2/#wpcf7-f11006-p11007-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
+<div style="display: none;">
+<input name="_wpcf7" type="hidden" value="11006"/>
+<input name="_wpcf7_version" type="hidden" value="5.7.6"/>
+<input name="_wpcf7_locale" type="hidden" value="de_DE"/>
+<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f11006-p11007-o1"/>
+<input name="_wpcf7_container_post" type="hidden" value="11007"/>
+<input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+</div>
+<p><label> Dein Name<br/>
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" autocomplete="name" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" size="40" type="text" value=""/></span> </label><br/>
+Startzeit BMM Sonntag. Bitte eine Zeit oder "egal" auswählen:<br/>
+<span class="wpcf7-form-control-wrap" data-name="Startzeit"><select aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" name="Startzeit"><option value="9:00 Uhr">9:00 Uhr</option><option value="10:00 Uhr">10:00 Uhr</option><option value="egal">egal</option></select></span><br/>
+Erhöhung Beitrag:<br/>
+<span class="wpcf7-form-control-wrap" data-name="Beitrag"><select aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" name="Beitrag"><option value="Ja">Ja</option><option value="Nein">Nein</option></select></span>
+</p>
+<p><input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="Senden"/>
+</p><div aria-hidden="true" class="wpcf7-response-output"></div>
+</form>
+</div>
+</p>
+<p><strong>Ergebnis:</strong></p>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th>BMM</th>
+<th>Stimmen</th>
+</tr>
+<tr>
+<td>9 Uhr</td>
+<td></td>
+</tr>
+<tr>
+<td>10 Uhr</td>
+<td>6</td>
+</tr>
+<tr>
+<td>egal</td>
+<td>3</td>
+</tr>
+</tbody>
+</table>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th>Beitrag</th>
+<th>Stimmen</th>
+</tr>
+<tr>
+<td>JA</td>
+<td>4</td>
+</tr>
+<tr>
+<td>NEIN</td>
+<td>5</td>
+</tr>
+</tbody>
+</table>
+<p><em>Stand 27.05.23 – 10:20 Uhr</em></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11007 
+<div class="post-11020 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11020">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/" rel="bookmark">Mai Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/" rel="bookmark" title="20:54"><span class="entry-date">26. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern beim Mai-Blitz gewann<strong> Tomas</strong> mit 6 Punkten vor <strong>Peter</strong> mit 5,5 und <strong>Ekkehard</strong> mit 5 Punkten. Die Spitze nahm sich dabei gut gegenseitig Punkte weg, nur der Schwede blieb ohne Niederlage.</p>
+<p>Mit 8 Teilnehmern war das Blitz auch wieder etwas besser besucht, es hätten aber auch mehr sein können…. Bitte seit pünktlich, um 18:15 Uhr soll es immer los gehen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11020 
+<div class="post-11012 post type-post status-publish format-standard hentry category-bfl" id="post-11012">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/" rel="bookmark">Endstand BFL und DWZ Auswertung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/" rel="bookmark" title="20:27"><span class="entry-date">26. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Bereits vor einigen Wochen war die <strong>BFL</strong> zu Ende. Nun gibt es die DWZ Auswertung und auch die Tabellen.</p>
+<p><strong>NARVA 1</strong> landet mit zu wenigen Mannschaftspunkten auf Platz 9, was den Abstieg bedeuten würde.</p>
+<p><strong>NARVA 2</strong> verfehlt ganz knapp den Aufstieg (und damit die Rettung der Ersten), punktgleich mit der SG Weißensee entscheidet das direkte Duell zu unseren Ungunsten….</p>
+<p>Was das für die nächste Saison bedeutet, wird sich zeigen. Wahrscheinlich treten wir sogar mit 3 Mannschaften an. Wie diese dann verteilt werden, hängt auch davon ab, wie die anderen Vereine melden.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg"><img alt="" class="wp-image-11003 size-medium alignleft" decoding="async" height="231" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-768x592.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg 840w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg"><img alt="" class="size-medium wp-image-11004 alignnone" decoding="async" height="203" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg 923w" width="300"/></a></p>
+<p> </p>
+<p>Die <strong>DWZ Auswertung</strong> ergibt folgende Änderungen:</p>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<th>Name</th>
+<th>+/-</th>
+<th>DWZ Neu</th>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Bradschetl</td>
+<td style="width: 33.3333%;">+73</td>
+<td style="width: 33.3333%;">1424</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Brinckmann</td>
+<td style="width: 33.3333%;">+40</td>
+<td style="width: 33.3333%;">1717</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Kreisel</td>
+<td style="width: 33.3333%;">+25</td>
+<td style="width: 33.3333%;">1532</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Idaczek</td>
+<td style="width: 33.3333%;">+24</td>
+<td style="width: 33.3333%;">1906</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Schenk</td>
+<td style="width: 33.3333%;">+17</td>
+<td style="width: 33.3333%;">1791</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Daverkausen</td>
+<td style="width: 33.3333%;">+5</td>
+<td style="width: 33.3333%;">2067</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Arnold</td>
+<td style="width: 33.3333%;">+5</td>
+<td style="width: 33.3333%;">1907</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Eichstädt</td>
+<td style="width: 33.3333%;">+4</td>
+<td style="width: 33.3333%;">1284</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Hintze</td>
+<td style="width: 33.3333%;">0</td>
+<td style="width: 33.3333%;">1914</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Hildebrandt</td>
+<td style="width: 33.3333%;">0</td>
+<td style="width: 33.3333%;">1649</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Mietzelfeldt</td>
+<td style="width: 33.3333%;">-1</td>
+<td style="width: 33.3333%;">1623</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Lenhardt</td>
+<td style="width: 33.3333%;">-6</td>
+<td style="width: 33.3333%;">1954</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Krüger</td>
+<td style="width: 33.3333%;">-6</td>
+<td style="width: 33.3333%;">1751</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Mothes</td>
+<td style="width: 33.3333%;">-11</td>
+<td style="width: 33.3333%;">1592</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">von Kraft</td>
+<td style="width: 33.3333%;">-11</td>
+<td style="width: 33.3333%;">1385</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Magnusson</td>
+<td style="width: 33.3333%;">-12</td>
+<td style="width: 33.3333%;">1671</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Kinski</td>
+<td style="width: 33.3333%;">-14</td>
+<td style="width: 33.3333%;">1662</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Steppuhn</td>
+<td style="width: 33.3333%;">-14</td>
+<td style="width: 33.3333%;">1244</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Segerberg</td>
+<td style="width: 33.3333%;">-18</td>
+<td style="width: 33.3333%;">1945</td>
+</tr>
+</tbody>
+</table>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11012 
 <div class="post-10993 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10993">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/" rel="bookmark">Schnellschach Runde 3</a></h2>
 <div class="entry-meta">
@@ -57,7 +277,7 @@ Ebenfalls 4 Punkte hat auf Platz 3 der beste Gast, <strong>Cory</strong>!<br/>
 <p><strong>BMM</strong><br/>
 In Abwesenheit des Präsidenten:</p>
 <p>NARVA 1 gewinnt mit 4,5:3,5</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg"><img alt="" class="alignnone size-full wp-image-10966" decoding="async" height="253" sizes="(max-width: 1015px) 100vw, 1015px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg 1015w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-768x191.jpg 768w" width="1015"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg"><img alt="" class="alignnone size-full wp-image-10966" decoding="async" height="253" loading="lazy" sizes="(max-width: 1015px) 100vw, 1015px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg 1015w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-768x191.jpg 768w" width="1015"/></a></p>
 <p>NARVA 2 gewinnt mit 6:2</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155.jpg"><img alt="" class="alignnone size-large wp-image-10967" decoding="async" height="136" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-1024x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-1024x218.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-300x64.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-768x164.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-940x198.jpg 940w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155.jpg 1027w" width="640"/></a></p>
 <p>NARVA 3 spielt 3:3 Unentschieden</p>
@@ -359,60 +579,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/#comments">4 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10837 
-<div class="post-10805 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10805">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/27/1-blitzrunde-2023/" rel="bookmark">1. Blitzrunde 2023</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/27/1-blitzrunde-2023/" rel="bookmark" title="17:35"><span class="entry-date">27. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nachdem das Monatsblitz im Januar schon der BFL zum Opfer gefallen war, kam die BFL auch dieses mal dazwischen, allerdings auswärts. Dazu ein von Teilen des Vereins besuchtes Europa League Spiel von Union. So blieb es bei nur 6 Teilnehmern für die erste Runde im <strong>Monatsblitz 2023</strong>.</p>
-<p>Der Titelverteidiger von 2022, <strong>Peter Hintze</strong>, legte auch gleich vor und gewann das doppelrundige Turnier mit 10 Punkten aus 10 Partien. Dahinter auf Rang 2 mit 8 Punkten kam <strong>Tomas</strong>. Auf Platz 3 dann der beste Gast <strong>Rudi Wu</strong> (TSG Oberschöneweide) und punktgleich <strong>Thomas T</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/27/1-blitzrunde-2023/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10805 
-<div class="post-10799 post type-post status-publish format-standard hentry category-bfl" id="post-10799">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/" rel="bookmark">BFL Runde 6</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/" rel="bookmark" title="7:45"><span class="entry-date">27. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Letzten Donnerstag fand die verlegte <strong>Runde 6</strong> der <strong>BFL</strong> statt.</p>
-<p>Beide NARVA Teams mussten zur <strong>SG Weißensee</strong>, dazu lief paralell das Monatsblitz und bei Union das Rückspiel gegen Ajax…..die Aufstellungen waren also nicht einfach.</p>
-<p>Die <strong>1.Mannschaft</strong> konnte trotzdem einen souveränen <strong>3,5:0,5</strong> Sieg einfahren, was die Chancen auf Klassenerhalt wieder etwas verbesserte. Mit der SG Weißensee 1 schlug man auch einen direkten Konkurrenten. Auf die Unterstützung der <strong>2.Mannschaft</strong> bzgl. Klassenerhalt, kann man nicht mehr hoffen. Nach der <strong>1,5:2,5</strong> Niederlage gegen SG Weißensee 2 ist man von einem Aufstiegsplatz schon weit entfernt und muss noch gegen den Ersten spielen…..</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1.jpg"><img alt="" class="aligncenter wp-image-10798 size-full" decoding="async" height="140" loading="lazy" sizes="(max-width: 635px) 100vw, 635px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1.jpg 635w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m1-300x66.jpg 300w" width="635"/></a><br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2.jpg"><img alt="" class="aligncenter wp-image-10797 size-full" decoding="async" height="137" loading="lazy" sizes="(max-width: 651px) 100vw, 651px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2.jpg 651w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/bfl_r6_m2-300x63.jpg 300w" width="651"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/27/bfl-runde-6/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10799 
-<div class="post-10774 post type-post status-publish format-standard hentry category-openberichte" id="post-10774">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/" rel="bookmark">DSAM in Magdeburg</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/" rel="bookmark" title="20:05"><span class="entry-date">21. Februar 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am letzten Wochenende fand in <strong>Magdeburg</strong> das nächste <strong>Qualifikationsturnier zur DSAM</strong> statt. Von NARVA nahmen gleich 5 Spieler teil!</p>
-<p><strong>Rudolf</strong> und <strong>Ekkehard</strong> in Gruppe C (88 Teilnehmer). Für Ekkehard war es die erste Teilnahme an der DSAM, für Rudolf seine ersten Langpartien nach 4 Jahren (die erste war die Pokal-Partie am Donnerstag).<br/>
-<strong>Jonatan</strong> ging in der Gruppe D (103 Teilnehmer) an den Start.<br/>
-<strong>Ich</strong> startete in Gruppe E (96 Teilnehmer). Und <strong>Lukas</strong> ging in Gruppe F (77 Teilnehmer) ins Rennen. Insgesamt waren 545 Teilnehmer in Magdeburg am Start.</p>
-<p>Am erfolgreichsten war am Ende <strong>Jonatan</strong>. Er erreichte, ungeschlagen, mit <strong>4 Punkten</strong> aus 5 Runden <strong>Platz 5</strong> und damit die Qualifikation für das Finale in Braunschweig! Dazu gab es eine Steigerung der DWZ um weitere 33 auf jetzt 1740! <strong>Glückwunsch!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-scaled.jpg"><img alt="" class="aligncenter wp-image-10763 size-medium" decoding="async" height="200" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52696800891_e340fdc0c4_o-2048x1365.jpg 2048w" width="300"/></a></p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#more-10774">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/02/21/dsam-in-magdeburg/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10774 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
