@@ -23,21 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.sglasker.de/news/8257/rudolf-teschner-turnier-zu-himmelfahrt-2023.html" rel="noopener" target="_blank">Rudolf Teschner Gedenkturnier</a></td>
-<td>18.05.-21.05.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="http://psv-mitte.de/" rel="noopener" target="_blank">X. Potsdamer Sommeropen</a></td>
-<td>18.05.-21.05.2023</td>
-<td>Andreas und Ekkehard</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://scwittstock.de/ranandenturm" rel="noopener" target="_blank">9. „´ran an den Turm!“ in Blumenthal 2023</a></td>
-<td>27.05.-29.05.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.seniorenschach-brandenburg.de/2022/10/25/30-offenes-brandenburgisches-seniorenturnier-2023/" rel="noopener" target="_blank">30. offenes brandenburgisches Seniorenturnier Miedzyzdroje</a></td>
 <td>16.06.-26.06.2023</td>
 <td>Hans-Dieter, Gerhard</td>
@@ -76,12 +61,17 @@ TANDEMSCHACH OPEN</a></td>
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
 <td>15.09.2023</td>
-<td>eine Mannschaft</td>
+<td>1x NARVA 1x Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>29.09.-05.10.2023</td>
 <td>Hans-Dieter, Ulrich</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">Berlin U25 Open</a></td>
+<td>23.10.-29.10.2023</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><strong>Kurt-Richter-Gedenkturnier 2023</strong></td>

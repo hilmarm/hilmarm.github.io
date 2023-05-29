@@ -51,11 +51,11 @@ Erhöhung Beitrag:<br/>
 </tr>
 <tr>
 <td>9 Uhr</td>
-<td></td>
+<td>1</td>
 </tr>
 <tr>
 <td>10 Uhr</td>
-<td>6</td>
+<td>8</td>
 </tr>
 <tr>
 <td>egal</td>
@@ -71,15 +71,15 @@ Erhöhung Beitrag:<br/>
 </tr>
 <tr>
 <td>JA</td>
-<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td>NEIN</td>
-<td>5</td>
+<td>6</td>
 </tr>
 </tbody>
 </table>
-<p><em>Stand 27.05.23 – 10:20 Uhr</em></p>
+<p><em>Stand 29.05.23 – 10:50 Uhr</em></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -88,6 +88,44 @@ Erhöhung Beitrag:<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11007 
+<div class="post-11030 post type-post status-publish format-standard hentry category-openberichte" id="post-11030">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/" rel="bookmark">Himmelfahrtsblitz der SG Weißensee</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/" rel="bookmark" title="20:03"><span class="entry-date">28. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nach 3 Jahren Pause fand dieses Jahr endlich wieder das traditionelle <strong>Himmelfahrtsblitz der SG Weißensee</strong> statt. Team NARVA nahm wieder mit einer Mannschaft teil, einige andere Vereine stellten sogar 2 Mannschaften, dafür waren einige von vor Corona entweder nicht eingeladen oder brachten keine Mannschaft zusammen.</p>
+<p>Auch unser Team musste am Vorabend, nach dem Ausfall von Tomas, noch umgestellt werden. So rückte spontan unser Neumitglied <strong>Philipp</strong> ins Team! Vielen Dank!</p>
+<p>Außerdem waren noch <strong>Peter</strong>, <strong>Günter</strong> und <strong>Hans-Dieter</strong> dabei. Als Ergebnis gibt es nur die Tabelle nach der Vorrunde, hier belegt Team NARVA Rang 8.</p>
+<p>Das Finale ging dann an die <strong>Sfr. Nord-Ost</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg"><img alt="" class="aligncenter wp-image-11032" decoding="async" height="289" sizes="(max-width: 600px) 100vw, 600px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-768x370.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg 1016w" width="600"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11030 
+<div class="post-11026 post type-post status-publish format-standard hentry category-openberichte" id="post-11026">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/" rel="bookmark">Andreas gewinnt U1800 Wertung in Potsdam…</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/" rel="bookmark" title="18:31"><span class="entry-date">28. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>…und bleibt dabei auch ungeschlagen.</p>
+<p>Vom 18.05.2023 – 21.05.2023 fand in Potsdam das<strong> X. Potsdamer Sommeropen</strong> vom PSV Mitte statt. Gespielt wurden 7 Runden. Von NARVA war neben Andreas auch Ekkehard am Start.</p>
+<p>Während <strong>Ekkehard</strong> am Ende mit nur 3 Punkten auf Platz 73 kommt und nicht zufrieden sein wird, schlägt <strong>Andreas</strong> auch einige DWZ-stärkere Spieler und ereicht mit <strong>5 Punkten Gesamtplatz 12 (Setzliste Platz  59) und den Sieg in der U1800 Wertung! Herzlichen Glückwunsch!!</strong></p>
+<p>Dafür gibt es auch ein ordentliches DWZ-Plus von +75 auf mit einer 1990er Leistung <em>(zwischendurch kam jetzt die BFL Auswertung, die Startzahl ist also noch etwas kleiner…)</em>, ELO steht sogar +100!</p>
+<p><a href="http://psv-mitte.de/" rel="noopener" target="_blank">Turnierseite</a></p>
+<div class="wp-caption aligncenter" id="attachment_11028" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg"><img alt="" aria-describedby="caption-attachment-11028" class="size-medium wp-image-11028" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg 634w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-11028">Foto von: https://schachkid.guru/fotoimpressionen-vom-10-potsdamer-sommeropen-2023/</p></div>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020.jpg"><img alt="" class="size-medium wp-image-11027 aligncenter" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020.jpg 1536w" width="225"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11026 
 <div class="post-11020 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11020">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/" rel="bookmark">Mai Blitz</a></h2>
 <div class="entry-meta">
@@ -113,7 +151,7 @@ Erhöhung Beitrag:<br/>
 <p><strong>NARVA 1</strong> landet mit zu wenigen Mannschaftspunkten auf Platz 9, was den Abstieg bedeuten würde.</p>
 <p><strong>NARVA 2</strong> verfehlt ganz knapp den Aufstieg (und damit die Rettung der Ersten), punktgleich mit der SG Weißensee entscheidet das direkte Duell zu unseren Ungunsten….</p>
 <p>Was das für die nächste Saison bedeutet, wird sich zeigen. Wahrscheinlich treten wir sogar mit 3 Mannschaften an. Wie diese dann verteilt werden, hängt auch davon ab, wie die anderen Vereine melden.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg"><img alt="" class="wp-image-11003 size-medium alignleft" decoding="async" height="231" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-768x592.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg 840w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg"><img alt="" class="size-medium wp-image-11004 alignnone" decoding="async" height="203" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg 923w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg"><img alt="" class="wp-image-11003 size-medium alignleft" decoding="async" height="231" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-768x592.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg 840w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg"><img alt="" class="size-medium wp-image-11004 alignnone" decoding="async" height="203" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg 923w" width="300"/></a></p>
 <p> </p>
 <p>Die <strong>DWZ Auswertung</strong> ergibt folgende Änderungen:</p>
 <table style="border-collapse: collapse; width: 100%;">
@@ -538,47 +576,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10866 
-<div class="post-10873 post type-post status-publish format-standard hentry category-bfl" id="post-10873">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/10/bfl-runde-7/" rel="bookmark">BFL Runde 7</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/10/bfl-runde-7/" rel="bookmark" title="17:04"><span class="entry-date">10. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>In der 7. Runde der BFL waren gestern die 3. und 4 Mannschaft der SF Berlin 1903 bei uns zu Gast.</p>
-<p>Für NARVA 1 gab es gegen SF Berlin 1903 3 ein 2:2 und damit einen Mannschaftspunkt, der im Abstiegskampf ganz wichtig sein könnte. Die Punkte holten Bernd und ich, wobei mein Sieg letztendlich etwas glücklich war, denn in gewonnener Stellung ließ ich mir zu viel Zeit, und am Ende entschieden Zehntelsekunden darüber, wessen Blättchen zuerst fällt. Auch bei Peter und Ekkehard wurde geblitzt. Bernd hatte seinen Vorteil (bessere Bauernstruktur) souverän verwertet.</p>
-<p><img alt="" class="alignnone size-full wp-image-10874" decoding="async" height="109" loading="lazy" sizes="(max-width: 689px) 100vw, 689px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/NARVA1-SF3.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/NARVA1-SF3.png 689w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/NARVA1-SF3-300x47.png 300w" width="689"/></p>
-<p>NARVA 2 holte gegen den Tabellenführer SF Berlin 1903 4 sogar beide MP. Torsten gelang in dieser Saison sein erster Sieg. Micha konnte an die zuletzt starken Leistungen in Vereinsmeisterschaft und BMM nicht anknüpfen, da merkt man die noch fehlende Erfahrung. Tom hatte eine etwas zweischneidige Stellung mit offener h-Linie und beiderseits kurz rochiertem König, aber mehr Material und insgesamt besser platzierten Figuren. Gegen die schwarzen Drohungen verteidigte er sich gut und verwertete seinen Vorteil dann zum ganzen Punkt. Bei Klaus gab es ein Turmendspiel, das mir erst wegen des aktiveren Königs deutlich besser für ihn erschien. Dann konnte Weiß aber zwei starke Freibauern schaffen, und Klaus konnte am Ende wohl mit dem halben Punkt noch zufrieden sein.</p>
-<p><img alt="" class="alignnone size-full wp-image-10875" decoding="async" height="107" loading="lazy" sizes="(max-width: 751px) 100vw, 751px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/NARVA2-SF4.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/NARVA2-SF4.png 751w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/NARVA2-SF4-300x43.png 300w" width="751"/></p>
-<p>Das Ziel, bei zwei BFL-Staffeln auch nächste Saison wieder in der Staffel A vertreten zu sein, ist damit weiterhin in Reichweite. NARVA 1 steht mit 4 MP auf Platz 8, vor Weißensee und SFB 3 mit je 3 MP. Hier kommt es darauf an, welcher Mannschaft in den letzten zwei Runden noch eine Überraschung gelingt. NARVA 2 hat mit 8 MP nur zwei Punkte Rückstand auf die Aufstiegsplätze, allerdings gibt es hier eine ganze Reihe von Mannschaften mit 8-10 Punkten, so dass auch bei weiter guten Ergebnissen noch etwas Glück dazugehören wird. </p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/10/bfl-runde-7/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10873 
-<div class="post-10837 post type-post status-publish format-standard hentry category-bmm" id="post-10837">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/" rel="bookmark">BMM Runde 8</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/" rel="bookmark" title="8:27"><span class="entry-date">6. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>2 Siege und eine Niederlage, so lautet die Ausbeute für NARVA in Runde 8 der BMM.</p>
-<p><strong>NARVA 1</strong> kam gestern auswärts zu einem <strong>5:3</strong> Erfolg gegen <strong>Berolina Mitte 4</strong> und hat sich auf Platz 3 der Tabelle vorgearbeitet. Punktgleich mit dem Zweiten, aber der Zug für Platz 1 fährt wohl ohne uns. <strong>Norbert</strong> gelang sein erster Sieg für NARVA! Weitere Siege kamen von <strong>George</strong> und <strong>Günter</strong>, <strong>Peter</strong>, <strong>Jonatan</strong>, <strong>Tomas</strong> und <strong>Gerhard</strong> spielten Remis.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome.jpg"><img alt="" class="aligncenter wp-image-10832 size-full" decoding="async" height="227" loading="lazy" sizes="(max-width: 951px) 100vw, 951px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome.jpg 951w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome-300x72.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140352_Chrome-768x183.jpg 768w" width="951"/></a>Der <strong>NARVA 2</strong> Zug rollt unaufhaltsam Richtung Aufstieg, auch gegen <strong>Zugzwang 3</strong> wurden wieder fleißig Brettpunkte gesammelt. Die 2.Mannschaft gewann das Auswärtsspiel gestern deutlich mit <strong>6,5:1,5</strong>. Dabei überließ uns Zugzwang direkt 2 Bretter kampflos, <strong>Hilmar</strong> und <strong>Ulrich</strong> hatten also frei, der Rest war Formsache. Nur <strong>Alexander</strong> verliert an Brett 1. <strong>Hans-Dieter</strong> und <strong>Andreas</strong> mussten nur warten, bis der jeweilige Gegner die DWZ auf Brett kot….. so in etwa 😉</p>
-<p>Die Partie von Andreras war komplett ausgeglichen und der halbe Punkt schon fast notiert, als der Gegner in folgender Stellung mit Lxd4 ins Verderben lief – freiwillig. Er sah wohl die Bauerngabel mit c5, aber nicht, dass Andreas einfach Lxc5 und Kxc5 spielt und dann das Endspiel für Schwarz sofort gewonnen ist.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013.jpg"><img alt="" class="aligncenter wp-image-10838 size-thumbnail" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-768x769.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/IMG-20230305-WA0013.jpg 1207w" width="150"/></a></p>
-<p>Hans-Dieter baute sich erst langsam über die F-Line auf und startete dann einen schönen Angriff inkl. Turmopfer auf h4! Siehe Foto unten einen Zug später.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome.jpg"><img alt="" class="size-large wp-image-10831 aligncenter" decoding="async" height="155" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-1024x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-1024x248.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-300x73.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome-768x186.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140312_Chrome.jpg 1080w" width="640"/></a>Nur <strong>NARVA 3</strong> konnte nichts aus Buch mit bringen, gegen <strong>Nord-Ost 4</strong> verlor man mit <strong>1:5</strong>. <strong>Lukas</strong> konnte zumindest die komplette Pleite verhindern und gewann – gegen DWZ 1569!!</p>
-<p>Im Anschluss trafen sich noch 9 Mann, quer durch alle Mannschaften, zum Essen in der Greifswalder Str.!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome.jpg"><img alt="" class="size-large wp-image-10830 aligncenter" decoding="async" height="116" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-1024x186.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-1024x186.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-300x54.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome-768x139.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/Screenshot_20230305_140247_Chrome.jpg 1048w" width="640"/></a> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/#more-10837">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/06/bmm-runde-8-2/#comments">4 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10837 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
