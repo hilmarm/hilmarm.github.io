@@ -51,15 +51,15 @@ Erhöhung Beitrag:<br/>
 </tr>
 <tr>
 <td>9 Uhr</td>
-<td>1</td>
+<td>2</td>
 </tr>
 <tr>
 <td>10 Uhr</td>
-<td>8</td>
+<td>9</td>
 </tr>
 <tr>
 <td>egal</td>
-<td>3</td>
+<td>4</td>
 </tr>
 </tbody>
 </table>
@@ -71,15 +71,15 @@ Erhöhung Beitrag:<br/>
 </tr>
 <tr>
 <td>JA</td>
-<td>5</td>
+<td>7</td>
 </tr>
 <tr>
 <td>NEIN</td>
-<td>6</td>
+<td>7</td>
 </tr>
 </tbody>
 </table>
-<p><em>Stand 29.05.23 – 10:50 Uhr</em></p>
+<p><em>Stand 29.05.23 – 22:20 Uhr</em></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
