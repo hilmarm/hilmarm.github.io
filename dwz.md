@@ -155,14 +155,22 @@ navs:
 </tr>
 <tr>
 <td>16.</td>
-<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
+<td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
-<td>1751</td>
-<td>64</td>
-<td>1883</td>
+<td>1742</td>
+<td>46</td>
+<td>1694</td>
 </tr>
 <tr>
 <td>17.</td>
+<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
+<td></td>
+<td>1731</td>
+<td>65</td>
+<td>1883</td>
+</tr>
+<tr>
+<td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1717</td>
@@ -170,20 +178,12 @@ navs:
 <td>1669</td>
 </tr>
 <tr>
-<td>18.</td>
+<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1671</td>
 <td>2</td>
 <td>0</td>
-</tr>
-<tr>
-<td>19.</td>
-<td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
-<td></td>
-<td>1662</td>
-<td>45</td>
-<td>1694</td>
 </tr>
 <tr>
 <td>20.</td>

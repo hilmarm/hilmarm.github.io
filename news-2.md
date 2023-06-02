@@ -55,7 +55,7 @@ Erhöhung Beitrag:<br/>
 </tr>
 <tr>
 <td>10 Uhr</td>
-<td>12</td>
+<td>13</td>
 </tr>
 <tr>
 <td>egal</td>
@@ -75,11 +75,11 @@ Erhöhung Beitrag:<br/>
 </tr>
 <tr>
 <td>NEIN</td>
-<td>9</td>
+<td>10</td>
 </tr>
 </tbody>
 </table>
-<p><em>Stand 31.05.23 – 09:15 Uhr</em></p>
+<p><em>Stand 01.06.23 – 17:20 Uhr</em></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
