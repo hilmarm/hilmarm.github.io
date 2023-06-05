@@ -88,6 +88,96 @@ Erhöhung Beitrag:<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11007 
+<div class="post-11051 post type-post status-publish format-standard hentry category-bpmm" id="post-11051">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/" rel="bookmark">BPMM 2023</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/" rel="bookmark" title="16:06"><span class="entry-date">4. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Im Achtelfinale der BPMM traten wir gestern gegen die TSG Oberschöneweide an. Nach zahlreichen Absagen bekamen wir mit Mühe und Not vier Spieler zusammen. Neben mir stellten sich Torsten, Gerhard und Micha der Herausforderung. Die TSG hatte allerdings auch leichte Besetzungsprobleme, was sich an Brett 4 zeigte. Ein Weiterkommen war bei diesen Spielstärkeunterschieden natürlich dennoch nicht zu erwarten, als Ziel blieben schöne, interessante, vielleicht auch lehrreiche Partien. Außerdem wollten wir natürlich nicht „zu null“ verlieren – ein halber Brettpunkt war also das Ziel.</p>
+<p>Aus den Wertungszahlen würde sich laut Anhang zur Wertungsordnung ein Erwartungswert von gerade einmal 0,16 ergeben.</p>
+<p>Micha spielte an Brett 4 gegen Philipp Eisenmann (1737) sehr solide und stand zunächst gut, übersah dann aber eine Gabel und verlor Material.</p>
+<p>Bald darauf musste sich auch Torsten geschlagen geben. Er hatte sich bereiterklärt, Brett 1 zu übernehmen. Bei knapp 900 Punkten DWZ-Unterschied ist natürlich zu erwarten, dass Matthias Schöwel (2175) ihn irgendwann überspielt, aber leicht hat Torsten es ihm nicht gemacht.</p>
+<p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
+<div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
+<p class="rpbchessboard-spacerBefore"></p>
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-647dbe068db4b-1">
+<noscript>
+<div class="rpbchessboard-javascriptWarning">
+			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
+</noscript>
+<div class="rpbchessboard-chessboardAnchor"></div>
+<script type="text/javascript">
+		jQuery(document).ready(function($) {
+			var selector = '#' + "rpbchessboard-647dbe068db4b-1" + ' .rpbchessboard-chessboardAnchor';
+			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
+		});
+	</script>
+</div>
+<p class="rpbchessboard-spacerAfter"></p>
+Schlussstellung Postler – Schenk</div>
+<p>Es kam aber noch besser! Gerhard zeigte nämlich an Brett 3 auch eine ganz starke Leistung, so dass Luca Mankel (2058) kein richtiges Mittel gegen seine Verteidigung fand. Auch ein Bauernopfer änderte daran nichts. Nach viereinhalb Stunden wurde schließlich remis vereinbart – Gerhard dachte sogar noch darüber nach, ob er nun auf Gewinn spielen kann, aber Weiß kann wohl ein Remisendspiel mit ungleichfarbigen Läufern erzwingen.</p>
+<p><img alt="" class="alignnone size-full wp-image-11052" decoding="async" height="105" sizes="(max-width: 544px) 100vw, 544px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png 544w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023-300x58.png 300w" width="544"/></p>
+<p>Somit unterliegt NARVA der TSG mit 1:3. Darauf können wir durchaus stolz sein, das sind immerhin 0,84 Brettpunkte mehr als rechnerisch zu erwarten gewesen wären! Und ohne den letzten krankheitsbedingten Ausfall wäre so vielleicht sogar tatsächlich mehr drin gewesen…</p>
+<table class="clean">
+<thead>
+<tr>
+<th>Brett</th>
+<th>NARVA</th>
+<th>TSG</th>
+<th>DWZ NARVA</th>
+<th>DWZ TSG</th>
+<th>Differenz</th>
+<th>Erwartungswert</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Eichstädt</td>
+<td>Schöwel</td>
+<td>1284</td>
+<td>2175</td>
+<td>891</td>
+<td>0,00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Schenk</td>
+<td>Postler</td>
+<td>1791</td>
+<td>2181</td>
+<td>390</td>
+<td>0,08</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Mietzelfeldt</td>
+<td>Mankel</td>
+<td>1588</td>
+<td>2058</td>
+<td>470</td>
+<td>0,05</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Herrscher</td>
+<td>Eisenmann</td>
+<td>1213*</td>
+<td>1737</td>
+<td>524</td>
+<td>0,03</td>
+</tr>
+</tbody>
+</table>
+<p><small>*ungefähre Erst-DWZ aus BFL und BMM ohne Runde 9, hier sind die starken Partien aus den vereinsinternen Turnieren nicht mit einbezogen</small> </p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bpmm/" rel="category tag">BPMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/#comments">2 Kommentare</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11051 
 <div class="post-11030 post type-post status-publish format-standard hentry category-openberichte" id="post-11030">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/" rel="bookmark">Himmelfahrtsblitz der SG Weißensee</a></h2>
 <div class="entry-meta">
@@ -97,7 +187,7 @@ Erhöhung Beitrag:<br/>
 <p>Auch unser Team musste am Vorabend, nach dem Ausfall von Tomas, noch umgestellt werden. So rückte spontan unser Neumitglied <strong>Philipp</strong> ins Team! Vielen Dank!</p>
 <p>Außerdem waren noch <strong>Peter</strong>, <strong>Günter</strong> und <strong>Hans-Dieter</strong> dabei. Als Ergebnis gibt es nur die Tabelle nach der Vorrunde, hier belegt Team NARVA Rang 8.</p>
 <p>Das Finale ging dann an die <strong>Sfr. Nord-Ost</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg"><img alt="" class="aligncenter wp-image-11032" decoding="async" height="289" sizes="(max-width: 600px) 100vw, 600px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-768x370.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg 1016w" width="600"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg"><img alt="" class="aligncenter wp-image-11032" decoding="async" height="289" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-768x370.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg 1016w" width="600"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -562,20 +652,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10869 
-<div class="post-10866 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10866">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark">Rapid Liga (21)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/" rel="bookmark" title="8:29"><span class="entry-date">13. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10867" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023.jpg"><img alt="" aria-describedby="caption-attachment-10867" class="size-large wp-image-10867" decoding="async" height="348" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-1024x556.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-1024x556.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-300x163.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023-768x417.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_27022023.jpg 1111w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10867"><strong>27.02.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/13/rapid-liga-21/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10866 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
