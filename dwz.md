@@ -411,7 +411,7 @@ navs:
 </tr>
 <tr>
 <td>48.</td>
-<td><a href="http://www.schachbund.de/spieler/10830173.html" target="_blank"> Horst Juri</a></td>
+<td><a href="http://www.schachbund.de/spieler/10830173.html" target="_blank"> Juri Horst</a></td>
 <td></td>
 <td></td>
 <td></td>
