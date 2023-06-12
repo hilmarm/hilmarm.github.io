@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11058 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-11058">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/" rel="bookmark">Neue Mitglieder</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/" rel="bookmark" title="21:13"><span class="entry-date">11. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Offiziell zum 01.06. begrüßen wir nun 4 neue Mitglieder!<br/>
+Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zuletzt 2017 kurz erreicht hatten und davor 1989! (<em><a href="https://www.narva-schach.de/wordpress/chronik/verein/">Siehe Chronik ganz unten</a></em>)</p>
+<p>Die neuen sind:<br/>
+– <strong>Philipp Pape</strong>, ist bereits seit einiger Zeit online für uns aktiv und spielt nun auch die Abteilungmeisterschaft mit.<br/>
+– <strong>Wolfgang Mach</strong>, schon einige Monate jeden Clubabend dabei, auch er nimmt bereits an der Abteilungmeisterschaft teil.<br/>
+– <strong>Juri Horst</strong>, als Neuzugang für eine weitere BFL Mannschaft, „Team Hilmar“ 😎<br/>
+– <strong>Frank Laskowski (Lasko)</strong>, wohnt in Wattenscheid, möchte nach einer Pause aber wieder aktiv sein. War z.B. bei unserem <a href="https://www.narva-schach.de/wordpress/2022/11/02/einladungs-mannschaftsblitz-bei-narva-2/">Mannschaftsblitz im Oktober</a> 2022 für Ex&amp;Hopp mit Sven aktiv. Im September verstärkt er uns in Erftstadt!</p>
+<p>Inzwischen stehen auch alle in unserer <a href="https://www.narva-schach.de/wordpress/dwz/">DWZ Liste</a> und, sofern gewünscht, in der Mail-/Telefonliste.</p>
+<p>Alen viel Erfolg im Team NARVA!!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11058 
 <div class="post-11051 post type-post status-publish format-standard hentry category-bpmm" id="post-11051">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/" rel="bookmark">BPMM 2023</a></h2>
 <div class="entry-meta">
@@ -20,7 +42,7 @@ navs:
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6485a7063386d-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6486f887bf630-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -28,7 +50,7 @@ navs:
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-6485a7063386d-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-6486f887bf630-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -638,20 +660,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/16/platz-3-bei-kinderfruehlingsturnier-u7/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10888 
-<div class="post-10869 post type-post status-publish format-standard hentry category-online category-rapid-liga" id="post-10869">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/" rel="bookmark">Rapid Liga (22)</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/" rel="bookmark" title="8:30"><span class="entry-date">14. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<div class="wp-caption alignnone" id="attachment_10870" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023.jpg"><img alt="" aria-describedby="caption-attachment-10870" class="size-large wp-image-10870" decoding="async" height="359" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-1024x575.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-1024x575.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023-768x431.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/rapidliga_06032023.jpg 1114w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-10870"><strong>06.03.2023</strong></p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/online/" rel="category tag">Online</a>, <a href="https://www.narva-schach.de/wordpress/category/online/rapid-liga/" rel="category tag">Rapid-Liga</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/14/rapid-liga-22/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10869 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

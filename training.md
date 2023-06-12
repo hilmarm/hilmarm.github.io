@@ -16,7 +16,7 @@ parent_title: Turniere
 <div class="post-282 page type-page status-publish hentry" id="post-282">
 <h1 class="entry-title">Training</h1>
 <div class="entry-content">
-<table style="height: 336px;">
+<table style="height: 216px; width: 100%;">
 <tbody>
 <tr bgcolor="#fcfcfc" style="text-align: center;">
 <td style="height: 24px; width: 149.633px;">Monat/Tag</td>
@@ -35,8 +35,8 @@ parent_title: Turniere
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">06. Juli 2023</td>
-<td style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;"></td>
+<td style="height: 24px; width: 175.25px;">??</td>
+<td style="height: 24px; width: 169.117px;">Rouven ??</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">03. August 2023</td>

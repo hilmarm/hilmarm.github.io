@@ -43,7 +43,7 @@ parent_title: Turniere
 <td>3.</td>
 <td>Maetzing,Hans-Di</td>
 <td>1745</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>2</td>
@@ -65,7 +65,7 @@ parent_title: Turniere
 <td>13.</td>
 <td>Kreisel,Alexande</td>
 <td>1507</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -76,7 +76,7 @@ parent_title: Turniere
 <td>11.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -120,7 +120,7 @@ parent_title: Turniere
 <td>14.</td>
 <td>von Kraft,Lukas</td>
 <td>1396</td>
-<td> –</td>
+<td>20.06.</td>
 </tr>
 <tr>
 <td>9</td>
@@ -299,7 +299,7 @@ parent_title: Turniere
 <td>11.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td> –</td>
+<td>12.06.</td>
 </tr>
 <tr>
 <td>3</td>
