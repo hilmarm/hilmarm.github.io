@@ -54,7 +54,7 @@ parent_title: Turniere
 <td>6.</td>
 <td>Brinckmann,Klaus</td>
 <td>1677</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>3</td>
@@ -299,7 +299,7 @@ parent_title: Turniere
 <td>11.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td>12.06.</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>3</td>
