@@ -98,7 +98,7 @@ parent_title: Turniere
 <td>9.</td>
 <td>Kinski,Andreas</td>
 <td>1631</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>7</td>
@@ -109,7 +109,7 @@ parent_title: Turniere
 <td>16.</td>
 <td>Eichstädt,Torste</td>
 <td>1280</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>8</td>
@@ -131,7 +131,7 @@ parent_title: Turniere
 <td>15.</td>
 <td>Maiwald,Gunar</td>
 <td>1388</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>10</td>
@@ -142,7 +142,7 @@ parent_title: Turniere
 <td>21.</td>
 <td>Mach,Wolfgang</td>
 <td></td>
-<td> –</td>
+<td>22.06.</td>
 </tr>
 </tbody>
 </table>

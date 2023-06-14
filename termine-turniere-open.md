@@ -59,6 +59,11 @@ TANDEMSCHACH OPEN</a></td>
 <td>Günter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.schachclub-oranienburg.de/wordpress/2023/06/oranienburger-chess-open-2023/" rel="noopener" target="_blank">2. Oranienburger Chess Open 2023</a></td>
+<td>02.09.-03.09.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
 <td>15.09.2023</td>
 <td>1x NARVA 1x Ex&amp;Hopp</td>
@@ -67,6 +72,11 @@ TANDEMSCHACH OPEN</a></td>
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>29.09.-05.10.2023</td>
 <td>Hans-Dieter, Ulrich</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachverein-wildau.de/pdf/ausschreibung_16_dahmelandpokal2023.pdf" rel="noopener" target="_blank">16. Dahmelandpokal 2023</a></td>
+<td>30.09.-03.10.2023</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">Berlin U25 Open</a></td>

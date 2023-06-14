@@ -8,6 +8,56 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11078 post type-post status-publish format-standard hentry category-allgemein category-bmm" id="post-11078">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/" rel="bookmark">Ergebnisse Verbandstag</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/" rel="bookmark" title="19:50"><span class="entry-date">13. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Für alle die nicht in der WhatsApp Gruppe oder bei Twitter sind, hier die kurze Zusammenfassung vom Verbandstag:</p>
+<p>– Die Beitragserhöhung wurde angenommen<br/>
+– der Antrag bzgl. BMM Start wurde vom Präsidium nach Diskussion zurückgezogen, es bleibt also vorerst bei 9 Uhr<br/>
+– es wurde spontan auf dem Verbandstag ein neuer Schatzmeister gefunden<br/>
+– Außerdem gibt es einen neuen Landesspielleiter</p>
+<p>Das ganze dauerte 4,5h….man hat ja Sonntags um 11 Uhr, bei schönem Wetter, sonst nichts vor…. 🙃</p>
+<p>Auszug aus dem BSV Twitter Account</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg"><img alt="" class="alignnone wp-image-11079" decoding="async" height="774" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg 174w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-595x1024.jpg 595w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-768x1321.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-893x1536.jpg 893w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg 930w" width="450"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg"><img alt="" class="alignnone wp-image-11080" decoding="async" height="522" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-882x1024.jpg 882w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-768x892.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg 1080w" width="450"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11078 
+<div class="post-11073 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11073">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/" rel="bookmark">Abteilungsmeisterschaft Runde 3</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/" rel="bookmark" title="19:16"><span class="entry-date">13. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Letzten Donnerstag wurden gleich 7 Partien zur Runde 3 der <strong>Abteilungsmeisterschaft</strong> gespielt.</p>
+<p>Dabei gab zum einen Peter einen ganzen Punkt an Klaus ab! Zum anderen verliert Jonatan seine erste Partie in der Abteilungsmeisterschaft seit Juni 2019!</p>
+<p>Hier die Ergebnisse im einzeln:<br/>
+<strong>Jonatan – Hans-Dieter 0:1</strong><br/>
+<strong>Peter – Klaus 0:1</strong><br/>
+<strong>Rouven – Alexander 1:0</strong><br/>
+<strong>Ekkehard – Gerhard 1:0</strong><br/>
+<strong>Felix – Andreas 0:1</strong><br/>
+<strong>Michael – Torsten 1:0</strong><br/>
+<strong>Philipp – Gunar 0:1</strong></p>
+<p>Schon vorgespielt hatten:<br/>
+<strong>Ulrich – Hilmar ½:½</strong></p>
+<p>Außerdem hat Rouven noch die nachgeholte Partie aus Runde 1 gegen Gerhard gewonnen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
+<p>Zum melden der Ergebnisse dürft ihr auch gerne das <a href="https://www.narva-schach.de/wordpress/turniere/ergebnisse-melden/">Formular</a> benutzen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11074" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-2048x923.jpg 2048w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11073 
 <div class="post-11058 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-11058">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/" rel="bookmark">Neue Mitglieder</a></h2>
 <div class="entry-meta">
@@ -42,7 +92,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64884a0c2a81d-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64899b94e903a-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -50,7 +100,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64884a0c2a81d-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64899b94e903a-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -58,7 +108,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p class="rpbchessboard-spacerAfter"></p>
 Schlussstellung Postler – Schenk</div>
 <p>Es kam aber noch besser! Gerhard zeigte nämlich an Brett 3 auch eine ganz starke Leistung, so dass Luca Mankel (2058) kein richtiges Mittel gegen seine Verteidigung fand. Auch ein Bauernopfer änderte daran nichts. Nach viereinhalb Stunden wurde schließlich remis vereinbart – Gerhard dachte sogar noch darüber nach, ob er nun auf Gewinn spielen kann, aber Weiß kann wohl ein Remisendspiel mit ungleichfarbigen Läufern erzwingen.</p>
-<p><img alt="" class="alignnone size-full wp-image-11052" decoding="async" height="105" sizes="(max-width: 544px) 100vw, 544px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png 544w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023-300x58.png 300w" width="544"/></p>
+<p><img alt="" class="alignnone size-full wp-image-11052" decoding="async" height="105" loading="lazy" sizes="(max-width: 544px) 100vw, 544px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png 544w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023-300x58.png 300w" width="544"/></p>
 <p>Somit unterliegt NARVA der TSG mit 1:3. Darauf können wir durchaus stolz sein, das sind immerhin 0,84 Brettpunkte mehr als rechnerisch zu erwarten gewesen wären! Und ohne den letzten krankheitsbedingten Ausfall wäre so vielleicht sogar tatsächlich mehr drin gewesen…</p>
 <table class="clean">
 <thead>
@@ -314,7 +364,7 @@ Dabei wird es einen Antrag vom Präsidium des BSV zur <strong>Startzeit der BMM<
 <form action="/wordpress/news-2/#wpcf7-f11006-p11007-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
 <div style="display: none;">
 <input name="_wpcf7" type="hidden" value="11006"/>
-<input name="_wpcf7_version" type="hidden" value="5.7.6"/>
+<input name="_wpcf7_version" type="hidden" value="5.7.7"/>
 <input name="_wpcf7_locale" type="hidden" value="de_DE"/>
 <input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f11006-p11007-o1"/>
 <input name="_wpcf7_container_post" type="hidden" value="11007"/>
@@ -625,41 +675,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10901 
-<div class="post-10896 post type-post status-publish format-standard hentry category-tandem" id="post-10896">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/" rel="bookmark">2. NARVA Tandem-Abend</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/" rel="bookmark" title="8:51"><span class="entry-date">20. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Mittwoch – 19.04.2023</strong><br/>
-<strong>18:15 Uhr</strong><br/>
-<strong>RuDi Nachbarschaftszentrum – oben</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10892" decoding="async" height="418" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1024x669.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-768x502.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-1536x1003.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/InCollage_20230301_175735999-2048x1338.jpg 2048w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/tandem/" rel="category tag">Tandem</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/20/2-narva-tandem-abend/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10896 
-<div class="post-10888 post type-post status-publish format-standard hentry category-jugend" id="post-10888">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/16/platz-3-bei-kinderfruehlingsturnier-u7/" rel="bookmark">Platz 3 bei Kinderfrühlingsturnier U7</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/16/platz-3-bei-kinderfruehlingsturnier-u7/" rel="bookmark" title="9:23"><span class="entry-date">16. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Seit 4 Wochen läuft unser Jugendtraining wieder und schon der erste Erfolg!<br/>
-<strong>Michael Scherbovich</strong> belegt beim <strong>Kinderfrühlingsturnier Platz 3</strong> in der <strong>U7</strong>!!<br/>
-<strong>Glückwunsch!</strong></p>
-<p><a href="http://www.schachjugend-in-berlin.de/bjem-u7-und-u8-sowie-kft/" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499.jpg"><img alt="" class="alignnone wp-image-10886 size-medium" decoding="async" height="199" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-300x199.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-300x199.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-1024x678.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499-768x508.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/FB_IMG_1678945433499.jpg 1080w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/jugend/" rel="category tag">Jugend</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/16/platz-3-bei-kinderfruehlingsturnier-u7/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10888 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
