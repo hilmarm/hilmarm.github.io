@@ -49,9 +49,9 @@ TANDEMSCHACH OPEN</a></td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/der-lichtenberger-sommer-kommt-zurueck-12-bis-20-august-in-der-trabrennbahn-karlshorst.html" rel="noopener" target="_blank">18. Lichtenberger Sommer</a></td>
+<td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_23/lichtenberger_sommer_2023.htm" rel="noopener" target="_blank">18. Lichtenberger Sommer</a></td>
 <td>12.08.-20.08.2023</td>
-<td></td>
+<td>Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/termin/schlacht-bei-dennewitz.html?day=20230902&amp;times=1693641600,1693641600" rel="noopener" target="_blank">Schlacht bei Dennewitz</a></td>
