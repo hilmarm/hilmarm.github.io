@@ -33,15 +33,15 @@ parent_title: Turniere
 <td style="height: 24px;">1</td>
 <td style="height: 24px;">Campe,Ulrich</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Schenk,Jonatan</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;"><strong>Schenk,Jonatan</strong></td>
+<td style="height: 24px; text-align: center;">0 : 1</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">2</td>
 <td style="height: 24px;">Brinckmann,Klaus</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Hintze,Peter</td>
-<td style="text-align: center;"></td>
+<td style="height: 24px;"><strong>Hintze,Peter</strong></td>
+<td style="text-align: center;">0 : 1</td>
 </tr>
 </tbody>
 </table>

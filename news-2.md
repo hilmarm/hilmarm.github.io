@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11091 post type-post status-publish format-standard hentry category-bmm" id="post-11091">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/" rel="bookmark">BMM Saison Finale</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/" rel="bookmark" title="8:11"><span class="entry-date">16. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Sonntag endet nun die <strong>BMM Saison 2022/23</strong> mit der nachgeholten 7.Runde.</p>
+<p>Wir haben als Finale noch ein gemeinsames Heimspiel aller 3 Mannschaften im RuDi!</p>
+<p><strong>NARVA 1</strong> spielt gegen <strong>BSV 63 Chemie Weißensee 2</strong><br/>
+<strong>NARVA 2</strong> spielt gegen <strong>SG Lasker Steglitz-Wilmersdorf 2</strong><br/>
+<strong>NARVA 3</strong> spielt gegen <strong>SC Zitadelle Spandau 1977 4</strong></p>
+<p>Für die Erste und Zweite Mannschaft geht es dabei jeweils gegen die direkten Verfolger. Während es bei der 1.Mannschaft dabei nur um die reine Platzierung (2 oder 3) geht, hängt bei der 2.Mannschaft der Aufstieg am Ergebnis. Wobei uns Lasker schon mit 7:1 schlagen muss, um uns den Aufstieg zu entwenden. Die 3.Mannschaft könnte mit einem Sieg noch einige Plätze gewinnen.</p>
+<p>Im Anschluss gibt es im RuDi noch den Saisonabschluss mit Essen und Trinken! Ihr seid alle eingeladen!!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11091 
 <div class="post-11078 post type-post status-publish format-standard hentry category-allgemein category-bmm" id="post-11078">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/" rel="bookmark">Ergebnisse Verbandstag</a></h2>
 <div class="entry-meta">
@@ -20,7 +40,7 @@ navs:
 – Außerdem gibt es einen neuen Landesspielleiter</p>
 <p>Das ganze dauerte 4,5h….man hat ja Sonntags um 11 Uhr, bei schönem Wetter, sonst nichts vor…. 🙃</p>
 <p>Auszug aus dem BSV Twitter Account</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg"><img alt="" class="alignnone wp-image-11079" decoding="async" height="774" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg 174w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-595x1024.jpg 595w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-768x1321.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-893x1536.jpg 893w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg 930w" width="450"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg"><img alt="" class="alignnone wp-image-11080" decoding="async" height="522" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-882x1024.jpg 882w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-768x892.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg 1080w" width="450"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg"><img alt="" class="alignnone wp-image-11079" decoding="async" height="430" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg 174w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-595x1024.jpg 595w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-768x1321.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-893x1536.jpg 893w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg 930w" width="250"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg"><img alt="" class="alignnone wp-image-11080" decoding="async" height="290" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-882x1024.jpg 882w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-768x892.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg 1080w" width="250"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -92,7 +112,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-648aed0f8404e-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-648c3e8eef5e7-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -100,7 +120,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-648aed0f8404e-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-648c3e8eef5e7-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -659,22 +679,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10907 
-<div class="post-10901 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10901">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/" rel="bookmark">Klaus gewinnt März-Schnellschach</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/" rel="bookmark" title="16:55"><span class="entry-date">23. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am vergangenen Donnerstag fand das zweite Schnellschachturnier unserer diesjährigen Serie statt. Zwölf Teilnehmer fanden sich dazu ein, darunter sechs Gäste. Unserem aktuellen Vizeschnellschachmeister <strong>Klaus</strong> gelang dabei erstmals der Turniersieg – er gewann unter anderem gegen Peter und mich, und gab nur in der letzten Runde einen halben Punkt ab. Den zweiten Platz belegte <strong>Peter</strong>, Platz drei geht an den besten Gast, <strong>Jerry</strong>.</p>
-<p>Außerdem wurde am Donnerstag eine Pokalpartie nachgeholt. Dabei gewann Uli gegen Micha.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/23/klaus-gewinnt-maerz-schnellschach/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10901 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
