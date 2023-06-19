@@ -22,8 +22,8 @@ Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend 
 Abteilung Schach<br/>
 Kadiner Str. 1<br/>
 10243 Berlin<br/>
-<a class="link" href="http://falckensteinstrasse.de/kadiner.htm" rel="noopener noreferrer" target="_blank" title='Externe Adresse "http://falckensteinstrasse.de/kadiner.htm" aufrufen'>Begegnungsstätte „Lebensfreude“</a></b><br/>
-<i class="contentitalic"></i></p>
+<a class="link" href="http://falckensteinstrasse.de/kadiner.htm" rel="noopener noreferrer" target="_blank" title='Externe Adresse "http://falckensteinstrasse.de/kadiner.htm" aufrufen'>Begegnungsstätte „Lebensfreude“</a></b></p>
+<p><i class="contentitalic">Mannschaftskämpfe der Berliner Mannschaftsmeisterschaft finden abweichend im Nachbarschaftszentrum RuDi, Modersohnstr. 55, 10245 Berlin statt!</i></p>
 <p><a href="http://www.openstreetmap.org/?mlat=52.51523&amp;mlon=13.451&amp;zoom=17&amp;layers=B000FTF" rel="noopener noreferrer" target="_blank"><i class="contentitalic">Karte</i></a></p>
 <h2><strong>Und natürlich auch Online!</strong></h2>
 <h1><b>Was kostet es?</b></h1>
