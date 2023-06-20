@@ -17,6 +17,48 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Ausschreibung</a></p>
+<h3>3. Runde (Viertelfinale) am 10.08.2023</h3>
+<table class="clean swiss footable">
+<thead>
+<tr bgcolor="#00ff00" style="height: 18px;">
+<th style="height: 18px;">Tisch</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">–</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">1</td>
+<td style="height: 24px;">Hintze,Peter</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Lange,Rudolf</td>
+<td style="height: 24px; text-align: center;">:</td>
+</tr>
+<tr bgcolor="#00ffcf" style="height: 24px;">
+<td style="height: 24px;">2</td>
+<td style="height: 24px;">Mietzelfeldt,Gerhard</td>
+<td style="height: 24px;">–</td>
+<td nowrap="nowrap" style="height: 24px;">Maetzing,Hans-Dieter,Dr.</td>
+<td style="text-align: center;">:</td>
+</tr>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">1</td>
+<td style="height: 24px;">Salgueiro,Felix</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Schenk,Jonatan</td>
+<td style="height: 24px; text-align: center;">:</td>
+</tr>
+<tr bgcolor="#00ffcf" style="height: 24px;">
+<td style="height: 24px;">2</td>
+<td style="height: 24px;">Segerberg,Tomas</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Kinski,Andreas</td>
+<td style="text-align: center;">:</td>
+</tr>
+</tbody>
+</table>
 <h3>2. Runde (Zwischenrunde) am 15.06.2023</h3>
 <table class="clean swiss footable">
 <thead>
@@ -45,7 +87,7 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
-<h3>1. Runde am 16.02.2023</h3>
+<h3>1. Runde (Vorrunde) am 16.02.2023</h3>
 <table class="clean swiss footable" style="width: 100%; height: 282px;">
 <thead>
 <tr bgcolor="#00ff00" style="height: 18px;">
