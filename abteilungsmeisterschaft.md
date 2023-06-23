@@ -563,7 +563,7 @@ parent_title: Turniere
 <td>14.</td>
 <td>von Kraft,Lukas</td>
 <td>1396</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>9</td>
@@ -585,7 +585,7 @@ parent_title: Turniere
 <td>21.</td>
 <td>Mach,Wolfgang</td>
 <td></td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 </tbody>
 </table>

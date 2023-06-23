@@ -48,42 +48,42 @@ parent_title: Termine
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">4</td>
-<td style="text-align: center; width: 129px;">17.12.2023</td>
+<td style="text-align: center; width: 129px;">14.01.2024</td>
 <td style="width: 155px;"></td>
 <td style="width: 145px;"></td>
 <td nowrap="nowrap" style="width: 126px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">5</td>
-<td style="text-align: center; width: 129px;">14.01.2024</td>
+<td style="text-align: center; width: 129px;">28.01.2024</td>
 <td style="width: 155px;"></td>
 <td style="width: 145px;"></td>
 <td style="width: 126px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">6</td>
-<td style="text-align: center; width: 129px;">28.01.2024</td>
+<td style="text-align: center; width: 129px;">18.02.2024</td>
 <td style="width: 155px;"></td>
 <td nowrap="nowrap" style="width: 145px;"></td>
 <td style="width: 126px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">7</td>
-<td style="text-align: center; width: 129px;">18.02.2024</td>
+<td style="text-align: center; width: 129px;">03.03.2024</td>
 <td style="width: 155px;"></td>
 <td style="width: 145px;"></td>
 <td nowrap="nowrap" style="width: 126px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">8</td>
-<td style="text-align: center; width: 129px;">03.03.2024</td>
+<td style="text-align: center; width: 129px;">21.04.2024</td>
 <td style="width: 155px;"></td>
 <td nowrap="nowrap" style="width: 145px;"></td>
 <td style="width: 126px;"></td>
 </tr>
 <tr>
 <td style="text-align: center; width: 84px;">9</td>
-<td style="text-align: center; width: 129px;">21.04.2024</td>
+<td style="text-align: center; width: 129px;">05.05.2024</td>
 <td nowrap="nowrap" style="width: 155px;"></td>
 <td nowrap="nowrap" style="width: 145px;"></td>
 <td style="width: 126px;"></td>

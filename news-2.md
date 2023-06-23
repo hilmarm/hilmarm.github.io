@@ -8,6 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11119 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11119">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/" rel="bookmark">Auslosung Pokal und Abteilung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/" rel="bookmark" title="9:53"><span class="entry-date">23. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die nächsten Runde zum Pokal und Abteilungsmeisterschaft sind ausgelost!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal Viertelfinale</a> – Termin <strong>10.08.2023</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungmeisterschaft Runde 4</a> – Termin <strong>20.07.2023</strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11119 
 <div class="post-11091 post type-post status-publish format-standard hentry category-bmm" id="post-11091">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/" rel="bookmark">BMM Saison Finale – Aufstieg NARVA 2</a></h2>
 <div class="entry-meta">
@@ -18,7 +34,8 @@ navs:
 <strong>NARVA 2</strong> verliert zwar gegen <strong>SG Lasker Steglitz-Wilmersdorf 2</strong> mit <strong>3:5</strong>, bleibt aber auf Platz 2 und steigt damit auf!<br/>
 <strong>NARVA 3</strong> verliert gegen <strong>SC Zitadelle Spandau 1977 4</strong> mit <strong>2,5:3,5</strong>.</p>
 <p><strong>Glückwunsch an die Zweite!!! Danke an alle für die gute Saison!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Hier findet ihr auch schon die Termine für die Saison 2023/24.</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Hier findet ihr auch schon die Termine für die Saison 2023/24.</a><br/>
+<span style="color: #ff0000;">Achtung, es gab wieder eine Änderung:</span> Der BMM-Termin am 17.12.2023 wurde gestrichen. Die 9. Runde findet am 05.05.2024 statt!</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome.jpg"><img alt="" class="aligncenter wp-image-11094 size-large" decoding="async" height="159" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-1024x255.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-1024x255.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-768x191.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome.jpg 1080w" width="640"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome.jpg"><img alt="" class="aligncenter wp-image-11095 size-large" decoding="async" height="155" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-1024x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-1024x248.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-300x73.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-768x186.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome.jpg 1035w" width="640"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg"><img alt="" class="aligncenter wp-image-11096 size-full" decoding="async" height="188" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome-300x55.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome-768x141.jpg 768w" width="1024"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome.jpg"><img alt="" class="alignnone size-medium wp-image-11097" decoding="async" height="202" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-300x202.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-300x202.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-768x518.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome.jpg 977w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome.jpg"><img alt="" class="alignnone size-medium wp-image-11098" decoding="async" height="218" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-300x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-300x218.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-768x559.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome.jpg 955w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23.jpg"><img alt="" class="alignnone size-medium wp-image-11113" decoding="async" height="279" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23-300x279.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23-300x279.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23.jpg 346w" width="300"/></a></p>
 <p>Bilder Saisonabschluss:</p>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/#more-11091">Weiterlesen <span class="meta-nav">→</span></a></p>
@@ -114,7 +131,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6494278fe003a-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6495791dd0bfd-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -122,7 +139,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-6494278fe003a-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-6495791dd0bfd-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -652,35 +669,6 @@ Thomas Mothes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10921 
-<div class="post-10907 post type-post status-publish format-standard hentry category-bfl" id="post-10907">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/" rel="bookmark">BFL Runde 8</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/" rel="bookmark" title="13:37"><span class="entry-date">28. März 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am letzten Donnerstag fand die vorletzte Runde zur <strong>BFL</strong> statt. Dabei kam es zu 2 Duellen gegen unsere Bezirksnachbarn aus Kreuzberg.</p>
-<p><strong>NARVA 1</strong> spielte gegen <strong>SC Kreuzberg 1</strong> und erreichte ein <strong>2:2</strong>. Günter und Peter konnten gewinnen, Tomas und Ekkehard verlieren. Das Unentschieden bringt uns etwas nächer an den Klassenerhalt, die letzte Runde ist aber nochmal wichtig.</p>
-<pre>SG NARVA Berlin 1        - SC Kreuzberg 1              2,0:2,0
-==================================================
-105 Krüger,Ekkehard      - 102 Bolk,Matthias (2014)      0:1
-106 Idaczek,Günter       - 104 Fock,Sana (1855)          1:0
-204 Bradschetl,Tom       - 108 Körlin,Hans-Jürgen (1688) 0:1
-215 Hintze,Peter         - 201 Uckar,Klaudijo (1697)     1:0</pre>
-<p><strong>NARVA 2</strong> spielte gegen <strong>SC Kreuzberg 2</strong> und gewann klar mit <strong>4:0</strong>!! Kurz vor der Runde mussten wir noch umstellen, Katrin kam so zu ihrem ersten Einsatz und gewann auch als erste. Torsten, Klaus und Alex steuerten weitere Siege bei. In der letzten Runde geht es dann zu einem Gegner um den Aufstiegsplatz, Mariendorf. Die haben aber die letzte Runde gegen Weißensee verloren, einige Ergebnisse fehlen noch im Skript.</p>
-<pre>SG NARVA Berlin 2        - SC Kreuzberg 2              4,0:0,0
-==================================================
-203 Brinckmann,Klaus     - 203 Pilgrim,Leonhard (1354)   1:0
-207 Kreisel,Alexander    - 204 Körner,Reinhard (1291)    1:0
-208 Hildebrand,Katrin    - 208 Wallat,Alisha Lara (0)    1:0
-213 Eichstädt,Torsten    - 209 Biermann,Oliver (0)       1:0</pre>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10908" decoding="async" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230323_193355-2048x923.jpg 2048w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/03/28/bfl-runde-8/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10907 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
