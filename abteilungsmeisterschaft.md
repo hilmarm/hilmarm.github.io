@@ -18,7 +18,16 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Ausschreibung Abteilungsmeisterschaft 2023</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h3>Ratingpreise</h3>
+<p>Auch in diesem Jahr gibt es wieder zwei Ratingpreise</p>
+<p>Spieler ohne DWZ werden eingestuft:</p>
+<ul>
+<li>Michael nach seiner Erst-DWZ aus der BMM</li>
+<li>Philipp bei 1500</li>
+<li>Wolfgang bei 1100</li>
+</ul>
 <h2>Rangliste nach der 3. Runde</h2>
+<p>Nachgespielte Partien sind in der Rangliste ggf. noch nicht berücksichtigt!</p>
 <table class="clean swiss footable">
 <thead>
 <tr>
