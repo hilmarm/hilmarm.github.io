@@ -174,7 +174,7 @@ navs:
 <tr>
 <td style="width: 90px;">03.08.23</td>
 <td class="training" style="width: 180px;">Training</td>
-<td style="width: 280px;"><strong>GM Michael Richter !!!</strong></td>
+<td style="width: 280px;"></td>
 </tr>
 <tr>
 <td style="width: 90px;">10.08.23</td>
@@ -219,7 +219,7 @@ navs:
 <tr>
 <td style="width: 90px;">05.10.23</td>
 <td class="training" style="width: 180px;">Training</td>
-<td style="width: 280px;"></td>
+<td style="width: 280px;"><strong>GM Michael Richter !!!</strong></td>
 </tr>
 <tr>
 <td style="width: 90px;">12.10.23</td>

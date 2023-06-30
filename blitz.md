@@ -45,13 +45,13 @@ parent_title: Turniere
 <td style="width: 5%;">12</td>
 <td style="width: 5%;">12</td>
 <td style="width: 5%;">10</td>
+<td style="width: 5%;">12</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;">46</td>
+<td style="width: 8.68621%;">58</td>
 </tr>
 <tr>
 <td style="width: 15%;">Segerberg</td>
@@ -59,7 +59,21 @@ parent_title: Turniere
 <td style="width: 5%;"></td>
 <td style="width: 5%;">10</td>
 <td style="width: 5%;">12</td>
+<td style="width: 5%;">8</td>
 <td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 8.68621%;">40</td>
+</tr>
+<tr>
+<td style="width: 15%;">Dr.Maetzing</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;">8</td>
+<td style="width: 5%;">8</td>
+<td style="width: 5%;">6</td>
+<td style="width: 5%;">10</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
@@ -68,18 +82,18 @@ parent_title: Turniere
 <td style="width: 8.68621%;">32</td>
 </tr>
 <tr>
-<td style="width: 15%;">Dr.Maetzing</td>
+<td style="width: 15%;">Krüger</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;">5</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;">8</td>
-<td style="width: 5%;">8</td>
-<td style="width: 5%;">6</td>
+<td style="width: 5%;">4</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;">22</td>
+<td style="width: 8.68621%;">17</td>
 </tr>
 <tr>
 <td style="width: 15%;">Totz</td>
@@ -87,13 +101,27 @@ parent_title: Turniere
 <td style="width: 5%;">3</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;">5</td>
+<td style="width: 5%;">1</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
+<td style="width: 8.68621%;">17</td>
+</tr>
+<tr>
+<td style="width: 15%;">Herrmann (G)</td>
 <td style="width: 5%;"></td>
-<td style="width: 8.68621%;">16</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;">5</td>
+<td style="width: 5%;">4</td>
+<td style="width: 5%;">5</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 8.68621%;">14</td>
 </tr>
 <tr>
 <td style="width: 15%;">Kreisel</td>
@@ -101,20 +129,6 @@ parent_title: Turniere
 <td style="width: 5%;">4</td>
 <td style="width: 5%;">4</td>
 <td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;">13</td>
-</tr>
-<tr>
-<td style="width: 15%;">Krüger</td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;">5</td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;">8</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
@@ -152,20 +166,6 @@ parent_title: Turniere
 <td style="width: 8.68621%;">10</td>
 </tr>
 <tr>
-<td style="width: 15%;">Herrmann (G)</td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;">5</td>
-<td style="width: 5%;">4</td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;">9</td>
-</tr>
-<tr>
 <td style="width: 15%;">Wu (G)</td>
 <td style="width: 5%;">8</td>
 <td style="width: 5%;"></td>
@@ -194,6 +194,20 @@ parent_title: Turniere
 <td style="width: 8.68621%;">8</td>
 </tr>
 <tr>
+<td style="width: 15%;">Pröschild (G)</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;">6</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 8.68621%;">6</td>
+</tr>
+<tr>
 <td style="width: 15%;">Cravet (G)</td>
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
@@ -206,6 +220,34 @@ parent_title: Turniere
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 8.68621%;">3</td>
+</tr>
+<tr>
+<td style="width: 15%;">Bradschtl</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;">3</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 8.68621%;">3</td>
+</tr>
+<tr>
+<td style="width: 15%;">Mothes</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;">2</td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 5%;"></td>
+<td style="width: 8.68621%;">2</td>
 </tr>
 <tr>
 <td style="width: 15%;">Dragnev (G)</td>
