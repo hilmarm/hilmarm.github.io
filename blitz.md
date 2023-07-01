@@ -280,6 +280,234 @@ parent_title: Turniere
 </tbody>
 </table>
 </div>
+<h2>Monatsblitz Juni – 29.06.2023</h2>
+<div style="overflow: auto;">
+<table class="clean swiss">
+<thead>
+<tr>
+<td colspan="16">Rangliste: Stand nach der 11. Runde</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Hintze,Peter</td>
+<td>1914</td>
+<td>**</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>9.0</td>
+<td>39.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Maetzing,Hans-Dieter,Dr.</td>
+<td>1772</td>
+<td>0</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>7.5</td>
+<td>30.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td>Segerberg,Tomas</td>
+<td>1945</td>
+<td>1</td>
+<td>½</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>7.0</td>
+<td>31.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td nowrap="nowrap">Pröschild,Matthias (BSV 63 Chemie Weißensee)</td>
+<td>1892</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>**</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.5</td>
+<td>23.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td>Herrmann,Eberhard (SC Zugzwang 95)</td>
+<td>1669</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.0</td>
+<td>19.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>6</td>
+<td>Krüger,Ekkehard</td>
+<td>1731</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>**</td>
+<td>0</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.5</td>
+<td>19.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>7</td>
+<td>Bradschetl,Tom</td>
+<td>1424</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>17.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>8</td>
+<td>Mothes,Thomas</td>
+<td>1592</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>4.5</td>
+<td>15.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>9</td>
+<td>Totz,Thomas</td>
+<td>1131</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>3.0</td>
+<td>5.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>10</td>
+<td>Cravet,Alexandra (G)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1.0</td>
+<td>0.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>11</td>
+<td>Bahr,Jan (G)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>0.0</td>
+<td>0.00</td>
+</tr>
+</tbody>
+</table>
+</div>
 <h2>Monatsblitz Mai – 25.05.2023</h2>
 <div style="overflow: auto;">
 <table class="clean swiss">
@@ -381,7 +609,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>6</td>
-<td nowrap="nowrap">Herrmann,Eberhard (Zugzwang)</td>
+<td nowrap="nowrap">Herrmann,Eberhard (SC Zugzwang 95)</td>
 <td>1669</td>
 <td>0</td>
 <td>0</td>
@@ -396,7 +624,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>7</td>
-<td>Cravet (G)</td>
+<td>Cravet,Alexandra (G)</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -411,7 +639,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>8</td>
-<td>Bahr (G)</td>
+<td>Bahr,Jan (G)</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -426,6 +654,7 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
+</div>
 <h2>Monatsblitz April – 27.04.2023</h2>
 <div style="overflow: auto;">
 <table class="clean swiss">
@@ -504,7 +733,7 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>5.</td>
-<td>Herrmann,Eberhard (G)</td>
+<td nowrap="nowrap">Herrmann,Eberhard (SC Zugzwang 95)</td>
 <td>1824</td>
 <td>0</td>
 <td>0</td>
@@ -678,7 +907,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>8</td>
-<td>Dragnev,Jan (ohne Verein)</td>
+<td>Dragnev,Jan (G)</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -694,7 +923,6 @@ parent_title: Turniere
 </tbody>
 </table>
 </div>
-<p> </p>
 <h2>Monatsblitz Februar – 23.02.2023</h2>
 <div style="overflow: auto;">
 <table class="clean swiss">
@@ -797,7 +1025,6 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
-</div>
 </div>
 </div>
 </div><!-- .entry-content -->

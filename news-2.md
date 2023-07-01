@@ -8,6 +8,41 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11130 post type-post status-publish format-standard hentry category-training" id="post-11130">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark">Training mit GM Richter verschoben</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark" title="11:09"><span class="entry-date">1. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Das ursprünglich für den 03.08. geplante Training mit <strong>GM Michael Richter</strong> ist auf den <strong>05.10.2023</strong> verschoben worden!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/training/">Training Übersicht</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11130 
+<div class="post-11139 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11139">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/" rel="bookmark">Juni Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/" rel="bookmark" title="7:48"><span class="entry-date">1. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Mit 11 Teilnehmern war das <strong>Juni Blitz</strong> wieder gut besetzt, wir bewegen uns langsam wieder in Richtung „alte Zeiten“. Dabei freuten wir uns u.a. über unseren früheren „Dauergast“ <strong>Matthias</strong> (Chemie Weißensee)!</p>
+<p>Tabellenführer <strong>Peter</strong> musste dann früh im direkten Duell gegen Tomas eine Niederlage hinnehmen, aber <strong>Tomas</strong> kam in der Folge auch nicht schadlos durch das Turnier. So gab es die Punkteteilung mit Matthias und dann mit der Niederlage, durch Dameneinsteller, gegen den Präsidenten war klar, dass Tomas die Runde nicht gewinnen kann. Peter gewann alle restlichen Partien und kam so sicher mit 1,5 Punkten Vorsprung und 9 aus 10 sicher auf Platz 1!</p>
+<p>Tomas hätte dann in der letzten Runde gegen <strong>Hans-Dieter</strong> gewinnen müssen, um noch Platz 2 zu erreichen, es blieb aber bei der Punkteteilung. Damit belegte Hans-Dieter mit starken 7,5 Punkten Platz 2!<br/>
+Tomas kam mit 7 Punkten aus Rang 3.</p>
+<p>Das Duell um den besten Gast ging knapp an Matthias mit 6,5 Punkten auf Platz 4. <strong>Eberhard</strong> von Zugzwang wurde 5. mit 6 Punkten. Hier läuft dann evtl. auch das Duell um den Jahres-Gästepreis.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11140" decoding="async" height="189" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-300x189.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-300x189.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-1024x646.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-768x485.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-1536x970.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-2048x1293.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11141" decoding="async" height="240" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-1024x819.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-768x614.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-1536x1229.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-2048x1638.jpg 2048w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11139 
 <div class="post-11119 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11119">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/" rel="bookmark">Auslosung Pokal und Abteilung</a></h2>
 <div class="entry-meta">
@@ -36,7 +71,7 @@ navs:
 <p><strong>Glückwunsch an die Zweite!!! Danke an alle für die gute Saison!</strong></p>
 <p><a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Hier findet ihr auch schon die Termine für die Saison 2023/24.</a><br/>
 <span style="color: #ff0000;">Achtung, es gab wieder eine Änderung:</span> Der BMM-Termin am 17.12.2023 wurde gestrichen. Die 9. Runde findet am 05.05.2024 statt!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome.jpg"><img alt="" class="aligncenter wp-image-11094 size-large" decoding="async" height="159" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-1024x255.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-1024x255.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-768x191.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome.jpg 1080w" width="640"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome.jpg"><img alt="" class="aligncenter wp-image-11095 size-large" decoding="async" height="155" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-1024x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-1024x248.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-300x73.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-768x186.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome.jpg 1035w" width="640"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg"><img alt="" class="aligncenter wp-image-11096 size-full" decoding="async" height="188" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome-300x55.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome-768x141.jpg 768w" width="1024"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome.jpg"><img alt="" class="alignnone size-medium wp-image-11097" decoding="async" height="202" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-300x202.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-300x202.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-768x518.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome.jpg 977w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome.jpg"><img alt="" class="alignnone size-medium wp-image-11098" decoding="async" height="218" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-300x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-300x218.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-768x559.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome.jpg 955w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23.jpg"><img alt="" class="alignnone size-medium wp-image-11113" decoding="async" height="279" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23-300x279.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23-300x279.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23.jpg 346w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome.jpg"><img alt="" class="aligncenter wp-image-11094 size-large" decoding="async" height="159" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-1024x255.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-1024x255.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome-768x191.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145150_Chrome.jpg 1080w" width="640"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome.jpg"><img alt="" class="aligncenter wp-image-11095 size-large" decoding="async" height="155" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-1024x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-1024x248.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-300x73.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome-768x186.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_145204_Chrome.jpg 1035w" width="640"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg"><img alt="" class="aligncenter wp-image-11096 size-full" decoding="async" height="188" loading="lazy" sizes="(max-width: 1024px) 100vw, 1024px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome-300x55.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_152226_Chrome-768x141.jpg 768w" width="1024"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome.jpg"><img alt="" class="alignnone size-medium wp-image-11097" decoding="async" height="202" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-300x202.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-300x202.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome-768x518.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172430_Chrome.jpg 977w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome.jpg"><img alt="" class="alignnone size-medium wp-image-11098" decoding="async" height="218" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-300x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-300x218.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome-768x559.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/Screenshot_20230618_172459_Chrome.jpg 955w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23.jpg"><img alt="" class="alignnone size-medium wp-image-11113" decoding="async" height="279" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23-300x279.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23-300x279.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/bmm_m3_2022_23.jpg 346w" width="300"/></a></p>
 <p>Bilder Saisonabschluss:</p>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/#more-11091">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
@@ -131,7 +166,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-649eb38bd40f6-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a0050a12320-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -139,7 +174,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-649eb38bd40f6-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64a0050a12320-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -622,53 +657,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10924 
-<div class="post-10926 post type-post status-publish format-standard hentry category-intern" id="post-10926">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/" rel="bookmark">Mitgliederversammlung am 06.04.23</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/" rel="bookmark" title="11:44"><span class="entry-date">2. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hallo Schachfreunde,</p>
-<p>Hiermit lädt Euch der Vorstand der Abteilung Schach zur <strong>Mitgliederversammlung</strong> am <strong>06.04.2023</strong> um <strong>18:30 Uhr</strong> ein!</p>
-<p><span style="text-decoration: underline;"><strong>Tagesordnung:</strong></span></p>
-<ul>
-<li>Kassenabschluss 2022/Etat 2023</li>
-<li>Aktuelles zu BMM/BFL/BPMM</li>
-<li>Aktuelles zur Planung KRT 2023</li>
-<li>Termine für weitere Turniere in Berlin</li>
-<li>Sonstiges</li>
-</ul>
-<p>Viele Grüße<br/>
-Thomas Mothes</p>
-<p><em>Vorsitzender</em><br/>
-<em>SG NARVA Berlin e.V.</em><br/>
-<em>Abteilung Schach</em></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/02/mitgliederversammlung-am-06-04-23/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10926 
-<div class="post-10921 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10921">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/" rel="bookmark">Monats Blitz März</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/" rel="bookmark" title="11:36"><span class="entry-date">1. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag fand die 2.Runde im Monats-Blitz 2023 statt. Mit nur 8 Teilnehmern waren es zwar mehr als im Februar, aber immer noch dünn im Verhältnis zu früher (vor Corona) bzw. zum Schnellschach (zuletzt 12 und 13 Teilnehmer). Vor allem das fehlen von Gästen macht sich hier bemerkbar.</p>
-<p>Klarer Sieger wurde wieder mit 100% <strong>Peter</strong>. Dahinter punktgleich <strong>Hilmar</strong> und <strong>Hans-Dieter</strong> mit jeweils 5 Punkten. Das direkte Duell ging hier an Hilmar, er verlor dafür gegen Klaus. So trennt beide nur ein Sonneborn-Berger Punkt. Auf Platz 4 lief der „Gerademacher“ <strong>Klaus</strong> mit 4 Punkten ein – Schnellschach ist eindeutig eher seine Disziplin 😉 .</p>
-<p>In der <strong>Gesamtwertung</strong> führt natürlich mit voller Punktzahl <strong>Peter</strong>, auf Platz 2 dann als Überraschung<strong> Thomas</strong> – nein, nicht Segerberg oder Mothes – <strong>Totz</strong>!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-<p>Nächsten Donnerstag dann Mitgliederversammlung. In 2 Wochen ist Skat!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10918" decoding="async" height="433" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1024x692.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-1536x1038.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/03/20230330_191857-2048x1383.jpg 2048w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/01/monats-blitz-maerz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10921 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
