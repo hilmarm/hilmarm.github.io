@@ -29,7 +29,7 @@ navs:
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/" rel="bookmark" title="7:48"><span class="entry-date">1. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Mit 11 Teilnehmern war das <strong>Juni Blitz</strong> wieder gut besetzt, wir bewegen uns langsam wieder in Richtung „alte Zeiten“. Dabei freuten wir uns u.a. über unseren früheren „Dauergast“ <strong>Matthias</strong> (Chemie Weißensee)!</p>
-<p>Tabellenführer <strong>Peter</strong> musste dann früh im direkten Duell gegen Tomas eine Niederlage hinnehmen, aber <strong>Tomas</strong> kam in der Folge auch nicht schadlos durch das Turnier. So gab es die Punkteteilung mit Matthias und dann mit der Niederlage, durch Dameneinsteller, gegen den Präsidenten war klar, dass Tomas die Runde nicht gewinnen kann. Peter gewann alle restlichen Partien und kam so sicher mit 1,5 Punkten Vorsprung und 9 aus 10 sicher auf Platz 1!</p>
+<p>Tabellenführer <strong>Peter</strong> musste dann früh im direkten Duell gegen Tomas eine Niederlage hinnehmen, aber <strong>Tomas</strong> kam in der Folge auch nicht schadlos durch das Turnier. So gab es die Punkteteilung mit Matthias, eine Niederlage gegen Ekkehard und dann mit der nächsten Niederlage, durch Dameneinsteller, gegen den Präsidenten war klar, dass Tomas die Runde nicht gewinnen kann. Peter gewann alle restlichen Partien und kam so sicher mit 1,5 Punkten Vorsprung und 9 aus 10 sicher auf Platz 1!</p>
 <p>Tomas hätte dann in der letzten Runde gegen <strong>Hans-Dieter</strong> gewinnen müssen, um noch Platz 2 zu erreichen, es blieb aber bei der Punkteteilung. Damit belegte Hans-Dieter mit starken 7,5 Punkten Platz 2!<br/>
 Tomas kam mit 7 Punkten aus Rang 3.</p>
 <p>Das Duell um den besten Gast ging knapp an Matthias mit 6,5 Punkten auf Platz 4. <strong>Eberhard</strong> von Zugzwang wurde 5. mit 6 Punkten. Hier läuft dann evtl. auch das Duell um den Jahres-Gästepreis.</p>
@@ -166,7 +166,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a0050a12320-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a1569182b99-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -174,7 +174,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64a0050a12320-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64a1569182b99-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
