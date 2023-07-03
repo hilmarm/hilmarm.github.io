@@ -23,27 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.seniorenschach-brandenburg.de/2022/10/25/30-offenes-brandenburgisches-seniorenturnier-2023/" rel="noopener" target="_blank">30. offenes brandenburgisches Seniorenturnier Miedzyzdroje</a></td>
-<td>16.06.-26.06.2023</td>
-<td>Hans-Dieter, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="http://www.bughouse-berlin.de/" rel="noopener" target="_blank">19. INTERNATIONALES BERLINER<br/>
-TANDEMSCHACH OPEN</a></td>
-<td>22.06.-25.06.2023</td>
-<td>Günter</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/25-abrafaxe-turnier-2023.html" rel="noopener" target="_blank">25. Abrafaxe-Kinderschachturnier</a></td>
-<td>24.06.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/berliner-frauen-schnellschach-einzelmeisterschaft-am-24-25-06-2023.html" rel="noopener" target="_blank">Berliner Frauen-Schnellschach-Einzelmeisterschaft</a></td>
-<td>25./26.06.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2023/" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer 2023</a></td>
 <td>15.07.-23.07.2023</td>
 <td></td>

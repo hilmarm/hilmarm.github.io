@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11130 post type-post status-publish format-standard hentry category-training" id="post-11130">
+<div class="post-11130 post type-post status-publish format-standard sticky hentry category-training" id="post-11130">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark">Training mit GM Richter verschoben</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark" title="11:09"><span class="entry-date">1. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -23,6 +23,22 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11130 
+<div class="post-11147 post type-post status-publish format-standard hentry category-openberichte" id="post-11147">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/" rel="bookmark">30. Offenes Brandenburger Seniorenturnier 2023</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/" rel="bookmark" title="14:28"><span class="entry-date">2. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hans-Dieter und Gerhard haben vom 16.06. bis 26.06.23 am Offenen Brandenburger Seniorenturnier teilgenommen.</p>
+<p>Hier der Bericht von Hans-Dieter:</p>
+<div class="wp-block-file"><object aria-label="Einbettung von 30. Offenes Brandenburger Seniorenturnier." class="wp-block-file__embed" data="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/30.-Offenes-Brandenburger-Seniorenturnier.pdf" height="150" style="width: 100%; height: 1528px;" type="application/pdf" width="300"></object><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/30.-Offenes-Brandenburger-Seniorenturnier.pdf" id="wp-block-file--media-cd66ae2c-abb2-403e-b076-fe00f164aa4e">30. Offenes Brandenburger Seniorenturnier</a></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11147 
 <div class="post-11139 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11139">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/" rel="bookmark">Juni Blitz</a></h2>
 <div class="entry-meta">
@@ -145,7 +161,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 – <strong>Juri Horst</strong>, als Neuzugang für eine weitere BFL Mannschaft, „Team Hilmar“ 😎<br/>
 – <strong>Frank Laskowski (Lasko)</strong>, wohnt in Wattenscheid, möchte nach einer Pause aber wieder aktiv sein. War z.B. bei unserem <a href="https://www.narva-schach.de/wordpress/2022/11/02/einladungs-mannschaftsblitz-bei-narva-2/">Mannschaftsblitz im Oktober</a> 2022 für Ex&amp;Hopp mit Sven aktiv. Im September verstärkt er uns in Erftstadt!</p>
 <p>Inzwischen stehen auch alle in unserer <a href="https://www.narva-schach.de/wordpress/dwz/">DWZ Liste</a> und, sofern gewünscht, in der Mail-/Telefonliste.</p>
-<p>Alen viel Erfolg im Team NARVA!!</p>
+<p>Allen viel Erfolg im Team NARVA!!</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -166,7 +182,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a1569182b99-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a2a80fcd150-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -174,7 +190,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64a1569182b99-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64a2a80fcd150-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -272,7 +288,7 @@ Schlussstellung Postler – Schenk</div>
 <p>Während <strong>Ekkehard</strong> am Ende mit nur 3 Punkten auf Platz 73 kommt und nicht zufrieden sein wird, schlägt <strong>Andreas</strong> auch einige DWZ-stärkere Spieler und ereicht mit <strong>5 Punkten Gesamtplatz 12 (Setzliste Platz  59) und den Sieg in der U1800 Wertung! Herzlichen Glückwunsch!!</strong></p>
 <p>Dafür gibt es auch ein ordentliches DWZ-Plus von +75 auf mit einer 1990er Leistung <em>(zwischendurch kam jetzt die BFL Auswertung, die Startzahl ist also noch etwas kleiner…)</em>, ELO steht sogar +100!</p>
 <p><a href="http://psv-mitte.de/" rel="noopener" target="_blank">Turnierseite</a></p>
-<div class="wp-caption aligncenter" id="attachment_11028" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg"><img alt="" aria-describedby="caption-attachment-11028" class="size-medium wp-image-11028" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg 634w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-11028">Foto von: https://schachkid.guru/fotoimpressionen-vom-10-potsdamer-sommeropen-2023/</p></div>
+<p><div class="wp-caption aligncenter" id="attachment_11028" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg"><img alt="" aria-describedby="caption-attachment-11028" class="size-medium wp-image-11028" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg 634w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-11028">Foto von: https://schachkid.guru/fotoimpressionen-vom-10-potsdamer-sommeropen-2023/</p></div></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020.jpg"><img alt="" class="size-medium wp-image-11027 aligncenter" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020.jpg 1536w" width="225"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
@@ -636,27 +652,6 @@ einmal ‚rüber‘, einmal ‚runter‘ und einmal diagonal☺.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10937 
-<div class="post-10924 post type-post status-publish format-standard hentry category-skat" id="post-10924">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/" rel="bookmark">Skat am Donnerstag 13.04.23</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/" rel="bookmark" title="11:39"><span class="entry-date">3. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>Donnerstag den 13.04.2023</strong> findet unser <strong>Skat 2023</strong> statt!</p>
-<p>Das <strong>Startgeld</strong> beträgt für <span style="text-decoration: underline;">Mitglieder 2 €, für Gäste 3 €</span>.</p>
-<p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
-danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
-<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2022/11/ISkO-2022.pdf" rel="noopener" target="_blank">Link</a></p>
-<p>Gut Blatt !</p>
-<p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" class="alignnone wp-image-5889 size-medium" decoding="async" height="247" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-768x631.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-1024x842.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg 1920w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/03/skat-am-donnerstag-13-04-23/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10924 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

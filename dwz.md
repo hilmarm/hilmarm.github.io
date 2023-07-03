@@ -155,19 +155,19 @@ navs:
 </tr>
 <tr>
 <td>16.</td>
-<td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
-<td></td>
-<td>1772</td>
-<td>96</td>
-<td>1848</td>
-</tr>
-<tr>
-<td>17.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1742</td>
 <td>46</td>
 <td>1796</td>
+</tr>
+<tr>
+<td>17.</td>
+<td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
+<td></td>
+<td>1733</td>
+<td>97</td>
+<td>1848</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -221,8 +221,8 @@ navs:
 <td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1588</td>
-<td>98</td>
+<td>1589</td>
+<td>99</td>
 <td>1739</td>
 </tr>
 <tr>
