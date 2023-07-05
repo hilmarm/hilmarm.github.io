@@ -8,21 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11130 post type-post status-publish format-standard sticky hentry category-training" id="post-11130">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark">Training mit GM Richter verschoben</a></h2>
+<div class="post-11175 post type-post status-publish format-standard hentry category-training" id="post-11175">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/04/training-am-donnerstag-3/" rel="bookmark">Training am Donnerstag</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark" title="11:09"><span class="entry-date">1. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/04/training-am-donnerstag-3/" rel="bookmark" title="18:34"><span class="entry-date">4. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Das ursprünglich für den 03.08. geplante Training mit <strong>GM Michael Richter</strong> ist auf den <strong>05.10.2023</strong> verschoben worden!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/training/">Training Übersicht</a></p>
+<p>Diesen Donnerstag ist wieder Training und es gibt Dr.Hans-Dieter-Maetzing mit dem Thema:</p>
+<p><strong>„Eröffnungen abseits der Theorie“</strong></p>
+<p>Es geht um 18:15 Uhr los, Gäste sind natürlich auch herzlich willkommen!</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/04/training-am-donnerstag-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-11130 
+</div> #post-11175 
 <div class="post-11147 post type-post status-publish format-standard hentry category-openberichte" id="post-11147">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/" rel="bookmark">30. Offenes Brandenburger Seniorenturnier 2023</a></h2>
 <div class="entry-meta">
@@ -39,6 +40,21 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11147 
+<div class="post-11130 post type-post status-publish format-standard hentry category-training" id="post-11130">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark">Training mit GM Richter verschoben</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/" rel="bookmark" title="11:09"><span class="entry-date">1. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Das ursprünglich für den 03.08. geplante Training mit <strong>GM Michael Richter</strong> ist auf den <strong>05.10.2023</strong> verschoben worden!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/training/">Training Übersicht</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/01/training-mit-gm-richter-verschoben/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11130 
 <div class="post-11139 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11139">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/" rel="bookmark">Juni Blitz</a></h2>
 <div class="entry-meta">
@@ -182,7 +198,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a3f99ea9d9a-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64a54b1417ff1-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -190,7 +206,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64a3f99ea9d9a-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64a54b1417ff1-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -627,31 +643,6 @@ Heiko Wagner<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10947 
-<div class="post-10937 post type-post status-publish format-standard hentry category-skat" id="post-10937">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/" rel="bookmark">Skat 2023 – Phönix aus der Asche</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/" rel="bookmark" title="21:19"><span class="entry-date">14. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Zu unserem jährlichen <strong>Skatturnier</strong> fanden sich neun Enthusiasten, dieses leider wohl langsam aussterbenden Spiels zusammen, dadurch konnten wir an Dreiertischen spielen und damit auch relativ zeitig fertig werden. Auch für die Zusammenstellung der Tische in den einzelnen Serien ist dies ein günstiger Fall:<br/>
-1 2 3<br/>
-4 5 6<br/>
-7 8 9<br/>
-einmal ‚rüber‘, einmal ‚runter‘ und einmal diagonal☺.</p>
-<p>Nach der ersten Serie hatten sich Ekkehard (deutlich) und Dieter (etwas) vom Rest abgesetzt, erhielten aber beide in der zweiten Serie mit jeweils einem negativen Ergebnis einen Dämpfer. Kurz nach Beginn der zweiten Serie räumte ich meinen Platz für den gerade direkt vom diesjährigen QT eingetroffenen Jonatan – dort unserem einzigen Vertreter -, wobei ich ihm mit meinem mickrigen Ergebnis aus der ersten Serie keine leichte Hypothek mitgab.</p>
-<p>Souveräner Sieger mit drei soliden Serien ohne Ausrutscher wurde – ich will es nicht verhehlen: zu meiner großen Freude – <strong>Hilmar</strong>.</p>
-<p>Mit einer starken dritten Serie konnte <strong>Ekkehard</strong> seinen Rückschlag ausbügeln und landete mit gehörigem Rückstand nach vorn, aber ebenso sicher nach hinten, auf dem zweiten Platz.</p>
-<p>Dritter wurde mit auch klarem Vorsprung auf den Vierten – <strong>Thomas</strong>, neben Ekkehard ein weiterer Neurentner – sie machen heutzutage allerdings den Eindruck wie fourty-ager in meiner Kindheit – auf dem dritten Platz, was mich auch besonders für ihn freute, konnte er doch in den beiden vorangegangenen Jahren schichtbedingt leider nicht teilnehmen.</p>
-<p>Für die weiteren Plätze mit teilweise sehr knappen Abständen siehe <a href="https://www.narva-schach.de/wordpress/chronik/skat/">Chronik</a>.</p>
-<p>bis zum nächten Jahr – Gut Blatt! – Euer Klaus</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-scaled.jpg"><img alt="" class="alignnone size-large wp-image-10936" decoding="async" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/20230413_195529-2048x923.jpg 2048w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/14/skat-2023-phoenix-aus-der-asche/#comments">3 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10937 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
