@@ -8,6 +8,30 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11154 post type-post status-publish format-standard hentry category-openberichte" id="post-11154">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark">der fleißige Gerhard</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark" title="7:36"><span class="entry-date">11. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Eines unserer ältesten Mitglieder ist auch zeitgleich eines der aktivsten! <strong>Gerhard</strong> (86) hat 2023 bereits 6 DWZ-gewertete Turniere gespielt!</p>
+<div class="wp-caption alignnone" id="attachment_11189" style="width: 510px"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/dwzgerhard/" rel="attachment wp-att-11189"><img alt="" aria-describedby="caption-attachment-11189" class="wp-image-11189" decoding="async" height="126" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-768x193.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard.jpg 822w" width="500"/></a><p class="wp-caption-text" id="caption-attachment-11189">die BMM wird dann die 100. Auswertung</p></div>
+<p>Neben der BFL und BMM wo er natürlich aktiv war, hat er neben der <a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/">Berliner Seniorenmeisterschaft</a> auch noch Ausflüge nach <strong>Undeloh</strong> (liegt in Niedersachsen, etwas südlich von Hamburg), <strong>Stendal</strong> und <strong>Miedzyzdroje</strong> (PL) gemacht!</p>
+<p>In <strong>Undeloh</strong> trat er beim <strong>Nestorenturnier 2023 „Klaus Gohde Gedenkturnier“</strong> vom 15. bis 19.03.2023 an. Organisiert vom Förderkreis der Senioren im DSB (u.a. von Martin Sebastian) ein Turnier für Teilnehmer „Baujahr“ 1948 und älter. Gespielt wurden 5 Runden und Gerhard erreichte starke 3 Punkte aus den 5 Partien, bei nur einer Niederlage! So gewann er in Runde 1 gleich gegen DWZ 1935 und spielte in Runde 2 Remis gegen 1922! <strong>Das reichte dann für Platz 10 bei 52 Teilnehmern!</strong><br/>
+<a href="https://chess-results.com/tnr741210.aspx?lan=0&amp;art=4" rel="noopener" target="_blank">Ergebnisse</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/nestorenturnier/" rel="attachment wp-att-11161"><img alt="" class="alignnone size-medium wp-image-11161" decoding="async" height="221" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/nestorenturnier-300x221.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/nestorenturnier-300x221.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/nestorenturnier.jpg 500w" width="300"/></a></p>
+<p>In <strong>Stendal</strong> spielte er beim <strong>25. Stendaler Open 2023</strong> vom 18. bis 21.05.2023 mit und erreichte 2 Punkte aus 7 Runden. Damit war er sicher nicht ganz zufrieden.<br/>
+<a href="https://open-stendal.de.tl/2023-_-Rangliste.htm" rel="noopener" target="_blank">Turnierseite mit Tabellen</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/stendal/" rel="attachment wp-att-11162"><img alt="" class="alignnone size-medium wp-image-11162" decoding="async" height="270" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/stendal-300x270.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/stendal-300x270.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/stendal.jpg 502w" width="300"/></a></p>
+<p>Wie es ihm in <strong>Miedzyzdroje</strong> beim <strong>Offenen Brandenburgischen Seniorenturnier</strong> erging, steht im <a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/">Bericht von Hans-Dieter</a>.</p>
+<p>Es hat also immer gute Gründe wenn Gerhard nicht im Club ist, dann spielt er irgendwo in Deutschland (oder auch außerhalb) Schach! Weiter so!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11154 
 <div class="post-11175 post type-post status-publish format-standard hentry category-training" id="post-11175">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/04/training-am-donnerstag-3/" rel="bookmark">Training am Donnerstag</a></h2>
 <div class="entry-meta">
@@ -66,7 +90,7 @@ navs:
 Tomas kam mit 7 Punkten aus Rang 3.</p>
 <p>Das Duell um den besten Gast ging knapp an Matthias mit 6,5 Punkten auf Platz 4. <strong>Eberhard</strong> von Zugzwang wurde 5. mit 6 Punkten. Hier läuft dann evtl. auch das Duell um den Jahres-Gästepreis.</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11140" decoding="async" height="189" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-300x189.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-300x189.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-1024x646.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-768x485.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-1536x970.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-2048x1293.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11141" decoding="async" height="240" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-1024x819.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-768x614.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-1536x1229.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-2048x1638.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11140" decoding="async" height="189" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-300x189.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-300x189.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-1024x646.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-768x485.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-1536x970.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192257-2048x1293.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11141" decoding="async" height="240" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-1024x819.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-768x614.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-1536x1229.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/20230629_192223-2048x1638.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -198,7 +222,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64abe290285d2-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64ad341235329-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -206,7 +230,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64abe290285d2-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64ad341235329-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -620,29 +644,6 @@ Der Kampf ist bereits nach gut 1,5h entschieden. NARVA 2 gewinnt mit 3:1 – so 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10961 
-<div class="post-10947 post type-post status-publish format-standard hentry category-sg-narva" id="post-10947">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/" rel="bookmark">Mitgliederversammlung Hauptverein am 17.Mai 2023</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/" rel="bookmark" title="10:31"><span class="entry-date">20. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Anbei findet ihr die</p>
-<p><a href="https://www.sg-narva.de/wp-content/uploads/2023/04/Einladung_MV_HV_2023.pdf" rel="noopener" target="_blank">Einladung zur Mitgliederversammlung Hauptverein am 17.05.2023</a></p>
-<p>sowie den</p>
-<p><a href="https://www.sg-narva.de/wp-content/uploads/2023/04/Satzung_neu_Entwurf.pdf" rel="noopener" target="_blank">Entwurf zur Neufassung der Satzung der SG NARVA Berlin e.V.</a></p>
-<p>über den die Versammlung abstimmen wird.</p>
-<p>Sportliche Grüße<br/>
-Heiko Wagner<br/>
-1.Vorsitzender</p>
-<p><strong><em>Wer teilnehmen möchte, Bitte eine Info an die Abteilungsleiter!</em></strong></p>
-<p><img alt="" class="aligncenter wp-image-10949" decoding="async" height="232" loading="lazy" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673-300x174.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/2width650height650appearanceId1-e1681979393673.jpg 650w" width="400"/></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/20/mitgliederversammlung-hauptverein-am-17-mai-2023/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10947 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
