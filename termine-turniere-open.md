@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2023/" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer 2023</a></td>
-<td>15.07.-23.07.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_23/lichtenberger_sommer_2023.htm" rel="noopener" target="_blank">18. Lichtenberger Sommer</a></td>
 <td>12.08.-20.08.2023</td>
 <td>Ekkehard</td>
@@ -40,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachclub-oranienburg.de/wordpress/2023/06/oranienburger-chess-open-2023/" rel="noopener" target="_blank">2. Oranienburger Chess Open 2023</a></td>
 <td>02.09.-03.09.2023</td>
-<td></td>
+<td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
@@ -63,7 +58,7 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><strong>Kurt-Richter-Gedenkturnier 2023</strong></td>
+<td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/"><strong>Kurt-Richter-Gedenkturnier 2023</strong></a></td>
 <td>27.10.-29.10.2023</td>
 <td></td>
 </tr>
