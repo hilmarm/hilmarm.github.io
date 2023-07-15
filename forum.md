@@ -12,6 +12,20 @@ parent_title: Impressum
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Forum</span> </h1>
+<div class="post-11209 post type-post status-publish format-standard post-password-required hentry category-forum category-training" id="post-11209">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/14/training-gm-michael-richter-2022/" rel="bookmark">Geschützt: Training GM Michael Richter 2022</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/14/training-gm-michael-richter-2022/" rel="bookmark" title="18:38"><span class="entry-date">14. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/forum/" rel="category tag">Forum</a>, <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-11209 
 <div class="post-8753 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-8753">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2021/10/15/bmm-planung-2021-22/" rel="bookmark">Geschützt: BMM-Planung 2021/22</a></h2>
 <div class="entry-meta">
