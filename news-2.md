@@ -8,13 +8,50 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11215 post type-post status-publish format-standard sticky hentry category-krt" id="post-11215">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/" rel="bookmark">Kurt-Richter-Gedenkturnier 2023</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/" rel="bookmark" title="8:07"><span class="entry-date">17. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Es ist soweit, wir haben eine Ausschreibung, das <strong>Kurt-Richter-Gedenkturnier</strong> ist zurück!!</p>
+<p><strong>Termin ist vom 27.10. bis 29.10.2023.</strong></p>
+<p><strong>Ort ist das Rathaus Mitte im Robert-Havemann-Saal.</strong></p>
+<p>Und es gibt nicht nur einen neuen Spielort, sondern auch einen neuen Modus. Es gibt nicht das klassische 5 Runden Turnier. <strong>Gespielt werden 7 Runden</strong>, am Freitag Abend 3 Runden Schnellschach <em>(25 min + 10 sek/Zug)</em> und Samstag Sonntag dann jeweils 2 Runden „normale“-Bedenkzeit <em>(90min/40 +15min Rest; 30 sek/Zug vom 1.Zug an – also wie DSAM)</em> inkl. DWZ Wertung.</p>
+<p>Alles weitere könnt Ihr der Ausschreibung entnehmen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/">Turnierseite</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/krt2023foto/"><img alt="" class="aligncenter wp-image-11206 size-medium" decoding="async" height="300" sizes="(max-width: 203px) 100vw, 203px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Foto-203x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Foto-203x300.jpg 203w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Foto.jpg 453w" width="203"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11215 
+<div class="post-11217 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11217">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark">Schnellschach Runde 4</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark" title="8:57"><span class="entry-date">17. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag fand die 4. Runde von unserem <strong>Schnellschach GP</strong> statt. Mit 14 Teilnehmern war wieder ein großes Teilnehmer am Start.</p>
+<p>Eindeutiger Sieger wurde <strong>Peter</strong> mit 5 aus 5! Platz 2 und 3 haben jeweils 3,5 Punkte, dabei hat <strong>Tomas</strong> die bessere Buchholzwertung und nimmt <strong>Klaus</strong> weitere 2 Punkte für die Gesamtwertung ab. So sind nun Peter und Klaus punktgleich, Tomas wird bei weiteren gleichen Ergebnissen noch zu den beiden aufschließen, ab der nächsten Runde greifen die ersten Streichwerte.</p>
+<p>Stark unterwegs war auch <strong>Felix</strong>, der wie <strong>Hans-Dieter</strong> auf 3 Punkte kam und den 5. Platz hinter Hans-Dieter belegt.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11217 
 <div class="post-11154 post type-post status-publish format-standard hentry category-openberichte" id="post-11154">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark">der fleißige Gerhard</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark" title="7:36"><span class="entry-date">11. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Eines unserer ältesten Mitglieder ist auch zeitgleich eines der aktivsten! <strong>Gerhard</strong> (86) hat 2023 bereits 6 DWZ-gewertete Turniere gespielt!</p>
-<div class="wp-caption alignnone" id="attachment_11189" style="width: 510px"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/dwzgerhard/" rel="attachment wp-att-11189"><img alt="" aria-describedby="caption-attachment-11189" class="wp-image-11189" decoding="async" height="126" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-768x193.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard.jpg 822w" width="500"/></a><p class="wp-caption-text" id="caption-attachment-11189">die BMM wird dann die 100. Auswertung</p></div>
+<div class="wp-caption alignnone" id="attachment_11189" style="width: 510px"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/dwzgerhard/" rel="attachment wp-att-11189"><img alt="" aria-describedby="caption-attachment-11189" class="wp-image-11189" decoding="async" height="126" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-768x193.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard.jpg 822w" width="500"/></a><p class="wp-caption-text" id="caption-attachment-11189">die BMM wird dann die 100. Auswertung</p></div>
 <p>Neben der BFL und BMM wo er natürlich aktiv war, hat er neben der <a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/">Berliner Seniorenmeisterschaft</a> auch noch Ausflüge nach <strong>Undeloh</strong> (liegt in Niedersachsen, etwas südlich von Hamburg), <strong>Stendal</strong> und <strong>Miedzyzdroje</strong> (PL) gemacht!</p>
 <p>In <strong>Undeloh</strong> trat er beim <strong>Nestorenturnier 2023 „Klaus Gohde Gedenkturnier“</strong> vom 15. bis 19.03.2023 an. Organisiert vom Förderkreis der Senioren im DSB (u.a. von Martin Sebastian) ein Turnier für Teilnehmer „Baujahr“ 1948 und älter. Gespielt wurden 5 Runden und Gerhard erreichte starke 3 Punkte aus den 5 Partien, bei nur einer Niederlage! So gewann er in Runde 1 gleich gegen DWZ 1935 und spielte in Runde 2 Remis gegen 1922! <strong>Das reichte dann für Platz 10 bei 52 Teilnehmern!</strong><br/>
 <a href="https://chess-results.com/tnr741210.aspx?lan=0&amp;art=4" rel="noopener" target="_blank">Ergebnisse</a></p>
@@ -222,7 +259,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64b3cb9477c66-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64b51d18965d5-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -230,7 +267,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64b3cb9477c66-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64b51d18965d5-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -599,51 +636,6 @@ Ebenfalls 4 Punkte hat auf Platz 3 der beste Gast, <strong>Cory</strong>!<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-10989 
-<div class="post-10965 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-10965">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/" rel="bookmark">Runde 9 BMM und BFL</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/" rel="bookmark" title="12:02"><span class="entry-date">27. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>BMM</strong><br/>
-In Abwesenheit des Präsidenten:</p>
-<p>NARVA 1 gewinnt mit 4,5:3,5</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg"><img alt="" class="alignnone size-full wp-image-10966" decoding="async" height="253" loading="lazy" sizes="(max-width: 1015px) 100vw, 1015px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546.jpg 1015w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589287546-768x191.jpg 768w" width="1015"/></a></p>
-<p>NARVA 2 gewinnt mit 6:2</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155.jpg"><img alt="" class="alignnone size-large wp-image-10967" decoding="async" height="136" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-1024x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-1024x218.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-300x64.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-768x164.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155-940x198.jpg 940w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589292155.jpg 1027w" width="640"/></a></p>
-<p>NARVA 3 spielt 3:3 Unentschieden</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815.jpg"><img alt="" class="alignnone size-large wp-image-10968" decoding="async" height="114" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-1024x183.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-1024x183.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-300x54.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815-768x137.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/FB_IMG_1682589296815.jpg 1035w" width="640"/></a></p>
-<p><strong>BFL</strong></p>
-<p>NARVA 1 verliert 1,5:2,5</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome.jpg"><img alt="" class="alignnone size-large wp-image-10969" decoding="async" height="93" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-1024x148.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-1024x148.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-300x43.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome-768x111.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115419_Chrome.jpg 1026w" width="640"/></a></p>
-<p>NARVA 2 gewinnt 3:1</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome.jpg"><img alt="" class="alignnone size-large wp-image-10970" decoding="async" height="88" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-1024x141.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-1024x141.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-300x41.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome-768x106.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/04/Screenshot_20230427_115351_Chrome.jpg 1080w" width="640"/></a><br/>
-An den Brettern 1 bis 3 steht eine klare DWZ-Überlegenheit zu unseren Gunsten. Nur an Brett 4 ist Mariendorf Favorit.<br/>
-Der Kampf ist bereits nach gut 1,5h entschieden. NARVA 2 gewinnt mit 3:1 – so wie die Zahlen es wollten…</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/27/runde-9-bmm-und-bfl/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10965 
-<div class="post-10961 post type-post status-publish format-standard hentry category-termine" id="post-10961">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/" rel="bookmark">Kommende Trainingsabende</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/" rel="bookmark" title="16:30"><span class="entry-date">25. April 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hier schon einmal als Ankündigung die Themen der nächsten Trainingsabende:</p>
-<p>Am <strong>4. Mai</strong> zeige ich etwas zum Thema <u>Vorbereitung auf den Gegner</u>, unter anderem: Wie findet man Partien – und einen Plan? Wie prägt man sich die Varianten ein? Warum soll man sich überhaupt vorbereiten, wenn der Gegner vielleicht etwas ganz anderes spielt? Bringt gerne auch eigene Gedanken zum Thema mit!</p>
-<p>Am <strong>1. Juni</strong> findet ein Training mit Thomas zum Thema <u>Regelkunde</u> statt. Natürlich geht es nicht darum, wie die Figuren ziehen, sondern eher um fortgeschrittene Themen wie z.B. regelwidrige Züge, richtige Remisreklamation oder wann man das Mitschreiben einstellen kann.</p>
-<p>Für den 6. Juli steht noch kein Thema fest, aber den <strong>3. August</strong> könnt ihr euch schon mal vormerken. Für diesen Tag haben wir wieder <u>GM Michael Richter</u> eingeladen.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/04/25/kommende-trainingsabende/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10961 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
