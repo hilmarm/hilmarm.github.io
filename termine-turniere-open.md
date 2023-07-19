@@ -33,6 +33,11 @@ parent_title: Termine
 <td>Günter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://chessandjazz.de/img/Laborgh%20Rapid%20Cup_DE.pdf" rel="noopener" target="_blank">Labporgh Rapid Cup bei Chess &amp; Jazz</a></td>
+<td>02.09.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.schachclub-oranienburg.de/wordpress/2023/06/oranienburger-chess-open-2023/" rel="noopener" target="_blank">2. Oranienburger Chess Open 2023</a></td>
 <td>02.09.-03.09.2023</td>
 <td>Torsten</td>
@@ -43,6 +48,16 @@ parent_title: Termine
 <td>1x NARVA 1x Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Einzelmeisterschaft 2023</a></td>
+<td>16.09.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Mannschaftsmeisterschaft 2023</a></td>
+<td>17.09.2023</td>
+<td>2 Mannschaften??</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>29.09.-05.10.2023</td>
 <td>Hans-Dieter, Ulrich</td>
@@ -51,6 +66,16 @@ parent_title: Termine
 <td><a href="https://www.schachverein-wildau.de/pdf/ausschreibung_16_dahmelandpokal2023.pdf" rel="noopener" target="_blank">16. Dahmelandpokal 2023</a></td>
 <td>30.09.-03.10.2023</td>
 <td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Einzelmeisterschaft 2023</a></td>
+<td>30.09.2023</td>
+<td>Sven?</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Mannschaftsmeisterschaft 2023</a></td>
+<td>01.10.2023</td>
+<td>1-2 Mannschaften</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">Berlin U25 Open</a></td>
@@ -65,6 +90,17 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>
 <td>03.11.-05.11.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><strong>Weihnachts-Festival 2023</strong><br/>
+<a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_960.pdf" rel="noopener" target="_blank">Weihnachts-960</a><br/>
+<a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_Open.pdf" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a><br/>
+<a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_Blitz.pdf" rel="noopener" target="_blank">Weihnachts-Blitz</a></td>
+<td>22.12.-30.12.2023<br/>
+22.12.2023<br/>
+27.-30.12.2023<br/>
+30.12.2023</td>
 <td></td>
 </tr>
 </tbody>
