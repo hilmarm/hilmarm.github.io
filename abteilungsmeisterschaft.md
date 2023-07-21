@@ -369,7 +369,7 @@ parent_title: Turniere
 <td>2.</td>
 <td>Arnold,Rouven</td>
 <td>1902</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>2</td>
@@ -380,7 +380,7 @@ parent_title: Turniere
 <td>19.</td>
 <td>Herrscher,Michae</td>
 <td></td>
-<td> –</td>
+<td>+ – –</td>
 </tr>
 <tr>
 <td>3</td>
@@ -402,7 +402,7 @@ parent_title: Turniere
 <td>7.</td>
 <td>Schenk,Jonatan</td>
 <td>1674</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>5</td>
@@ -413,7 +413,7 @@ parent_title: Turniere
 <td>12.</td>
 <td>Mothes,Thomas</td>
 <td>1575</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>6</td>
@@ -435,7 +435,7 @@ parent_title: Turniere
 <td>18.</td>
 <td>Salgueiro,Felix</td>
 <td>943</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>8</td>
@@ -446,7 +446,7 @@ parent_title: Turniere
 <td>17.</td>
 <td>Heinrich,Manfred</td>
 <td>1247</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -457,7 +457,7 @@ parent_title: Turniere
 <td>14.</td>
 <td>von Kraft,Lukas</td>
 <td>1396</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>10</td>
@@ -468,7 +468,7 @@ parent_title: Turniere
 <td>20.</td>
 <td>Pape,Philipp</td>
 <td></td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 </tbody>
 </table>

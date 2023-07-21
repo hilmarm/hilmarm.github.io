@@ -45,7 +45,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
 <p>Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</p>
-<p>Stand: 20.07.2023</p>
+<p>Stand: 21.07.2023</p>
 <ul>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
 <li>Peter Thürauf (SW Nürnberg Süd)</li>
@@ -53,6 +53,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>FM Jürgen Brustkern (SK Zehlendorf)</li>
 <li>Joachim Schubert (SC Friesen Lichtenberg)</li>
 <li>Rafael Schenk (Ludwigsfelder SC 54)</li>
+<li>Peter Hintze (SG NARVA)</li>
 </ul>
 </div><!-- .entry-content -->
 </div> #post-11219 
