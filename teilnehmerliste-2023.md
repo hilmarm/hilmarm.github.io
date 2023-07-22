@@ -54,6 +54,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Joachim Schubert (SC Friesen Lichtenberg)</li>
 <li>Rafael Schenk (Ludwigsfelder SC 54)</li>
 <li>Peter Hintze (SG NARVA)</li>
+<li>Daniel Kurta (Läufer Reinickendorf)</li>
 </ul>
 </div><!-- .entry-content -->
 </div> #post-11219 
