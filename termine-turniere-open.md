@@ -48,9 +48,14 @@ parent_title: Termine
 <td>1x NARVA 1x Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="http://www.lsbb.de/archiv-pdf/Ausschreibung_Spreepokal_SSG_2023.pdf" rel="noopener" target="_blank">23.Spreewaldpokal</a></td>
+<td>16.09.2023</td>
+<td>1 Mannschaft evtl. 2</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Einzelmeisterschaft 2023</a></td>
 <td>16.09.2023</td>
-<td></td>
+<td>Batu</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Mannschaftsmeisterschaft 2023</a></td>
@@ -70,7 +75,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Einzelmeisterschaft 2023</a></td>
 <td>30.09.2023</td>
-<td>Sven?</td>
+<td>Batu, Sven?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Mannschaftsmeisterschaft 2023</a></td>

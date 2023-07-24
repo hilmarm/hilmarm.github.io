@@ -8,7 +8,64 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11215 post type-post status-publish format-standard sticky hentry category-krt" id="post-11215">
+<div class="post-11238 post type-post status-publish format-standard sticky hentry category-bmm" id="post-11238">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/" rel="bookmark">BMM Fragebogen</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/" rel="bookmark" title="8:07"><span class="entry-date">24. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die neue Saison in BMM und BFL rückt langsam näher.</p>
+<p>Für unsere Planung benötigen wir daher wieder die Infos über Eure Spielbereitschaft!<br/>
+Mitgliederversammlung wäre dann am 17.08.23.<br/>
+Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
+<p>Den <a href="https://www.narva-schach.de/wordpress/2023/07/19/fragebogen2023/">Fragebogen</a> findet Ihr im Mitgliederbereich unserer Homepage.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11238 
+<div class="post-11240 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11240">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/" rel="bookmark">Abteilungsmeisterschaft Runde 4</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/" rel="bookmark" title="9:28"><span class="entry-date">24. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag stand <strong>Runde 4</strong> zur <strong>Abteilungsmeisterschaft</strong> an. Eine Partie wurde vorgespielt und 2 werden nachgeholt, der Rest spielte am Donnerstag:</p>
+<p>Die Spitzenpaarung <strong>Klaus</strong> gegen <strong>Rouven</strong> endete Remis, beide hatten sich jeweils gut vorbereitet, Rouven stellte dann aber einen Bauern ein, was Klaus aber für ein Remisangebot reichte – er wollte nichts riskieren und war mit dem halben Punkt zufrieden.</p>
+<p><strong>Hans-Dieter</strong> wartete leider vergeblich auf seinen Gegner (<strong>Michael</strong>). Der kampflose Sieg bringt ihm aber die Tabellenführung mit nun 4 aus 4!</p>
+<p><strong>Jonatan</strong> gewann schon am Dienstag gegen <strong>Hilmar</strong> und nimmt Verfolgung zur Spitzengruppe auf.</p>
+<p><strong>Peter</strong> konnte gegen <strong>mich</strong> gewinnen, dabei habe ich noch die richtige Verteidigung übersehen….sonst hätte ich ihn noch etwas quälen können… 😉 (siehe Grafik unten)</p>
+<p><strong>Felix</strong> spielt stark und gewinnt gegen <strong>Alexander</strong>! Hier gab es zwischendurch ein Problem mit der Uhr (siehe unten). Zu diesem Zeitpunkt war die Partie aber schon klar für Felix gewonnen.</p>
+<p><strong>Gerhard</strong> gewann gegen <strong>Manfred</strong>, <strong>Lukas</strong> konnte gegen <strong>Wolfgang</strong> einen weiteren Punkt sammeln und <strong>Philipp</strong> gegen <strong>Torsten</strong> seine erste Partie gewinnen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#more-11240">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11240 
+<div class="post-11217 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11217">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark">Schnellschach Runde 4</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark" title="8:57"><span class="entry-date">17. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag fand die 4. Runde von unserem <strong>Schnellschach GP</strong> statt. Mit 14 Teilnehmern war wieder ein großes Teilnehmer am Start.</p>
+<p>Eindeutiger Sieger wurde <strong>Peter</strong> mit 5 aus 5! Platz 2 und 3 haben jeweils 3,5 Punkte, dabei hat <strong>Tomas</strong> die bessere Buchholzwertung und nimmt <strong>Klaus</strong> weitere 2 Punkte für die Gesamtwertung ab. So sind nun Peter und Klaus punktgleich, Tomas wird bei weiteren gleichen Ergebnissen noch zu den beiden aufschließen, ab der nächsten Runde greifen die ersten Streichwerte.</p>
+<p>Stark unterwegs war auch <strong>Felix</strong>, der wie <strong>Hans-Dieter</strong> auf 3 Punkte kam und den 5. Platz hinter Hans-Dieter belegt.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11217 
+<div class="post-11215 post type-post status-publish format-standard hentry category-krt" id="post-11215">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/" rel="bookmark">Kurt-Richter-Gedenkturnier 2023</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/" rel="bookmark" title="8:07"><span class="entry-date">17. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -28,23 +85,6 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11215 
-<div class="post-11217 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11217">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark">Schnellschach Runde 4</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark" title="8:57"><span class="entry-date">17. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag fand die 4. Runde von unserem <strong>Schnellschach GP</strong> statt. Mit 14 Teilnehmern war wieder ein großes Teilnehmer am Start.</p>
-<p>Eindeutiger Sieger wurde <strong>Peter</strong> mit 5 aus 5! Platz 2 und 3 haben jeweils 3,5 Punkte, dabei hat <strong>Tomas</strong> die bessere Buchholzwertung und nimmt <strong>Klaus</strong> weitere 2 Punkte für die Gesamtwertung ab. So sind nun Peter und Klaus punktgleich, Tomas wird bei weiteren gleichen Ergebnissen noch zu den beiden aufschließen, ab der nächsten Runde greifen die ersten Streichwerte.</p>
-<p>Stark unterwegs war auch <strong>Felix</strong>, der wie <strong>Hans-Dieter</strong> auf 3 Punkte kam und den 5. Platz hinter Hans-Dieter belegt.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11217 
 <div class="post-11154 post type-post status-publish format-standard hentry category-openberichte" id="post-11154">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark">der fleißige Gerhard</a></h2>
 <div class="entry-meta">
@@ -259,7 +299,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64bd060d0ea29-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64be578cb1fce-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -267,7 +307,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64bd060d0ea29-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64be578cb1fce-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -595,47 +635,6 @@ Erhöhung Beitrag:<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11007 
-<div class="post-10993 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10993">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/" rel="bookmark">Schnellschach Runde 3</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/" rel="bookmark" title="13:41"><span class="entry-date">12. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>15 Teilnehmer heute beim Schnellschach! Und es wurde zu einem T(h)omas Turnier…..<br/>
-Sieger wurde unser Schwede <strong>Tomas</strong>.<br/>
-Platz 2 geht punktgleich an <strong>Klaus</strong>, der die Führung in der Gesamtwertung übernimmt! (er spielte gegen alle T(h)omas und gegen Tom…)<br/>
-Ebenfalls 4 Punkte hat auf Platz 3 der beste Gast, <strong>Cory</strong>!<br/>
-<strong>Peter</strong> erreicht nur Platz 6, noch hinter dem Präsidenten <strong>Thomas, </strong>der sich gegen Ekkehard in ein Endspiel K – K+S+L „schummelte“ und mit Patt „belohnt“ wurde.</p>
-<p>Ein starkes Turnier spielte auch <strong>Thomas</strong> Totz, er kam auch auf 3 Punkte und auf Platz 7!</p>
-<p>In der Gesamtwertung führt nun Klaus vor Peter und Jonatan.</p>
-<p>Die nächste Runde gibt es am 13.07.23</p>
-<p>In 2 Wochen geht’s im Club mit dem Monatsblitz weiter!</p>
-<p>An Himmelfahrt ist geschlossen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
-<p>P.S. – auch <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Runde 3 zur Abteilungsmeisterschaft</a> wurde inzwischen ausgelost – Spieltermin ist der 8.6.23!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/12/schnellschach-runde-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10993 
-<div class="post-10989 post type-post status-publish format-standard hentry category-interne-turniere" id="post-10989">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/" rel="bookmark">April Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/" rel="bookmark" title="7:28"><span class="entry-date">11. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Beim Monatsblitz April am 27.04. gab es den 3. Sieg von <strong>Peter</strong> in diesem Jahr. Beim doppelrundig gespielten Turnier, gab er nur einen Punkt an Tomas ab und gewann so mit 11 Punkten aus 12 Partien.</p>
-<p><strong>Tomas</strong> kam auf Platz 2 mit 10 Punkten, <strong>Hans-Dieter</strong> wurde mit 8 Punkten Dritter.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/11/april-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-10989 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
