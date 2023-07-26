@@ -20,9 +20,14 @@ navs:
 Kadiner Str. 1<br/>
 10243 Berlin<br/>
 <a href="http://www.narva-schach.de">www.narva-schach.de</a></p>
+<h4><u>Postanschrift:</u><br/>
+Thomas Mothes<br/>
+SG NARVA Berlin e.V.<br/>
+Moissistr. 16<br/>
+12489 Berlin</h4>
 <h4><u>Vertreten durch:</u><br/>
 Thomas Mothes<br/>
-1.Vorsitzender der Abteilung Schach</h4>
+Vorsitzender der Abteilung Schach</h4>
 <h4>Kontakt:<br/>
 Telefon: +49 (0)30 – 914 30 634<br/>
 E-Mail: info@narva-schach.de</h4>
@@ -30,7 +35,7 @@ E-Mail: info@narva-schach.de</h4>
 SG NARVA Berlin e.V.<br/>
 <u class="contentunderlined">Angaben zum Vereinsregister:</u><br/>
 Amtsgericht Charlottenburg, Registernummer: VR Nr. 10926</h4>
-<h4>Kontakt:<br/>
+<h4><span style="text-decoration: underline;">Kontakt Hauptverein:</span><br/>
 SG NARVA Berlin e.V.<br/>
 Modersohnstr. 55<br/>
 10245 Berlin<br/>
@@ -41,10 +46,6 @@ Thomas Mothes<br/>
 Jonatan Schenk<br/>
 <u>Social-Media Verantwortlich:</u><br/>
 Thomas Mothes</h4>
-<h4>Kontakt (Thomas Mothes):<br/>
-Telefon: +49 (0)30 – 914 30 634<br/>
-E-Mail: info@narva-schach.de<br/>
-Anschrift: Moissistr. 16, 12489 Berlin</h4>
 </td>
 <td align="center"></td>
 </tr>
