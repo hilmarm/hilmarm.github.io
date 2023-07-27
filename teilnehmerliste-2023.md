@@ -44,8 +44,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
-<p>Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</p>
-<p>Stand: 24.07.2023</p>
+<p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
 <ul>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
 <li>Peter Thürauf (SW Nürnberg Süd)</li>
@@ -57,7 +56,22 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Daniel Kurta (Läufer Reinickendorf)</li>
 <li>Günter Idaczek (SG NARVA)</li>
 <li>Franz Tham (TSG R/W Fredersdorf)</li>
+<li>Alexander Kreisel (SG NARVA)</li>
 </ul>
+<p> </p>
+<p>Stand: 26.07.2023 – 13:00 Uhr</p>
+<p> </p>
+<p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
+<ul>
+<li>Jörg Nagler</li>
+<li>Rüdiger Meinicke</li>
+<li>Ekkehard Krüger</li>
+<li>Jim Sohr</li>
+<li>Luna Sohr</li>
+<li>Sven Sohr</li>
+</ul>
+<p> </p>
+<p>Stand: 26.07.2023 – 13:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
