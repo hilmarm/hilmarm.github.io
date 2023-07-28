@@ -125,7 +125,7 @@ navs:
 <td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
-<td>1843</td>
+<td>1842</td>
 <td>64</td>
 <td>1868</td>
 </tr>
@@ -293,7 +293,7 @@ navs:
 <td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
-<td>1283</td>
+<td>1284</td>
 <td>32</td>
 <td>1391</td>
 </tr>
