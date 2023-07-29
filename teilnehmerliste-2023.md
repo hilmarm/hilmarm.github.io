@@ -57,21 +57,24 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Günter Idaczek (SG NARVA)</li>
 <li>Franz Tham (TSG R/W Fredersdorf)</li>
 <li>Alexander Kreisel (SG NARVA)</li>
+<li>Ekkehard Krüger (SG NARVA)</li>
+<li>Thomas Kalkowski (BA Tempelhof)</li>
+<li>Michael Quast (BA Tempelhof)</li>
 </ul>
 <p> </p>
-<p>Stand: 26.07.2023 – 13:00 Uhr</p>
+<p>Stand: 29.07.2023 – 12:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ul>
 <li>Jörg Nagler</li>
 <li>Rüdiger Meinicke</li>
-<li>Ekkehard Krüger</li>
 <li>Jim Sohr</li>
 <li>Luna Sohr</li>
 <li>Sven Sohr</li>
+<li>Dave Möwisch</li>
 </ul>
 <p> </p>
-<p>Stand: 26.07.2023 – 13:00 Uhr</p>
+<p>Stand: 29.07.2023 – 12:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
