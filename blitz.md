@@ -467,7 +467,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>9</td>
-<td>Lubina,Barny</td>
+<td>Lubina,Barny (ohne Verein)</td>
 <td></td>
 <td>0</td>
 <td>0</td>

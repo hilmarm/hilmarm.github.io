@@ -424,7 +424,7 @@ parent_title: Turniere
 <td>10.</td>
 <td>Campe,Ulrich</td>
 <td>1592</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>7</td>

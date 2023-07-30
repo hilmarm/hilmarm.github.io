@@ -26,6 +26,25 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11238 
+<div class="post-11272 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11272">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/" rel="bookmark">Juli Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/" rel="bookmark" title="13:33"><span class="entry-date">29. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>11 Teilnehmer fanden sich zum <strong>Monats-Blitz Juli</strong> ein! Darunter gleich 6 Gäste!!</p>
+<p>Den Sieg machten aber <strong>Peter</strong> und <strong>Tomas</strong> unter sich aus. Am Ende waren sie punktgleich mit je 9 Punkten aus 10 Partien. Tomas teilte sich mit Hans-Dieter und Matthias die Punkte, Peter gab das direkte Duell mit Tomas wegen Handy klingeln ab…. Für die Gesamtwertung ist das natürlich gut, es wird spannend zwischen den beiden. Ab nächste Runde stehen die ersten Streichwerte an (nur die 6 besten zählen am Ende)!</p>
+<p><strong>Matthias</strong> sicherte sich als bester Gast Platz 3 und klettert auch in der Gesamtwertung nach oben.</p>
+<p><strong>Ekkehard</strong> und <strong>Hans-Dieter</strong> liegen punkgleich dahinter auf den Plätzen 4 und 5 mit je 6,5 Punkten. Thomas T. ist weiter gut in Form und belegt am Ende Platz 6, in der Gesamtwertung liegt er auf Platz 5!</p>
+<p>Turnierleiter Klaus war übrigens mit der Disziplin sehr zufrieden! 😉</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11272 
 <div class="post-11240 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11240">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/" rel="bookmark">Abteilungsmeisterschaft Runde 4</a></h2>
 <div class="entry-meta">
@@ -45,7 +64,7 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11240 
 <div class="post-11217 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11217">
@@ -299,7 +318,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64c4ef0c70466-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64c64084c74a5-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -307,7 +326,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64c4ef0c70466-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64c64084c74a5-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -555,86 +574,6 @@ Schlussstellung Postler – Schenk</div>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11012 
-<div class="post-11007 post type-post status-publish format-standard hentry category-allgemein category-bmm" id="post-11007">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/" rel="bookmark">Umfrage zu BMM Start für Verbandstag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/" rel="bookmark" title="20:03"><span class="entry-date">26. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>11.06.2023</strong> findet der <strong>Verbandstag vom BSV</strong> statt.<br/>
-Dabei wird es einen Antrag vom Präsidium des BSV zur <strong>Startzeit der BMM</strong> geben. Es gibt den Vorschlag für 10 Uhr statt wie jetzt 9 Uhr.</p>
-<p>Wie schon beim letzten Antrag zu diesem Thema, wollen wir entsprechend der Mehrheit im Verein unsere Stimme abgeben.</p>
-<p>Außerdem gibt es einen Antrag zur Beitragserhöhung,  die wohl nach der beschlossenen Erhöhung vom Schachbund Pflicht ist.</p>
-<p>Die kompletten Unterlagen zum anstehenden Verbandstag findet ihr auf der <a href="https://www.berlinerschachverband.de/entry/verbandstagsmaterialien-2.html" rel="noopener" target="_blank">BSV Seite </a>(Anträge ab Seite 17).</p>
-<p>Dazu hier die Umfrage:<br/>
-<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f11006-p11007-o1" lang="de-DE">
-<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
-<form action="/wordpress/news-2/#wpcf7-f11006-p11007-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
-<div style="display: none;">
-<input name="_wpcf7" type="hidden" value="11006"/>
-<input name="_wpcf7_version" type="hidden" value="5.7.7"/>
-<input name="_wpcf7_locale" type="hidden" value="de_DE"/>
-<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f11006-p11007-o1"/>
-<input name="_wpcf7_container_post" type="hidden" value="11007"/>
-<input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
-</div>
-<p><label> Dein Name<br/>
-<span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" autocomplete="name" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" size="40" type="text" value=""/></span> </label><br/>
-Startzeit BMM Sonntag. Bitte eine Zeit oder "egal" auswählen:<br/>
-<span class="wpcf7-form-control-wrap" data-name="Startzeit"><select aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" name="Startzeit"><option value="9:00 Uhr">9:00 Uhr</option><option value="10:00 Uhr">10:00 Uhr</option><option value="egal">egal</option></select></span><br/>
-Erhöhung Beitrag:<br/>
-<span class="wpcf7-form-control-wrap" data-name="Beitrag"><select aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-select wpcf7-validates-as-required" name="Beitrag"><option value="Ja">Ja</option><option value="Nein">Nein</option></select></span>
-</p>
-<p><input class="wpcf7-form-control has-spinner wpcf7-submit" type="submit" value="Senden"/>
-</p><div aria-hidden="true" class="wpcf7-response-output"></div>
-</form>
-</div>
-</p>
-<p><strong>Ergebnis:</strong></p>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<th>BMM</th>
-<th>Stimmen</th>
-</tr>
-<tr>
-<td>9 Uhr</td>
-<td>3</td>
-</tr>
-<tr>
-<td>10 Uhr</td>
-<td>13</td>
-</tr>
-<tr>
-<td>egal</td>
-<td>4</td>
-</tr>
-</tbody>
-</table>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<th>Beitrag</th>
-<th>Stimmen</th>
-</tr>
-<tr>
-<td>JA</td>
-<td>9</td>
-</tr>
-<tr>
-<td>NEIN</td>
-<td>10</td>
-</tr>
-</tbody>
-</table>
-<p><em>Stand 01.06.23 – 17:20 Uhr</em></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/umfrage-zu-bmm-start-fuer-verbandstag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11007 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
