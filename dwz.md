@@ -61,8 +61,8 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1990</td>
-<td>448</td>
+<td>1996</td>
+<td>449</td>
 <td>1981</td>
 </tr>
 <tr>
@@ -139,19 +139,19 @@ navs:
 </tr>
 <tr>
 <td>14.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1785</td>
+<td>63</td>
+<td>1709</td>
+</tr>
+<tr>
+<td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1773</td>
 <td>47</td>
 <td>1796</td>
-</tr>
-<tr>
-<td>15.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1772</td>
-<td>62</td>
-<td>1709</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -187,6 +187,14 @@ navs:
 </tr>
 <tr>
 <td>20.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1639</td>
+<td>101</td>
+<td>1734</td>
+</tr>
+<tr>
+<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1638</td>
@@ -194,7 +202,7 @@ navs:
 <td>1842</td>
 </tr>
 <tr>
-<td>21.</td>
+<td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1635</td>
@@ -202,20 +210,12 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>22.</td>
+<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10594349.html" target="_blank"> Harris-Simon Baytelman</a></td>
 <td>P</td>
 <td>1634</td>
 <td>15</td>
 <td>1632</td>
-</tr>
-<tr>
-<td>23.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1624</td>
-<td>100</td>
-<td>1734</td>
 </tr>
 <tr>
 <td>24.</td>
@@ -302,7 +302,7 @@ navs:
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
 <td>1258</td>
-<td>33</td>
+<td>34</td>
 <td>1391</td>
 </tr>
 <tr>
@@ -325,8 +325,8 @@ navs:
 <td>37.</td>
 <td><a href="http://www.schachbund.de/spieler/10082176.html" target="_blank"> Michael Herrscher</a></td>
 <td></td>
-<td>1216</td>
-<td>1</td>
+<td>1215</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>

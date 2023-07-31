@@ -26,6 +26,224 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11238 
+<div class="post-11276 post type-post status-publish format-standard hentry category-dwz" id="post-11276">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/" rel="bookmark">DWZ Auswertung BMM</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/" rel="bookmark" title="19:59"><span class="entry-date">30. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nach einigen Verzögerungen gibt es nun die DWZ Auswertung der BMM. Den größten Sprung nach oben macht <strong>Felix</strong> mit <strong>+169</strong>!! Seine erste DWZ bekommt <strong>Michael</strong> mit <strong>1216</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/dwz/">DWZ Tabelle</a></p>
+<p>Hier sortiert nach größtem +/-</p>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 25%;">Name</td>
+<td style="width: 25%;">DWZ alt</td>
+<td style="width: 25%;">DWZ neu</td>
+<td style="width: 25%;">Veränderung</td>
+</tr>
+<tr>
+<td style="width: 25%;">Felix</td>
+<td style="width: 25%;">943</td>
+<td style="width: 25%;">1112</td>
+<td style="width: 25%;">+169</td>
+</tr>
+<tr>
+<td style="width: 25%;">Jasper</td>
+<td style="width: 25%;">753</td>
+<td style="width: 25%;">871</td>
+<td style="width: 25%;">+118</td>
+</tr>
+<tr>
+<td style="width: 25%;">Jens</td>
+<td style="width: 25%;">1403</td>
+<td style="width: 25%;">1460</td>
+<td style="width: 25%;">+57</td>
+</tr>
+<tr>
+<td style="width: 25%;">Frieder</td>
+<td style="width: 25%;">1028</td>
+<td style="width: 25%;">1081</td>
+<td style="width: 25%;">+53</td>
+</tr>
+<tr>
+<td style="width: 25%;">Gerhard</td>
+<td style="width: 25%;">1589</td>
+<td style="width: 25%;">1639</td>
+<td style="width: 25%;">+50</td>
+</tr>
+<tr>
+<td style="width: 25%;">Ulrich</td>
+<td style="width: 25%;">1566</td>
+<td style="width: 25%;">1611</td>
+<td style="width: 25%;">+45</td>
+</tr>
+<tr>
+<td style="width: 25%;">Andreas</td>
+<td style="width: 25%;">1742</td>
+<td style="width: 25%;">1773</td>
+<td style="width: 25%;">+31</td>
+</tr>
+<tr>
+<td style="width: 25%;">Manfred H.</td>
+<td style="width: 25%;">1248</td>
+<td style="width: 25%;">1272</td>
+<td style="width: 25%;">+24</td>
+</tr>
+<tr>
+<td style="width: 25%;">Bernd</td>
+<td style="width: 25%;">2067</td>
+<td style="width: 25%;">2081</td>
+<td style="width: 25%;">+14</td>
+</tr>
+<tr>
+<td style="width: 25%;">Rouven</td>
+<td style="width: 25%;">1907</td>
+<td style="width: 25%;">1921</td>
+<td style="width: 25%;">+14</td>
+</tr>
+<tr>
+<td style="width: 25%;">Bram</td>
+<td style="width: 25%;">2189</td>
+<td style="width: 25%;">2199</td>
+<td style="width: 25%;">+10</td>
+</tr>
+<tr>
+<td style="width: 25%;">Alexander</td>
+<td style="width: 25%;">1532</td>
+<td style="width: 25%;">1535</td>
+<td style="width: 25%;">+3</td>
+</tr>
+<tr>
+<td style="width: 25%;">Michael</td>
+<td style="width: 25%;"></td>
+<td style="width: 25%;">1216</td>
+<td style="width: 25%;">NEU</td>
+</tr>
+<tr>
+<td style="width: 25%;">George</td>
+<td style="width: 25%;">1789</td>
+<td style="width: 25%;">1788</td>
+<td style="width: 25%;">-1</td>
+</tr>
+<tr>
+<td style="width: 25%;">Myriam</td>
+<td style="width: 25%;">1109</td>
+<td style="width: 25%;">1107</td>
+<td style="width: 25%;">-2</td>
+</tr>
+<tr>
+<td style="width: 25%;">Norbert</td>
+<td style="width: 25%;">1957</td>
+<td style="width: 25%;">1950</td>
+<td style="width: 25%;">-7</td>
+</tr>
+<tr>
+<td style="width: 25%;">Thomas M.</td>
+<td style="width: 25%;">1592</td>
+<td style="width: 25%;">1582</td>
+<td style="width: 25%;">-10</td>
+</tr>
+<tr>
+<td style="width: 25%;">Hans-Dieter</td>
+<td style="width: 25%;">1772</td>
+<td style="width: 25%;">1761</td>
+<td style="width: 25%;">-11</td>
+</tr>
+<tr>
+<td style="width: 25%;">Klaus</td>
+<td style="width: 25%;">1717</td>
+<td style="width: 25%;">1706</td>
+<td style="width: 25%;">-11</td>
+</tr>
+<tr>
+<td style="width: 25%;">Tomas</td>
+<td style="width: 25%;">1945</td>
+<td style="width: 25%;">1930</td>
+<td style="width: 25%;">-15</td>
+</tr>
+<tr>
+<td style="width: 25%;">Lukas</td>
+<td style="width: 25%;">1385</td>
+<td style="width: 25%;">1370</td>
+<td style="width: 25%;">-15</td>
+</tr>
+<tr>
+<td style="width: 25%;">Peter</td>
+<td style="width: 25%;">1914</td>
+<td style="width: 25%;">1898</td>
+<td style="width: 25%;">-16</td>
+</tr>
+<tr>
+<td style="width: 25%;">Detlef</td>
+<td style="width: 25%;">1244</td>
+<td style="width: 25%;">1226</td>
+<td style="width: 25%;">-18</td>
+</tr>
+<tr>
+<td style="width: 25%;">Günter</td>
+<td style="width: 25%;">1906</td>
+<td style="width: 25%;">1887</td>
+<td style="width: 25%;">-19</td>
+</tr>
+<tr>
+<td style="width: 25%;">Jonatan</td>
+<td style="width: 25%;">1791</td>
+<td style="width: 25%;">1772</td>
+<td style="width: 25%;">-19</td>
+</tr>
+<tr>
+<td style="width: 25%;">Magnus</td>
+<td style="width: 25%;">1784</td>
+<td style="width: 25%;">1764</td>
+<td style="width: 25%;">-20</td>
+</tr>
+<tr>
+<td style="width: 25%;">Wesko</td>
+<td style="width: 25%;">1574</td>
+<td style="width: 25%;">1548</td>
+<td style="width: 25%;">-26</td>
+</tr>
+<tr>
+<td style="width: 25%;">Torsten</td>
+<td style="width: 25%;">1284</td>
+<td style="width: 25%;">1258</td>
+<td style="width: 25%;">-26</td>
+</tr>
+<tr>
+<td style="width: 25%;">Thomas T.</td>
+<td style="width: 25%;">1131</td>
+<td style="width: 25%;">1105</td>
+<td style="width: 25%;">-26</td>
+</tr>
+<tr>
+<td style="width: 25%;">Hilmar M.</td>
+<td style="width: 25%;">1671</td>
+<td style="width: 25%;">1635</td>
+<td style="width: 25%;">-36</td>
+</tr>
+<tr>
+<td style="width: 25%;">Gunar</td>
+<td style="width: 25%;">1388</td>
+<td style="width: 25%;">1342</td>
+<td style="width: 25%;">-46</td>
+</tr>
+<tr>
+<td style="width: 25%;">Ekkehard</td>
+<td style="width: 25%;">1731</td>
+<td style="width: 25%;">1638</td>
+<td style="width: 25%;">-93</td>
+</tr>
+</tbody>
+</table>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11276 
 <div class="post-11272 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11272">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/" rel="bookmark">Juli Blitz</a></h2>
 <div class="entry-meta">
@@ -318,7 +536,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64c64084c74a5-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64c7920fc47f5-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -326,7 +544,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64c64084c74a5-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64c7920fc47f5-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -450,130 +668,6 @@ Schlussstellung Postler – Schenk</div>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11020 
-<div class="post-11012 post type-post status-publish format-standard hentry category-bfl" id="post-11012">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/" rel="bookmark">Endstand BFL und DWZ Auswertung</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/" rel="bookmark" title="20:27"><span class="entry-date">26. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Bereits vor einigen Wochen war die <strong>BFL</strong> zu Ende. Nun gibt es die DWZ Auswertung und auch die Tabellen.</p>
-<p><strong>NARVA 1</strong> landet mit zu wenigen Mannschaftspunkten auf Platz 9, was den Abstieg bedeuten würde.</p>
-<p><strong>NARVA 2</strong> verfehlt ganz knapp den Aufstieg (und damit die Rettung der Ersten), punktgleich mit der SG Weißensee entscheidet das direkte Duell zu unseren Ungunsten….</p>
-<p>Was das für die nächste Saison bedeutet, wird sich zeigen. Wahrscheinlich treten wir sogar mit 3 Mannschaften an. Wie diese dann verteilt werden, hängt auch davon ab, wie die anderen Vereine melden.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg"><img alt="" class="wp-image-11003 size-medium alignleft" decoding="async" height="231" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-300x231.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome-768x592.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230501_173555_Chrome.jpg 840w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg"><img alt="" class="size-medium wp-image-11004 alignnone" decoding="async" height="203" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome-768x519.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/Screenshot_20230505_141258_Chrome.jpg 923w" width="300"/></a></p>
-<p> </p>
-<p>Die <strong>DWZ Auswertung</strong> ergibt folgende Änderungen:</p>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<th>Name</th>
-<th>+/-</th>
-<th>DWZ Neu</th>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Bradschetl</td>
-<td style="width: 33.3333%;">+73</td>
-<td style="width: 33.3333%;">1424</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Brinckmann</td>
-<td style="width: 33.3333%;">+40</td>
-<td style="width: 33.3333%;">1717</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Kreisel</td>
-<td style="width: 33.3333%;">+25</td>
-<td style="width: 33.3333%;">1532</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Idaczek</td>
-<td style="width: 33.3333%;">+24</td>
-<td style="width: 33.3333%;">1906</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Schenk</td>
-<td style="width: 33.3333%;">+17</td>
-<td style="width: 33.3333%;">1791</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Daverkausen</td>
-<td style="width: 33.3333%;">+5</td>
-<td style="width: 33.3333%;">2067</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Arnold</td>
-<td style="width: 33.3333%;">+5</td>
-<td style="width: 33.3333%;">1907</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Eichstädt</td>
-<td style="width: 33.3333%;">+4</td>
-<td style="width: 33.3333%;">1284</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Hintze</td>
-<td style="width: 33.3333%;">0</td>
-<td style="width: 33.3333%;">1914</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Hildebrandt</td>
-<td style="width: 33.3333%;">0</td>
-<td style="width: 33.3333%;">1649</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Mietzelfeldt</td>
-<td style="width: 33.3333%;">-1</td>
-<td style="width: 33.3333%;">1623</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Lenhardt</td>
-<td style="width: 33.3333%;">-6</td>
-<td style="width: 33.3333%;">1954</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Krüger</td>
-<td style="width: 33.3333%;">-6</td>
-<td style="width: 33.3333%;">1751</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Mothes</td>
-<td style="width: 33.3333%;">-11</td>
-<td style="width: 33.3333%;">1592</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">von Kraft</td>
-<td style="width: 33.3333%;">-11</td>
-<td style="width: 33.3333%;">1385</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Magnusson</td>
-<td style="width: 33.3333%;">-12</td>
-<td style="width: 33.3333%;">1671</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Kinski</td>
-<td style="width: 33.3333%;">-14</td>
-<td style="width: 33.3333%;">1662</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Steppuhn</td>
-<td style="width: 33.3333%;">-14</td>
-<td style="width: 33.3333%;">1244</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">Segerberg</td>
-<td style="width: 33.3333%;">-18</td>
-<td style="width: 33.3333%;">1945</td>
-</tr>
-</tbody>
-</table>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/endstand-bfl-und-dwz-auswertung/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11012 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

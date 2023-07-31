@@ -60,9 +60,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Ekkehard Krüger (SG NARVA)</li>
 <li>Thomas Kalkowski (BA Tempelhof)</li>
 <li>Michael Quast (BA Tempelhof)</li>
+<li>René Kellner (PSV Potsdam)</li>
 </ul>
 <p> </p>
-<p>Stand: 29.07.2023 – 12:00 Uhr</p>
+<p>Stand: 31.07.2023 – 09:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ul>
@@ -72,9 +73,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Luna Sohr</li>
 <li>Sven Sohr</li>
 <li>Dave Möwisch</li>
+<li>Lothar Opialla</li>
+<li>Ralf Ettl</li>
 </ul>
 <p> </p>
-<p>Stand: 29.07.2023 – 12:00 Uhr</p>
+<p>Stand: 31.07.2023 – 09:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
