@@ -131,19 +131,19 @@ navs:
 </tr>
 <tr>
 <td>13.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1807</td>
+<td>64</td>
+<td>1709</td>
+</tr>
+<tr>
+<td>14.</td>
 <td><a href="http://www.schachbund.de/spieler/10285337.html" target="_blank"> George Calamar</a></td>
 <td></td>
 <td>1788</td>
 <td>19</td>
 <td>1723</td>
-</tr>
-<tr>
-<td>14.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1785</td>
-<td>63</td>
-<td>1709</td>
 </tr>
 <tr>
 <td>15.</td>

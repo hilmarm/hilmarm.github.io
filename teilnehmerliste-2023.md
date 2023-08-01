@@ -61,20 +61,20 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Thomas Kalkowski (BA Tempelhof)</li>
 <li>Michael Quast (BA Tempelhof)</li>
 <li>René Kellner (PSV Potsdam)</li>
+<li>Jim Sohr (Königsjäger)</li>
+<li>Luna Sohr (Königsjäger)</li>
+<li>Sven Sohr</li>
+<li>Ralf Ettl (König Tegel)</li>
 </ul>
 <p> </p>
-<p>Stand: 31.07.2023 – 09:00 Uhr</p>
+<p>Stand: 31.07.2023 – 16:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ul>
 <li>Jörg Nagler</li>
 <li>Rüdiger Meinicke</li>
-<li>Jim Sohr</li>
-<li>Luna Sohr</li>
-<li>Sven Sohr</li>
 <li>Dave Möwisch</li>
 <li>Lothar Opialla</li>
-<li>Ralf Ettl</li>
 </ul>
 <p> </p>
 <p>Stand: 31.07.2023 – 09:00 Uhr</p>
