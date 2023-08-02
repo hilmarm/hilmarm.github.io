@@ -85,7 +85,7 @@ navs:
 <td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
-<td>1930</td>
+<td>1928</td>
 <td>60</td>
 <td>1991</td>
 </tr>
@@ -109,7 +109,7 @@ navs:
 <td>10.</td>
 <td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
 <td></td>
-<td>1887</td>
+<td>1886</td>
 <td>71</td>
 <td>1914</td>
 </tr>
@@ -133,7 +133,7 @@ navs:
 <td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
-<td>1807</td>
+<td>1808</td>
 <td>64</td>
 <td>1709</td>
 </tr>
@@ -149,7 +149,7 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
-<td>1773</td>
+<td>1772</td>
 <td>47</td>
 <td>1796</td>
 </tr>
@@ -203,19 +203,19 @@ navs:
 </tr>
 <tr>
 <td>22.</td>
-<td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
-<td></td>
-<td>1635</td>
-<td>3</td>
-<td>0</td>
-</tr>
-<tr>
-<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10594349.html" target="_blank"> Harris-Simon Baytelman</a></td>
 <td>P</td>
 <td>1634</td>
 <td>15</td>
 <td>1632</td>
+</tr>
+<tr>
+<td>23.</td>
+<td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
+<td></td>
+<td>1633</td>
+<td>3</td>
+<td>0</td>
 </tr>
 <tr>
 <td>24.</td>
@@ -229,7 +229,7 @@ navs:
 <td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
-<td>1582</td>
+<td>1584</td>
 <td>73</td>
 <td>1591</td>
 </tr>
@@ -245,7 +245,7 @@ navs:
 <td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
-<td>1535</td>
+<td>1534</td>
 <td>46</td>
 <td></td>
 </tr>
@@ -285,7 +285,7 @@ navs:
 <td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10718317.html" target="_blank"> Gunar Maiwald</a></td>
 <td></td>
-<td>1342</td>
+<td>1348</td>
 <td>6</td>
 <td></td>
 </tr>
@@ -301,7 +301,7 @@ navs:
 <td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
-<td>1258</td>
+<td>1266</td>
 <td>34</td>
 <td>1391</td>
 </tr>
