@@ -40,13 +40,13 @@ parent_title: Turniere
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">03. August 2023</td>
-<td style="height: 24px; width: 175.25px;"></td>
-<td nowrap="nowrap" style="height: 24px; width: 169.117px;"></td>
+<td style="height: 24px; width: 175.25px;">Partien DSAM</td>
+<td nowrap="nowrap" style="height: 24px; width: 169.117px;">Jonatan Schenk</td>
 </tr>
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="height: 24px; width: 149.633px;">07. September 2023</td>
 <td nowrap="nowrap" style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;"></td>
+<td style="height: 24px; width: 169.117px;">Rouven Arnold?</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">05. Oktober 2023</td>

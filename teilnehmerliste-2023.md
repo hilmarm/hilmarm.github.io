@@ -44,6 +44,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
+<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a></p>
 <p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
 <ul>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
@@ -64,7 +65,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jim Sohr (Königsjäger)</li>
 <li>Luna Sohr (Königsjäger)</li>
 <li>Sven Sohr</li>
-<li>Ralf Ettl (König Tegel)</li>
+<li>Ralf Ettel (König Tegel)</li>
 </ul>
 <p> </p>
 <p>Stand: 31.07.2023 – 16:00 Uhr</p>

@@ -26,6 +26,21 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11238 
+<div class="post-11288 post type-post status-publish format-standard hentry category-openberichte category-training" id="post-11288">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark">DSAM-Finale in Bad Wildungen</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark" title="15:10"><span class="entry-date">2. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Beim DSAM-Finale in Bad Wildungen am vergangenen Wochenende war ich als einziger NARVA-Teilnehmer dabei (Ekkehard wurde zwar als Nachrücker eingeladen, konnte aber leider nicht teilnehmen).</p>
+<p>Mit 3.5 Punkten erreichte ich in der D-Gruppe Platz 9 und habe damit erstmals über 1800 DWZ. Das klingt erstmal nicht schlecht, dennoch bin ich nicht zufrieden mit meiner Leistung. <strong>Im Training</strong> zeige ich morgen, warum.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a>, <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/#comments">Ein Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11288 
 <div class="post-11276 post type-post status-publish format-standard hentry category-dwz" id="post-11276">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/" rel="bookmark">DWZ Auswertung BMM</a></h2>
 <div class="entry-meta">
@@ -536,7 +551,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64ca351687414-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64cb868b291a5-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -544,7 +559,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64ca351687414-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64cb868b291a5-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -652,22 +667,6 @@ Schlussstellung Postler – Schenk</div>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11026 
-<div class="post-11020 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11020">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/" rel="bookmark">Mai Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/" rel="bookmark" title="20:54"><span class="entry-date">26. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern beim Mai-Blitz gewann<strong> Tomas</strong> mit 6 Punkten vor <strong>Peter</strong> mit 5,5 und <strong>Ekkehard</strong> mit 5 Punkten. Die Spitze nahm sich dabei gut gegenseitig Punkte weg, nur der Schwede blieb ohne Niederlage.</p>
-<p>Mit 8 Teilnehmern war das Blitz auch wieder etwas besser besucht, es hätten aber auch mehr sein können…. Bitte seit pünktlich, um 18:15 Uhr soll es immer los gehen!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/26/mai-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11020 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

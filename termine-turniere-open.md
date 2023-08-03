@@ -38,6 +38,11 @@ parent_title: Termine
 <td>Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://chessence.de/turnier-anmeldung-25-08-23-27-08-23/" rel="noopener" target="_blank">CHESSENCE OPEN</a></td>
+<td>25.08.-27.08.2023</td>
+<td>Oliver</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/termin/schlacht-bei-dennewitz.html?day=20230902&amp;times=1693641600,1693641600" rel="noopener" target="_blank">Schlacht bei Dennewitz</a></td>
 <td>02.09.2023</td>
 <td>Günter</td>
@@ -116,6 +121,31 @@ parent_title: Termine
 22.12.2023<br/>
 27.-30.12.2023<br/>
 30.12.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
+<td>05.01.-07.01.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
+<td>26.01.-28.01.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
+<td>01.03.-03.03.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
+<td>19.04.-21.04.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
+<td>24.05.-26.05.2024</td>
 <td></td>
 </tr>
 </tbody>
