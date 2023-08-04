@@ -66,9 +66,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Luna Sohr (Königsjäger)</li>
 <li>Sven Sohr</li>
 <li>Ralf Ettel (König Tegel)</li>
+<li>Jan Holger Neuenbäumer (Siemensstadt)</li>
 </ul>
 <p> </p>
-<p>Stand: 31.07.2023 – 16:00 Uhr</p>
+<p>Stand: 03.08.2023 – 14:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ul>
