@@ -46,7 +46,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="entry-content">
 <p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a></p>
 <p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
-<ul>
+<ol>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
 <li>Peter Thürauf (SW Nürnberg Süd)</li>
 <li>Sibylle Guder (Sfr. Berlin)</li>
@@ -64,22 +64,27 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>René Kellner (PSV Potsdam)</li>
 <li>Jim Sohr (Königsjäger)</li>
 <li>Luna Sohr (Königsjäger)</li>
-<li>Sven Sohr</li>
+<li>Dr.Sven Sohr</li>
 <li>Ralf Ettel (König Tegel)</li>
 <li>Jan Holger Neuenbäumer (Siemensstadt)</li>
-</ul>
+<li>Tuan Kiet Nguyen (SG Eckturm)</li>
+</ol>
 <p> </p>
-<p>Stand: 03.08.2023 – 14:00 Uhr</p>
+<p>Stand: 05.08.2023 – 11:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
-<ul>
+<ol>
 <li>Jörg Nagler</li>
 <li>Rüdiger Meinicke</li>
 <li>Dave Möwisch</li>
 <li>Lothar Opialla</li>
-</ul>
+<li>Guido Giese</li>
+<li>Hanno Kühnert</li>
+<li>Bernd Hubbe</li>
+<li>Hans-Joachim Kaufhold</li>
+</ol>
 <p> </p>
-<p>Stand: 31.07.2023 – 09:00 Uhr</p>
+<p>Stand: 04.08.2023 – 15:30 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

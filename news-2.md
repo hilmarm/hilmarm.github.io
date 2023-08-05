@@ -8,24 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11238 post type-post status-publish format-standard sticky hentry category-bmm" id="post-11238">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/" rel="bookmark">BMM Fragebogen</a></h2>
+<div class="post-11303 post type-post status-publish format-standard hentry category-bfl category-bmm category-intern" id="post-11303">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark">Mitgliederversammlung am 17.08.</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/" rel="bookmark" title="8:07"><span class="entry-date">24. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark" title="10:03"><span class="entry-date">5. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Die neue Saison in BMM und BFL rückt langsam näher.</p>
-<p>Für unsere Planung benötigen wir daher wieder die Infos über Eure Spielbereitschaft!<br/>
-Mitgliederversammlung wäre dann am 17.08.23.<br/>
-Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
-<p>Den <a href="https://www.narva-schach.de/wordpress/2023/07/19/fragebogen2023/">Fragebogen</a> findet Ihr im Mitgliederbereich unserer Homepage.</p>
+<p>Hiermit lädt der Vorstand der Abteilung Schach zur <strong>Mitgliederversammlung am 17.08.2023 um 18:30 Uhr ein!</strong></p>
+<p><strong>Und natürlich um 18:30 Uhr!!</strong> In der Mail war ich gedanklich woanders…..einige haben es bemerkt 😉</p>
+<p>Hauptthema ist die Vorbereitung Zur BMM/BFL Saison 2023/24.</p>
+<p>Denkt also an die Fragebögen. Entweder als <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/BMM-Fragebogen-2023-Copy.pdf" rel="noopener" target="_blank">PDF</a>, oder über das Formular auf der Webseite: <a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/">BMM-Fragebogen 2023</a><br/>
+Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
+<p>An dieser Stelle auch eine Erinnerung an die Zahlung der Beiträge für 2023! Einige sind hier noch offen!</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-11238 
+</div> #post-11303 
 <div class="post-11288 post type-post status-publish format-standard hentry category-openberichte category-training" id="post-11288">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark">DSAM-Finale in Bad Wildungen</a></h2>
 <div class="entry-meta">
@@ -300,6 +301,24 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11240 
+<div class="post-11238 post type-post status-publish format-standard hentry category-bmm" id="post-11238">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/" rel="bookmark">BMM Fragebogen</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/" rel="bookmark" title="8:07"><span class="entry-date">24. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die neue Saison in BMM und BFL rückt langsam näher.</p>
+<p>Für unsere Planung benötigen wir daher wieder die Infos über Eure Spielbereitschaft!<br/>
+Mitgliederversammlung wäre dann am 17.08.23.<br/>
+Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
+<p>Den <a href="https://www.narva-schach.de/wordpress/2023/07/19/fragebogen2023/">Fragebogen</a> findet Ihr im Mitgliederbereich unserer Homepage.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11238 
 <div class="post-11217 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11217">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark">Schnellschach Runde 4</a></h2>
 <div class="entry-meta">
@@ -551,7 +570,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64ccd80f1ac2c-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64ce298dd9437-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -559,7 +578,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64ccd80f1ac2c-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64ce298dd9437-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -647,26 +666,6 @@ Schlussstellung Postler – Schenk</div>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11030 
-<div class="post-11026 post type-post status-publish format-standard hentry category-openberichte" id="post-11026">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/" rel="bookmark">Andreas gewinnt U1800 Wertung in Potsdam…</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/" rel="bookmark" title="18:31"><span class="entry-date">28. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>…und bleibt dabei auch ungeschlagen.</p>
-<p>Vom 18.05.2023 – 21.05.2023 fand in Potsdam das<strong> X. Potsdamer Sommeropen</strong> vom PSV Mitte statt. Gespielt wurden 7 Runden. Von NARVA war neben Andreas auch Ekkehard am Start.</p>
-<p>Während <strong>Ekkehard</strong> am Ende mit nur 3 Punkten auf Platz 73 kommt und nicht zufrieden sein wird, schlägt <strong>Andreas</strong> auch einige DWZ-stärkere Spieler und ereicht mit <strong>5 Punkten Gesamtplatz 12 (Setzliste Platz  59) und den Sieg in der U1800 Wertung! Herzlichen Glückwunsch!!</strong></p>
-<p>Dafür gibt es auch ein ordentliches DWZ-Plus von +75 auf mit einer 1990er Leistung <em>(zwischendurch kam jetzt die BFL Auswertung, die Startzahl ist also noch etwas kleiner…)</em>, ELO steht sogar +100!</p>
-<p><a href="http://psv-mitte.de/" rel="noopener" target="_blank">Turnierseite</a></p>
-<p><div class="wp-caption aligncenter" id="attachment_11028" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg"><img alt="" aria-describedby="caption-attachment-11028" class="size-medium wp-image-11028" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/PXL_20230521_130424094-1.jpg 634w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-11028">Foto von: https://schachkid.guru/fotoimpressionen-vom-10-potsdamer-sommeropen-2023/</p></div></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020.jpg"><img alt="" class="size-medium wp-image-11027 aligncenter" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230521-WA0020.jpg 1536w" width="225"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/28/andreas-gewinnt-u1800-wertung-in-potsdam/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11026 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
