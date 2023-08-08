@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11303 post type-post status-publish format-standard hentry category-bfl category-bmm category-intern" id="post-11303">
+<div class="post-11303 post type-post status-publish format-standard sticky hentry category-bfl category-bmm category-intern" id="post-11303">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark">Mitgliederversammlung am 17.08.</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark" title="10:03"><span class="entry-date">5. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -27,6 +27,23 @@ Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11303 
+<div class="post-11306 post type-post status-publish format-standard hentry category-openberichte" id="post-11306">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/08/bram-belegt-platz-2-beim-czech-open-b/" rel="bookmark">Bram belegt Platz 2 beim Czech Open B!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/08/bram-belegt-platz-2-beim-czech-open-b/" rel="bookmark" title="8:52"><span class="entry-date">8. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Vom 22. bis 29.07.23 hat <strong>Bram</strong> in Pardubice am <strong>Czech Open 2023</strong> teilgenommen. Im B-Turnier war er an <strong>Rang 2</strong> gesetzt und belegte diesen mit 7,5 Punkten aus 9 Runden auch am Ende!</p>
+<p><strong>Herzlichen Glückwunsch!</strong></p>
+<p><a href="https://chess-results.com/tnr736186.aspx?lan=0&amp;art=4&amp;turdet=YES&amp;flag=30" rel="noopener" target="_blank">Ergebnisse</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/img-20230730-wa0002/"><img alt="" class="alignnone wp-image-11287 size-large" decoding="async" height="358" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-768x429.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945.jpg 1232w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/08/bram-belegt-platz-2-beim-czech-open-b/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11306 
 <div class="post-11288 post type-post status-publish format-standard hentry category-openberichte category-training" id="post-11288">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark">DSAM-Finale in Bad Wildungen</a></h2>
 <div class="entry-meta">
@@ -347,7 +364,7 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <p>Und es gibt nicht nur einen neuen Spielort, sondern auch einen neuen Modus. Es gibt nicht das klassische 5 Runden Turnier. <strong>Gespielt werden 7 Runden</strong>, am Freitag Abend 3 Runden Schnellschach <em>(25 min + 10 sek/Zug)</em> und Samstag Sonntag dann jeweils 2 Runden „normale“-Bedenkzeit <em>(90min/40 +15min Rest; 30 sek/Zug vom 1.Zug an – also wie DSAM)</em> inkl. DWZ Wertung.</p>
 <p>Alles weitere könnt Ihr der Ausschreibung entnehmen.</p>
 <p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/">Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/krt2023ausschreibung1/"><img alt="" class="alignleft wp-image-11205" decoding="async" height="174" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-300x209.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-300x209.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-1024x712.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-768x534.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1.jpg 1347w" width="250"/></a><a href="https://www.narva-schach.de/wordpress/krt2023ausschreibung2/"><img alt="" class="alignright wp-image-11204" decoding="async" height="174" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-300x208.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-300x208.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-1024x712.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-768x534.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2.jpg 1347w" width="250"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/krt2023ausschreibung1/"><img alt="" class="alignleft wp-image-11205" decoding="async" height="174" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-300x209.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-300x209.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-1024x712.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1-768x534.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung1.jpg 1347w" width="250"/></a><a href="https://www.narva-schach.de/wordpress/krt2023ausschreibung2/"><img alt="" class="alignright wp-image-11204" decoding="async" height="174" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-300x208.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-300x208.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-1024x712.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2-768x534.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/KRT2023Ausschreibung2.jpg 1347w" width="250"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -570,7 +587,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
 <div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64d0cc8f45de5-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64d21e13ce0d0-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -578,7 +595,7 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64d0cc8f45de5-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-64d21e13ce0d0-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -648,24 +665,6 @@ Schlussstellung Postler – Schenk</div>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11051 
-<div class="post-11030 post type-post status-publish format-standard hentry category-openberichte" id="post-11030">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/" rel="bookmark">Himmelfahrtsblitz der SG Weißensee</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/" rel="bookmark" title="20:03"><span class="entry-date">28. Mai 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nach 3 Jahren Pause fand dieses Jahr endlich wieder das traditionelle <strong>Himmelfahrtsblitz der SG Weißensee</strong> statt. Team NARVA nahm wieder mit einer Mannschaft teil, einige andere Vereine stellten sogar 2 Mannschaften, dafür waren einige von vor Corona entweder nicht eingeladen oder brachten keine Mannschaft zusammen.</p>
-<p>Auch unser Team musste am Vorabend, nach dem Ausfall von Tomas, noch umgestellt werden. So rückte spontan unser Neumitglied <strong>Philipp</strong> ins Team! Vielen Dank!</p>
-<p>Außerdem waren noch <strong>Peter</strong>, <strong>Günter</strong> und <strong>Hans-Dieter</strong> dabei. Als Ergebnis gibt es nur die Tabelle nach der Vorrunde, hier belegt Team NARVA Rang 8.</p>
-<p>Das Finale ging dann an die <strong>Sfr. Nord-Ost</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg"><img alt="" class="aligncenter wp-image-11032" decoding="async" height="289" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-300x145.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024-768x370.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/05/IMG-20230518-WA0024.jpg 1016w" width="600"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/05/28/himmelfahrtsblitz-der-sg-weissensee/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11030 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

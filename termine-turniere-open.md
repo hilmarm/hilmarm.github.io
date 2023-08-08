@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://chess-results.com/tnr736186.aspx?lan=0&amp;art=0" rel="noopener" target="_blank">CZECH OPEN 2023 – B</a></td>
-<td>22.07.-29.07.2023</td>
-<td>Bram</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/bad_wildungen_finale/" rel="noopener" target="_blank">DSAM Finale</a></td>
-<td>27.07.-29.07.2023</td>
-<td>Jonatan</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_23/lichtenberger_sommer_2023.htm" rel="noopener" target="_blank">18. Lichtenberger Sommer</a></td>
 <td>12.08.-20.08.2023</td>
 <td>Ekkehard</td>

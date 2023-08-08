@@ -44,14 +44,14 @@ parent_title: Turniere
 <td style="text-align: center;">:</td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
-<td style="height: 24px;">1</td>
+<td style="height: 24px;">3</td>
 <td style="height: 24px;">Salgueiro,Felix</td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Schenk,Jonatan</td>
 <td style="height: 24px; text-align: center;">:</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
-<td style="height: 24px;">2</td>
+<td style="height: 24px;">4</td>
 <td style="height: 24px;">Segerberg,Tomas</td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Kinski,Andreas</td>
