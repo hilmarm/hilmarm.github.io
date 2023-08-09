@@ -71,9 +71,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Hans-Joachim Kaufhold (SC Weisse Dame)</li>
 <li>Guido Giese (SC Lindow)</li>
 <li>Alisha Lara Wallat (SSV Rotation Berlin)</li>
+<li>Alexis Miles Oortmann (SSV Rotation Berlin)</li>
+<li>Manuel Moster (SSV Rotation Berlin)</li>
 </ol>
 <p> </p>
-<p>Stand: 08.08.2023 – 09:00 Uhr</p>
+<p>Stand: 08.08.2023 – 18:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -85,8 +87,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Bernd Hubbe</li>
 <li>Rene Schilling</li>
 <li>Sergej Krefenstein</li>
-<li>Alexis Miles Oortmann</li>
-<li>Manuel Moster</li>
 </ol>
 <p> </p>
 <p>Stand: 08.08.2023 – 11:00 Uhr</p>
