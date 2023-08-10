@@ -73,9 +73,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Alisha Lara Wallat (SSV Rotation Berlin)</li>
 <li>Alexis Miles Oortmann (SSV Rotation Berlin)</li>
 <li>Manuel Moster (SSV Rotation Berlin)</li>
+<li>Sergej Krefenstein (TuS Makkabi)</li>
 </ol>
 <p> </p>
-<p>Stand: 08.08.2023 – 18:00 Uhr</p>
+<p>Stand: 09.08.2023 – 18:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -86,7 +87,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Hanno Kühnert</li>
 <li>Bernd Hubbe</li>
 <li>Rene Schilling</li>
-<li>Sergej Krefenstein</li>
 </ol>
 <p> </p>
 <p>Stand: 08.08.2023 – 11:00 Uhr</p>
