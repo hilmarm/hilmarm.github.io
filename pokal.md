@@ -17,6 +17,11 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Ausschreibung</a></p>
+<h3>4. Runde (Halbfinale) am 21.09.2023</h3>
+<ul>
+<li>Hintze/Lange – Salgueiro/Schenk</li>
+<li>Kinski – Maetzing</li>
+</ul>
 <h3>3. Runde (Viertelfinale) am 10.08.2023</h3>
 <table class="clean swiss footable">
 <thead>
@@ -40,8 +45,8 @@ parent_title: Turniere
 <td style="height: 24px;">2</td>
 <td style="height: 24px;">Mietzelfeldt,Gerhard</td>
 <td style="height: 24px;">–</td>
-<td nowrap="nowrap" style="height: 24px;">Maetzing,Hans-Dieter,Dr.</td>
-<td style="text-align: center;">:</td>
+<td nowrap="nowrap" style="height: 24px;"><strong>Maetzing,Hans-Dieter,Dr.</strong></td>
+<td style="text-align: center;">0 : 1</td>
 </tr>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">3</td>
@@ -54,8 +59,8 @@ parent_title: Turniere
 <td style="height: 24px;">4</td>
 <td style="height: 24px;">Segerberg,Tomas</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Kinski,Andreas</td>
-<td style="text-align: center;">:</td>
+<td style="height: 24px;"><strong>Kinski,Andreas</strong></td>
+<td style="text-align: center;">0 : 1</td>
 </tr>
 </tbody>
 </table>
