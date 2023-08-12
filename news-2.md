@@ -27,6 +27,28 @@ Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11303 
+<div class="post-11324 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11324">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/11/viertelfinale-im-pokal/" rel="bookmark">Viertelfinale im Pokal</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/11/viertelfinale-im-pokal/" rel="bookmark" title="20:46"><span class="entry-date">11. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Zumindest die Hälfte der Partien vom Viertelfinale im Pokal haben gestern stattgefunden. Die anderen 2 wurden kurzfristig verschoben.</p>
+<p>In den beiden gespielten Duellen gewann dann jeweils Schwarz. Im Duell der „Altmeister“ setzte sich der 9-fache Pokalsieger <strong>Hans-Dieter</strong> gegen <strong>Gerhard</strong> durch.</p>
+<p>Die andere Partie brachte dann eine kleine Überraschung. Der 3-fache Pokalsieger <strong>Tomas</strong> gab eine Figur für 2 Bauern, unterschätze aber das Gegenspiel von <strong>Andreas</strong> und es entstand eine sehr zweischneidige Partie. Ein Remisangebot wurde von Tomas abgelehnt, am Ende stellt er die Partie aber komplett weg und scheidet damit aus und Andreas zieht ins Halbfinale ein!</p>
+<p>Die Auslosung für das Halbfinale fand dann im Rahmen der Vorstandssitzung statt, der Präsident zog folgende Paarungen:</p>
+<p><strong>Andreas – Hans-Dieter<br/>
+Peter/Rudolf – Felix/Jonatan</strong></p>
+<p>Termin wäre der 21.09.23</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Turnierseite</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/20230810_192309/"><img alt="" class="alignnone size-medium wp-image-11322" decoding="async" height="240" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-1024x820.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-768x615.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-1536x1229.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-2048x1639.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/20230810_192254/"><img alt="" class="alignnone size-medium wp-image-11323" decoding="async" height="182" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-300x182.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-300x182.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-1024x623.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-768x467.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-1536x934.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-2048x1245.jpg 2048w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/11/viertelfinale-im-pokal/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11324 
 <div class="post-11306 post type-post status-publish format-standard hentry category-openberichte" id="post-11306">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/08/bram-belegt-platz-2-beim-czech-open-b/" rel="bookmark">Bram belegt Platz 2 beim Czech Open B!</a></h2>
 <div class="entry-meta">
@@ -35,7 +57,7 @@ Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
 <p>Vom 22. bis 29.07.23 hat <strong>Bram</strong> in Pardubice am <strong>Czech Open 2023</strong> teilgenommen. Im B-Turnier war er an <strong>Rang 2</strong> gesetzt und belegte diesen mit 7,5 Punkten aus 9 Runden auch am Ende!</p>
 <p><strong>Herzlichen Glückwunsch!</strong></p>
 <p><a href="https://chess-results.com/tnr736186.aspx?lan=0&amp;art=4&amp;turdet=YES&amp;flag=30" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/img-20230730-wa0002/"><img alt="" class="alignnone wp-image-11287 size-large" decoding="async" height="358" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-768x429.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945.jpg 1232w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/img-20230730-wa0002/"><img alt="" class="alignnone wp-image-11287 size-large" decoding="async" height="358" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-768x429.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945.jpg 1232w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -575,96 +597,6 @@ Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zu
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11058 
-<div class="post-11051 post type-post status-publish format-standard hentry category-bpmm" id="post-11051">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/" rel="bookmark">BPMM 2023</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/" rel="bookmark" title="16:06"><span class="entry-date">4. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Im Achtelfinale der BPMM traten wir gestern gegen die TSG Oberschöneweide an. Nach zahlreichen Absagen bekamen wir mit Mühe und Not vier Spieler zusammen. Neben mir stellten sich Torsten, Gerhard und Micha der Herausforderung. Die TSG hatte allerdings auch leichte Besetzungsprobleme, was sich an Brett 4 zeigte. Ein Weiterkommen war bei diesen Spielstärkeunterschieden natürlich dennoch nicht zu erwarten, als Ziel blieben schöne, interessante, vielleicht auch lehrreiche Partien. Außerdem wollten wir natürlich nicht „zu null“ verlieren – ein halber Brettpunkt war also das Ziel.</p>
-<p>Aus den Wertungszahlen würde sich laut Anhang zur Wertungsordnung ein Erwartungswert von gerade einmal 0,16 ergeben.</p>
-<p>Micha spielte an Brett 4 gegen Philipp Eisenmann (1737) sehr solide und stand zunächst gut, übersah dann aber eine Gabel und verlor Material.</p>
-<p>Bald darauf musste sich auch Torsten geschlagen geben. Er hatte sich bereiterklärt, Brett 1 zu übernehmen. Bei knapp 900 Punkten DWZ-Unterschied ist natürlich zu erwarten, dass Matthias Schöwel (2175) ihn irgendwann überspielt, aber leicht hat Torsten es ihm nicht gemacht.</p>
-<p>An Brett 2 bot ich daraufhin remis an, welches der amtierende Berliner Seniorenmeister, FM Reinhard Postler (2181) nach kurzem überlegen annahm. Das sicherte der TSG das Weiterkommen und uns den bereits erwähnten halben Brettpunkt. In der Stellung war auch nicht mehr all zu viel los. </p>
-<div style="text-align: center; margin-left: auto; margin-right: auto; width: 400px; font-size: 10pt;">
-<p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-64d612897fb8a-1">
-<noscript>
-<div class="rpbchessboard-javascriptWarning">
-			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
-</noscript>
-<div class="rpbchessboard-chessboardAnchor"></div>
-<script type="text/javascript">
-		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-64d612897fb8a-1" + ' .rpbchessboard-chessboardAnchor';
-			RPBChessboard.renderFEN($(selector), {"position":"2k5\/1pprb2p\/p5p1\/4B3\/4R3\/5K2\/PPP3PP\/8 w - - 0 25","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
-		});
-	</script>
-</div>
-<p class="rpbchessboard-spacerAfter"></p>
-Schlussstellung Postler – Schenk</div>
-<p>Es kam aber noch besser! Gerhard zeigte nämlich an Brett 3 auch eine ganz starke Leistung, so dass Luca Mankel (2058) kein richtiges Mittel gegen seine Verteidigung fand. Auch ein Bauernopfer änderte daran nichts. Nach viereinhalb Stunden wurde schließlich remis vereinbart – Gerhard dachte sogar noch darüber nach, ob er nun auf Gewinn spielen kann, aber Weiß kann wohl ein Remisendspiel mit ungleichfarbigen Läufern erzwingen.</p>
-<p><img alt="" class="alignnone size-full wp-image-11052" decoding="async" height="105" loading="lazy" sizes="(max-width: 544px) 100vw, 544px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023.png 544w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/TSG-NARVA-BPMM-2023-300x58.png 300w" width="544"/></p>
-<p>Somit unterliegt NARVA der TSG mit 1:3. Darauf können wir durchaus stolz sein, das sind immerhin 0,84 Brettpunkte mehr als rechnerisch zu erwarten gewesen wären! Und ohne den letzten krankheitsbedingten Ausfall wäre so vielleicht sogar tatsächlich mehr drin gewesen…</p>
-<table class="clean">
-<thead>
-<tr>
-<th>Brett</th>
-<th>NARVA</th>
-<th>TSG</th>
-<th>DWZ NARVA</th>
-<th>DWZ TSG</th>
-<th>Differenz</th>
-<th>Erwartungswert</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>Eichstädt</td>
-<td>Schöwel</td>
-<td>1284</td>
-<td>2175</td>
-<td>891</td>
-<td>0,00</td>
-</tr>
-<tr>
-<td>2</td>
-<td>Schenk</td>
-<td>Postler</td>
-<td>1791</td>
-<td>2181</td>
-<td>390</td>
-<td>0,08</td>
-</tr>
-<tr>
-<td>3</td>
-<td>Mietzelfeldt</td>
-<td>Mankel</td>
-<td>1588</td>
-<td>2058</td>
-<td>470</td>
-<td>0,05</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Herrscher</td>
-<td>Eisenmann</td>
-<td>1213*</td>
-<td>1737</td>
-<td>524</td>
-<td>0,03</td>
-</tr>
-</tbody>
-</table>
-<p><small>*ungefähre Erst-DWZ aus BFL und BMM ohne Runde 9, hier sind die starken Partien aus den vereinsinternen Turnieren nicht mit einbezogen</small> </p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bpmm/" rel="category tag">BPMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/04/bpmm-2023/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11051 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
