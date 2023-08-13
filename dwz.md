@@ -61,8 +61,8 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1996</td>
-<td>449</td>
+<td>1980</td>
+<td>450</td>
 <td>1981</td>
 </tr>
 <tr>
@@ -187,19 +187,19 @@ navs:
 </tr>
 <tr>
 <td>20.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1639</td>
-<td>101</td>
-<td>1734</td>
-</tr>
-<tr>
-<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1638</td>
 <td>66</td>
 <td>1842</td>
+</tr>
+<tr>
+<td>21.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1638</td>
+<td>101</td>
+<td>1734</td>
 </tr>
 <tr>
 <td>22.</td>
