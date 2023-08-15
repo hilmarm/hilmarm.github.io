@@ -75,9 +75,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Manuel Moster (SSV Rotation Berlin)</li>
 <li>Sergej Krefenstein (TuS Makkabi)</li>
 <li>Andreas Kinski (SG NARVA)</li>
+<li>Rene Schilling (Ludwigsfelder SC 54)</li>
+<li>Dr.Klaus Kapr (SC Friesen Lichtenberg)</li>
 </ol>
 <p> </p>
-<p>Stand: 14.08.2023 – 09:00 Uhr</p>
+<p>Stand: 14.08.2023 – 19:30 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -87,11 +89,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Lothar Opialla</li>
 <li>Hanno Kühnert</li>
 <li>Bernd Hubbe</li>
-<li>Rene Schilling</li>
 <li>Selcuk Orkun Sakalli</li>
 </ol>
 <p> </p>
-<p>Stand: 14.08.2023 – 09:00 Uhr</p>
+<p>Stand: 14.08.2023 – 18:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
