@@ -215,7 +215,7 @@ parent_title: Chronik
 </tbody>
 </table>
 <h2 align="center"><span style="text-decoration: underline;"><b>!! Grand Ouvert !! </b>von Torsten Behrendt am 17.01.1991</span></h2>
-<p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" rel="noopener" target="_blank"><img alt="grandouvert" class="aligncenter wp-image-543 size-full" decoding="async" height="351" sizes="(max-width: 255px) 100vw, 255px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg 255w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert-218x300.jpg 218w" width="255"/></a></p>
+<p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" rel="noopener" target="_blank"><img alt="grandouvert" class="aligncenter wp-image-543 size-full" decoding="async" fetchpriority="high" height="351" sizes="(max-width: 255px) 100vw, 255px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg 255w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert-218x300.jpg 218w" width="255"/></a></p>
 <h1 align="center"><strong><u>Einzelergebnisse</u></strong></h1>
 </div>
 <hr/>

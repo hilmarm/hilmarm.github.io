@@ -117,7 +117,7 @@ parent_title: Chronik
 </table>
 <p>* Saison 2019/20 wurde wegen Corona abgebrochen und nicht zu Ende gespielt.<br/>
 Die Saison 2020/21 und 2021/22 wurde nicht gespielt für 2022/23 fand eine neue Einteilung statt.</p>
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik.jpg"><img alt="" class="alignnone size-large wp-image-7180" decoding="async" height="341" sizes="(max-width: 640px) 100vw, 640px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-1024x545.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-1024x545.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-300x160.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-768x409.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik.jpg 1091w" width="640"/></a></p>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik.jpg"><img alt="" class="alignnone size-large wp-image-7180" decoding="async" fetchpriority="high" height="341" sizes="(max-width: 640px) 100vw, 640px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-1024x545.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-1024x545.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-300x160.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-768x409.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik.jpg 1091w" width="640"/></a></p>
 </div><!-- .entry-content -->
 </div> #post-2505 
 <div id="comments">

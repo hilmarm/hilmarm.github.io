@@ -22,11 +22,11 @@ Link zum Team: <a href="https://lichess.org/team/sg-narva-berlin-ev-abteilung-s
 <p>SG NARVA Berlin e.V. Abteilung Schach; zu finden unter „Gemeinschaft“ und dann per Suchfunktion unter „Alle Teams“ suchen. Da könnt ihr beitreten, ich muss es dann noch bestätigen.<br/>
 Vorher müsst ihr allerdings einen Account bei Lichess.org erstellen: Das ist kostenlos und die Installation einer Client-Software ist nicht notwendig; Lichess läuft im Browser.<br/>
 lichess.org ist vor allem zum Blitz, Bullet, Quarantäne Liga. Gibt aber auch Trainingsaufgaben und andere Schachvarianten wie 960 oder Horde.</p>
-<p><a href="http://www.chessmail.de/club/SG_NARVA_Berlin_e.V."><img alt="" class="wp-image-2958 size-full alignleft" decoding="async" height="48" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2017/09/chessmail.jpg" width="179"/></a></p>
+<p><a href="http://www.chessmail.de/club/SG_NARVA_Berlin_e.V."><img alt="" class="wp-image-2958 size-full alignleft" decoding="async" height="48" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2017/09/chessmail.jpg" width="179"/></a></p>
 <p><strong>CHESSMAIL.DE</strong><br/>
 Link zum Team: <a href="http://www.chessmail.de/club/SG_NARVA_Berlin_e.V." rel="noopener" target="_blank">http://www.chessmail.de/club/SG_NARVA_Berlin_e.V.</a></p>
 <p>chessmail.de sind eher lange Partien wie beim Fernschach. Dort kann man die Bedenkzeit von 24h bis zu 30 Tagen pro Zug einstellen.</p>
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg"><img alt="" class="alignleft wp-image-7151" decoding="async" height="62" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg" width="200"/></a></p>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg"><img alt="" class="alignleft wp-image-7151" decoding="async" height="62" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg" width="200"/></a></p>
 <p><strong>CHESS.COM</strong><br/>
 Link zum Team: <a href="https://www.chess.com/club/sg-narva-berlin" rel="noopener" target="_blank">https://www.chess.com/club/sg-narva-berlin</a></p>
 <p>chess.com ist eine weitere freie Plattform zum online spielen. In einer Basisversion sind auch hier die Registrierung und Spiel kostenlos. Für mehr Funktionen, z. B. Turniere erstellen, ist ein Premium Account Voraussetzung.</p>
