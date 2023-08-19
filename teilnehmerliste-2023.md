@@ -77,9 +77,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Andreas Kinski (SG NARVA)</li>
 <li>Rene Schilling (Ludwigsfelder SC 54)</li>
 <li>Dr.Klaus Kapr (SC Friesen Lichtenberg)</li>
+<li>Hanno Kühnert</li>
+<li>Bernd Hubbe</li>
+<li>Johannes Müller (SC Eintracht)</li>
 </ol>
 <p> </p>
-<p>Stand: 14.08.2023 – 19:30 Uhr</p>
+<p>Stand: 18.08.2023 – 14:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -87,12 +90,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Rüdiger Meinicke</li>
 <li>Dave Möwisch</li>
 <li>Lothar Opialla</li>
-<li>Hanno Kühnert</li>
-<li>Bernd Hubbe</li>
 <li>Selcuk Orkun Sakalli</li>
+<li>Paul Sellhast</li>
+<li>Lukas von Kraft</li>
 </ol>
 <p> </p>
-<p>Stand: 14.08.2023 – 18:00 Uhr</p>
+<p>Stand: 18.08.2023 – 14:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

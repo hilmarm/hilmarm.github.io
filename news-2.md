@@ -8,25 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11303 post type-post status-publish format-standard sticky hentry category-bfl category-bmm category-intern" id="post-11303">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark">Mitgliederversammlung am 17.08.</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark" title="10:03"><span class="entry-date">5. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hiermit lädt der Vorstand der Abteilung Schach zur <strong>Mitgliederversammlung am 17.08.2023 um 18:30 Uhr ein!</strong></p>
-<p><strong>Und natürlich um 18:30 Uhr!!</strong> In der Mail war ich gedanklich woanders…..einige haben es bemerkt 😉</p>
-<p>Hauptthema ist die Vorbereitung Zur BMM/BFL Saison 2023/24.</p>
-<p>Denkt also an die Fragebögen. Entweder als <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/BMM-Fragebogen-2023-Copy.pdf" rel="noopener" target="_blank">PDF</a>, oder über das Formular auf der Webseite: <a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/">BMM-Fragebogen 2023</a><br/>
-Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
-<p>An dieser Stelle auch eine Erinnerung an die Zahlung der Beiträge für 2023! Einige sind hier noch offen!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11303 
 <div class="post-11324 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11324">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/11/viertelfinale-im-pokal/" rel="bookmark">Viertelfinale im Pokal</a></h2>
 <div class="entry-meta">
@@ -66,6 +47,25 @@ Peter/Rudolf – Felix/Jonatan</strong></p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/08/bram-belegt-platz-2-beim-czech-open-b/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11306 
+<div class="post-11303 post type-post status-publish format-standard hentry category-bfl category-bmm category-intern" id="post-11303">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark">Mitgliederversammlung am 17.08.</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/" rel="bookmark" title="10:03"><span class="entry-date">5. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hiermit lädt der Vorstand der Abteilung Schach zur <strong>Mitgliederversammlung am 17.08.2023 um 18:30 Uhr ein!</strong></p>
+<p><strong>Und natürlich um 18:30 Uhr!!</strong> In der Mail war ich gedanklich woanders…..einige haben es bemerkt 😉</p>
+<p>Hauptthema ist die Vorbereitung Zur BMM/BFL Saison 2023/24.</p>
+<p>Denkt also an die Fragebögen. Entweder als <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/BMM-Fragebogen-2023-Copy.pdf" rel="noopener" target="_blank">PDF</a>, oder über das Formular auf der Webseite: <a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/">BMM-Fragebogen 2023</a><br/>
+Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
+<p>An dieser Stelle auch eine Erinnerung an die Zahlung der Beiträge für 2023! Einige sind hier noch offen!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11303 
 <div class="post-11288 post type-post status-publish format-standard hentry category-openberichte category-training" id="post-11288">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark">DSAM-Finale in Bad Wildungen</a></h2>
 <div class="entry-meta">
