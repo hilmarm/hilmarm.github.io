@@ -189,8 +189,8 @@ navs:
 <td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1638</td>
-<td>66</td>
+<td>1648</td>
+<td>67</td>
 <td>1842</td>
 </tr>
 <tr>

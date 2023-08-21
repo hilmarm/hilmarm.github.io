@@ -12,6 +12,38 @@ parent_title: Impressum
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Forum</span> </h1>
+<div class="navigation" id="nav-above">
+<div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/forum/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
+<div class="nav-next"></div>
+</div> #nav-above 
+<div class="post-11337 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-11337">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/20/aufstellungen-bfl-2023-24/" rel="bookmark">Geschützt: Aufstellungen BFL 2023/24</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/20/aufstellungen-bfl-2023-24/" rel="bookmark" title="16:28"><span class="entry-date">20. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/forum/" rel="category tag">Forum</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-11337 
+<div class="post-11334 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-11334">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/20/aufstellungen-bmm-2023-24/" rel="bookmark">Geschützt: Aufstellungen BMM 2023/24</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/20/aufstellungen-bmm-2023-24/" rel="bookmark" title="16:23"><span class="entry-date">20. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/forum/" rel="category tag">Forum</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-11334 
 <div class="post-11209 post type-post status-publish format-standard post-password-required hentry category-forum category-training" id="post-11209">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/14/training-gm-michael-richter-2022/" rel="bookmark">Geschützt: Training GM Michael Richter 2022</a></h2>
 <div class="entry-meta">
@@ -264,31 +296,7 @@ parent_title: Impressum
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-2372 
-<div class="post-2374 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-2374">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2017/03/29/interne-turniere-2017/" rel="bookmark">Geschützt: interne Turniere 2017</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2017/03/29/interne-turniere-2017/" rel="bookmark" title="16:48"><span class="entry-date">29. März 2017</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/forum/" rel="category tag">Forum</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-2374 
-<div class="post-2376 post type-post status-publish format-standard post-password-required hentry category-forum" id="post-2376">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2017/03/29/training/" rel="bookmark">Geschützt: Training</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2017/03/29/training/" rel="bookmark" title="15:49"><span class="entry-date">29. März 2017</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/forum/" rel="category tag">Forum</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-2376 
+<div class="navigation" id="nav-below">
+<div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/forum/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
+<div class="nav-next"></div>
+</div> #nav-below 
