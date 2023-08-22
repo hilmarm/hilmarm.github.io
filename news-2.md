@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11341 post type-post status-publish format-standard hentry category-intern" id="post-11341">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/" rel="bookmark">Geplante Aufstellungen</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/" rel="bookmark" title="15:33"><span class="entry-date">21. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die geplanten Mannschaftsaufstellungen für die nächste Saison sind nun im Forum zu finden.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11341 
 <div class="post-11324 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11324">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/11/viertelfinale-im-pokal/" rel="bookmark">Viertelfinale im Pokal</a></h2>
 <div class="entry-meta">
@@ -575,28 +589,6 @@ Tomas kam mit 7 Punkten aus Rang 3.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11073 
-<div class="post-11058 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-11058">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/" rel="bookmark">Neue Mitglieder</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/" rel="bookmark" title="21:13"><span class="entry-date">11. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Offiziell zum 01.06. begrüßen wir nun 4 neue Mitglieder!<br/>
-Damit haben wir aktuell die <strong>50</strong> erreicht!! Einen Wert den wir zuletzt 2017 kurz erreicht hatten und davor 1989! (<em><a href="https://www.narva-schach.de/wordpress/chronik/verein/">Siehe Chronik ganz unten</a></em>)</p>
-<p>Die neuen sind:<br/>
-– <strong>Philipp Pape</strong>, ist bereits seit einiger Zeit online für uns aktiv und spielt nun auch die Abteilungmeisterschaft mit.<br/>
-– <strong>Wolfgang Mach</strong>, schon einige Monate jeden Clubabend dabei, auch er nimmt bereits an der Abteilungmeisterschaft teil.<br/>
-– <strong>Juri Horst</strong>, als Neuzugang für eine weitere BFL Mannschaft, „Team Hilmar“ 😎<br/>
-– <strong>Frank Laskowski (Lasko)</strong>, wohnt in Wattenscheid, möchte nach einer Pause aber wieder aktiv sein. War z.B. bei unserem <a href="https://www.narva-schach.de/wordpress/2022/11/02/einladungs-mannschaftsblitz-bei-narva-2/">Mannschaftsblitz im Oktober</a> 2022 für Ex&amp;Hopp mit Sven aktiv. Im September verstärkt er uns in Erftstadt!</p>
-<p>Inzwischen stehen auch alle in unserer <a href="https://www.narva-schach.de/wordpress/dwz/">DWZ Liste</a> und, sofern gewünscht, in der Mail-/Telefonliste.</p>
-<p>Allen viel Erfolg im Team NARVA!!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/11/neue-mitglieder/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11058 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
