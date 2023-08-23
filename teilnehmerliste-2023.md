@@ -81,21 +81,21 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Bernd Hubbe</li>
 <li>Johannes Müller (SC Eintracht)</li>
 <li>Lukas von Kraft (SG NARVA)</li>
+<li>Jörg Nagler (SC Rochade Müncheberg)</li>
+<li>Rüdiger Meinicke (SC Rochade Müncheberg)</li>
+<li>Lothar Opialla</li>
 </ol>
 <p> </p>
-<p>Stand: 19.08.2023 – 13:00 Uhr</p>
+<p>Stand: 22.08.2023 – 19:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
-<li>Jörg Nagler</li>
-<li>Rüdiger Meinicke</li>
 <li>Dave Möwisch</li>
-<li>Lothar Opialla</li>
 <li>Selcuk Orkun Sakalli</li>
 <li>Paul Sellhast</li>
 </ol>
 <p> </p>
-<p>Stand: 18.08.2023 – 14:00 Uhr</p>
+<p>Stand: 22.08.2023 – 19:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

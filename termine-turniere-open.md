@@ -68,6 +68,11 @@ parent_title: Termine
 <td>2 Mannschaften??</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://londonfidecongress.com/southall-congress" rel="noopener" target="_blank">Southall Congress</a></td>
+<td>23.09.-24.09.2023</td>
+<td>Jonatan</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>29.09.-05.10.2023</td>
 <td>Hans-Dieter, Ulrich</td>
