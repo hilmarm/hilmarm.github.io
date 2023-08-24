@@ -84,9 +84,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jörg Nagler (SC Rochade Müncheberg)</li>
 <li>Rüdiger Meinicke (SC Rochade Müncheberg)</li>
 <li>Lothar Opialla</li>
+<li>Vinicius Vaz da Cruz (SSV Rotation Berlin)</li>
+<li>Henry Boeddeker (Sfr. Berlin)</li>
 </ol>
 <p> </p>
-<p>Stand: 22.08.2023 – 19:00 Uhr</p>
+<p>Stand: 24.08.2023 – 12:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
