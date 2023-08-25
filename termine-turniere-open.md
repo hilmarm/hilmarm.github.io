@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_23/lichtenberger_sommer_2023.htm" rel="noopener" target="_blank">18. Lichtenberger Sommer</a></td>
-<td>12.08.-20.08.2023</td>
-<td>Ekkehard</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://chessence.de/turnier-anmeldung-25-08-23-27-08-23/" rel="noopener" target="_blank">CHESSENCE OPEN</a></td>
 <td>25.08.-27.08.2023</td>
 <td>Oliver</td>
@@ -35,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/termin/schlacht-bei-dennewitz.html?day=20230902&amp;times=1693641600,1693641600" rel="noopener" target="_blank">Schlacht bei Dennewitz</a></td>
 <td>02.09.2023</td>
-<td>Günter</td>
+<td>Günter, Peter, Bernd?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://chessandjazz.de/img/Laborgh%20Rapid%20Cup_DE.pdf" rel="noopener" target="_blank">Labporgh Rapid Cup bei Chess &amp; Jazz</a></td>
@@ -85,7 +80,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Einzelmeisterschaft 2023</a></td>
 <td>30.09.2023</td>
-<td>Batu, Sven?</td>
+<td>Batu</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Mannschaftsmeisterschaft 2023</a></td>
@@ -98,9 +93,14 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-25-oktober-2023.html" rel="noopener" target="_blank">26. überbezirkliches Seniorenturnier</a></td>
+<td>25.10.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/"><strong>Kurt-Richter-Gedenkturnier 2023</strong></a></td>
 <td>27.10.-29.10.2023</td>
-<td>Peter, Günter, Ekkehard, Alexander</td>
+<td>viele</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>

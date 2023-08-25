@@ -368,7 +368,7 @@ parent_title: Turniere
 <td>6.</td>
 <td>Brinckmann,Klaus</td>
 <td>1677</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>2</td>
@@ -390,7 +390,7 @@ parent_title: Turniere
 <td>1.</td>
 <td>Hintze,Peter</td>
 <td>1914</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>4</td>
@@ -401,7 +401,7 @@ parent_title: Turniere
 <td>9.</td>
 <td>Kinski,Andreas</td>
 <td>1631</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>5</td>
@@ -423,7 +423,7 @@ parent_title: Turniere
 <td>15.</td>
 <td>Maiwald,Gunar</td>
 <td>1388</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>7</td>
@@ -434,7 +434,7 @@ parent_title: Turniere
 <td>13.</td>
 <td>Kreisel,Alexande</td>
 <td>1507</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>8</td>
@@ -445,7 +445,7 @@ parent_title: Turniere
 <td>11.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -467,7 +467,7 @@ parent_title: Turniere
 <td>16.</td>
 <td>Eichstädt,Torste</td>
 <td>1280</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 </tbody>
 </table>
