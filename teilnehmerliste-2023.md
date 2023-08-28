@@ -61,7 +61,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Ekkehard Krüger (SG NARVA)</li>
 <li>Thomas Kalkowski (BA Tempelhof)</li>
 <li>Michael Quast (BA Tempelhof)</li>
-<li>René Kellner (PSV Potsdam)</li>
 <li>Jim Sohr (Königsjäger)</li>
 <li>Luna Sohr (Königsjäger)</li>
 <li>Dr.Sven Sohr</li>
@@ -88,16 +87,19 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Henry Boeddeker (Sfr. Berlin)</li>
 </ol>
 <p> </p>
-<p>Stand: 24.08.2023 – 12:00 Uhr</p>
+<p>Stand: 28.08.2023 – 08:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
 <li>Dave Möwisch</li>
 <li>Selcuk Orkun Sakalli</li>
 <li>Paul Sellhast</li>
+<li>Sedrak Matevosyan</li>
+<li>Dennis Hankus</li>
+<li>Andreas Grosch</li>
 </ol>
 <p> </p>
-<p>Stand: 22.08.2023 – 19:00 Uhr</p>
+<p>Stand: 28.08.2023 – 08:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
