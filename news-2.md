@@ -8,6 +8,30 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11355 post type-post status-publish format-standard hentry category-openberichte" id="post-11355">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/" rel="bookmark">Lichtenberger Sommer und Chessence Premium Open</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/" rel="bookmark" title="9:42"><span class="entry-date">29. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>In den letzten beiden Wochen/Wochenenden fanden 2 Turniere mit NARVA Beteiligung statt.</p>
+<p>Zum einen, der nach 3 Jahren Pause wiederbelebte <strong>Lichtenberger Sommer</strong>. Dieser musste sich nach der Corona-Pause auch einen neuen Spielort suchen und fand mit dem Tribünen-Gebäude der Trabrennbahn Karlshorst auch ein sehr traditionelles. Insgesamt fanden sich 194 Teilnehmer zum Turnier ein, darunter von uns <strong>Ekkehard</strong>. Gespielt wurden wie immer 9 Runden, vom 12. bis 20. August.</p>
+<p>Ekkehard belegte am Ende Platz 125 (Startrang 95) mit 4 Punkten und wird nicht ganz zufrieden gewesen sein.</p>
+<p><a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/img004/" rel="attachment wp-att-11359"><img alt="" class="alignleft wp-image-11359" decoding="async" fetchpriority="high" height="210" sizes="(max-width: 280px) 100vw, 280px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img004-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img004-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img004.jpg 640w" width="280"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/img001/" rel="attachment wp-att-11361"><img alt="" class="alignright wp-image-11361" decoding="async" height="210" sizes="(max-width: 280px) 100vw, 280px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img001-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img001-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img001.jpg 640w" width="280"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/img003/" rel="attachment wp-att-11360"><img alt="" class="wp-image-11360 size-medium" data-wp-editing="1" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img003-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img003-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/img003.jpg 640w" width="300"/></a><br/>
+<em>Fotos von Turnierseite</em></p>
+<p><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_23/lichtenberger_sommer_2023.htm" rel="noopener" target="_blank">Turnierseite inkl. aller Partien</a></p>
+<p>Am letzten Wochenende (25.-27.08.) fand dann in Willingen das <strong>Chessence Premium Turnier</strong> statt. In der Gruppe C spielte<strong> Oliver</strong> sein erstes Turnier und damit seinen Einstand für NARVA! Chessence ist eine online Trainingsplattform („Deutschlands größte Online-Schachschule“ – <a href="https://chessence.de/" rel="noopener" target="_blank">Link</a>), hauptsächlich mit GM Niclas Huschenbeth. Bei dem Turnier sollten die Ergebnisse des online-Trainings auf echte Brett übertragen werden.</p>
+<p>Für Oliver lief das Turnier mit 3 Punkten aus 5 Runden schon ganz gut. Am Ende belegte er Platz 18 von 48. Die Teilnehmer in Gruppe C sind aber schwer einschätzbar, die meisten noch ohne DWZ und wie bei Oliver das erste Turnier.</p>
+<p><a href="https://chess-results.com/tnr810513.aspx?lan=0" rel="noopener" target="_blank">Ergebnisse bei Chess-Result</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11355 
 <div class="post-11341 post type-post status-publish format-standard hentry category-intern" id="post-11341">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/" rel="bookmark">Geplante Aufstellungen</a></h2>
 <div class="entry-meta">
@@ -35,7 +59,7 @@ navs:
 Peter/Rudolf – Felix/Jonatan</strong></p>
 <p>Termin wäre der 21.09.23</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/20230810_192309/"><img alt="" class="alignnone size-medium wp-image-11322" decoding="async" fetchpriority="high" height="240" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-1024x820.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-768x615.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-1536x1229.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-2048x1639.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/20230810_192254/"><img alt="" class="alignnone size-medium wp-image-11323" decoding="async" height="182" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-300x182.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-300x182.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-1024x623.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-768x467.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-1536x934.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-2048x1245.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/20230810_192309/"><img alt="" class="alignnone size-medium wp-image-11322" decoding="async" height="240" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-1024x820.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-768x615.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-1536x1229.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192309-2048x1639.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/20230810_192254/"><img alt="" class="alignnone size-medium wp-image-11323" decoding="async" height="182" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-300x182.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-300x182.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-1024x623.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-768x467.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-1536x934.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/20230810_192254-2048x1245.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -52,7 +76,7 @@ Peter/Rudolf – Felix/Jonatan</strong></p>
 <p>Vom 22. bis 29.07.23 hat <strong>Bram</strong> in Pardubice am <strong>Czech Open 2023</strong> teilgenommen. Im B-Turnier war er an <strong>Rang 2</strong> gesetzt und belegte diesen mit 7,5 Punkten aus 9 Runden auch am Ende!</p>
 <p><strong>Herzlichen Glückwunsch!</strong></p>
 <p><a href="https://chess-results.com/tnr736186.aspx?lan=0&amp;art=4&amp;turdet=YES&amp;flag=30" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/img-20230730-wa0002/"><img alt="" class="alignnone wp-image-11287 size-large" decoding="async" height="358" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-768x429.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945.jpg 1232w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/img-20230730-wa0002/"><img alt="" class="alignnone wp-image-11287 size-large" decoding="async" height="358" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-1024x572.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-300x168.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945-768x429.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/08/IMG-20230730-WA0002-e1691477490945.jpg 1232w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -560,35 +584,6 @@ Tomas kam mit 7 Punkten aus Rang 3.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11078 
-<div class="post-11073 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11073">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/" rel="bookmark">Abteilungsmeisterschaft Runde 3</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/" rel="bookmark" title="19:16"><span class="entry-date">13. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Letzten Donnerstag wurden gleich 7 Partien zur Runde 3 der <strong>Abteilungsmeisterschaft</strong> gespielt.</p>
-<p>Dabei gab zum einen Peter einen ganzen Punkt an Klaus ab! Zum anderen verliert Jonatan seine erste Partie in der Abteilungsmeisterschaft seit Juni 2019!</p>
-<p>Hier die Ergebnisse im einzeln:<br/>
-<strong>Jonatan – Hans-Dieter 0:1</strong><br/>
-<strong>Peter – Klaus 0:1</strong><br/>
-<strong>Rouven – Alexander 1:0</strong><br/>
-<strong>Ekkehard – Gerhard 1:0</strong><br/>
-<strong>Felix – Andreas 0:1</strong><br/>
-<strong>Michael – Torsten 1:0</strong><br/>
-<strong>Philipp – Gunar 0:1</strong></p>
-<p>Schon vorgespielt hatten:<br/>
-<strong>Ulrich – Hilmar ½:½</strong></p>
-<p>Außerdem hat Rouven noch die nachgeholte Partie aus Runde 1 gegen Gerhard gewonnen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
-<p>Zum melden der Ergebnisse dürft ihr auch gerne das <a href="https://www.narva-schach.de/wordpress/turniere/ergebnisse-melden/">Formular</a> benutzen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11074" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/20230608_182814-2048x923.jpg 2048w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/13/abteilungsmeisterschaft-runde-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11073 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

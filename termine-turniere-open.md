@@ -43,6 +43,11 @@ parent_title: Termine
 <td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-09-september-2023.html" rel="noopener" target="_blank">Karlshorster Schachturnier</a></td>
+<td>09.09.2023</td>
+<td>Gerhard</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
 <td>15.09.2023</td>
 <td>1x NARVA 1x Ex&amp;Hopp</td>
@@ -88,6 +93,11 @@ parent_title: Termine
 <td>1-2 Mannschaften</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://bsg-eckbauer.de/berichte/open2023/open2023.php" rel="noopener" target="_blank">Eckbauer Open 2023</a></td>
+<td>09.10.-20.11.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">Berlin U25 Open</a></td>
 <td>23.10.-29.10.2023</td>
 <td></td>
@@ -105,6 +115,11 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>
 <td>03.11.-05.11.2023</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a> <strong><span style="font-size: 8pt;"><em>Samstag bis Montag</em></span></strong></td>
+<td>16.12.-18.12.2023 !!</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">

@@ -85,9 +85,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Lothar Opialla</li>
 <li>Vinicius Vaz da Cruz (SSV Rotation Berlin)</li>
 <li>Henry Boeddeker (Sfr. Berlin)</li>
+<li>Andreas Grosch (Berolina Mitte)</li>
 </ol>
 <p> </p>
-<p>Stand: 28.08.2023 – 08:00 Uhr</p>
+<p>Stand: 28.08.2023 – 18:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -96,10 +97,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Dennis Hankus</li>
-<li>Andreas Grosch</li>
+<li>Oliver Wäldrich</li>
 </ol>
 <p> </p>
-<p>Stand: 28.08.2023 – 08:00 Uhr</p>
+<p>Stand: 29.08.2023 – 08:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
