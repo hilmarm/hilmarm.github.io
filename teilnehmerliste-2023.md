@@ -86,9 +86,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Vinicius Vaz da Cruz (SSV Rotation Berlin)</li>
 <li>Henry Boeddeker (Sfr. Berlin)</li>
 <li>Andreas Grosch (Berolina Mitte)</li>
+<li>Dennis Hankus (Lasker)</li>
 </ol>
 <p> </p>
-<p>Stand: 28.08.2023 – 18:00 Uhr</p>
+<p>Stand: 29.08.2023 – 19:30 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -96,7 +97,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Selcuk Orkun Sakalli</li>
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
-<li>Dennis Hankus</li>
 <li>Oliver Wäldrich</li>
 </ol>
 <p> </p>
