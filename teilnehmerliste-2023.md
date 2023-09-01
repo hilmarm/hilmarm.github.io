@@ -87,9 +87,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Henry Boeddeker (Sfr. Berlin)</li>
 <li>Andreas Grosch (Berolina Mitte)</li>
 <li>Dennis Hankus (Lasker)</li>
+<li>Adrian Sitte (SK Tempelhof)</li>
+<li>Ryszard Morczynski (SK Zehlendorf)</li>
 </ol>
 <p> </p>
-<p>Stand: 29.08.2023 – 19:30 Uhr</p>
+<p>Stand: 01.09.2023 – 11:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -100,7 +102,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Oliver Wäldrich</li>
 </ol>
 <p> </p>
-<p>Stand: 29.08.2023 – 08:00 Uhr</p>
+<p>Stand: 01.09.2023 – 11:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
