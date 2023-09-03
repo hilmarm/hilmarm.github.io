@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11372 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11372">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/09/02/august-blitz/" rel="bookmark">August Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/09/02/august-blitz/" rel="bookmark" title="20:56"><span class="entry-date">2. September 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Mit 12 Teilnehmern ging es am Donnerstag in das <strong>August Blitz</strong>. <strong>Peter</strong> holte sich seinen 5. Monatssieg und ist in der Gesamtwertung nur noch 2 Punkte von 100% entfernt!</p>
+<p>Durch das Turnier am Donnerstag kam er aber nicht ohne Niederlage, gegen <strong>Thomas T.</strong> gab es eine Null! Die Verfolger konnten daraus aber keinen Profit schlagen, <strong>Hans-Dieter</strong> und <strong>Matthias</strong> trennten sich Remis, verloren beide gegen Peter und blieben sonst schadlos – was zum punktgleichen Platz 2 reicht.</p>
+<p>Thomas T. erweist sich dieses Jahr auch in der Gesamtwertung als fleißiger Punktesammler. Er ist aktuell hinter Peter, den Verfolgern Tomas und Hans-Dieter, sowie Matthias als besten Gast, bereits auf Platz 5!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/09/02/august-blitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11372 
 <div class="post-11355 post type-post status-publish format-standard hentry category-openberichte" id="post-11355">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/" rel="bookmark">Lichtenberger Sommer und Chessence Premium Open</a></h2>
 <div class="entry-meta">
@@ -563,27 +580,6 @@ Tomas kam mit 7 Punkten aus Rang 3.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/16/bmm-saison-finale/#comments">5 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11091 
-<div class="post-11078 post type-post status-publish format-standard hentry category-allgemein category-bmm" id="post-11078">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/" rel="bookmark">Ergebnisse Verbandstag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/" rel="bookmark" title="19:50"><span class="entry-date">13. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Für alle die nicht in der WhatsApp Gruppe oder bei Twitter sind, hier die kurze Zusammenfassung vom Verbandstag:</p>
-<p>– Die Beitragserhöhung wurde angenommen<br/>
-– der Antrag bzgl. BMM Start wurde vom Präsidium nach Diskussion zurückgezogen, es bleibt also vorerst bei 9 Uhr<br/>
-– es wurde spontan auf dem Verbandstag ein neuer Schatzmeister gefunden<br/>
-– Außerdem gibt es einen neuen Landesspielleiter</p>
-<p>Das ganze dauerte 4,5h….man hat ja Sonntags um 11 Uhr, bei schönem Wetter, sonst nichts vor…. 🙃</p>
-<p>Auszug aus dem BSV Twitter Account</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg"><img alt="" class="alignnone wp-image-11079" decoding="async" height="430" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-174x300.jpg 174w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-595x1024.jpg 595w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-768x1321.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013-893x1536.jpg 893w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0013.jpg 930w" width="250"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg"><img alt="" class="alignnone wp-image-11080" decoding="async" height="290" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-882x1024.jpg 882w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014-768x892.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/06/IMG-20230611-WA0014.jpg 1080w" width="250"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/13/ergebnisse-verbandstag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11078 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

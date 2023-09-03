@@ -100,9 +100,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Oliver Wäldrich</li>
+<li>Romain Besombes</li>
 </ol>
 <p> </p>
-<p>Stand: 01.09.2023 – 11:00 Uhr</p>
+<p>Stand: 03.09.2023 – 12:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
