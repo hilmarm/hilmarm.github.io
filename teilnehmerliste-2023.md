@@ -101,9 +101,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Sedrak Matevosyan</li>
 <li>Oliver Wäldrich</li>
 <li>Romain Besombes</li>
+<li>Luise Schmidt</li>
+<li>Jonas Thiede</li>
+<li>Peter Jablonski</li>
 </ol>
 <p> </p>
-<p>Stand: 03.09.2023 – 12:00 Uhr</p>
+<p>Stand: 04.09.2023 – 07:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

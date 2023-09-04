@@ -23,26 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://chessence.de/turnier-anmeldung-25-08-23-27-08-23/" rel="noopener" target="_blank">CHESSENCE OPEN</a></td>
-<td>25.08.-27.08.2023</td>
-<td>Oliver</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/termin/schlacht-bei-dennewitz.html?day=20230902&amp;times=1693641600,1693641600" rel="noopener" target="_blank">Schlacht bei Dennewitz</a></td>
-<td>02.09.2023</td>
-<td>Günter, Peter, Bernd?</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://chessandjazz.de/img/Laborgh%20Rapid%20Cup_DE.pdf" rel="noopener" target="_blank">Labporgh Rapid Cup bei Chess &amp; Jazz</a></td>
-<td>02.09.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.schachclub-oranienburg.de/wordpress/2023/06/oranienburger-chess-open-2023/" rel="noopener" target="_blank">2. Oranienburger Chess Open 2023</a></td>
-<td>02.09.-03.09.2023</td>
-<td>Torsten</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-09-september-2023.html" rel="noopener" target="_blank">Karlshorster Schachturnier</a></td>
 <td>09.09.2023</td>
 <td>Gerhard</td>
