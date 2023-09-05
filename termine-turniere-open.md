@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-09-september-2023.html" rel="noopener" target="_blank">Karlshorster Schachturnier</a></td>
 <td>09.09.2023</td>
-<td>Gerhard</td>
+<td>Günter, Hans-Dieter, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
@@ -35,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.lsbb.de/archiv-pdf/Ausschreibung_Spreepokal_SSG_2023.pdf" rel="noopener" target="_blank">23.Spreewaldpokal</a></td>
 <td>16.09.2023</td>
-<td>1 Mannschaft evtl. 2</td>
+<td>1 Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Einzelmeisterschaft 2023</a></td>
@@ -45,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Mannschaftsmeisterschaft 2023</a></td>
 <td>17.09.2023</td>
-<td>2 Mannschaften??</td>
+<td>1 Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://londonfidecongress.com/southall-congress" rel="noopener" target="_blank">Southall Congress</a></td>

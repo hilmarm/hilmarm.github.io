@@ -89,9 +89,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Dennis Hankus (Lasker)</li>
 <li>Adrian Sitte (SK Tempelhof)</li>
 <li>Ryszard Morczynski (SK Zehlendorf)</li>
+<li>Jonas Thiede (Berolina Mitte)</li>
+<li>Peter Jablonski (Mattnetz)</li>
 </ol>
 <p> </p>
-<p>Stand: 01.09.2023 – 11:00 Uhr</p>
+<p>Stand: 05.09.2023 – 11:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -102,8 +104,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Oliver Wäldrich</li>
 <li>Romain Besombes</li>
 <li>Luise Schmidt</li>
-<li>Jonas Thiede</li>
-<li>Peter Jablonski</li>
 </ol>
 <p> </p>
 <p>Stand: 04.09.2023 – 07:00 Uhr</p>
