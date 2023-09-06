@@ -91,9 +91,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Ryszard Morczynski (SK Zehlendorf)</li>
 <li>Jonas Thiede (Berolina Mitte)</li>
 <li>Peter Jablonski (Mattnetz)</li>
+<li>Luise Schmidt (Königsjäger)</li>
 </ol>
 <p> </p>
-<p>Stand: 05.09.2023 – 11:00 Uhr</p>
+<p>Stand: 05.09.2023 – 18:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -103,10 +104,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Sedrak Matevosyan</li>
 <li>Oliver Wäldrich</li>
 <li>Romain Besombes</li>
-<li>Luise Schmidt</li>
+<li>Fabian Hein</li>
 </ol>
 <p> </p>
-<p>Stand: 04.09.2023 – 07:00 Uhr</p>
+<p>Stand: 06.09.2023 – 11:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
