@@ -92,9 +92,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jonas Thiede (Berolina Mitte)</li>
 <li>Peter Jablonski (Mattnetz)</li>
 <li>Luise Schmidt (Königsjäger)</li>
+<li>Oliver Wäldrich (SG NARVA)</li>
+<li>Sander Breitzmann (Empor)</li>
+<li>Fabian Hein</li>
 </ol>
 <p> </p>
-<p>Stand: 05.09.2023 – 18:00 Uhr</p>
+<p>Stand: 08.09.2023 – 11:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -102,9 +105,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Selcuk Orkun Sakalli</li>
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
-<li>Oliver Wäldrich</li>
 <li>Romain Besombes</li>
-<li>Fabian Hein</li>
 </ol>
 <p> </p>
 <p>Stand: 06.09.2023 – 11:00 Uhr</p>

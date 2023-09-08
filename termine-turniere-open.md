@@ -85,7 +85,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-25-oktober-2023.html" rel="noopener" target="_blank">26. überbezirkliches Seniorenturnier</a></td>
 <td>25.10.2023</td>
-<td></td>
+<td>Peter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/"><strong>Kurt-Richter-Gedenkturnier 2023</strong></a></td>
