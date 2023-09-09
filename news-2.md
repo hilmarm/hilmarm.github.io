@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11396 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11396">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/09/08/pokal-und-abteilungsmeisterschaft/" rel="bookmark">Pokal und Abteilungsmeisterschaft</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/09/08/pokal-und-abteilungsmeisterschaft/" rel="bookmark" title="16:37"><span class="entry-date">8. September 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern wurde eine Partie vom <strong>Pokal-Viertelfinale</strong> nachgeholt. Im mit Spannung erwarteten Duell zwischen Peter und Rudolf ging es auch in der Partie spannend zu. Am Ende mussten beide Blitzen, nach ZÜ von Peter musste noch geprüft werden, ob 40 Züge gespielt wurden, bei Peter waren es aber nur 39.</p>
+<p>Die letzte noch fehlende Partie vom Pokal-Viertelfinale wird am Dienstag gespielt.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Turnierseite</a></p>
+<p>In der <strong>Abteilungsmeisterschaft</strong> wurde nun Runde 6 ausgelost. Vorher gewann noch Michael gegen Felix. Michael hat sich damit auf Platz 6 der Tabelle geschoben! An der Spitze geht es nun langsam in die Finalen Duelle.</p>
+<p>Aktuell liegen Hans-Dieter und Rouven mit je 4,5 Punkten aus 5 Runden vorn, gefolgt von Klaus mit 4 Punkten und dann Peter mit 3,5.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/20230907_185536/"><img alt="" class="alignnone wp-image-11386 size-large" decoding="async" fetchpriority="high" height="536" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230907_185536-1024x857.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230907_185536-1024x857.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230907_185536-300x251.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230907_185536-768x643.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230907_185536-1536x1286.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230907_185536-2048x1715.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/09/08/pokal-und-abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11396 
 <div class="post-11394 post type-post status-publish format-standard hentry category-openberichte" id="post-11394">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/09/08/narva-stark-in-berlin-dennewitz-und-karlstadt/" rel="bookmark">NARVA stark in Berlin, Dennewitz und Karlstadt</a></h2>
 <div class="entry-meta">
@@ -16,7 +36,7 @@ navs:
 <p>Letzte Woche, letztes Wochenende, haben NARVA Spieler wieder an diversen Turnieren teilgenommen.</p>
 <p>Fangen wir an in <span style="text-decoration: underline;">Karlstadt</span>: Hier fand vom 26. August bis 3. September 2023 die <strong>Bundesschachmeisterschaft 2023 vom Bahn-Sozialwerk (BSW)</strong> statt. Gespielt wurde in 3 Gruppen, Jeder-gegen-Jeden, 7 Runden. An 1 gesetzt und auf Platz 1 ins Ziel kam in Gruppe 2 <strong>Hilmar Petzold!! Herzlichen Glückwunsch!</strong><br/>
 Am Ende war er komplett Wertungsgleich mit einem weiteren Spieler, beide trennten sich Remis und spielten gegen den Dritten (Ulrich Fitzke) auch Remis, die restlichen Partien wurden gewonnen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/20230908_062116/"><img alt="" class="alignnone size-medium wp-image-11389" decoding="async" fetchpriority="high" height="248" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-300x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-300x248.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-1024x847.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-768x635.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116.jpg 1080w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/20230908_062116/"><img alt="" class="alignnone size-medium wp-image-11389" decoding="async" height="248" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-300x248.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-300x248.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-1024x847.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116-768x635.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/20230908_062116.jpg 1080w" width="300"/></a></p>
 <p>Weiter geht es in <span style="text-decoration: underline;">Dennewitz</span>: Hier gingen am Samstag <strong>Bernd</strong>, <strong>Peter</strong> und <strong>Günter</strong> bei der <strong>„Schlacht bei Dennewitz“ </strong>– Schnellschachturnier vom SV Marzahna 57 e.V. an den Start. Bernd hat allerdings nur 4 Runden durchgehalten, der Rest spielte 9 Runden Schnellschach im Modus 15+0. Insgesamt waren 44 Teilnehmer am Start, darunter 1x GM, 1x WGM, 4 x IM, 4x FM – also ein stark besetztes Turnier!</p>
 <p><strong>Günter</strong> musste auch gegen GM Igor Glek ran, verlor und kam am Ende auf Platz 30 mit 4 Punkten ins Ziel. Für <strong>Peter</strong> lief es besser, er beendet das Turnier auf Platz 24 mit 4,5 Punkten und erreicht damit <strong>Platz 3 in der Wertung U1900! Glückwunsch!!<br/>
 </strong></p>
@@ -27,7 +47,7 @@ Am Ende war er komplett Wertungsgleich mit einem weiteren Spieler, beide trennte
 <p>Er beendet das Turnier mit 4,5 Punkten auf einen guten 19. Platz (Setzliste Platz 34), dabei gewinnt er gegen FM Dirk Paulsen und spielt Remis gegen IM Dr.Manfred Glienke!!  <strong>Glückwunsch!!</strong></p>
 <p>Turniersieger wurde <strong>GM Michael Richter</strong> (<strong>am 05.10. bei uns zum Training!!</strong>)</p>
 <p><a href="https://chess-results.com/tnr813990.aspx?lan=0&amp;art=1&amp;turdet=YES&amp;flag=30" rel="noopener" target="_blank">Ergebnisse bei Chess-Result</a></p>
-<div class="wp-caption alignnone" id="attachment_11391" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/img-20230906-wa0013/"><img alt="" aria-describedby="caption-attachment-11391" class="wp-image-11391 size-medium" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013.jpg 720w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11391">Ergebnisse von Batu</p></div>
+<div class="wp-caption alignnone" id="attachment_11391" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/img-20230906-wa0013/"><img alt="" aria-describedby="caption-attachment-11391" class="wp-image-11391 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/09/IMG-20230906-WA0013.jpg 720w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11391">Ergebnisse von Batu</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -569,22 +589,6 @@ Tomas kam mit 7 Punkten aus Rang 3.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/01/juni-blitz-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11139 
-<div class="post-11119 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11119">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/" rel="bookmark">Auslosung Pokal und Abteilung</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/" rel="bookmark" title="9:53"><span class="entry-date">23. Juni 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die nächsten Runde zum Pokal und Abteilungsmeisterschaft sind ausgelost!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal Viertelfinale</a> – Termin <strong>10.08.2023</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungmeisterschaft Runde 4</a> – Termin <strong>20.07.2023</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/06/23/auslosung-pokal-und-abteilung/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11119 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
