@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2199</td>
 <td>61</td>
-<td>2180</td>
+<td>2172</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -423,7 +423,7 @@ navs:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>50.</td>

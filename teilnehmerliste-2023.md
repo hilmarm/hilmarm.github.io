@@ -95,9 +95,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Oliver Wäldrich (SG NARVA)</li>
 <li>Sander Breitzmann (Empor)</li>
 <li>Fabian Hein</li>
+<li>Anke Schönfeld (Grün-Weiß Niederwiesa)</li>
+<li>Lara Hafermann (Borussia Lichtenberg)</li>
 </ol>
 <p> </p>
-<p>Stand: 08.09.2023 – 11:00 Uhr</p>
+<p>Stand: 12.09.2023 – 08:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -106,9 +108,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
+<li>Samy Omar</li>
 </ol>
 <p> </p>
-<p>Stand: 06.09.2023 – 11:00 Uhr</p>
+<p>Stand: 12.09.2023 – 08:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
