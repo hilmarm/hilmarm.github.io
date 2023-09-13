@@ -97,9 +97,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Fabian Hein</li>
 <li>Anke Schönfeld (Grün-Weiß Niederwiesa)</li>
 <li>Lara Hafermann (Borussia Lichtenberg)</li>
+<li>Samy Omar (SC Kreuzberg)</li>
 </ol>
 <p> </p>
-<p>Stand: 12.09.2023 – 08:00 Uhr</p>
+<p>Stand: 12.09.2023 – 17:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -108,7 +109,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
-<li>Samy Omar</li>
 </ol>
 <p> </p>
 <p>Stand: 12.09.2023 – 08:00 Uhr</p>

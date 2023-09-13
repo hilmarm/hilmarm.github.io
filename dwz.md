@@ -301,7 +301,7 @@ navs:
 <td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10078511.html" target="_blank"> Manfred Heinrich</a></td>
 <td></td>
-<td>1272</td>
+<td>1271</td>
 <td>25</td>
 <td></td>
 </tr>

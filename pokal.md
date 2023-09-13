@@ -33,7 +33,7 @@ parent_title: Turniere
 <td style="height: 24px;">1</td>
 <td style="height: 24px;">Lange,Rudolf</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Salgueiro/Schenk</td>
+<td style="height: 24px;">Schenk, Jonatan</td>
 <td style="height: 24px; text-align: center;">:</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
@@ -75,8 +75,8 @@ parent_title: Turniere
 <td style="height: 24px;">3</td>
 <td style="height: 24px;">Salgueiro,Felix</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Schenk,Jonatan</td>
-<td style="height: 24px; text-align: center;">:</td>
+<td style="height: 24px;"><strong>Schenk,Jonatan</strong></td>
+<td style="height: 24px; text-align: center;">0 : 1</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">4</td>
