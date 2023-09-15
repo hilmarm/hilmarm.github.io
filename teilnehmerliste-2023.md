@@ -44,7 +44,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
-<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a></p>
+<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a> – Aktualisierung bei Chess-Result erst wieder Anfang Oktober möglich.<br/>
+Liste hier unten ist aktuell:</p>
 <p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
 <ol>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
@@ -98,9 +99,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Anke Schönfeld (Grün-Weiß Niederwiesa)</li>
 <li>Lara Hafermann (Borussia Lichtenberg)</li>
 <li>Samy Omar (SC Kreuzberg)</li>
+<li>Jeremy Wadepfuhl (Borussia Lichtenberg)</li>
+<li>Karl-Heinz Ollek (Friesen Lichtenberg)</li>
 </ol>
 <p> </p>
-<p>Stand: 12.09.2023 – 17:00 Uhr</p>
+<p>Stand: 15.09.2023 – 09:30 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -109,9 +112,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
+<li>Michael Zimmer</li>
 </ol>
 <p> </p>
-<p>Stand: 12.09.2023 – 08:00 Uhr</p>
+<p>Stand: 14.09.2023 – 23:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
