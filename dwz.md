@@ -67,19 +67,19 @@ navs:
 </tr>
 <tr>
 <td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
-<td></td>
-<td>1955</td>
-<td>126</td>
-<td>2084</td>
-</tr>
-<tr>
-<td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
 <td></td>
 <td>1950</td>
 <td>13</td>
 <td>1973</td>
+</tr>
+<tr>
+<td>6.</td>
+<td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
+<td></td>
+<td>1947</td>
+<td>127</td>
+<td>2084</td>
 </tr>
 <tr>
 <td>7.</td>
