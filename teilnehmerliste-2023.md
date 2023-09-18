@@ -102,9 +102,10 @@ Liste hier unten ist aktuell:</p>
 <li>Jeremy Wadepfuhl (Borussia Lichtenberg)</li>
 <li>Karl-Heinz Ollek (Friesen Lichtenberg)</li>
 <li>Michel Zimmer (Ludwigsfelder SC 54)</li>
+<li>Fabian Alcer (Empor Berlin)</li>
 </ol>
 <p> </p>
-<p>Stand: 16.09.2023 – 16:30 Uhr</p>
+<p>Stand: 17.09.2023 – 19:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -113,9 +114,10 @@ Liste hier unten ist aktuell:</p>
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
+<li>Marc Lippert</li>
 </ol>
 <p> </p>
-<p>Stand: 14.09.2023 – 23:00 Uhr</p>
+<p>Stand: 17.09.2023 – 19:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
