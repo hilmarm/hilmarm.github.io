@@ -70,7 +70,6 @@ Liste hier unten ist aktuell:</p>
 <li>Tuan Kiet Nguyen (SG Eckturm)</li>
 <li>Hans-Joachim Kaufhold (SC Weisse Dame)</li>
 <li>Guido Giese (SC Lindow)</li>
-<li>Alisha Lara Wallat (SSV Rotation Berlin)</li>
 <li>Alexis Miles Oortmann (SSV Rotation Berlin)</li>
 <li>Manuel Moster (SSV Rotation Berlin)</li>
 <li>Sergej Krefenstein (TuS Makkabi)</li>
@@ -103,9 +102,11 @@ Liste hier unten ist aktuell:</p>
 <li>Karl-Heinz Ollek (Friesen Lichtenberg)</li>
 <li>Michel Zimmer (Ludwigsfelder SC 54)</li>
 <li>Fabian Alcer (Empor Berlin)</li>
+<li>Nico Bierhals (Zugzwang)</li>
+<li>Harald Krawczyk (Neuenhagen)</li>
 </ol>
 <p> </p>
-<p>Stand: 17.09.2023 – 19:00 Uhr</p>
+<p>Stand: 19.09.2023 – 11:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -117,7 +118,7 @@ Liste hier unten ist aktuell:</p>
 <li>Marc Lippert</li>
 </ol>
 <p> </p>
-<p>Stand: 17.09.2023 – 19:00 Uhr</p>
+<p>Stand: 18.09.2023 – 19:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
