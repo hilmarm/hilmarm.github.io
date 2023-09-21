@@ -104,9 +104,10 @@ Liste hier unten ist aktuell:</p>
 <li>Fabian Alcer (Empor Berlin)</li>
 <li>Nico Bierhals (Zugzwang)</li>
 <li>Harald Krawczyk (Neuenhagen)</li>
+<li>Maximilian Lang</li>
 </ol>
 <p> </p>
-<p>Stand: 19.09.2023 – 11:00 Uhr</p>
+<p>Stand: 20.09.2023 – 16:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -116,9 +117,10 @@ Liste hier unten ist aktuell:</p>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
 <li>Marc Lippert</li>
+<li>Tung Le</li>
 </ol>
 <p> </p>
-<p>Stand: 18.09.2023 – 19:00 Uhr</p>
+<p>Stand: 20.09.2023 – 16:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
