@@ -48,7 +48,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/09/18/broetchenblitz-erftstadt-ist-zurueck/#comments">2 Kommentare</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/09/18/broetchenblitz-erftstadt-ist-zurueck/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11441 
 <div class="post-11396 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11396">
