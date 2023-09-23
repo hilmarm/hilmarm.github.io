@@ -106,9 +106,10 @@ Liste hier unten ist aktuell:</p>
 <li>Harald Krawczyk (Neuenhagen)</li>
 <li>Maximilian Lang</li>
 <li>Tung Le (Queerspringer)</li>
+<li>Cedric Eis (Sfr. Berlin)</li>
 </ol>
 <p> </p>
-<p>Stand: 21.09.2023 – 19:00 Uhr</p>
+<p>Stand: 23.09.2023 – 10:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>

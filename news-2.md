@@ -8,6 +8,21 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11471 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11471">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/09/22/schnellschach-am-14-9/" rel="bookmark">Schnellschach am 14.9.</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/09/22/schnellschach-am-14-9/" rel="bookmark" title="23:54"><span class="entry-date">22. September 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Auf der <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a> sind nun auch die Ergebnisse vom vorletzten Schnellschachturnier der Saison, das am 14.9. gespielt wurde, veröffentlicht. Turniersieger wurde <strong>Peter</strong>, dem damit auch der Gesamtsieg nicht mehr zu nehmen ist, vor Tomas und Jerry. Spannend bleibt aber das Rennen um Platz 2: <strong>Klaus</strong> liegt aktuell vor <strong>Tomas</strong>, der aber erst drei Teilnahmen hat, so dass bei ihm kein Ergebnis gestrichen wird.</p>
+<p>Erwähnenswert ist auch, dass insgesamt 16 Teilnehmer mitgespielt haben, was schon wieder einen neuen Teilnehmerrekord bedeutet.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/09/22/schnellschach-am-14-9/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11471 
 <div class="post-11457 post type-post status-publish format-standard hentry category-nicht-kategorisiert-de category-openberichte" id="post-11457">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/09/19/bsem-bsmm/" rel="bookmark">BSEM &amp; BSMM</a></h2>
 <div class="entry-meta">
@@ -581,22 +596,6 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/04/training-am-donnerstag-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11175 
-<div class="post-11147 post type-post status-publish format-standard hentry category-openberichte" id="post-11147">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/" rel="bookmark">30. Offenes Brandenburger Seniorenturnier 2023</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/" rel="bookmark" title="14:28"><span class="entry-date">2. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hans-Dieter und Gerhard haben vom 16.06. bis 26.06.23 am Offenen Brandenburger Seniorenturnier teilgenommen.</p>
-<p>Hier der Bericht von Hans-Dieter:</p>
-<div class="wp-block-file"><object aria-label="Einbettung von 30. Offenes Brandenburger Seniorenturnier." class="wp-block-file__embed" data="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/30.-Offenes-Brandenburger-Seniorenturnier.pdf" height="150" style="width: 100%; height: 1528px;" type="application/pdf" width="300"></object><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/30.-Offenes-Brandenburger-Seniorenturnier.pdf" id="wp-block-file--media-cd66ae2c-abb2-403e-b076-fe00f164aa4e">30. Offenes Brandenburger Seniorenturnier</a></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11147 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
