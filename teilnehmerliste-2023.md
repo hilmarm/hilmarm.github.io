@@ -119,9 +119,10 @@ Liste hier unten ist aktuell:</p>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
 <li>Marc Lippert</li>
+<li>Fabian Schmidt</li>
 </ol>
 <p> </p>
-<p>Stand: 20.09.2023 – 16:00 Uhr</p>
+<p>Stand: 24.09.2023 – 11:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
