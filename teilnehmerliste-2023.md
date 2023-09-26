@@ -107,22 +107,24 @@ Liste hier unten ist aktuell:</p>
 <li>Maximilian Lang</li>
 <li>Tung Le (Queerspringer)</li>
 <li>Cedric Eis (Sfr. Berlin)</li>
+<li>Robin Toebs (Siemensstadt)</li>
+<li>Constantin Fontaine (SK Tempelhof)</li>
 </ol>
 <p> </p>
-<p>Stand: 23.09.2023 – 10:00 Uhr</p>
+<p>Stand: 26.09.2023 – 11:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
-<li>Dave Möwisch</li>
 <li>Selcuk Orkun Sakalli</li>
 <li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
 <li>Marc Lippert</li>
 <li>Fabian Schmidt</li>
+<li>Jakob Seibert</li>
 </ol>
 <p> </p>
-<p>Stand: 24.09.2023 – 11:00 Uhr</p>
+<p>Stand: 26.09.2023 – 11:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

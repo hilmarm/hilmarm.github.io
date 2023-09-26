@@ -14,79 +14,79 @@ parent_title: Termine
 <h1 class="entry-title">BMM Termine</h1>
 <div class="entry-content">
 <p> </p>
-<table class="clean bmm" style="width: 688px;">
+<table class="clean bmm" style="width: 187.333%; height: 234px;">
 <thead>
-<tr>
-<th style="width: 84px;">Runde</th>
-<th style="width: 129px;">Datum</th>
-<th style="width: 155px;">1.Mannschaft</th>
-<th style="width: 145px;">2.Mannschaft</th>
-<th style="width: 126px;">3.Mannschaft</th>
+<tr style="height: 18px;">
+<th style="width: 84px; height: 18px;">Runde</th>
+<th style="width: 129px; height: 18px;">Datum</th>
+<th style="width: 155px; height: 18px;">1.Mannschaft</th>
+<th style="width: 145px; height: 18px;">2.Mannschaft</th>
+<th style="width: 126px; height: 18px;">3.Mannschaft</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="text-align: center; width: 84px;">1</td>
-<td style="text-align: center; width: 129px;">08.10.2023</td>
-<td nowrap="nowrap" style="width: 155px;"></td>
-<td nowrap="nowrap" style="width: 145px;"></td>
-<td style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">1</td>
+<td style="text-align: center; width: 129px; height: 24px;">08.10.2023</td>
+<td nowrap="nowrap" style="width: 155px; height: 24px;">H</td>
+<td nowrap="nowrap" style="width: 145px; height: 24px;">H</td>
+<td style="width: 126px; height: 24px;">H</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">2</td>
-<td style="text-align: center; width: 129px;">12.11.2023</td>
-<td style="width: 155px;"></td>
-<td style="width: 145px;"></td>
-<td nowrap="nowrap" style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">2</td>
+<td style="text-align: center; width: 129px; height: 24px;">12.11.2023</td>
+<td style="width: 155px; height: 24px;">A</td>
+<td style="width: 145px; height: 24px;">A</td>
+<td nowrap="nowrap" style="width: 126px; height: 24px;">A</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">3</td>
-<td style="text-align: center; width: 129px;">26.11.2023</td>
-<td style="width: 155px;"></td>
-<td nowrap="nowrap" style="width: 145px;"></td>
-<td nowrap="nowrap" style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">3</td>
+<td style="text-align: center; width: 129px; height: 24px;">26.11.2023</td>
+<td style="width: 155px; height: 24px;">H</td>
+<td nowrap="nowrap" style="width: 145px; height: 24px;">H</td>
+<td nowrap="nowrap" style="width: 126px; height: 24px;">H</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">4</td>
-<td style="text-align: center; width: 129px;">14.01.2024</td>
-<td style="width: 155px;"></td>
-<td style="width: 145px;"></td>
-<td nowrap="nowrap" style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">4</td>
+<td style="text-align: center; width: 129px; height: 24px;">14.01.2024</td>
+<td style="width: 155px; height: 24px;">H</td>
+<td style="width: 145px; height: 24px;">H</td>
+<td nowrap="nowrap" style="width: 126px; height: 24px;">H</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">5</td>
-<td style="text-align: center; width: 129px;">28.01.2024</td>
-<td style="width: 155px;"></td>
-<td style="width: 145px;"></td>
-<td style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">5</td>
+<td style="text-align: center; width: 129px; height: 24px;">28.01.2024</td>
+<td style="width: 155px; height: 24px;">A</td>
+<td style="width: 145px; height: 24px;">A</td>
+<td style="width: 126px; height: 24px;">Spielfrei</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">6</td>
-<td style="text-align: center; width: 129px;">18.02.2024</td>
-<td style="width: 155px;"></td>
-<td nowrap="nowrap" style="width: 145px;"></td>
-<td style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">6</td>
+<td style="text-align: center; width: 129px; height: 24px;">18.02.2024</td>
+<td style="width: 155px; height: 24px;">H</td>
+<td nowrap="nowrap" style="width: 145px; height: 24px;">H</td>
+<td style="width: 126px; height: 24px;">H</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">7</td>
-<td style="text-align: center; width: 129px;">03.03.2024</td>
-<td style="width: 155px;"></td>
-<td style="width: 145px;"></td>
-<td nowrap="nowrap" style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">7</td>
+<td style="text-align: center; width: 129px; height: 24px;">03.03.2024</td>
+<td style="width: 155px; height: 24px;">A</td>
+<td style="width: 145px; height: 24px;">A</td>
+<td nowrap="nowrap" style="width: 126px; height: 24px;">A</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">8</td>
-<td style="text-align: center; width: 129px;">21.04.2024</td>
-<td style="width: 155px;"></td>
-<td nowrap="nowrap" style="width: 145px;"></td>
-<td style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">8</td>
+<td style="text-align: center; width: 129px; height: 24px;">21.04.2024</td>
+<td style="width: 155px; height: 24px;">H</td>
+<td nowrap="nowrap" style="width: 145px; height: 24px;">H</td>
+<td style="width: 126px; height: 24px;">H</td>
 </tr>
-<tr>
-<td style="text-align: center; width: 84px;">9</td>
-<td style="text-align: center; width: 129px;">05.05.2024</td>
-<td nowrap="nowrap" style="width: 155px;"></td>
-<td nowrap="nowrap" style="width: 145px;"></td>
-<td style="width: 126px;"></td>
+<tr style="height: 24px;">
+<td style="text-align: center; width: 84px; height: 24px;">9</td>
+<td style="text-align: center; width: 129px; height: 24px;">05.05.2024</td>
+<td nowrap="nowrap" style="width: 155px; height: 24px;">A</td>
+<td nowrap="nowrap" style="width: 145px; height: 24px;">A</td>
+<td style="width: 126px; height: 24px;">A</td>
 </tr>
 </tbody>
 </table>

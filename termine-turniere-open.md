@@ -23,36 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-09-september-2023.html" rel="noopener" target="_blank">Karlshorster Schachturnier</a></td>
-<td>09.09.2023</td>
-<td>Günter, Hans-Dieter, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier Erftstadt</a></td>
-<td>15.09.2023</td>
-<td>1x NARVA 1x Ex&amp;Hopp</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="http://www.lsbb.de/archiv-pdf/Ausschreibung_Spreepokal_SSG_2023.pdf" rel="noopener" target="_blank">23.Spreewaldpokal</a></td>
-<td>16.09.2023</td>
-<td>1 Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Einzelmeisterschaft 2023</a></td>
-<td>16.09.2023</td>
-<td>Batu</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BSMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Schnellschach-Mannschaftsmeisterschaft 2023</a></td>
-<td>17.09.2023</td>
-<td>1 Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://londonfidecongress.com/southall-congress" rel="noopener" target="_blank">Southall Congress</a></td>
-<td>23.09.-24.09.2023</td>
-<td>Jonatan</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>29.09.-05.10.2023</td>
 <td>Hans-Dieter, Ulrich</td>
@@ -70,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Mannschaftsmeisterschaft 2023</a></td>
 <td>01.10.2023</td>
-<td>1-2 Mannschaften</td>
+<td>1 Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://bsg-eckbauer.de/berichte/open2023/open2023.php" rel="noopener" target="_blank">Eckbauer Open 2023</a></td>
