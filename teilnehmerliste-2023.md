@@ -109,9 +109,11 @@ Liste hier unten ist aktuell:</p>
 <li>Cedric Eis (Sfr. Berlin)</li>
 <li>Robin Toebs (Siemensstadt)</li>
 <li>Constantin Fontaine (SK Tempelhof)</li>
+<li>Jakob Seibert</li>
+<li>Matthias Pröschild (Chemie Weißensee)</li>
 </ol>
 <p> </p>
-<p>Stand: 26.09.2023 – 11:00 Uhr</p>
+<p>Stand: 27.09.2023 – 10:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -121,10 +123,10 @@ Liste hier unten ist aktuell:</p>
 <li>Romain Besombes</li>
 <li>Marc Lippert</li>
 <li>Fabian Schmidt</li>
-<li>Jakob Seibert</li>
+<li>Dave Schwarz</li>
 </ol>
 <p> </p>
-<p>Stand: 26.09.2023 – 11:00 Uhr</p>
+<p>Stand: 27.09.2023 – 10:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
