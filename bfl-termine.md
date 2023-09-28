@@ -14,7 +14,8 @@ parent_title: Termine
 <h1 class="entry-title">BFL Termine</h1>
 <div class="entry-content">
 <p> </p>
-<table class="clean bmm" style="width: 187.333%; height: 234px;">
+<p> </p>
+<table class="clean bmm" style="width: 187.333%; height: 186px;">
 <thead>
 <tr style="height: 18px;">
 <th style="width: 19.1582%; height: 18px;">Runde</th>
@@ -29,81 +30,63 @@ parent_title: Termine
 <tbody>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">1</td>
-<td nowrap="nowrap" style="width: 17.852%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 17.852%; height: 24px;">SG Weißensee (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Caissa Hermsdorf (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">2</td>
-<td style="width: 17.852%; height: 24px;"></td>
+<td style="width: 17.852%; height: 24px;">Berolina (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
+<td style="width: 35.1234%; height: 24px;">TSG O’schöneweide (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">3</td>
-<td nowrap="nowrap" style="width: 17.852%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 17.852%; height: 24px;">Sfr. Berlin 2 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
+<td style="width: 35.1234%; height: 24px;">Neukölln (A)</td>
 <td style="width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">4</td>
-<td nowrap="nowrap" style="width: 17.852%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 17.852%; height: 24px;">Sfr. Berlin 3 (A)</td>
 <td style="width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Sfr.Berlin 4 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">5</td>
-<td style="width: 17.852%; height: 24px;"></td>
+<td style="width: 17.852%; height: 24px;">Zitadelle (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
+<td style="width: 35.1234%; height: 24px;">SK International (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">6</td>
-<td style="width: 17.852%; height: 24px;"></td>
+<td style="width: 17.852%; height: 24px;">Sfr. Berlin 1 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
+<td style="width: 35.1234%; height: 24px;">Mariendorf (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; width: 19.1582%; height: 24px;">7</td>
-<td style="width: 17.852%; height: 24px;"></td>
+<td style="width: 17.852%; height: 24px;">Kreuzberg (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
-<td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
-<td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="text-align: center; width: 19.1582%; height: 24px;">8</td>
-<td style="width: 17.852%; height: 24px;"></td>
-<td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
-<td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
-<td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="text-align: center; width: 19.1582%; height: 24px;">9</td>
-<td style="width: 17.852%; height: 24px;"></td>
-<td style="width: 13.9332%; height: 24px;"></td>
-<td style="width: 35.1234%; height: 24px;"></td>
+<td style="width: 35.1234%; height: 24px;">Kreuzberg 2 (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
