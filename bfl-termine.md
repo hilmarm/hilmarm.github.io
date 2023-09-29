@@ -14,7 +14,6 @@ parent_title: Termine
 <h1 class="entry-title">BFL Termine</h1>
 <div class="entry-content">
 <p> </p>
-<p> </p>
 <table class="clean bmm" style="width: 187.333%; height: 186px;">
 <thead>
 <tr style="height: 18px;">
@@ -34,7 +33,7 @@ parent_title: Termine
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Caissa Hermsdorf (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">SG Weißensee 2 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
@@ -43,7 +42,7 @@ parent_title: Termine
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td style="width: 35.1234%; height: 24px;">TSG O’schöneweide (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Berolina 2 (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
@@ -52,7 +51,7 @@ parent_title: Termine
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td style="width: 35.1234%; height: 24px;">Neukölln (A)</td>
 <td style="width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Mariendorf 2 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
@@ -61,7 +60,7 @@ parent_title: Termine
 <td style="width: 13.9332%; height: 24px;"></td>
 <td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Sfr.Berlin 4 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Sfr. Berlin 6 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
@@ -70,7 +69,7 @@ parent_title: Termine
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td style="width: 35.1234%; height: 24px;">SK International (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Kreuzberg 4 (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
@@ -79,7 +78,7 @@ parent_title: Termine
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td style="width: 35.1234%; height: 24px;">Mariendorf (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Sfr. Berlin 5 (A)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
@@ -88,7 +87,7 @@ parent_title: Termine
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 <td style="width: 35.1234%; height: 24px;">Kreuzberg 2 (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
-<td nowrap="nowrap" style="width: 35.1234%; height: 24px;"></td>
+<td nowrap="nowrap" style="width: 35.1234%; height: 24px;">Kreuzberg 3 (H)</td>
 <td style="text-align: center; width: 13.9332%; height: 24px;"></td>
 </tr>
 </tbody>

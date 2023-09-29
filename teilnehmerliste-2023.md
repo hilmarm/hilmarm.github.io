@@ -111,14 +111,14 @@ Liste hier unten ist aktuell:</p>
 <li>Constantin Fontaine (SK Tempelhof)</li>
 <li>Jakob Seibert</li>
 <li>Matthias Pröschild (Chemie Weißensee)</li>
+<li>Paul Sellhast (Nord-Ost)</li>
 </ol>
 <p> </p>
-<p>Stand: 27.09.2023 – 10:00 Uhr</p>
+<p>Stand: 29.09.2023 – 12:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
 <li>Selcuk Orkun Sakalli</li>
-<li>Paul Sellhast</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
 <li>Marc Lippert</li>
