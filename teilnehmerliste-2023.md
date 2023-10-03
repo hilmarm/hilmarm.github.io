@@ -112,21 +112,27 @@ Liste hier unten ist aktuell:</p>
 <li>Jakob Seibert</li>
 <li>Matthias Pröschild (Chemie Weißensee)</li>
 <li>Paul Sellhast (Nord-Ost)</li>
+<li>Dave Schwarz (Müncheberg)</li>
+<li>Marc Lippert (Läufer Reinickendorf)</li>
+<li>Clemens Beyer (Barnimer Schachfreunde)</li>
 </ol>
 <p> </p>
-<p>Stand: 29.09.2023 – 12:00 Uhr</p>
+<p>Stand: 02.10.2023 – 16:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
 <li>Selcuk Orkun Sakalli</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
-<li>Marc Lippert</li>
 <li>Fabian Schmidt</li>
-<li>Dave Schwarz</li>
+<li>Hermann Stuckstedte</li>
+<li>Fredy Reimann</li>
+<li>Spartac Gevorkian</li>
+<li>Michael Strache</li>
+<li>Norman Daum</li>
 </ol>
 <p> </p>
-<p>Stand: 27.09.2023 – 10:00 Uhr</p>
+<p>Stand: 03.10.2023 – 12:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
