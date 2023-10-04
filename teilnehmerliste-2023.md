@@ -130,9 +130,13 @@ Liste hier unten ist aktuell:</p>
 <li>Spartac Gevorkian</li>
 <li>Michael Strache</li>
 <li>Norman Daum</li>
+<li>Heinrich Grunert</li>
+<li>Greta Grunert</li>
+<li>Olga Grunert</li>
+<li>Peter Held</li>
 </ol>
 <p> </p>
-<p>Stand: 03.10.2023 – 12:00 Uhr</p>
+<p>Stand: 03.10.2023 – 15:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
