@@ -44,8 +44,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
-<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a> – Aktualisierung bei Chess-Result erst wieder Anfang Oktober möglich.<br/>
-Liste hier unten ist aktuell:</p>
+<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a></p>
 <p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
 <ol>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
@@ -122,9 +121,13 @@ Liste hier unten ist aktuell:</p>
 <li>Fredy Reimann (Königsjäger)</li>
 <li>Michael Strache (Kreuzberg)</li>
 <li>Norman Daum (Rotation Pankow)</li>
+<li>Heinrich Grunert (Bayern München)</li>
+<li>Greta Grunert (Bayern München)</li>
+<li>Olga Grunert (SK München Spdost)</li>
+<li>Matthias Gegner (Queer-Springer SSV)</li>
 </ol>
 <p> </p>
-<p>Stand: 05.10.2023 – 12:00 Uhr</p>
+<p>Stand: 06.10.2023 – 15:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -132,12 +135,11 @@ Liste hier unten ist aktuell:</p>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
 <li>Fabian Schmidt</li>
-<li>Heinrich Grunert</li>
-<li>Greta Grunert</li>
-<li>Olga Grunert</li>
+<li>Manuel Kamps</li>
+<li>Silvio Brandt</li>
 </ol>
 <p> </p>
-<p>Stand: 04.10.2023 – 13:00 Uhr</p>
+<p>Stand: 06.10.2023 – 22:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

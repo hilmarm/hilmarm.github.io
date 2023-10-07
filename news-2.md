@@ -8,6 +8,35 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11523 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-11523">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/06/bmm-und-bfl-starten-in-neue-saison/" rel="bookmark">BMM und BFL starten in neue Saison</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/06/bmm-und-bfl-starten-in-neue-saison/" rel="bookmark" title="22:06"><span class="entry-date">6. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am Sonntag geht die BMM in eine neue Saison!</strong> Wir beginnen mit Heimspielen für alle 3 Mannschaften, um 9 Uhr im RuDi-Nachbarschaftszentrum.</p>
+<p>Nach dem Aufstieg der Zweiten, spielen nun 1. und 2. Mannschaft in der 1. Klasse. NARVA 3 bleibt in der 3. Klasse.<br/>
+NARVA 1 spielt Runde 1 gegen SVG Läufer Reinickendorf.<br/>
+NARVA 2 muss gegen TuS Makkabi Berlin ran.<br/>
+NARVA 3 hat SF Nordost Berlin 5 als Gegner.</p>
+<p>Diese Saison gibt es auch wieder eine 4.Klasse. Weitere Neuerungen betreffen vor allem den überregionalen Spielbetrieb. Siehe <a href="https://www.berlinerschachverband.de/files/SpA/Oberliga%20Ost/OLO%202024-2025%20Besetzungsverfahren.pdf" rel="noopener" target="_blank">Verfahren zur Besetzung der OLO 2024/2025</a><br/>
+Davon werden aber auch die Klassen darunter betroffen sein, es wird einige Sonderabsteiger geben, was den Klassenerhalt für die 2. Mannschaft zu einer noch größeren Aufgabe machen wird! Aber wir kämpfen!</p>
+<p>Die letzten Infos vom BSV gibt es zur BMM hier – <a href="https://www.berlinerschachverband.de/entry/bmm-mannschaftshefte-und-ein-paar-infos.html" rel="noopener" target="_blank">Link zur BSV Homepage</a> – dabei auch die BMM Hefte.</p>
+<p> </p>
+<p>Die <strong>BFL</strong> startet dann nächste Woche in die neue Saison. Wir starten erstmals mit 3 Mannschaften, verteilt auf die 3 Staffeln A, B und C.</p>
+<p>Neben der zusätzlichen Staffel gibt es für die BFL auch eine neue Bedenkzeit, statt 2h ohne Bonus gibt es nun 75 min pro Spieler plus 30 Sekunden Inkrement.</p>
+<p>Los geht es für NARVA 2 schon am Dienstag in Hermsdorf.<br/>
+NARVA 1 und 3 spielen am Donnerstag bei der SG Weißensee.</p>
+<p>Das neue Skript für BMM und BFL ist noch nicht komplett, soll dann aber hier <a href="https://bmm-schach.de/" rel="noopener" target="_blank">https://bmm-schach.de/</a> zu finden sein.</p>
+<p><a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Termine und Gegner BMM</a><br/>
+<a href="https://www.narva-schach.de/wordpress/termine/bfl-termine/">Termine und Gegner BFL</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/06/bmm-und-bfl-starten-in-neue-saison/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11523 
 <div class="post-11490 post type-post status-publish format-standard hentry category-training" id="post-11490">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/02/training-mit-gm-michael-richter-am-donnerstag/" rel="bookmark">Training mit GM Michael Richter am Donnerstag!</a></h2>
 <div class="entry-meta">
@@ -575,30 +604,6 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/kurt-richter-gedenkturnier-2023/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11215 
-<div class="post-11154 post type-post status-publish format-standard hentry category-openberichte" id="post-11154">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark">der fleißige Gerhard</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/" rel="bookmark" title="7:36"><span class="entry-date">11. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Eines unserer ältesten Mitglieder ist auch zeitgleich eines der aktivsten! <strong>Gerhard</strong> (86) hat 2023 bereits 6 DWZ-gewertete Turniere gespielt!</p>
-<div class="wp-caption alignnone" id="attachment_11189" style="width: 510px"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/dwzgerhard/" rel="attachment wp-att-11189"><img alt="" aria-describedby="caption-attachment-11189" class="wp-image-11189" decoding="async" height="126" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-300x76.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard-768x193.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/dwzgerhard.jpg 822w" width="500"/></a><p class="wp-caption-text" id="caption-attachment-11189">die BMM wird dann die 100. Auswertung</p></div>
-<p>Neben der BFL und BMM wo er natürlich aktiv war, hat er neben der <a href="https://www.narva-schach.de/wordpress/2023/01/30/narva-bei-der-bsenem-2023/">Berliner Seniorenmeisterschaft</a> auch noch Ausflüge nach <strong>Undeloh</strong> (liegt in Niedersachsen, etwas südlich von Hamburg), <strong>Stendal</strong> und <strong>Miedzyzdroje</strong> (PL) gemacht!</p>
-<p>In <strong>Undeloh</strong> trat er beim <strong>Nestorenturnier 2023 „Klaus Gohde Gedenkturnier“</strong> vom 15. bis 19.03.2023 an. Organisiert vom Förderkreis der Senioren im DSB (u.a. von Martin Sebastian) ein Turnier für Teilnehmer „Baujahr“ 1948 und älter. Gespielt wurden 5 Runden und Gerhard erreichte starke 3 Punkte aus den 5 Partien, bei nur einer Niederlage! So gewann er in Runde 1 gleich gegen DWZ 1935 und spielte in Runde 2 Remis gegen 1922! <strong>Das reichte dann für Platz 10 bei 52 Teilnehmern!</strong><br/>
-<a href="https://chess-results.com/tnr741210.aspx?lan=0&amp;art=4" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/nestorenturnier/" rel="attachment wp-att-11161"><img alt="" class="alignnone size-medium wp-image-11161" decoding="async" height="221" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/nestorenturnier-300x221.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/nestorenturnier-300x221.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/nestorenturnier.jpg 500w" width="300"/></a></p>
-<p>In <strong>Stendal</strong> spielte er beim <strong>25. Stendaler Open 2023</strong> vom 18. bis 21.05.2023 mit und erreichte 2 Punkte aus 7 Runden. Damit war er sicher nicht ganz zufrieden.<br/>
-<a href="https://open-stendal.de.tl/2023-_-Rangliste.htm" rel="noopener" target="_blank">Turnierseite mit Tabellen</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/stendal/" rel="attachment wp-att-11162"><img alt="" class="alignnone size-medium wp-image-11162" decoding="async" height="270" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/stendal-300x270.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/stendal-300x270.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/07/stendal.jpg 502w" width="300"/></a></p>
-<p>Wie es ihm in <strong>Miedzyzdroje</strong> beim <strong>Offenen Brandenburgischen Seniorenturnier</strong> erging, steht im <a href="https://www.narva-schach.de/wordpress/2023/07/02/30-offenes-brandenburger-seniorenturnier-2023/">Bericht von Hans-Dieter</a>.</p>
-<p>Es hat also immer gute Gründe wenn Gerhard nicht im Club ist, dann spielt er irgendwo in Deutschland (oder auch außerhalb) Schach! Weiter so!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/11/der-fleissige-gerhard/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11154 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
