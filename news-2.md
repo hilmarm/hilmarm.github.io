@@ -16,7 +16,8 @@ navs:
 <p><strong>Am Sonntag geht die BMM in eine neue Saison!</strong> Wir beginnen mit Heimspielen für alle 3 Mannschaften, um 9 Uhr im RuDi-Nachbarschaftszentrum.</p>
 <p>Nach dem Aufstieg der Zweiten, spielen nun 1. und 2. Mannschaft in der 1. Klasse. NARVA 3 bleibt in der 3. Klasse.<br/>
 NARVA 1 spielt Runde 1 gegen SVG Läufer Reinickendorf.<br/>
-NARVA 2 muss gegen TuS Makkabi Berlin ran.<br/>
+<del>NARVA 2 muss gegen TuS Makkabi Berlin ran.</del><br/>
+<span style="color: #ff0000;">Abgesagt! Wegen der Ereignisse in Israel tritt Makkabi nicht an.</span><br/>
 NARVA 3 hat SF Nordost Berlin 5 als Gegner.</p>
 <p>Diese Saison gibt es auch wieder eine 4.Klasse. Weitere Neuerungen betreffen vor allem den überregionalen Spielbetrieb. Siehe <a href="https://www.berlinerschachverband.de/files/SpA/Oberliga%20Ost/OLO%202024-2025%20Besetzungsverfahren.pdf" rel="noopener" target="_blank">Verfahren zur Besetzung der OLO 2024/2025</a><br/>
 Davon werden aber auch die Klassen darunter betroffen sein, es wird einige Sonderabsteiger geben, was den Klassenerhalt für die 2. Mannschaft zu einer noch größeren Aufgabe machen wird! Aber wir kämpfen!</p>

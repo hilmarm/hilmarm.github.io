@@ -125,9 +125,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Greta Grunert (Bayern München)</li>
 <li>Olga Grunert (SK München Spdost)</li>
 <li>Matthias Gegner (Queer-Springer SSV)</li>
+<li>Dustin Tennessee Opasiak (Weisse Dame Hamburg)</li>
+<li>Silvio Brandt (Chemie Weißensee)</li>
 </ol>
 <p> </p>
-<p>Stand: 06.10.2023 – 15:00 Uhr</p>
+<p>Stand: 07.10.2023 – 14:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -136,10 +138,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Romain Besombes</li>
 <li>Fabian Schmidt</li>
 <li>Manuel Kamps</li>
-<li>Silvio Brandt</li>
+<li>Uwe Zeidler</li>
 </ol>
 <p> </p>
-<p>Stand: 06.10.2023 – 22:00 Uhr</p>
+<p>Stand: 07.10.2023 – 14:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
