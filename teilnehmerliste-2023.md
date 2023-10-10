@@ -131,20 +131,35 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Uwe Zeidler (Umweltbundesamt)</li>
 <li>Rayane Nait Raiss</li>
 <li>Tomin Bogdan (Schachfreunde Berlin)</li>
+<li>Felix Zimmermann (Schachfreunde Berlin)</li>
+<li>Bernhard Prott (Läufer Reinickendorf)</li>
+<li>Selcuk Orkun Sakalli (Zugzwang)</li>
+<li>Benjamin Schweitzer (Schachfreunde Berlin)</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 </ol>
 <p> </p>
-<p>Stand: 09.10.2023 – 12:00 Uhr</p>
+<p>Stand: 10.10.2023 – 10:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
-<li>Selcuk Orkun Sakalli</li>
 <li>Sedrak Matevosyan</li>
 <li>Romain Besombes</li>
 <li>Fabian Schmidt</li>
 <li>Manuel Kamps</li>
 </ol>
 <p> </p>
-<p>Stand: 09.10.2023 – 08:00 Uhr</p>
+<p>Stand: 09.10.2023 – 20:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

@@ -25,7 +25,7 @@ So musste Ekkehard dann sein K+D gegen K+T Endspiel durchsetzen. Das gelang ihm 
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/09/erfolgreiche-1-runde-bmm/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/09/erfolgreiche-1-runde-bmm/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11542 
 <div class="post-11523 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-11523">
