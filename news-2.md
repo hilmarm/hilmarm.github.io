@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11552 post type-post status-publish format-standard hentry category-bfl" id="post-11552">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/10/bfl-hefte/" rel="bookmark">Inoffizielle BFL-Hefte</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/10/bfl-hefte/" rel="bookmark" title="16:13"><span class="entry-date">10. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Für die BFL habe ich inoffizielle Staffelhefte mit Aufstellungen und Spielplan erstellt, die ihr hier herunterladen könnt:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/BFL-2023-24-A.pdf">Staffel A</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/BFL-2023-24-B.pdf">Staffel B</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/BFL-2023-24-C.pdf">Staffel C</a></p>
+<p>Die Hefte kommen als PDF-Datei mit Einzelseiten im A4-Format, also anders als die BMM-Hefte. Eine Funktion, um ein Dokument als Broschüre/Booklet zu drucken, sollte es aber in jeder gängigen PDF-Software geben. Damit bekommt ihr dann das bekannte Heftformat.</p>
+<p>Aufstellungen und Spielpläne habe ich per Script aus der <a href="https://bmm-schach.de">BMM-App</a> gezogen. Wenn ihr also einen Fehler bei eurer Mannschaft feststellt, prüft bitte erstmal dort, ob die Daten korrekt sind. </p>
+<p>Die Spieltage habe ich nach meinem Kenntnisstand selbst eingetragen. Sie sind zwar auch in der BMM-App hinterlegt, aber noch nicht zugänglich. Falls ein Spieltag nicht stimmt, oder sonst ein gravierender Fehler auffällt, informiert mich bitte umgehend, denn das automatische Erstellen der Hefte wird aus technischen Gründen bald (nämlich wenn der erste Wettkampf mit NARVA-Beteiligung geschlossen ist) nicht mehr möglich sein.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/10/bfl-hefte/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11552 
 <div class="post-11542 post type-post status-publish format-standard hentry category-bmm" id="post-11542">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/09/erfolgreiche-1-runde-bmm/" rel="bookmark">Erfolgreiche 1. Runde BMM</a></h2>
 <div class="entry-meta">
@@ -588,23 +608,6 @@ Ausfüllen/Abgabe der Fragebögen Bitte bis 10.08.23!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/bmm-fragebogen-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11238 
-<div class="post-11217 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11217">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark">Schnellschach Runde 4</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/" rel="bookmark" title="8:57"><span class="entry-date">17. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag fand die 4. Runde von unserem <strong>Schnellschach GP</strong> statt. Mit 14 Teilnehmern war wieder ein großes Teilnehmer am Start.</p>
-<p>Eindeutiger Sieger wurde <strong>Peter</strong> mit 5 aus 5! Platz 2 und 3 haben jeweils 3,5 Punkte, dabei hat <strong>Tomas</strong> die bessere Buchholzwertung und nimmt <strong>Klaus</strong> weitere 2 Punkte für die Gesamtwertung ab. So sind nun Peter und Klaus punktgleich, Tomas wird bei weiteren gleichen Ergebnissen noch zu den beiden aufschließen, ab der nächsten Runde greifen die ersten Streichwerte.</p>
-<p>Stark unterwegs war auch <strong>Felix</strong>, der wie <strong>Hans-Dieter</strong> auf 3 Punkte kam und den 5. Platz hinter Hans-Dieter belegt.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/17/schnellschach-runde-4/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11217 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
