@@ -50,20 +50,20 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">3</td>
 <td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 2 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">29.11.</td>
 <td style="height: 24px;">Neukölln (A)</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">01.12.</td>
 <td nowrap="nowrap" style="height: 24px;">Mariendorf 2 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">29.11.</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">4</td>
 <td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 3 (A)</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">17.01.</td>
 <td nowrap="nowrap" style="height: 24px;">Sfr.Berlin 4 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">17.01.</td>
 <td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 6 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">17.01.</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">5</td>
@@ -77,11 +77,11 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">6</td>
 <td style="height: 24px;">Sfr. Berlin 1 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">06.03.</td>
 <td style="height: 24px;">Mariendorf (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">06.03.</td>
 <td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 5 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="text-align: center; height: 24px;">06.03.</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">7</td>

@@ -137,10 +137,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Benjamin Schweitzer (Schachfreunde Berlin)</li>
 <li>Marko Hinrichs (SC Kreuzberg)</li>
 <li>Manuel Jesus Losa Diaz (SC Kreuzberg)</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Henry Reiche (Berolina Mitte)</li>
+<li>Jonas Obermann (Queerspringer SSV)</li>
+<li>Georg Bader (SG Weißensee)</li>
+<li>Dagobert Kohlmeyer (SG Weißensee)</li>
 <li></li>
 <li></li>
 <li></li>
@@ -149,7 +149,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li></li>
 </ol>
 <p> </p>
-<p>Stand: 10.10.2023 – 18:00 Uhr</p>
+<p>Stand: 12.10.2023 – 12:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -159,7 +159,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Manuel Kamps</li>
 </ol>
 <p> </p>
-<p>Stand: 09.10.2023 – 20:00 Uhr</p>
+<p>Stand: 11.10.2023 – 20:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
