@@ -19,7 +19,8 @@ navs:
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/BFL-2023-24-C.pdf">Staffel C</a></p>
 <p>Die Hefte kommen als PDF-Datei mit Einzelseiten im A4-Format, also anders als die BMM-Hefte. Eine Funktion, um ein Dokument als Broschüre/Booklet zu drucken, sollte es aber in jeder gängigen PDF-Software geben. Damit bekommt ihr dann das bekannte Heftformat.</p>
 <p>Aufstellungen und Spielpläne habe ich per Script aus der <a href="https://bmm-schach.de">BMM-App</a> gezogen. Wenn ihr also einen Fehler bei eurer Mannschaft feststellt, prüft bitte erstmal dort, ob die Daten korrekt sind. </p>
-<p>Die Spieltage habe ich nach meinem Kenntnisstand selbst eingetragen. Sie sind zwar auch in der BMM-App hinterlegt, aber noch nicht zugänglich. Falls ein Spieltag nicht stimmt, oder sonst ein gravierender Fehler auffällt, informiert mich bitte umgehend, denn das automatische Erstellen der Hefte wird aus technischen Gründen bald (nämlich wenn der erste Wettkampf mit NARVA-Beteiligung geschlossen ist) nicht mehr möglich sein.</p>
+<p>Die Spieltage habe ich nach meinem Kenntnisstand selbst eingetragen. Sie sind zwar auch in der BMM-App hinterlegt, aber noch nicht zugänglich. Falls ein Spieltag nicht stimmt, oder sonst ein gravierender Fehler auffällt, informiert mich bitte umgehend<strike>, denn das automatische Erstellen der Hefte wird aus technischen Gründenbald (nämlich wenn der erste Wettkampf mit NARVA-Beteiligung geschlossen ist) nicht mehr möglich sein.</strike></p>
+<p>Noch eine kleine Anmerkung, da gefragt wurde: Die Nachmeldungen zur ersten Runde waren, als ich die Hefte erstellt habe, noch nicht in der App eingetragen, und sind deshalb nicht berücksichtigt.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">

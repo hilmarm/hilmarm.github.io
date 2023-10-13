@@ -141,15 +141,15 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jonas Obermann (Queerspringer SSV)</li>
 <li>Georg Bader (SG Weißensee)</li>
 <li>Dagobert Kohlmeyer (SG Weißensee)</li>
-<li></li>
-<li></li>
+<li>Viktor Zeitler (Rote Rüben Leipzig)</li>
+<li>Matthias Ahlberg (SG Weißensee)</li>
 <li></li>
 <li></li>
 <li></li>
 <li></li>
 </ol>
 <p> </p>
-<p>Stand: 12.10.2023 – 12:00 Uhr</p>
+<p>Stand: 12.10.2023 – 21:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -157,9 +157,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Romain Besombes</li>
 <li>Fabian Schmidt</li>
 <li>Manuel Kamps</li>
+<li>Henry David Orozco Rodriguez</li>
 </ol>
 <p> </p>
-<p>Stand: 11.10.2023 – 20:00 Uhr</p>
+<p>Stand: 12.10.2023 – 21:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

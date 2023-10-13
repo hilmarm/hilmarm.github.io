@@ -401,7 +401,7 @@ parent_title: Turniere
 <td>14.</td>
 <td>von Kraft,Lukas</td>
 <td>1396</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>5</td>
@@ -434,7 +434,7 @@ parent_title: Turniere
 <td>18.</td>
 <td>Salgueiro,Felix</td>
 <td>943</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>8</td>
@@ -445,7 +445,7 @@ parent_title: Turniere
 <td>11.</td>
 <td>Mietzelfeldt,Ger</td>
 <td>1586</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>9</td>
@@ -467,7 +467,7 @@ parent_title: Turniere
 <td>21.</td>
 <td>Mach,Wolfgang</td>
 <td></td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 </tbody>
 </table>
