@@ -143,13 +143,13 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Dagobert Kohlmeyer (SG Weißensee)</li>
 <li>Viktor Zeitler (Rote Rüben Leipzig)</li>
 <li>Matthias Ahlberg (SG Weißensee)</li>
-<li></li>
+<li>Henry David Orozco Rodriguez (Läufer Reinickendorf)</li>
 <li></li>
 <li></li>
 <li></li>
 </ol>
 <p> </p>
-<p>Stand: 12.10.2023 – 21:00 Uhr</p>
+<p>Stand: 13.10.2023 – 19:00 Uhr</p>
 <p> </p>
 <p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
 <ol>
@@ -157,10 +157,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Romain Besombes</li>
 <li>Fabian Schmidt</li>
 <li>Manuel Kamps</li>
-<li>Henry David Orozco Rodriguez</li>
+<li>Bernd Daverkausen</li>
 </ol>
 <p> </p>
-<p>Stand: 12.10.2023 – 21:00 Uhr</p>
+<p>Stand: 13.10.2023 – 19:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
