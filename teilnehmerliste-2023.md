@@ -107,7 +107,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Tung Le (Queerspringer)</li>
 <li>Cedric Eis (Sfr. Berlin)</li>
 <li>Robin Toebs (Siemensstadt)</li>
-<li>Constantin Fontaine (SK Tempelhof)</li>
 <li>Jakob Seibert</li>
 <li>Matthias Pröschild (Chemie Weißensee)</li>
 <li>Paul Sellhast (Nord-Ost)</li>
@@ -144,23 +143,20 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Viktor Zeitler (Rote Rüben Leipzig)</li>
 <li>Matthias Ahlberg (SG Weißensee)</li>
 <li>Henry David Orozco Rodriguez (Läufer Reinickendorf)</li>
-<li></li>
-<li></li>
-<li></li>
+<li>Özgür Besbudak (Schachfreunde Berlin)</li>
+<li>Manuel Kamps (SV Hellern)</li>
+<li>Henrik Petersen (SV 03/25 Koblenz)</li>
+<li>Bernd Daverkausen (SG NARVA)</li>
 </ol>
 <p> </p>
-<p>Stand: 13.10.2023 – 19:00 Uhr</p>
-<p> </p>
-<p><span style="text-decoration: underline;">Meldung per Mail erhalten, aber noch kein Startgeldeingang:</span></p>
+<p>Warteliste:</p>
 <ol>
-<li>Sedrak Matevosyan</li>
-<li>Romain Besombes</li>
-<li>Fabian Schmidt</li>
-<li>Manuel Kamps</li>
-<li>Bernd Daverkausen</li>
+<li>Sedrak Matevosyan *</li>
+<li>Romain Besombes *</li>
+<li>Fabian Schmidt *</li>
 </ol>
-<p> </p>
-<p>Stand: 13.10.2023 – 19:00 Uhr</p>
+<p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
+<p>Stand: 14.10.2023 – 22:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
