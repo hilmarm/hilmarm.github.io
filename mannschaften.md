@@ -2,12 +2,9 @@
 title: Mannschaften 
 layout: default
 navs:
+  BMM: https://bmm-schach.de/seasons/BMM%202023-24
   Spielberichte BMM: spielberichte-bmm
-  1. Mannschaft: http://www.mattzug.de/bmm/skript/2223/Stand/Klasse+1.2/runde=9/menu=knoeppe/
-  2. Mannschaft: http://www.mattzug.de/bmm/skript/2223/Stand/Klasse+2.4/runde=9/menu=knoeppe/
-  3. Mannschaft: http://www.mattzug.de/bmm/skript/2223/Stand/Klasse+3.2/runde=9/menu=knoeppe/
-  BFL 1.Mannschaft: https://chess-results.com/tnr699600.aspx?lan=0
-  BFL 2.Mannschaft: https://chess-results.com/tnr699604.aspx?lan=0
+  BFL: https://bmm-schach.de/seasons/BFL%202023-24
   BPMM: bpmm
 ---
 <div class="post-54 page type-page status-publish hentry" id="post-54">

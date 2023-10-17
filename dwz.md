@@ -165,8 +165,8 @@ navs:
 <td>17.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
-<td>1724</td>
-<td>98</td>
+<td>1762</td>
+<td>99</td>
 <td>1815</td>
 </tr>
 <tr>
@@ -221,8 +221,8 @@ navs:
 <td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
-<td>1611</td>
-<td>80</td>
+<td>1607</td>
+<td>81</td>
 <td>1735</td>
 </tr>
 <tr>

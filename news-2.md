@@ -14,10 +14,10 @@ navs:
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/15/3-niederlagen-zum-bfl-start/" rel="bookmark" title="13:44"><span class="entry-date">15. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Im Gegensatz zur BMM lief die 1. Runde zur <strong>BFL</strong> sehr schlecht. Allerdings sind hier die Erwartungen auch etwas schwieriger, wenn man die jeweiligen Durchschnittswerte der Mannschaften in den Staffeln sieht (siehe Foto).</p>
-<p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement.</p>
+<p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-652d15844d399-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-652e6713c8e22-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -25,19 +25,19 @@ navs:
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-652d15844d399-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-652e6713c8e22-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
 </div>
 <p class="rpbchessboard-spacerAfter"></p>
 <p>Ist es denn Remis? Oder kann Schwarz noch auf Gewinn spielen? Schwarz am Zug.</p>
-<div id="bfl2324_1_antwort" style="border: 2px solid black; display: none; margin-top:50px;">
+<div id="bfl2324_1_antwort" style="border: 2px solid black; display: none; margin-top: 50px;">
 <h3>Lösung</h3>
 <p>Schwarz muss 1. … Kb6! finden (möglich ist alternativ auch 1. … Kb5, wenn ein späteres Läuferschach dann mit Kb6! beantwortet wird). Nun kann Weiß die Bauernumwandlung nur mit 2. Sxf2 verhindern. Nach 2. … g3! kann dann aber die Umwandlung des g-Bauern nicht mehr verhindert werden. 3. Sxh1 g2 4. Sf2 g1=D und das Endspiel ist theoretisch gewonnen.</p>
-<p>Demgegenüber führt 1. … Kd6 zum Remis – aber nach 2. Sxf2 g3 darf nicht der Turm geschlagen werden, sondern 3. Se4+! nebst 4. Sxg3 ist der einzige Zug, der remis hält.
-</p></div>
-<p><button id="bfl2324_1_button" onclick="javascript:document.getElementById('bfl2324_1_antwort').style.display='block';javascript:document.getElementById('bfl2324_1_button').style.display='none';">Lösung anzeigen</button></p>
+<p>Demgegenüber führt 1. … Kd6 zum Remis – aber nach 2. Sxf2 g3 darf nicht der Turm geschlagen werden, sondern 3. Se4+! nebst 4. Sxg3 ist der einzige Zug, der remis hält.</p>
+</div>
+<p><button id="bfl2324_1_button">Lösung anzeigen</button></p>
 <p>Am Donnerstag mussten dann die anderen beiden Mannschaften nach Weißensee. Auch sie brachten nichts zählbares mit, die <strong>1. Mannschaft</strong> verliert mit <strong>1,5:2,5</strong> noch knapp. Manfred gewinnt hier und Ekkehard spielt Remis.</p>
 <p>Die <strong>3. Mannschaft</strong> kommt mit <strong>0,5:3,5</strong> genauso unter die Räder wie die Zweite. Hier steuert nur Hilmar an Brett 1 einen halben Punkt bei.</p>
 <p><a href="https://www.narva-schach.de/wordpress/img-20231013-wa0009/"><img alt="" class="aligncenter wp-image-11575" decoding="async" height="177" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-300x106.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-300x106.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-768x271.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009.jpg 962w" width="500"/></a><br/>

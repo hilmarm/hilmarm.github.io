@@ -66,7 +66,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Dr.Sven Sohr</li>
 <li>Ralf Ettel (König Tegel)</li>
 <li>Jan Holger Neuenbäumer (Siemensstadt)</li>
-<li>Tuan Kiet Nguyen (SG Eckturm)</li>
 <li>Hans-Joachim Kaufhold (SC Weisse Dame)</li>
 <li>Guido Giese (SC Lindow)</li>
 <li>Alexis Miles Oortmann (SSV Rotation Berlin)</li>
@@ -100,7 +99,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jeremy Wadepfuhl (Borussia Lichtenberg)</li>
 <li>Karl-Heinz Ollek (Friesen Lichtenberg)</li>
 <li>Michel Zimmer (Ludwigsfelder SC 54)</li>
-<li>Fabian Alcer (Empor Berlin)</li>
 <li>Nico Bierhals (Zugzwang)</li>
 <li>Harald Krawczyk (Neuenhagen)</li>
 <li>Maximilian Lang</li>
@@ -147,16 +145,19 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Manuel Kamps (SV Hellern)</li>
 <li>Henrik Petersen (SV 03/25 Koblenz)</li>
 <li>Bernd Daverkausen (SG NARVA)</li>
+<li>Ismael Martínez Ferrer (Rotation Berlin)</li>
+<li></li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
 <ol>
+<li>Daniel Iachanou (SF Sasel Hamburg) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 14.10.2023 – 22:00 Uhr</p>
+<p>Stand: 16.10.2023 – 18:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

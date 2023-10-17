@@ -42,112 +42,99 @@ navs:
 <div class="post-243 page type-page status-publish hentry" id="post-243">
 <h1 class="entry-title">Kurt-Richter-Gedenkturnier</h1>
 <div class="entry-content">
+<p><a href="https://www.azquotes.com/quote/601506" title="Kurt Richter quote"><img alt="What would Chess be without silly mistakes? - Kurt Richter" class="aligncenter" decoding="async" src="//www.azquotes.com/picture-quotes/quote-what-would-chess-be-without-silly-mistakes-kurt-richter-60-15-06.jpg" width="600"/></a></p>
 <table border="2" width="464">
 <tbody>
 <tr class="xl6717289" style="height: 14.25pt;">
-<td class="xl6717289" height="19" style="height: 14.25pt; width: 15pt;" width="20">Nr</td>
-<td class="xl6717289" style="width: 29pt;" width="35">Jahr</td>
-<td class="xl6717289" style="width: 65pt;" width="80">Teilnehmer</td>
-<td class="xl6717289" style="width: 119pt;" width="158">Sieger</td>
-<td class="xl6717289" style="width: 121pt;" width="161">Verein</td>
+<td class="xl6717289" height="19" style="height: 14.25pt; width: 15pt;" width="20"><span style="font-size: 10pt;">Nr</span></td>
+<td class="xl6717289" style="width: 29pt;" width="35"><span style="font-size: 10pt;">Jahr</span></td>
+<td class="xl6717289" style="width: 65pt;" width="80"><span style="font-size: 10pt;">Teilnehmer</span></td>
+<td class="xl6717289" style="width: 119pt;" width="158"><span style="font-size: 10pt;">Sieger</span></td>
+<td class="xl6717289" style="width: 121pt;" width="161"><span style="font-size: 10pt;">Verein</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">1</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/1981-2/">1981</a></td>
-<td class="xl6717289" style="text-align: center;">108</td>
-<td class="xl1517289">Dieter Eisenträger</td>
-<td class="xl1517289" nowrap="nowrap">Chemie Weißensee</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">1</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/1981-2/">1981</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">108</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Dieter Eisenträger</span></td>
+<td class="xl1517289" nowrap="nowrap"><span style="font-size: 10pt;">Chemie Weißensee</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">2</td>
-<td class="xl6717289">1982</td>
-<td class="xl6717289" style="text-align: center;">150</td>
-<td class="xl1517289">Horst Strehlow</td>
-<td class="xl1517289">Einheit Friesen</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">2</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1982</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">150</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Horst Strehlow</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Einheit Friesen</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">3</td>
-<td class="xl6717289">1983</td>
-<td class="xl6717289" style="text-align: center;">208</td>
-<td class="xl1517289">Peter Welz</td>
-<td class="xl1517289">Empor HO</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">3</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1983</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">208</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Peter Welz</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Empor HO</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">4</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/1984-2/">1984</a></td>
-<td class="xl6717289" style="text-align: center;">259</td>
-<td class="xl1517289" nowrap="nowrap">Hans-Jürgen Meißner</td>
-<td class="xl1517289">Empor HO</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">4</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/1984-2/">1984</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">259</span></td>
+<td class="xl1517289" nowrap="nowrap"><span style="font-size: 10pt;">Hans-Jürgen Meißner</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Empor HO</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">5</td>
-<td class="xl6717289">1985</td>
-<td class="xl6717289" style="text-align: center;">285</td>
-<td class="xl1517289">Peter Welz</td>
-<td class="xl1517289">Empor HO</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">5</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1985</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">285</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Peter Welz</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Empor HO</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">6</td>
-<td class="xl6717289">1986</td>
-<td class="xl6717289" style="text-align: center;">263</td>
-<td class="xl1517289">Uwe Syré</td>
-<td class="xl1517289">Empor HO</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">6</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1986</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">263</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Uwe Syré</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Empor HO</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">7</td>
-<td class="xl6717289">1987</td>
-<td class="xl6717289" style="text-align: center;">311</td>
-<td class="xl1517289">Peter Wünsche</td>
-<td class="xl1517289">Motor Berolina</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">7</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1987</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">311</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Peter Wünsche</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Motor Berolina</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">8</td>
-<td class="xl6717289">1988</td>
-<td class="xl6717289" style="text-align: center;">276</td>
-<td class="xl1517289">Michael Schulz</td>
-<td class="xl1517289">Rotation</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">8</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1988</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">276</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Michael Schulz</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Rotation</span></td>
 </tr>
 <tr style="height: 14.25pt;">
 <td align="right" class="xl1517289" height="19" style="height: 14.25pt;"></td>
 <td class="xl6717289"></td>
 <td class="xl6717289" style="text-align: center;"></td>
-<td class="xl1517289">Kai-Gerrit Venske</td>
-<td class="xl1517289">Lok Brandenburg</td>
+<td class="xl1517289"><span style="font-size: 10pt;">Kai-Gerrit Venske</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Lok Brandenburg</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">9</td>
-<td class="xl6717289">1989</td>
-<td class="xl6717289" style="text-align: center;">306</td>
-<td class="xl1517289">Gilbert Grabow</td>
-<td class="xl1517289">Empor HO</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">9</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1989</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">306</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Gilbert Grabow</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Empor HO</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">10</td>
-<td class="xl6717289">1990</td>
-<td class="xl6717289" style="text-align: center;">202</td>
-<td class="xl1517289">Detlef Boetzer</td>
-<td class="xl1517289">Chemie Lichtenberg</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">10</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1990</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">202</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Detlef Boetzer</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Chemie Lichtenberg</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">11</td>
-<td class="xl6717289">1991</td>
-<td class="xl6717289" style="text-align: center;">44</td>
-<td class="xl1517289">Matthias Hahlbohm</td>
-<td class="xl1517289" nowrap="nowrap">TSG Oberschöneweide</td>
-</tr>
-<tr style="height: 14.25pt;">
-<td class="xl1517289" height="19" style="height: 14.25pt;"></td>
-<td class="xl6717289"></td>
-<td class="xl6717289" style="text-align: center;"></td>
-<td class="xl1517289"></td>
-<td class="xl1517289"></td>
-</tr>
-<tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">12</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/1994-2/">1994</a></td>
-<td class="xl6717289" style="text-align: center;">83</td>
-<td class="xl1517289">Frank Darnstaedt</td>
-<td class="xl1517289">USC Magdeburg</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">11</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1991</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">44</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Matthias Hahlbohm</span></td>
+<td class="xl1517289" nowrap="nowrap"><span style="font-size: 10pt;">TSG Oberschöneweide</span></td>
 </tr>
 <tr style="height: 14.25pt;">
 <td class="xl1517289" height="19" style="height: 14.25pt;"></td>
@@ -157,11 +144,11 @@ navs:
 <td class="xl1517289"></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">13</td>
-<td class="xl6717289">1996</td>
-<td class="xl6717289" style="text-align: center;">34</td>
-<td class="xl1517289">Hasan Krasnici</td>
-<td class="xl1517289">Prishtina e.V.</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">12</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/1994-2/">1994</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">83</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Frank Darnstaedt</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">USC Magdeburg</span></td>
 </tr>
 <tr style="height: 14.25pt;">
 <td class="xl1517289" height="19" style="height: 14.25pt;"></td>
@@ -171,11 +158,11 @@ navs:
 <td class="xl1517289"></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">14</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/2011-2/">2011</a></td>
-<td class="xl6717289" style="text-align: center;">57</td>
-<td class="xl1517289" nowrap="nowrap">GM Sergej Kalinitschew</td>
-<td class="xl1517289">SC Kreuzberg</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">13</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;">1996</span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">34</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Hasan Krasnici</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Prishtina e.V.</span></td>
 </tr>
 <tr style="height: 14.25pt;">
 <td class="xl1517289" height="19" style="height: 14.25pt;"></td>
@@ -185,46 +172,60 @@ navs:
 <td class="xl1517289"></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">15</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/2014-2/">2014</a></td>
-<td class="xl6717289" style="text-align: center;">39</td>
-<td class="xl1517289">Shenis Slepuschkin</td>
-<td class="xl1517289">SK Zehlendorf</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">14</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/2011-2/">2011</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">57</span></td>
+<td class="xl1517289" nowrap="nowrap"><span style="font-size: 10pt;">GM Sergej Kalinitschew</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SC Kreuzberg</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">16</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/2015-2/">2015</a></td>
-<td class="xl6717289" style="text-align: center;">50</td>
-<td class="xl1517289">FM Jürgen Brustkern</td>
-<td class="xl1517289">SK Tempelhof</td>
+<td class="xl1517289" height="19" style="height: 14.25pt;"></td>
+<td class="xl6717289"></td>
+<td class="xl6717289" style="text-align: center;"></td>
+<td class="xl1517289"></td>
+<td class="xl1517289"></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">17</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2016-2/">2016</a></td>
-<td class="xl6717289" style="text-align: center;">50</td>
-<td class="xl1517289">Norbert Bauer</td>
-<td class="xl1517289">SAV Torgelow</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">15</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/2014-2/">2014</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">39</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Shenis Slepuschkin</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SK Zehlendorf</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">18</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2017-2/">2017</a></td>
-<td class="xl6717289" style="text-align: center;">42</td>
-<td class="xl1517289">Wolfgang Fiedler</td>
-<td class="xl1517289">Berolina Mitte</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">16</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/2015-2/">2015</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">50</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">FM Jürgen Brustkern</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SK Tempelhof</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">19</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2018-2/">2018</a></td>
-<td class="xl6717289" style="text-align: center;">52</td>
-<td class="xl1517289">Shenis Slepuschkin</td>
-<td class="xl1517289">SG NARVA Berlin</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">17</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2016-2/">2016</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">50</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Norbert Bauer</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SAV Torgelow</span></td>
 </tr>
 <tr style="height: 14.25pt;">
-<td align="right" class="xl1517289" height="19" style="height: 14.25pt;">20</td>
-<td class="xl6717289"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2019-2/krt-ergebnisse-2019/">2019</a></td>
-<td class="xl6717289" style="text-align: center;">47</td>
-<td class="xl1517289">Daniel Woithe</td>
-<td class="xl1517289">SV Briesen</td>
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">18</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2017-2/">2017</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">42</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Wolfgang Fiedler</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Berolina Mitte</span></td>
+</tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">19</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2018-2/">2018</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">52</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Shenis Slepuschkin</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SG NARVA Berlin</span></td>
+</tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">20</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2019-2/krt-ergebnisse-2019/">2019</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">47</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Daniel Woithe</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SV Briesen</span></td>
 </tr>
 <tr style="display: none;">
 <td style="width: 20pt;" width="26"></td>
