@@ -52,7 +52,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Sibylle Guder (Sfr. Berlin)</li>
 <li>FM Jürgen Brustkern (SK Zehlendorf)</li>
 <li>Joachim Schubert (SC Friesen Lichtenberg)</li>
-<li>Rafael Schenk (Ludwigsfelder SC 54)</li>
 <li>Peter Hintze (SG NARVA)</li>
 <li>Daniel Kurta (Läufer Reinickendorf)</li>
 <li>Günter Idaczek (SG NARVA)</li>
@@ -146,18 +145,19 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Henrik Petersen (SV 03/25 Koblenz)</li>
 <li>Bernd Daverkausen (SG NARVA)</li>
 <li>Ismael Martínez Ferrer (Rotation Berlin)</li>
-<li></li>
+<li>Vitaliy Sviridov (SG Königslutter)</li>
+<li>Lieven Sandler (Ludwigsfelder SC 54)</li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
 <ol>
-<li>Daniel Iachanou (SF Sasel Hamburg) *</li>
+<li>Daniel Iachanou (SF Sasel Hamburg) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 16.10.2023 – 18:00 Uhr</p>
+<p>Stand: 18.10.2023 – 12:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

@@ -26,15 +26,19 @@ parent_title: Turniere
 <th style="height: 18px;">–</th>
 <th style="height: 18px;">Teilnehmer</th>
 <th style="height: 18px;">Ergebnis</th>
+<th style="height: 18px;">Rückspiel</th>
+<th style="height: 18px;">Schnellschach</th>
 </tr>
 </thead>
 <tbody>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">1</td>
-<td style="height: 24px;">Lange,Rudolf</td>
+<td style="height: 24px;"><strong>Lange,Rudolf</strong></td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Schenk, Jonatan</td>
-<td style="height: 24px; text-align: center;">:</td>
+<td style="text-align: center;">½ : ½</td>
+<td style="text-align: center;">½ : ½</td>
+<td style="text-align: center;">1 : 0</td>
 </tr>
 <tr bgcolor="#00ffcf" style="height: 24px;">
 <td style="height: 24px;">2</td>
@@ -42,6 +46,8 @@ parent_title: Turniere
 <td style="height: 24px;">–</td>
 <td nowrap="nowrap" style="height: 24px;">Maetzing,Hans-Dieter,Dr.</td>
 <td style="text-align: center;">:</td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
