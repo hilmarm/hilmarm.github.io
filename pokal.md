@@ -44,8 +44,8 @@ parent_title: Turniere
 <td style="height: 24px;">2</td>
 <td style="height: 24px;">Kinski,Andreas</td>
 <td style="height: 24px;">–</td>
-<td nowrap="nowrap" style="height: 24px;">Maetzing,Hans-Dieter,Dr.</td>
-<td style="text-align: center;">:</td>
+<td nowrap="nowrap" style="height: 24px;"><strong>Maetzing,Hans-Dieter,Dr.</strong></td>
+<td style="text-align: center;">0 : 1</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>

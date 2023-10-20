@@ -379,7 +379,7 @@ parent_title: Turniere
 <td>4.</td>
 <td>Krüger,Ekkehard</td>
 <td>1685</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>3</td>
@@ -390,7 +390,7 @@ parent_title: Turniere
 <td>1.</td>
 <td>Hintze,Peter</td>
 <td>1914</td>
-<td> –</td>
+<td>0 – 1</td>
 </tr>
 <tr>
 <td>4</td>

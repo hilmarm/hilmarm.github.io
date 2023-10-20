@@ -59,7 +59,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Alexander Kreisel (SG NARVA)</li>
 <li>Ekkehard Krüger (SG NARVA)</li>
 <li>Thomas Kalkowski (BA Tempelhof)</li>
-<li>Michael Quast (BA Tempelhof)</li>
 <li>Jim Sohr (Königsjäger)</li>
 <li>Luna Sohr (Königsjäger)</li>
 <li>Dr.Sven Sohr</li>
@@ -137,7 +136,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jonas Obermann (Queerspringer SSV)</li>
 <li>Georg Bader (SG Weißensee)</li>
 <li>Dagobert Kohlmeyer (SG Weißensee)</li>
-<li>Viktor Zeitler (Rote Rüben Leipzig)</li>
 <li>Matthias Ahlberg (SG Weißensee)</li>
 <li>Henry David Orozco Rodriguez (Läufer Reinickendorf)</li>
 <li>Özgür Besbudak (Schachfreunde Berlin)</li>
@@ -147,17 +145,20 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Ismael Martínez Ferrer (Rotation Berlin)</li>
 <li>Vitaliy Sviridov (SG Königslutter)</li>
 <li>Lieven Sandler (Ludwigsfelder SC 54)</li>
+<li></li>
+<li></li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
 <ol>
 <li>Daniel Iachanou (SF Sasel Hamburg) *</li>
+<li>Ingo Sommer (SC Kreuzberg) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 18.10.2023 – 12:00 Uhr</p>
+<p>Stand: 20.10.2023 – 08:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
