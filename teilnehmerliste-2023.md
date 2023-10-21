@@ -145,20 +145,19 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Ismael Martínez Ferrer (Rotation Berlin)</li>
 <li>Vitaliy Sviridov (SG Königslutter)</li>
 <li>Lieven Sandler (Ludwigsfelder SC 54)</li>
-<li></li>
+<li>Ingo Sommer (SC Kreuzberg)</li>
 <li></li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
 <ol>
 <li>Daniel Iachanou (SF Sasel Hamburg) *</li>
-<li>Ingo Sommer (SC Kreuzberg) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 20.10.2023 – 08:00 Uhr</p>
+<p>Stand: 20.10.2023 – 18:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

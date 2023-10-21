@@ -17,7 +17,7 @@ navs:
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-65325b8d7000f-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6533ad14ef192-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -25,7 +25,7 @@ navs:
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-65325b8d7000f-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-6533ad14ef192-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
