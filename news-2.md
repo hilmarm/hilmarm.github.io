@@ -8,6 +8,41 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11623 post type-post status-publish format-standard post-password-required hentry category-training" id="post-11623">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/22/dateien-training-gm-michael-richter-05-10-23/" rel="bookmark">Geschützt: Dateien Training GM Michael Richter 05.10.23</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/22/dateien-training-gm-michael-richter-05-10-23/" rel="bookmark" title="16:54"><span class="entry-date">22. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<form action="https://www.narva-schach.de/wordpress/wp-login.php?action=postpass" class="post-password-form" method="post">
+<p>Dieser Inhalt ist passwortgeschützt. Um ihn anschauen zu können, bitte das Passwort eingeben:</p>
+<p><label for="pwbox-11623">Passwort: <input id="pwbox-11623" name="post_password" size="20" spellcheck="false" type="password"/></label> <input name="Submit" type="submit" value="Absenden"/></p>
+</form>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-11623 
+<div class="post-11616 post type-post status-publish format-standard hentry category-openberichte" id="post-11616">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/22/rueckblick-auf-duben-spreewaldcup/" rel="bookmark">Rückblick auf Duben/Spreewaldcup</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/22/rueckblick-auf-duben-spreewaldcup/" rel="bookmark" title="16:17"><span class="entry-date">22. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am 16. September fand bereits der <strong>Spreewaldpokal</strong> der SSG Lübbenau in Duben statt. NARVA erreichte Platz 12 von 24 mit den Spielern <strong>Hoppe</strong>, <strong>Hintze</strong>, <strong>Segerberg</strong>, <strong>Mietzelfeldt</strong> und <strong>Brinckmann</strong>.<br/>
+Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 hat auf der Seite von Berolina Mitte einen Bericht geschrieben, inkl. Fotos, Partien von sich und alle Ergebnisse.</p>
+<p><span style="font-size: 8pt;">(auch mir selbst fehlte zuletzt die Zeit nach den vielen Turnieren, Erfstadt, BSEM, BSMM, BBEM, BBMM, BMM, BFL und Urlaub…..um etwas zu schreiben.)</span></p>
+<p><a href="https://www.svberolinamitte.de/news/spreewaldpokal-in-duben.html" rel="noopener" target="_blank">Link zu Berolina</a></p>
+<div class="wp-caption aligncenter" style="width: 510px"><a href="https://www.svberolinamitte.de/files/images/2023/10/spreewald/fotos/img_9888.jpg"><img alt="" decoding="async" src="https://www.svberolinamitte.de/files/images/2023/10/spreewald/fotos/img_9888.jpg" width="500"/></a><p class="wp-caption-text">Foto von Frank Hoppe</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/22/rueckblick-auf-duben-spreewaldcup/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11616 
 <div class="post-11579 post type-post status-publish format-standard hentry category-bfl" id="post-11579">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/15/3-niederlagen-zum-bfl-start/" rel="bookmark">3 Niederlagen zum BFL Start</a></h2>
 <div class="entry-meta">
@@ -17,7 +52,7 @@ navs:
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6534fe85b1351-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-653650134e89b-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -25,7 +60,7 @@ navs:
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-6534fe85b1351-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-653650134e89b-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -595,47 +630,6 @@ Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11276 
-<div class="post-11272 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11272">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/" rel="bookmark">Juli Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/" rel="bookmark" title="13:33"><span class="entry-date">29. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>11 Teilnehmer fanden sich zum <strong>Monats-Blitz Juli</strong> ein! Darunter gleich 6 Gäste!!</p>
-<p>Den Sieg machten aber <strong>Peter</strong> und <strong>Tomas</strong> unter sich aus. Am Ende waren sie punktgleich mit je 9 Punkten aus 10 Partien. Tomas teilte sich mit Hans-Dieter und Matthias die Punkte, Peter gab das direkte Duell mit Tomas wegen Handy klingeln ab…. Für die Gesamtwertung ist das natürlich gut, es wird spannend zwischen den beiden. Ab nächste Runde stehen die ersten Streichwerte an (nur die 6 besten zählen am Ende)!</p>
-<p><strong>Matthias</strong> sicherte sich als bester Gast Platz 3 und klettert auch in der Gesamtwertung nach oben.</p>
-<p><strong>Ekkehard</strong> und <strong>Hans-Dieter</strong> liegen punkgleich dahinter auf den Plätzen 4 und 5 mit je 6,5 Punkten. Thomas T. ist weiter gut in Form und belegt am Ende Platz 6, in der Gesamtwertung liegt er auf Platz 5!</p>
-<p>Turnierleiter Klaus war übrigens mit der Disziplin sehr zufrieden! 😉</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/29/juli-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11272 
-<div class="post-11240 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11240">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/" rel="bookmark">Abteilungsmeisterschaft Runde 4</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/" rel="bookmark" title="9:28"><span class="entry-date">24. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag stand <strong>Runde 4</strong> zur <strong>Abteilungsmeisterschaft</strong> an. Eine Partie wurde vorgespielt und 2 werden nachgeholt, der Rest spielte am Donnerstag:</p>
-<p>Die Spitzenpaarung <strong>Klaus</strong> gegen <strong>Rouven</strong> endete Remis, beide hatten sich jeweils gut vorbereitet, Rouven stellte dann aber einen Bauern ein, was Klaus aber für ein Remisangebot reichte – er wollte nichts riskieren und war mit dem halben Punkt zufrieden.</p>
-<p><strong>Hans-Dieter</strong> wartete leider vergeblich auf seinen Gegner (<strong>Michael</strong>). Der kampflose Sieg bringt ihm aber die Tabellenführung mit nun 4 aus 4!</p>
-<p><strong>Jonatan</strong> gewann schon am Dienstag gegen <strong>Hilmar</strong> und nimmt Verfolgung zur Spitzengruppe auf.</p>
-<p><strong>Peter</strong> konnte gegen <strong>mich</strong> gewinnen, dabei habe ich noch die richtige Verteidigung übersehen….sonst hätte ich ihn noch etwas quälen können… 😉 (siehe Grafik unten)</p>
-<p><strong>Felix</strong> spielt stark und gewinnt gegen <strong>Alexander</strong>! Hier gab es zwischendurch ein Problem mit der Uhr (siehe unten). Zu diesem Zeitpunkt war die Partie aber schon klar für Felix gewonnen.</p>
-<p><strong>Gerhard</strong> gewann gegen <strong>Manfred</strong>, <strong>Lukas</strong> konnte gegen <strong>Wolfgang</strong> einen weiteren Punkt sammeln und <strong>Philipp</strong> gegen <strong>Torsten</strong> seine erste Partie gewinnen!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#more-11240">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/24/abteilungsmeisterschaft-runde-4/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11240 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

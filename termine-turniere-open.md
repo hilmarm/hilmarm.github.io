@@ -23,29 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
-<td>29.09.-05.10.2023</td>
-<td>Hans-Dieter, Ulrich</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.schachverein-wildau.de/pdf/ausschreibung_16_dahmelandpokal2023.pdf" rel="noopener" target="_blank">16. Dahmelandpokal 2023</a></td>
-<td>30.09.-03.10.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBEM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Einzelmeisterschaft 2023</a></td>
-<td>30.09.2023</td>
-<td>Batu</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/SpA/20230706%20BBMM%202023%20-%20Ausschreibung.pdf" rel="noopener" target="_blank">Berliner Blitzschach-Mannschaftsmeisterschaft 2023</a></td>
-<td>01.10.2023</td>
-<td>1 Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://bsg-eckbauer.de/berichte/open2023/open2023.php" rel="noopener" target="_blank">Eckbauer Open 2023</a></td>
 <td>09.10.-20.11.2023</td>
-<td></td>
+<td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">Berlin U25 Open</a></td>
@@ -84,6 +64,23 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><strong><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">Neujahrs-Schachfestival 2024</a></strong><br/>
+Kinderschachturnier<br/>
+4. Berlin Mitte Open<br/>
+Schnellschach Open<br/>
+Blitzschach Open</td>
+<td>02.01.-07.01.2024<br/>
+02.01.2024<br/>
+03.-05.01.2024<br/>
+06.01.2024<br/>
+07.01.2024</td>
+<td>x<br/>
+x<br/>
+x<br/>
+x<br/>
+Philipp, Hilmar, Juri</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>05.01.-07.01.2024</td>
 <td></td>
@@ -94,9 +91,14 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/40-obsenem-vom-30-01-bis-08-02-2024.html" rel="noopener" target="_blank">40. Offene Berliner Senioren-Einzel-Meisterschaft</a></td>
+<td>30.01.-08.02.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>01.03.-03.03.2024</td>
-<td></td>
+<td>Jonatan</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>

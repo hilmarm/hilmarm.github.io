@@ -62,7 +62,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Jim Sohr (Königsjäger)</li>
 <li>Luna Sohr (Königsjäger)</li>
 <li>Dr.Sven Sohr</li>
-<li>Ralf Ettel (König Tegel)</li>
 <li>Jan Holger Neuenbäumer (Siemensstadt)</li>
 <li>Hans-Joachim Kaufhold (SC Weisse Dame)</li>
 <li>Guido Giese (SC Lindow)</li>
@@ -99,7 +98,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Michel Zimmer (Ludwigsfelder SC 54)</li>
 <li>Nico Bierhals (Zugzwang)</li>
 <li>Harald Krawczyk (Neuenhagen)</li>
-<li>Maximilian Lang</li>
 <li>Tung Le (Queerspringer)</li>
 <li>Cedric Eis (Sfr. Berlin)</li>
 <li>Robin Toebs (Siemensstadt)</li>
@@ -147,17 +145,22 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Lieven Sandler (Ludwigsfelder SC 54)</li>
 <li>Ingo Sommer (SC Kreuzberg)</li>
 <li></li>
+<li></li>
+<li></li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
 <ol>
 <li>Daniel Iachanou (SF Sasel Hamburg) *</li>
+<li>Dymitr Stanisław Zarzecki *</li>
+<li>Aris Born (König Tegel) *</li>
+<li>Christian Timm (Königsspringer Herzberg/Elster) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 20.10.2023 – 18:00 Uhr</p>
+<p>Stand: 22.10.2023 – 18:30 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
