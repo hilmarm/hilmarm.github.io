@@ -8,6 +8,34 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11620 post type-post status-publish format-standard hentry category-krt" id="post-11620">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/" rel="bookmark">Kurt-Richter-Gedenkturnier kurz vor dem Start!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/" rel="bookmark" title="21:51"><span class="entry-date">23. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Freitag beginnt unser <strong>Kurt-Richter-Gedenkturnier 2023!</strong></p>
+<p>Turnierstart ist um 18 Uhr (letzte Anmeldung). Aktuell sind wir bei knapp <strong>100 Teilnehmer</strong>! Voraussichtlich können aber alle weiteren, wenn es nicht zu viele werden die spontan kommen, mitspielen. Das Orga-Team trifft sich schon um 14 Uhr am Rathaus Mitte zum aufbauen, weitere Helfer sind gerne gesehen.</p>
+<p>Von NARVA stehen in der Teilnehmerliste:</p>
+<ul>
+<li>Bernd</li>
+<li>Peter</li>
+<li>Günter</li>
+<li>Andreas</li>
+<li>Ekkehard</li>
+<li>Alexander</li>
+<li>Oliver</li>
+<li>Lukas</li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/">Turnierseite/Ausschreibung</a><br/>
+<a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/teilnehmerliste-2023/">Teilnehmerliste</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11620 
 <div class="post-11623 post type-post status-publish format-standard post-password-required hentry category-training" id="post-11623">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/22/dateien-training-gm-michael-richter-05-10-23/" rel="bookmark">Geschützt: Dateien Training GM Michael Richter 05.10.23</a></h2>
 <div class="entry-meta">
@@ -52,7 +80,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-653650134e89b-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6537a18b4080f-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -60,7 +88,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-653650134e89b-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-6537a18b4080f-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -412,224 +440,6 @@ Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11288 
-<div class="post-11276 post type-post status-publish format-standard hentry category-dwz" id="post-11276">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/" rel="bookmark">DWZ Auswertung BMM</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/" rel="bookmark" title="19:59"><span class="entry-date">30. Juli 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nach einigen Verzögerungen gibt es nun die DWZ Auswertung der BMM. Den größten Sprung nach oben macht <strong>Felix</strong> mit <strong>+169</strong>!! Seine erste DWZ bekommt <strong>Michael</strong> mit <strong>1216</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/dwz/">DWZ Tabelle</a></p>
-<p>Hier sortiert nach größtem +/-</p>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 25%;">Name</td>
-<td style="width: 25%;">DWZ alt</td>
-<td style="width: 25%;">DWZ neu</td>
-<td style="width: 25%;">Veränderung</td>
-</tr>
-<tr>
-<td style="width: 25%;">Felix</td>
-<td style="width: 25%;">943</td>
-<td style="width: 25%;">1112</td>
-<td style="width: 25%;">+169</td>
-</tr>
-<tr>
-<td style="width: 25%;">Jasper</td>
-<td style="width: 25%;">753</td>
-<td style="width: 25%;">871</td>
-<td style="width: 25%;">+118</td>
-</tr>
-<tr>
-<td style="width: 25%;">Jens</td>
-<td style="width: 25%;">1403</td>
-<td style="width: 25%;">1460</td>
-<td style="width: 25%;">+57</td>
-</tr>
-<tr>
-<td style="width: 25%;">Frieder</td>
-<td style="width: 25%;">1028</td>
-<td style="width: 25%;">1081</td>
-<td style="width: 25%;">+53</td>
-</tr>
-<tr>
-<td style="width: 25%;">Gerhard</td>
-<td style="width: 25%;">1589</td>
-<td style="width: 25%;">1639</td>
-<td style="width: 25%;">+50</td>
-</tr>
-<tr>
-<td style="width: 25%;">Ulrich</td>
-<td style="width: 25%;">1566</td>
-<td style="width: 25%;">1611</td>
-<td style="width: 25%;">+45</td>
-</tr>
-<tr>
-<td style="width: 25%;">Andreas</td>
-<td style="width: 25%;">1742</td>
-<td style="width: 25%;">1773</td>
-<td style="width: 25%;">+31</td>
-</tr>
-<tr>
-<td style="width: 25%;">Manfred H.</td>
-<td style="width: 25%;">1248</td>
-<td style="width: 25%;">1272</td>
-<td style="width: 25%;">+24</td>
-</tr>
-<tr>
-<td style="width: 25%;">Bernd</td>
-<td style="width: 25%;">2067</td>
-<td style="width: 25%;">2081</td>
-<td style="width: 25%;">+14</td>
-</tr>
-<tr>
-<td style="width: 25%;">Rouven</td>
-<td style="width: 25%;">1907</td>
-<td style="width: 25%;">1921</td>
-<td style="width: 25%;">+14</td>
-</tr>
-<tr>
-<td style="width: 25%;">Bram</td>
-<td style="width: 25%;">2189</td>
-<td style="width: 25%;">2199</td>
-<td style="width: 25%;">+10</td>
-</tr>
-<tr>
-<td style="width: 25%;">Alexander</td>
-<td style="width: 25%;">1532</td>
-<td style="width: 25%;">1535</td>
-<td style="width: 25%;">+3</td>
-</tr>
-<tr>
-<td style="width: 25%;">Michael</td>
-<td style="width: 25%;"></td>
-<td style="width: 25%;">1216</td>
-<td style="width: 25%;">NEU</td>
-</tr>
-<tr>
-<td style="width: 25%;">George</td>
-<td style="width: 25%;">1789</td>
-<td style="width: 25%;">1788</td>
-<td style="width: 25%;">-1</td>
-</tr>
-<tr>
-<td style="width: 25%;">Myriam</td>
-<td style="width: 25%;">1109</td>
-<td style="width: 25%;">1107</td>
-<td style="width: 25%;">-2</td>
-</tr>
-<tr>
-<td style="width: 25%;">Norbert</td>
-<td style="width: 25%;">1957</td>
-<td style="width: 25%;">1950</td>
-<td style="width: 25%;">-7</td>
-</tr>
-<tr>
-<td style="width: 25%;">Thomas M.</td>
-<td style="width: 25%;">1592</td>
-<td style="width: 25%;">1582</td>
-<td style="width: 25%;">-10</td>
-</tr>
-<tr>
-<td style="width: 25%;">Hans-Dieter</td>
-<td style="width: 25%;">1772</td>
-<td style="width: 25%;">1761</td>
-<td style="width: 25%;">-11</td>
-</tr>
-<tr>
-<td style="width: 25%;">Klaus</td>
-<td style="width: 25%;">1717</td>
-<td style="width: 25%;">1706</td>
-<td style="width: 25%;">-11</td>
-</tr>
-<tr>
-<td style="width: 25%;">Tomas</td>
-<td style="width: 25%;">1945</td>
-<td style="width: 25%;">1930</td>
-<td style="width: 25%;">-15</td>
-</tr>
-<tr>
-<td style="width: 25%;">Lukas</td>
-<td style="width: 25%;">1385</td>
-<td style="width: 25%;">1370</td>
-<td style="width: 25%;">-15</td>
-</tr>
-<tr>
-<td style="width: 25%;">Peter</td>
-<td style="width: 25%;">1914</td>
-<td style="width: 25%;">1898</td>
-<td style="width: 25%;">-16</td>
-</tr>
-<tr>
-<td style="width: 25%;">Detlef</td>
-<td style="width: 25%;">1244</td>
-<td style="width: 25%;">1226</td>
-<td style="width: 25%;">-18</td>
-</tr>
-<tr>
-<td style="width: 25%;">Günter</td>
-<td style="width: 25%;">1906</td>
-<td style="width: 25%;">1887</td>
-<td style="width: 25%;">-19</td>
-</tr>
-<tr>
-<td style="width: 25%;">Jonatan</td>
-<td style="width: 25%;">1791</td>
-<td style="width: 25%;">1772</td>
-<td style="width: 25%;">-19</td>
-</tr>
-<tr>
-<td style="width: 25%;">Magnus</td>
-<td style="width: 25%;">1784</td>
-<td style="width: 25%;">1764</td>
-<td style="width: 25%;">-20</td>
-</tr>
-<tr>
-<td style="width: 25%;">Wesko</td>
-<td style="width: 25%;">1574</td>
-<td style="width: 25%;">1548</td>
-<td style="width: 25%;">-26</td>
-</tr>
-<tr>
-<td style="width: 25%;">Torsten</td>
-<td style="width: 25%;">1284</td>
-<td style="width: 25%;">1258</td>
-<td style="width: 25%;">-26</td>
-</tr>
-<tr>
-<td style="width: 25%;">Thomas T.</td>
-<td style="width: 25%;">1131</td>
-<td style="width: 25%;">1105</td>
-<td style="width: 25%;">-26</td>
-</tr>
-<tr>
-<td style="width: 25%;">Hilmar M.</td>
-<td style="width: 25%;">1671</td>
-<td style="width: 25%;">1635</td>
-<td style="width: 25%;">-36</td>
-</tr>
-<tr>
-<td style="width: 25%;">Gunar</td>
-<td style="width: 25%;">1388</td>
-<td style="width: 25%;">1342</td>
-<td style="width: 25%;">-46</td>
-</tr>
-<tr>
-<td style="width: 25%;">Ekkehard</td>
-<td style="width: 25%;">1731</td>
-<td style="width: 25%;">1638</td>
-<td style="width: 25%;">-93</td>
-</tr>
-</tbody>
-</table>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/07/30/dwz-auswertung-bmm/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11276 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

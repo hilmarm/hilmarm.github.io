@@ -44,7 +44,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
-<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a></p>
+<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a> * Stand 21.10.</p>
+<p>Liste hier unten ist aktuell:</p>
 <p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
 <ol>
 <li>Dr.Herbert Mayer (SSV Rotation Berlin)</li>
@@ -59,12 +60,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Alexander Kreisel (SG NARVA)</li>
 <li>Ekkehard Krüger (SG NARVA)</li>
 <li>Thomas Kalkowski (BA Tempelhof)</li>
-<li>Jim Sohr (Königsjäger)</li>
 <li>Luna Sohr (Königsjäger)</li>
 <li>Dr.Sven Sohr</li>
 <li>Jan Holger Neuenbäumer (Siemensstadt)</li>
 <li>Hans-Joachim Kaufhold (SC Weisse Dame)</li>
-<li>Guido Giese (SC Lindow)</li>
 <li>Alexis Miles Oortmann (SSV Rotation Berlin)</li>
 <li>Manuel Moster (SSV Rotation Berlin)</li>
 <li>Sergej Krefenstein (TuS Makkabi)</li>
@@ -144,23 +143,22 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Vitaliy Sviridov (SG Königslutter)</li>
 <li>Lieven Sandler (Ludwigsfelder SC 54)</li>
 <li>Ingo Sommer (SC Kreuzberg)</li>
-<li></li>
-<li></li>
+<li>Daniel Iachanou (SF Sasel Hamburg)</li>
+<li>Aris Born (König Tegel)</li>
+<li>Christian Timm (Königsspringer Herzberg/Elster)</li>
+<li>Michel Bittar (König Tegel)</li>
 <li></li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
 <ol>
-<li>Daniel Iachanou (SF Sasel Hamburg) *</li>
 <li>Dymitr Stanisław Zarzecki *</li>
-<li>Aris Born (König Tegel) *</li>
-<li>Christian Timm (Königsspringer Herzberg/Elster) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 22.10.2023 – 18:30 Uhr</p>
+<p>Stand: 24.10.2023 – 09:30 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
