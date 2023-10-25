@@ -79,7 +79,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Lothar Opialla</li>
 <li>Vinicius Vaz da Cruz (SSV Rotation Berlin)</li>
 <li>Henry Boeddeker (Sfr. Berlin)</li>
-<li>Andreas Grosch (Berolina Mitte)</li>
 <li>Dennis Hankus (Lasker)</li>
 <li>Adrian Sitte (SK Tempelhof)</li>
 <li>Ryszard Morczynski (SK Zehlendorf)</li>
@@ -148,6 +147,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Christian Timm (Königsspringer Herzberg/Elster)</li>
 <li>Michel Bittar (König Tegel)</li>
 <li></li>
+<li></li>
 </ol>
 <p> </p>
 <p>Warteliste:</p>
@@ -158,7 +158,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 24.10.2023 – 09:30 Uhr</p>
+<p>Stand: 25.10.2023 – 08:30 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
