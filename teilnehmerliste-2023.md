@@ -44,7 +44,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
-<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a> * Stand 21.10.</p>
+<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a> * Stand 25.10.</p>
 <p>Liste hier unten ist aktuell:</p>
 <p><strong><span style="text-decoration: underline;">Es sind nur Spieler aufgelistet, die das Startgeld bezahlt haben.</span></strong></p>
 <ol>
@@ -152,13 +152,13 @@ parent_title: Kurt-Richter-Gedenkturnier
 <p> </p>
 <p>Warteliste:</p>
 <ol>
-<li>Dymitr Stanisław Zarzecki *</li>
+<li>Sergejs Simcaks (SSC Graal-Müritz) *</li>
 <li>Sedrak Matevosyan *</li>
 <li>Romain Besombes *</li>
 <li>Fabian Schmidt *</li>
 </ol>
 <p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 25.10.2023 – 08:30 Uhr</p>
+<p>Stand: 25.10.2023 – 21:00 Uhr</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">
