@@ -33,11 +33,6 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/26-ueberbezirkliches-seniorenturnier-am-25-oktober-2023.html" rel="noopener" target="_blank">26. überbezirkliches Seniorenturnier</a></td>
-<td>25.10.2023</td>
-<td>Peter</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/"><strong>Kurt-Richter-Gedenkturnier 2023</strong></a></td>
 <td>27.10.-29.10.2023</td>
 <td>viele</td>
@@ -93,7 +88,7 @@ Philipp, Hilmar, Juri</td>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/40-obsenem-vom-30-01-bis-08-02-2024.html" rel="noopener" target="_blank">40. Offene Berliner Senioren-Einzel-Meisterschaft</a></td>
 <td>30.01.-08.02.2024</td>
-<td></td>
+<td>Hans-Dieter, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>

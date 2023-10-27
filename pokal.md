@@ -17,6 +17,48 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Ausschreibung</a></p>
+<h3>5. Runde (Finale) am 16.11.2023</h3>
+<table class="clean swiss footable">
+<thead>
+<tr bgcolor="#00ff00" style="height: 18px;">
+<th style="height: 18px;">Tisch</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">–</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">1</td>
+<td style="height: 24px;">Lange,Rudolf</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Maetzing,Hans-Dieter,Dr.</td>
+<td style="text-align: center;">:</td>
+</tr>
+</tbody>
+</table>
+<h3>Spiel um Platz 3</h3>
+<table class="clean swiss footable">
+<thead>
+<tr bgcolor="#00ff00" style="height: 18px;">
+<th style="height: 18px;">Tisch</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">–</th>
+<th style="height: 18px;">Teilnehmer</th>
+<th style="height: 18px;">Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00ffff" style="height: 24px;">
+<td style="height: 24px;">1</td>
+<td style="height: 24px;">Kinski,Andreas</td>
+<td style="height: 24px;">–</td>
+<td style="height: 24px;">Schenk, Jonatan</td>
+<td style="text-align: center;">:</td>
+</tr>
+</tbody>
+</table>
 <h3>4. Runde (Halbfinale) am 21.09.2023</h3>
 <table class="clean swiss footable">
 <thead>
