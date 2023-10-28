@@ -46,12 +46,12 @@ parent_title: Turniere
 <td style="width: 5%;">12</td>
 <td style="width: 5%;"><del>10</del></td>
 <td style="width: 5%;">12</td>
-<td style="width: 5%;">10</td>
+<td style="width: 5%;"><del>10</del></td>
 <td style="width: 5%;">12</td>
 <td style="width: 5%;"><del>8</del></td>
+<td style="width: 5%;">12</td>
 <td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;">70</td>
+<td style="width: 8.68621%;">72</td>
 </tr>
 <tr>
 <td style="width: 15%;">Segerberg</td>
@@ -374,6 +374,370 @@ parent_title: Turniere
 <td style="width: 5%;"></td>
 <td style="width: 5%;"></td>
 <td style="width: 8.68621%;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Monatsblitz Oktober – 25.10.2023</h2>
+<div style="overflow: auto;">
+<table class="clean swiss">
+<thead>
+<tr>
+<td colspan="20">Rangliste: Stand nach der 15. Runde</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Hintze,Peter</td>
+<td>2081</td>
+<td>**</td>
+<td>0</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>12.5</td>
+<td>74.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Weigel,Stefan (SSV Rotation Berlin)</td>
+<td>1892</td>
+<td>1</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>12.0</td>
+<td>73.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td nowrap="nowrap">Pröschild,Matthias (Chemie Weißensee)</td>
+<td>1809</td>
+<td>½</td>
+<td>½</td>
+<td>**</td>
+<td>½</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>12.0</td>
+<td>70.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td>Maetzing,Hans-Dieter,Dr.</td>
+<td>1815</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10.5</td>
+<td>54.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td>Schenk,Jonatan</td>
+<td>1727</td>
+<td>0</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>½</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10.0</td>
+<td>61.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>6</td>
+<td>Wüstehube (Gast)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>½</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>7.0</td>
+<td>41.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>7</td>
+<td>Krüger,Ekkehard</td>
+<td>1829</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>7.0</td>
+<td>29.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>8</td>
+<td>Mietzelfeldt,Gerhard</td>
+<td>1734</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.5</td>
+<td>29.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>9</td>
+<td>Mothes,Thomas</td>
+<td>1591</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.0</td>
+<td>26.25</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>10</td>
+<td>Kreisel,Alexander</td>
+<td>1534</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>5.0</td>
+<td>23.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>11</td>
+<td>Stüve,Maxim</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.0</td>
+<td>21.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>12</td>
+<td>Salgueiro,Felix</td>
+<td>1112</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>3.5</td>
+<td>16.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>13</td>
+<td>Mach,Wolfgang</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>3.0</td>
+<td>12.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>14</td>
+<td>Cravet,Alexandra (ohne Verein)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>3.0</td>
+<td>11.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>15</td>
+<td>Kühnel,Jan</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>2.0</td>
+<td>10.00</td>
 </tr>
 </tbody>
 </table>

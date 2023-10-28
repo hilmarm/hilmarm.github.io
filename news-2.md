@@ -8,6 +8,21 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11645 post type-post status-publish format-standard hentry category-krt" id="post-11645">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/28/kurt-richter-gedenkturnier-gestartet/" rel="bookmark">Kurt-Richter-Gedenkturnier gestartet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/28/kurt-richter-gedenkturnier-gestartet/" rel="bookmark" title="0:01"><span class="entry-date">28. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><span style="font-size: 18pt;"><a href="https://chess-results.com/tnr798052.aspx?lan=0">Tabellen und Ergebnisse auf Chess-Result</a></span></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11646" decoding="async" height="135" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_160625-2048x923.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11647" decoding="async" height="135" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231027_184847-2048x923.jpg 2048w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/28/kurt-richter-gedenkturnier-gestartet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11645 
 <div class="post-11620 post type-post status-publish format-standard hentry category-krt" id="post-11620">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/" rel="bookmark">Kurt-Richter-Gedenkturnier kurz vor dem Start!</a></h2>
 <div class="entry-meta">
@@ -80,7 +95,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" fetchpriority="high" height="300" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-653b9611e93d7-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-653ce78e05bbd-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -88,7 +103,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-653b9611e93d7-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-653ce78e05bbd-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -103,8 +118,8 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <p><button id="bfl2324_1_button">Lösung anzeigen</button></p>
 <p>Am Donnerstag mussten dann die anderen beiden Mannschaften nach Weißensee. Auch sie brachten nichts zählbares mit, die <strong>1. Mannschaft</strong> verliert mit <strong>1,5:2,5</strong> noch knapp. Manfred gewinnt hier und Ekkehard spielt Remis.</p>
 <p>Die <strong>3. Mannschaft</strong> kommt mit <strong>0,5:3,5</strong> genauso unter die Räder wie die Zweite. Hier steuert nur Hilmar an Brett 1 einen halben Punkt bei.</p>
-<p><a href="https://www.narva-schach.de/wordpress/img-20231013-wa0009/"><img alt="" class="aligncenter wp-image-11575" decoding="async" height="177" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-300x106.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-300x106.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-768x271.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009.jpg 962w" width="500"/></a><br/>
-<a href="https://www.narva-schach.de/wordpress/img-20231013-wa0008/"><img alt="" class="aligncenter wp-image-11576" decoding="async" height="160" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008-300x96.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008-300x96.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008-768x246.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008.jpg 965w" width="500"/></a><br/>
+<p><a href="https://www.narva-schach.de/wordpress/img-20231013-wa0009/"><img alt="" class="aligncenter wp-image-11575" decoding="async" height="177" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-300x106.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-300x106.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009-768x271.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0009.jpg 962w" width="500"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/img-20231013-wa0008/"><img alt="" class="aligncenter wp-image-11576" decoding="async" height="160" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008-300x96.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008-300x96.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008-768x246.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0008.jpg 965w" width="500"/></a><br/>
 <a href="https://www.narva-schach.de/wordpress/img-20231013-wa0010/"><img alt="" class="aligncenter wp-image-11574" decoding="async" height="152" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0010-300x91.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0010-300x91.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0010-768x234.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/IMG-20231013-WA0010.jpg 995w" width="500"/></a></p>
 <p style="text-align: center;">Staffeleinteilung der BFL inkl. DWZ-Schnitt<br/>
 <a href="https://www.narva-schach.de/wordpress/28af78c3-048b-4adc-bd11-c4411499b6c3/"><img alt="" class="size-medium wp-image-11580 aligncenter" decoding="async" height="300" loading="lazy" sizes="(max-width: 153px) 100vw, 153px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/28af78c3-048b-4adc-bd11-c4411499b6c3-153x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/28af78c3-048b-4adc-bd11-c4411499b6c3-153x300.jpg 153w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/28af78c3-048b-4adc-bd11-c4411499b6c3-523x1024.jpg 523w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/28af78c3-048b-4adc-bd11-c4411499b6c3-768x1503.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/28af78c3-048b-4adc-bd11-c4411499b6c3-785x1536.jpg 785w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/28af78c3-048b-4adc-bd11-c4411499b6c3.jpg 1022w" width="153"/></a></p>
@@ -425,21 +440,6 @@ Bitte bis zum 10.08.!! (also zum Pokal Viertelfinale)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/05/mitgliederversammlung-am-17-08/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11303 
-<div class="post-11288 post type-post status-publish format-standard hentry category-openberichte category-training" id="post-11288">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark">DSAM-Finale in Bad Wildungen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/" rel="bookmark" title="15:10"><span class="entry-date">2. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Beim DSAM-Finale in Bad Wildungen am vergangenen Wochenende war ich als einziger NARVA-Teilnehmer dabei (Ekkehard wurde zwar als Nachrücker eingeladen, konnte aber leider nicht teilnehmen).</p>
-<p>Mit 3.5 Punkten erreichte ich in der D-Gruppe Platz 9 und habe damit erstmals über 1800 DWZ. Das klingt erstmal nicht schlecht, dennoch bin ich nicht zufrieden mit meiner Leistung. <strong>Im Training</strong> zeige ich morgen, warum.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a>, <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/02/dsam-finale-in-bad-wildungen/#comments">3 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11288 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
