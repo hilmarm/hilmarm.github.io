@@ -28,21 +28,6 @@ parent_title: Termine
 <td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">Berlin U25 Open</a></td>
-<td>23.10.-29.10.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/"><strong>Kurt-Richter-Gedenkturnier 2023</strong></a></td>
-<td>27.10.-29.10.2023</td>
-<td>viele</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">Falkenseer Open 2023</a></td>
-<td>03.11.-05.11.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a> <strong><span style="font-size: 8pt;"><em>Samstag bis Montag</em></span></strong></td>
 <td>16.12.-18.12.2023 !!</td>
 <td></td>

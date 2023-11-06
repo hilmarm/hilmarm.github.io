@@ -4,6 +4,8 @@ layout: default
 navs:
   2023: 2023-2
   Teilnehmerliste 2023: teilnehmerliste-2023
+  Ergebnisse 2023: krt-ergebnisse-2023
+  Ranglisten 2023: krt-ranglisten-2023
   2019: 2019-2
   Teilnehmerliste: teilnehmerliste-2019
   Ergebnisse 2019: krt-ergebnisse-2019

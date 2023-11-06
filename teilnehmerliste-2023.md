@@ -4,6 +4,8 @@ layout: default
 navs:
   2023: 2023-2
   Teilnehmerliste 2023: teilnehmerliste-2023
+  Ergebnisse 2023: krt-ergebnisse-2023
+  Ranglisten 2023: krt-ranglisten-2023
   2019: 2019-2
   Teilnehmerliste: teilnehmerliste-2019
   Ergebnisse 2019: krt-ergebnisse-2019
@@ -44,9 +46,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-11219 page type-page status-publish hentry" id="post-11219">
 <h1 class="entry-title">Teilnehmerliste 2023</h1>
 <div class="entry-content">
-<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/</a> * Stand 26.10.</p>
-<h2>Kurt-Richter-Gedenkturnier</h2>
-<h3>2023</h3>
+<h2 style="text-align: center;"></h2>
 <table class="clean swiss">
 <thead>
 <tr>
@@ -80,18 +80,18 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>FM</td>
 <td>2137</td>
 <td>2148</td>
-<td></td>
+<td>*</td>
 <td>SK Zehlendorf e.V.</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>3</td>
-<td>Böddeker,Henry</td>
+<td>Hoffmann,Kay</td>
 <td></td>
-<td>2102</td>
-<td>2081</td>
+<td>2097</td>
+<td>2064</td>
 <td></td>
-<td>SF Berlin 1903 e.V.</td>
+<td>Barnimer Schachfreun</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
@@ -116,7 +116,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td>6</td>
-<td>Bogdan,Tomin</td>
+<td>Tomin,Bogdan</td>
 <td></td>
 <td>2080</td>
 <td>2003</td>
@@ -206,16 +206,6 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td>15</td>
-<td>Omar,Samy</td>
-<td></td>
-<td>1907</td>
-<td>1893</td>
-<td></td>
-<td>SC Kreuzberg e.V.</td>
-<td>EGY</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>16</td>
 <td>Brandt,Silvio</td>
 <td></td>
 <td>1901</td>
@@ -225,17 +215,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>17</td>
+<td>16</td>
 <td>Hintze,Peter</td>
 <td></td>
 <td>1898</td>
 <td>2081</td>
-<td></td>
+<td>*</td>
 <td>SG NARVA Berlin e.V.</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>18</td>
+<td>17</td>
 <td>Idaczek,Günter</td>
 <td></td>
 <td>1886</td>
@@ -245,7 +235,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>19</td>
+<td>18</td>
 <td>Simcaks,Sergejs</td>
 <td></td>
 <td>1883</td>
@@ -255,7 +245,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>LAT</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>20</td>
+<td>19</td>
 <td>Pröschild,Matthias</td>
 <td></td>
 <td>1864</td>
@@ -265,8 +255,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>21</td>
-<td>Kapr,Klaus,Dr.</td>
+<td>20</td>
+<td>Kapr,Dr. Klaus</td>
 <td></td>
 <td>1863</td>
 <td>1883</td>
@@ -275,7 +265,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>22</td>
+<td>21</td>
 <td>Jablonski,Peter</td>
 <td></td>
 <td>1858</td>
@@ -285,7 +275,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>23</td>
+<td>22</td>
 <td>Nagler,Jörg</td>
 <td></td>
 <td>1857</td>
@@ -295,7 +285,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>24</td>
+<td>23</td>
 <td>Sakalli,Selcuk Orkun</td>
 <td></td>
 <td>1855</td>
@@ -305,7 +295,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>TUR</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>25</td>
+<td>24</td>
 <td>Neuenbäumer,Jan Holg</td>
 <td></td>
 <td>1852</td>
@@ -315,17 +305,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>26</td>
+<td>25</td>
 <td>Schilling,René</td>
 <td></td>
 <td>1836</td>
 <td>1856</td>
 <td></td>
-<td>Ludwigsfelder SC 54</td>
+<td>Ludwigsfelder Schach</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>27</td>
+<td>26</td>
 <td>Guder,Sibylle</td>
 <td></td>
 <td>1825</td>
@@ -335,17 +325,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>28</td>
-<td>Kurta,Daniel</td>
-<td></td>
-<td>1823</td>
-<td>1771</td>
-<td></td>
-<td>BSC Rehberge 1945 e.</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>29</td>
+<td>27</td>
 <td>Reiche,Henry</td>
 <td></td>
 <td>1821</td>
@@ -355,27 +335,27 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>30</td>
-<td>Bierhals,Nico</td>
+<td>28</td>
+<td>Schenk,Jonatan</td>
 <td></td>
-<td>1801</td>
-<td>1930</td>
-<td></td>
-<td>SC Zugzwang 95 e.V.</td>
+<td>1809</td>
+<td>1727</td>
+<td>*</td>
+<td>SG NARVA Berlin e.V.</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>31</td>
+<td>29</td>
 <td>Zeidler,Uwe Ralf</td>
 <td></td>
 <td>1793</td>
 <td></td>
-<td>M</td>
+<td></td>
 <td>Umweltbundesamt</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>32</td>
+<td>30</td>
 <td>Schubert,Joachim</td>
 <td></td>
 <td>1786</td>
@@ -385,7 +365,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>33</td>
+<td>31</td>
 <td>Sommer,Ingo</td>
 <td></td>
 <td>1776</td>
@@ -395,7 +375,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>34</td>
+<td>32</td>
 <td>Kinski,Andreas</td>
 <td></td>
 <td>1772</td>
@@ -405,7 +385,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>35</td>
+<td>33</td>
 <td>Gevorkian,Spartac</td>
 <td></td>
 <td>1770</td>
@@ -415,7 +395,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>36</td>
+<td>34</td>
 <td>Toebs,Robin</td>
 <td></td>
 <td>1761</td>
@@ -425,23 +405,43 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>37</td>
+<td>35</td>
+<td>Besbudak,Özgür</td>
+<td></td>
+<td>1760</td>
+<td>1760</td>
+<td></td>
+<td>Schachfreunde Berlin</td>
+<td>TUR</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>36</td>
 <td>Opasiak,Dustin Tenne</td>
 <td></td>
 <td>1756</td>
 <td>1685</td>
-<td></td>
+<td>*</td>
 <td>SK Weisse Dame Hambu</td>
 <td>POL</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>38</td>
+<td>37</td>
 <td>Thürauf,Peter</td>
 <td></td>
 <td>1741</td>
 <td>1796</td>
 <td></td>
 <td>SC Schwarz-Weiß Nürn</td>
+<td>GER</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>38</td>
+<td>Zeitler,Viktor</td>
+<td></td>
+<td>1700</td>
+<td></td>
+<td></td>
+<td>Schachclub Rote Rübe</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
@@ -466,7 +466,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td>41</td>
-<td>Mayer,Herbert,Dr.</td>
+<td>Mayer,Dr. Herbert</td>
 <td></td>
 <td>1687</td>
 <td>1710</td>
@@ -480,22 +480,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td></td>
 <td>1686</td>
 <td>1513</td>
-<td>W</td>
+<td>*</td>
 <td>SV Königsjäger Süd-W</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>43</td>
-<td>Schmidt,Luise</td>
-<td></td>
-<td>1682</td>
-<td>1436</td>
-<td>W</td>
-<td>SV Königsjäger Süd-W</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>44</td>
 <td>Zimmer,Michel</td>
 <td></td>
 <td>1677</td>
@@ -505,17 +495,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>45</td>
-<td>Krüger,Ekkehard</td>
-<td></td>
-<td>1648</td>
-<td>1829</td>
-<td></td>
-<td>SG NARVA Berlin e.V.</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>46</td>
+<td>44</td>
 <td>Iachanou,Daniel</td>
 <td></td>
 <td>1644</td>
@@ -525,27 +505,27 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>47</td>
+<td>45</td>
 <td>Hafermann,Lara</td>
 <td></td>
 <td>1641</td>
 <td>1575</td>
-<td>W</td>
+<td>*</td>
 <td>SC Borussia Lichtenb</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>48</td>
+<td>46</td>
 <td>Kuehnert,Hanno</td>
 <td></td>
 <td>1637</td>
 <td>1637</td>
 <td>M</td>
-<td></td>
+<td>Berlin</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>49</td>
+<td>47</td>
 <td>Müller,Johannes</td>
 <td></td>
 <td>1623</td>
@@ -555,17 +535,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>50</td>
+<td>48</td>
 <td>Sklorz,Tobias</td>
 <td></td>
 <td>1620</td>
 <td>1700</td>
-<td></td>
+<td>*</td>
 <td>Tempelhofer SV Marie</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>51</td>
+<td>49</td>
 <td>Reimann,Fredy</td>
 <td></td>
 <td>1603</td>
@@ -575,17 +555,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>52</td>
-<td>Stuckstedte,Hermann</td>
-<td></td>
-<td>1573</td>
-<td>1681</td>
-<td></td>
-<td>SV Königsjäger Süd-W</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>53</td>
+<td>50</td>
 <td>Sandler,Lieven</td>
 <td></td>
 <td>1555</td>
@@ -595,17 +565,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>54</td>
-<td>Orozco Rodriguez,Hen</td>
-<td></td>
-<td>1553</td>
-<td>1639</td>
-<td></td>
-<td>SVG Läufer Reinicken</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>55</td>
+<td>51</td>
 <td>Kreisel,Alexander</td>
 <td></td>
 <td>1534</td>
@@ -615,7 +575,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>56</td>
+<td>52</td>
 <td>Schönfeld,Anke</td>
 <td></td>
 <td>1528</td>
@@ -625,57 +585,37 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>57</td>
-<td>Opialla,Lothar</td>
-<td></td>
-<td>1527</td>
-<td>1527</td>
-<td>M</td>
-<td></td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>58</td>
-<td>Ollek,Karl-Heinz</td>
-<td></td>
-<td>1511</td>
-<td>1619</td>
-<td></td>
-<td>SC Friesen Lichtenbe</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>59</td>
+<td>53</td>
 <td>Sviridov,Vitaliy</td>
 <td></td>
 <td>1509</td>
 <td>1537</td>
-<td></td>
+<td>*</td>
 <td>SG Königslutter</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>60</td>
-<td>Kamps,Manuel</td>
+<td>54</td>
+<td>Le,Tung</td>
 <td></td>
-<td>1470</td>
-<td>1549</td>
+<td>1500</td>
 <td></td>
-<td>SV Hellern</td>
+<td></td>
+<td>Queer-Springer SSV B</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>61</td>
-<td>Kalkowski,Thomas</td>
+<td>55</td>
+<td>Obermann,Jonas</td>
 <td></td>
-<td>1460</td>
-<td>1460</td>
-<td>M</td>
-<td>BA Tempelhof</td>
-<td>GER</td>
+<td>1500</td>
+<td></td>
+<td></td>
+<td>Queer-Springer SSV B</td>
+<td></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>62</td>
+<td>56</td>
 <td>Moster,Manuel</td>
 <td></td>
 <td>1457</td>
@@ -685,7 +625,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>63</td>
+<td>57</td>
+<td>Hinrichs,Marko</td>
+<td></td>
+<td>1450</td>
+<td></td>
+<td></td>
+<td>SC Kreuzberg e.V.</td>
+<td>GER</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>58</td>
 <td>Martinez Ferrer,Isma</td>
 <td></td>
 <td>1429</td>
@@ -695,7 +645,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>64</td>
+<td>59</td>
 <td>Bader,Georg</td>
 <td></td>
 <td>1422</td>
@@ -705,27 +655,27 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>65</td>
+<td>60</td>
 <td>Hankus,Dennis</td>
 <td></td>
 <td>1421</td>
 <td>1324</td>
 <td></td>
-<td>SG Lasker Stegli</td>
+<td>SG Lasker Steglitz</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>66</td>
+<td>61</td>
 <td>Vaz da Cruz,Vinicius</td>
 <td></td>
 <td>1412</td>
 <td>1504</td>
 <td></td>
 <td>SSV Rotation Berlin</td>
-<td>–</td>
+<td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>67</td>
+<td>62</td>
 <td>Timm,Christian</td>
 <td></td>
 <td>1408</td>
@@ -735,7 +685,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>68</td>
+<td>63</td>
 <td>Krawczyk,Harald</td>
 <td></td>
 <td>1405</td>
@@ -745,7 +695,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>69</td>
+<td>64</td>
+<td>Born,Aris</td>
+<td></td>
+<td>1400</td>
+<td></td>
+<td></td>
+<td>SK König Tegel 1949</td>
+<td>–</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>65</td>
 <td>Grunert,Greta</td>
 <td></td>
 <td>1394</td>
@@ -755,17 +715,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>70</td>
+<td>66</td>
 <td>Wäldrich,Oliver</td>
 <td></td>
 <td>1394</td>
 <td></td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>–</td>
+<td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>71</td>
+<td>67</td>
 <td>Losa Diaz,Manuel Jes</td>
 <td></td>
 <td>1391</td>
@@ -775,7 +735,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>72</td>
+<td>68</td>
 <td>Grunert,Heinrich</td>
 <td></td>
 <td>1383</td>
@@ -785,7 +745,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>73</td>
+<td>69</td>
 <td>von Kraft,Lukas</td>
 <td></td>
 <td>1370</td>
@@ -795,7 +755,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>74</td>
+<td>70</td>
 <td>Gegner,Matthias</td>
 <td></td>
 <td>1366</td>
@@ -805,7 +765,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>75</td>
+<td>71</td>
 <td>Sellhast,Paul</td>
 <td></td>
 <td>1362</td>
@@ -815,7 +775,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>76</td>
+<td>72</td>
 <td>Schweitzer,Benjamin</td>
 <td></td>
 <td>1300</td>
@@ -825,7 +785,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>77</td>
+<td>73</td>
+<td>Schwarz,Dave</td>
+<td></td>
+<td>1300</td>
+<td></td>
+<td></td>
+<td>SC Rochade Müncheber</td>
+<td>GER</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>74</td>
 <td>Morczynski,Ryszard</td>
 <td></td>
 <td>1288</td>
@@ -835,7 +805,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>78</td>
+<td>75</td>
 <td>Zimmermann,Felix</td>
 <td></td>
 <td>1284</td>
@@ -845,37 +815,47 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>79</td>
+<td>76</td>
 <td>Tham,Franz</td>
 <td></td>
 <td>1271</td>
 <td>1464</td>
 <td></td>
-<td>TSG Rot-Weiß Freders</td>
+<td>TSG RW Fredersdorf/V</td>
+<td>GER</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>77</td>
+<td>Sohr,Dr. Sven</td>
+<td></td>
+<td>1260</td>
+<td>1260</td>
+<td>*</td>
+<td>Berlin</td>
+<td>GER</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>78</td>
+<td>Seibert,Jakob</td>
+<td></td>
+<td>1200</td>
+<td></td>
+<td></td>
+<td>Berlin</td>
+<td></td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>79</td>
+<td>Thiede,Jonas</td>
+<td></td>
+<td>1200</td>
+<td></td>
+<td></td>
+<td>SV Berolina Mitte e.</td>
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>80</td>
-<td>Sohr,Sven,Dr.</td>
-<td></td>
-<td>1260</td>
-<td>1260</td>
-<td>M</td>
-<td></td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>81</td>
-<td>Hubbe,Bernd</td>
-<td></td>
-<td>1175</td>
-<td>1401</td>
-<td></td>
-<td>SVG Läufer Reinicken</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>82</td>
 <td>Meinicke,Rüdiger</td>
 <td></td>
 <td>1159</td>
@@ -885,7 +865,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>83</td>
+<td>81</td>
 <td>Grunert,Olga</td>
 <td></td>
 <td>1130</td>
@@ -895,7 +875,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>84</td>
+<td>82</td>
 <td>Lippert,Marc</td>
 <td></td>
 <td>1110</td>
@@ -905,7 +885,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>85</td>
+<td>83</td>
 <td>Kaufhold,Hans-Joachi</td>
 <td></td>
 <td>1059</td>
@@ -915,125 +895,38 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td>GER</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>86</td>
-<td>Obermann,Jonas</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Queer-Springer SSV B</td>
-<td></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>87</td>
+<td>84</td>
 <td>Bittar,Michel</td>
 <td></td>
-<td></td>
+<td>1000</td>
 <td></td>
 <td></td>
 <td>SK König Tegel 1949</td>
 <td>–</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>88</td>
-<td>Hinrichs,Marko</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>SC Kreuzberg e.V.</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>89</td>
-<td>Seibert,Jakob</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>90</td>
+<td>85</td>
 <td>Hein,Fabian</td>
 <td></td>
+<td>1000</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>*</td>
+<td>Berlin</td>
 <td></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td>91</td>
-<td>Born,Aris</td>
+<td>86</td>
+<td>Orozco Rodriguez,Hen</td>
 <td></td>
+<td>1553</td>
+<td>1639</td>
 <td></td>
-<td></td>
-<td></td>
-<td>SK König Tegel 1949</td>
-<td>–</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>92</td>
-<td>Thiede,Jonas</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>SV Berolina Mitte e.</td>
+<td>SVG Läufer Reinicken</td>
 <td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>93</td>
-<td>Besbdak,Özgür</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Schachfreunde Berlin</td>
-<td>–</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>94</td>
-<td>Nait Raiss,Rayane</td>
-<td></td>
-<td></td>
-<td></td>
-<td>M</td>
-<td></td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>95</td>
-<td>Le,Tung</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Queer-Springer SSV B</td>
-<td>GER</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>96</td>
-<td>Schwarz,Dave</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>SC Rochade Müncheber</td>
-<td>–</td>
 </tr>
 </tbody>
 </table>
-<p>Warteliste:</p>
-<ol>
-<li>Sedrak Matevosyan *</li>
-<li>Romain Besombes *</li>
-<li>Fabian Schmidt *</li>
-</ol>
-<p>* Meldung per Mail erhalten, aber noch kein Startgeldeingang.</p>
-<p>Stand: 25.10.2023 – 21:00 Uhr</p>
+<p>* Nr. 86 zu Runde 2 nachgemeldet</p>
 </div><!-- .entry-content -->
 </div> #post-11219 
 <div id="comments">

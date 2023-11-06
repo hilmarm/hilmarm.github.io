@@ -4,6 +4,8 @@ layout: default
 navs:
   2023: 2023-2
   Teilnehmerliste 2023: teilnehmerliste-2023
+  Ergebnisse 2023: krt-ergebnisse-2023
+  Ranglisten 2023: krt-ranglisten-2023
   2019: 2019-2
   Teilnehmerliste: teilnehmerliste-2019
   Ergebnisse 2019: krt-ergebnisse-2019
@@ -227,12 +229,19 @@ navs:
 <td class="xl1517289"><span style="font-size: 10pt;">Daniel Woithe</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">SV Briesen</span></td>
 </tr>
-<tr style="display: none;">
-<td style="width: 20pt;" width="26"></td>
-<td style="width: 29pt;" width="39"></td>
-<td style="width: 60pt;" width="80"></td>
-<td style="width: 119pt;" width="158"></td>
-<td style="width: 121pt;" width="161"></td>
+<tr style="height: 14.25pt;">
+<td class="xl1517289" height="19" style="height: 14.25pt;"></td>
+<td class="xl6717289"></td>
+<td class="xl6717289" style="text-align: center;"></td>
+<td class="xl1517289"></td>
+<td class="xl1517289"></td>
+</tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">21</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="http://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/">2023</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">86</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Bogdan Tomin</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Schachfreunde Berlin</span></td>
 </tr>
 </tbody>
 </table>
