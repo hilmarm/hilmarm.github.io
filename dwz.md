@@ -45,8 +45,8 @@ navs:
 <td>2.</td>
 <td><a href="http://www.schachbund.de/spieler/10033664.html" target="_blank"> Bernd Daverkausen</a></td>
 <td></td>
-<td>2081</td>
-<td>178</td>
+<td>2077</td>
+<td>179</td>
 <td>2130</td>
 </tr>
 <tr>
@@ -101,25 +101,25 @@ navs:
 <td>9.</td>
 <td><a href="http://www.schachbund.de/spieler/10084564.html" target="_blank"> Peter Hintze</a></td>
 <td></td>
-<td>1898</td>
-<td>124</td>
+<td>1887</td>
+<td>125</td>
 <td>2081</td>
 </tr>
 <tr>
 <td>10.</td>
-<td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
-<td></td>
-<td>1886</td>
-<td>71</td>
-<td>1914</td>
-</tr>
-<tr>
-<td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10124735.html" target="_blank"> Frank Laskowski</a></td>
 <td></td>
 <td>1870</td>
 <td>41</td>
 <td></td>
+</tr>
+<tr>
+<td>11.</td>
+<td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
+<td></td>
+<td>1862</td>
+<td>72</td>
+<td>1914</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -133,8 +133,8 @@ navs:
 <td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
-<td>1809</td>
-<td>64</td>
+<td>1807</td>
+<td>65</td>
 <td>1727</td>
 </tr>
 <tr>
@@ -150,7 +150,7 @@ navs:
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1772</td>
-<td>47</td>
+<td>48</td>
 <td>1796</td>
 </tr>
 <tr>
@@ -245,8 +245,8 @@ navs:
 <td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
-<td>1534</td>
-<td>46</td>
+<td>1523</td>
+<td>47</td>
 <td>0</td>
 </tr>
 <tr>
@@ -283,26 +283,26 @@ navs:
 </tr>
 <tr>
 <td>32.</td>
-<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
-<td></td>
-<td>1394</td>
-<td>1</td>
-<td></td>
-</tr>
-<tr>
-<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
-<td>1370</td>
-<td>15</td>
+<td>1409</td>
+<td>16</td>
 <td>1434</td>
 </tr>
 <tr>
-<td>34.</td>
+<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10718317.html" target="_blank"> Gunar Maiwald</a></td>
 <td></td>
 <td>1348</td>
 <td>6</td>
+<td></td>
+</tr>
+<tr>
+<td>34.</td>
+<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
+<td></td>
+<td>1316</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>
