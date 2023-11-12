@@ -8,6 +8,32 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-11708 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11708">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/11/11/endphase-in-internen-turnieren/" rel="bookmark">Endphase in internen Turnieren</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/11/11/endphase-in-internen-turnieren/" rel="bookmark" title="18:51"><span class="entry-date">11. November 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die internen Turniere laufen langsam in die Finale Phase ein.</p>
+<p>Bei der <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a> wurden am Donnerstag noch 2 Partien der 6. Runde nachgeholt. Beide Partien endeten Remis, Hans-Dieter gegen Rouven und Andreas gegen Ulrich. Eine Partie fehlt nun noch – Torsten/Manfred?</p>
+<p>In der Tabelle liegt die Spitze weiter eng zusammen:<br/>
+– Hans-Dieter und Rouven 5 Punkte<br/>
+– Klaus und Peter 4,5 Punkte<br/>
+– Michael 4 Punkte</p>
+<p>Die 7. Runde ist bereits ausgelost.<br/>
+Dabei gibt es die Duelle Peter gegen Hans-Dieter und Rouven gegen Michael.<br/>
+Wer wird Meister?</p>
+<p>Im <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a> gibt es am 21.11. das Finale zwischen Rudolf und Hans-Dieter!! Also ein echter NARVA Titelkampf Klassiker!!</p>
+<p>Im <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Schnellschach</a> gab es am Donnerstag die letzte Runde, mit 13 Teilnehmern war das Turnier wieder gut besetzt. Sieger wurde Peter mit 5 aus 5. Er steht damit auch als Gesamtsieger fest und hat sogar 100% der möglichen Punkte geholt!!</p>
+<p>Der Sieg in der Gästewertung geht hier an Jerry Düren, der nach dem Turnier gleich das Beitrittsformular ausgefüllt hat und nun bereits unser 56. Mitglied ist!</p>
+<p>Im <a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Blitz</a> steht am 30.11. noch eine Runde an. Aber auch hier ist bereits Peter der Sieg nicht mehr zu nehmen. Wie im Schnellschach hat er hier 100% der möglichen Punkte erreicht!!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/11/11/endphase-in-internen-turnieren/#comments">Ein Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11708 
 <div class="post-11672 post type-post status-publish format-standard hentry category-krt" id="post-11672">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/31/feedback-krt/" rel="bookmark">Feedback KRT</a></h2>
 <div class="entry-meta">
@@ -16,7 +42,7 @@ navs:
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="1b29e2d8b6"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="de280c6c0d"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -28,7 +54,7 @@ navs:
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="abc2c6c196"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="82b9064b3f"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -39,7 +65,7 @@ navs:
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="6a09fdf348"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="d51f5e64bd"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
@@ -208,7 +234,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" height="300" loading="lazy" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-654f5c928c71d-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6550adfe8e350-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -216,7 +242,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-654f5c928c71d-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-6550adfe8e350-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -481,20 +507,6 @@ Am Ende war er komplett Wertungsgleich mit einem weiteren Spieler, beide trennte
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/29/lichtenberger-sommer-und-chessence-premium-open/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11355 
-<div class="post-11341 post type-post status-publish format-standard hentry category-intern" id="post-11341">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/" rel="bookmark">Geplante Aufstellungen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/" rel="bookmark" title="15:33"><span class="entry-date">21. August 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die geplanten Mannschaftsaufstellungen für die nächste Saison sind nun im Forum zu finden.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/08/21/geplante-aufstellungen/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11341 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

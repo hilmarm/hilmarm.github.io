@@ -519,7 +519,7 @@ parent_title: Turniere
 <td>2.</td>
 <td>Arnold,Rouven</td>
 <td>1902</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>2</td>
@@ -563,7 +563,7 @@ parent_title: Turniere
 <td>10.</td>
 <td>Campe,Ulrich</td>
 <td>1592</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>6</td>
