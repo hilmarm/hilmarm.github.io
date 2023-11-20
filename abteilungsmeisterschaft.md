@@ -607,7 +607,7 @@ parent_title: Turniere
 <td>17.</td>
 <td>Heinrich,Manfred</td>
 <td>1247</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>10</td>

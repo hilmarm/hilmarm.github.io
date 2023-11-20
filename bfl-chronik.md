@@ -61,29 +61,40 @@ parent_title: Chronik
 <th>Platz</th>
 <th>2.Mannschaft</th>
 <th>Platz</th>
+<th>3.Mannschaft</th>
+<th>Platz</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>2023</td>
+<td>2024</td>
 <td>Staffel A</td>
 <td></td>
 <td>Staffel B</td>
 <td></td>
+<td>Staffel C</td>
+<td></td>
+</tr>
+<tr>
+<td>2023</td>
+<td>Staffel A</td>
+<td>9.</td>
+<td>Staffel B</td>
+<td>3.</td>
 </tr>
 <tr>
 <td>2022</td>
 <td><em>Corona</em></td>
-<td><em>ausgefallen</em></td>
+<td></td>
 <td><em>Corona</em></td>
-<td><em>ausgefallen</em></td>
+<td></td>
 </tr>
 <tr>
 <td>2021</td>
 <td><em>Corona</em></td>
-<td><em>ausgefallen</em></td>
+<td></td>
 <td><em>Corona</em></td>
-<td><em>ausgefallen</em></td>
+<td></td>
 </tr>
 <tr>
 <td><a href="https://www.narva-schach.de/wordpress/chronik/bfl-chronik/bfl-2020/">2020</a></td>
