@@ -31,10 +31,10 @@ parent_title: Turniere
 <tbody>
 <tr bgcolor="#00ffff" style="height: 24px;">
 <td style="height: 24px;">1</td>
-<td style="height: 24px;">Lange,Rudolf</td>
+<td style="height: 24px;"><strong>Lange,Rudolf</strong></td>
 <td style="height: 24px;">–</td>
 <td style="height: 24px;">Maetzing,Hans-Dieter,Dr.</td>
-<td style="text-align: center;">:</td>
+<td style="text-align: center;">1 : 0</td>
 </tr>
 </tbody>
 </table>

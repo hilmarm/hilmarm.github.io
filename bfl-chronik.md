@@ -76,7 +76,7 @@ parent_title: Chronik
 <td></td>
 </tr>
 <tr>
-<td>2023</td>
+<td><a href="https://www.narva-schach.de/wordpress/chronik/bfl-chronik/bfl-2023/">2023</a></td>
 <td>Staffel A</td>
 <td>9.</td>
 <td>Staffel B</td>
