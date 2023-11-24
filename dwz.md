@@ -315,19 +315,19 @@ navs:
 </tr>
 <tr>
 <td>36.</td>
+<td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
+<td></td>
+<td>1274</td>
+<td>35</td>
+<td>1391</td>
+</tr>
+<tr>
+<td>37.</td>
 <td><a href="http://www.schachbund.de/spieler/10078511.html" target="_blank"> Manfred Heinrich</a></td>
 <td></td>
 <td>1271</td>
 <td>25</td>
 <td></td>
-</tr>
-<tr>
-<td>37.</td>
-<td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
-<td></td>
-<td>1266</td>
-<td>34</td>
-<td>1391</td>
 </tr>
 <tr>
 <td>38.</td>
