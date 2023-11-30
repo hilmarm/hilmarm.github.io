@@ -19,6 +19,10 @@ navs:
 <td colspan="2"><span style="font-size: 14pt;"><strong>GM Michael Richter</strong></span> – <a href="https://de.wikipedia.org/wiki/Michael_Richter_(Schachspieler)" rel="noopener" target="_blank">Siehe Wikipedia</a> – <a href="https://players.chessbase.com/de/player/richter_michael/216989" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
 </tr>
 <tr>
+<td>Geb.</td>
+<td>1978</td>
+</tr>
+<tr>
 <td>Aktueller Verein</td>
 <td>SK König Tegel</td>
 </tr>
@@ -45,6 +49,10 @@ Großmeister (2015)</td>
 <td colspan="2"><span style="font-size: 14pt;"><strong>FM Lars Neumeier</strong></span> – <a href="https://players.chessbase.com/de/player/Neumeier_Lars/183436" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
 </tr>
 <tr>
+<td>Geb.</td>
+<td>1981</td>
+</tr>
+<tr>
 <td>Aktueller Verein</td>
 <td>Rotation Pankow</td>
 </tr>
@@ -64,6 +72,10 @@ Großmeister (2015)</td>
 <td colspan="2"><span style="font-size: 14pt;"><strong>Gregor Spieß</strong></span> – <a href="https://players.chessbase.com/de/player/spiess_gregor/248572" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
 </tr>
 <tr>
+<td>Geb.</td>
+<td>1990</td>
+</tr>
+<tr>
 <td>Aktueller Verein</td>
 <td>nicht aktiv</td>
 </tr>
@@ -78,6 +90,194 @@ Großmeister (2015)</td>
 <tr>
 <td>Beste Elo‑Zahl</td>
 <td>2173</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Janett Wordel</strong></span> – <a href="https://players.chessbase.com/de/player/wordel_janett/286109" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>1977</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>nicht aktiv</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>–</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>2120? DWZ?</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Nam Tham</strong></span> – <a href="https://players.chessbase.com/de/player/tham_nam/377884" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>2006</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>SC Weisse Dame</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1948</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>1993</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Minh Tham</strong></span> – <a href="https://players.chessbase.com/de/player/tham_minh/366310" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>2004</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>SC Weisse Dame</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1844</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>1984</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Clemens Krautschick</strong></span> – <a href="https://players.chessbase.com/de/player/krautschick_clemens/136963" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>1989</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>nicht aktiv</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1981 (Stand 2018 – letzte Auswertung)</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>2044</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Rudolf Lange</strong> (Dvorsky)</span> – <a href="https://players.chessbase.com/de/player/lange_rudolf/143590" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>1986</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>SG NARVA</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1868</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>1919</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Andreas Kinski</strong></span> – <a href="https://players.chessbase.com/de/player/kinski_andreas/634658" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>1983</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>SG NARVA</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1796</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>1796</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Thomas Mothes</strong></span> – <a href="https://players.chessbase.com/de/player/mothes_thomas/481215" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>1978</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>SG NARVA (Vorsitzender)</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1591</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>1592</td>
+</tr>
+<tr>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Nicole Wordel</strong></span> – <a href="https://players.chessbase.com/de/player/wordel_nicole/286111" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+</tr>
+<tr>
+<td>Geb.</td>
+<td>1980</td>
+</tr>
+<tr>
+<td>Aktueller Verein</td>
+<td>nicht aktiv</td>
+</tr>
+<tr>
+<td>Titel</td>
+<td></td>
+</tr>
+<tr>
+<td>Aktuelle Elo‑Zahl</td>
+<td>1570</td>
+</tr>
+<tr>
+<td>Beste Elo‑Zahl</td>
+<td>1570</td>
+</tr>
+<tr>
+<td colspan="2">
+<p><div class="wp-caption aligncenter" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/dsc02868-scaled.jpg" rel="noopener" target="_blank"><img alt="" decoding="async" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/dsc02868-scaled.jpg" width="300"/></a><p class="wp-caption-text">Foto aus BSV Seite</p></div></p></td>
 </tr>
 </tbody>
 </table>
