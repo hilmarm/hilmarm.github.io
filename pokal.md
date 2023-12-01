@@ -54,8 +54,8 @@ parent_title: Turniere
 <td style="height: 24px;">1</td>
 <td style="height: 24px;">Kinski,Andreas</td>
 <td style="height: 24px;">–</td>
-<td style="height: 24px;">Schenk, Jonatan</td>
-<td style="text-align: center;">:</td>
+<td style="height: 24px;"><strong>Schenk, Jonatan</strong></td>
+<td style="text-align: center;">– : +</td>
 </tr>
 </tbody>
 </table>

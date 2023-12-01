@@ -21,7 +21,7 @@ parent_title: Turniere
 <form action="/wordpress/turniere/ergebnisse-melden/#wpcf7-f4189-p948-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
 <div style="display: none;">
 <input name="_wpcf7" type="hidden" value="4189"/>
-<input name="_wpcf7_version" type="hidden" value="5.8.3"/>
+<input name="_wpcf7_version" type="hidden" value="5.8.4"/>
 <input name="_wpcf7_locale" type="hidden" value="de_DE"/>
 <input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f4189-p948-o1"/>
 <input name="_wpcf7_container_post" type="hidden" value="948"/>

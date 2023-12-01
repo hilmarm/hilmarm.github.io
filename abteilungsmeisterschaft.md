@@ -347,7 +347,7 @@ parent_title: Turniere
 <td>6</td>
 <td>Brinckmann,Klaus</td>
 <td>(4½)</td>
-<td> –</td>
+<td>1 – 0</td>
 </tr>
 <tr>
 <td>4</td>
@@ -413,7 +413,7 @@ parent_title: Turniere
 <td>15</td>
 <td>Maiwald,Gunar</td>
 <td>(2)</td>
-<td> –</td>
+<td>½ – ½</td>
 </tr>
 <tr>
 <td>10</td>
