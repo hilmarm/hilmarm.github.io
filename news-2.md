@@ -29,6 +29,33 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/11/18/einladung-zur-weihnachtsfeier-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11741 
+<div class="post-11826 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11826">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/01/november-blitz-interne-turniere-beendet/" rel="bookmark">November Blitz – interne Turniere beendet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/01/november-blitz-interne-turniere-beendet/" rel="bookmark" title="22:11"><span class="entry-date">1. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern fand das November Blitz statt und gleichzeitig wurden die letzten Partien zur Abteilungsmeisterschaft gespielt. Damit sind nun alle 2023er Wettbewerbe abgeschlossen.</p>
+<p>Die Partien der <strong>Abteilungsmeisterschaft</strong> brachten noch ein Remis zwischen <strong>Wolfgang</strong> und <strong>Gunar</strong> sowie einen Sieg von <strong>Ulrich</strong> gegen <strong>Klaus</strong>. Damit konnte Klaus nicht mehr auf das Treppchen klettern und fällt in der letzten Runde auf Rang 4 zurück.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Ergebnisse und Tabellen</a></p>
+<p>Im <strong>Blitz</strong> fanden sich zum Finale 11 Teilnehmer ein, etwas weniger als zuletzt, dafür jedoch an der Spitze eng und stark besetzt. Pünktlich zum Start von Runde 2 traf nach 800km Anreise auch <strong>Sven</strong> ein!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-scaled.jpg"><img alt="" class="wp-image-11827 alignnone" decoding="async" height="336" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-762x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-762x1024.jpg 762w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-223x300.jpg 223w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-768x1032.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-1143x1536.jpg 1143w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-1524x2048.jpg 1524w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-scaled.jpg 1905w" width="250"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812.jpg"><img alt="" class="wp-image-11824 alignnone" decoding="async" height="337" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-760x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-760x1024.jpg 760w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-223x300.jpg 223w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-768x1035.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-1139x1536.jpg 1139w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812.jpg 1152w" width="250"/></a></p>
+<p>Die Spitze lieferte sich bis zur letzten Runde einen engen Kampf, <strong>Peter</strong> marschierte erst sicher durch, nach seiner spielfrei-Pause gab er aber gleich 2x ab, so wurde es noch einmal eng. <strong>Ekkehard</strong> sammelte auch fleißig Punkte und gab auch nur 2 Partien ab. Am Ende hat Peter einen halben Punkt in der Zweitwertung Vorsprung und holt sich damit auch diesen Tagessieg! Ekkehard kommt mit ebenfalls 8 Punkten auf Platz 2.</p>
+<p><strong>Jonatan</strong> belegt mit 7,5 Punkten und Sieg gegen Peter Platz 3! <strong>Stefan</strong> von Rotation hat dann 7 Punkte und es folgen <strong>Sven</strong> und <strong>Matthias</strong> mit 6,5 Punkten.</p>
+<p>Die Gesamtwertung war schon nach der Oktober-Runde klar:<br/>
+<strong>1. Peter<br/>
+2. Tomas<br/>
+3. Hans-Dieter</strong></p>
+<p>Bester Gast wurde <span style="text-decoration: underline;"><strong>Matthias Pröschild</strong></span> von <strong>Chemie Weißensee</strong> auf Gesamtrang 5! Er brauchte noch die November Teilnahme um auf 5 gewertete Runden für den Gästepreis zu kommen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse Blitz</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-scaled.jpg"><img alt="" class="aligncenter size-large wp-image-11825" decoding="async" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-2048x923.jpg 2048w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/01/november-blitz-interne-turniere-beendet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11826 
 <div class="post-11804 post type-post status-publish format-standard hentry category-bmm" id="post-11804">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/11/27/bmm-runde-3-2/" rel="bookmark">BMM Runde 3</a></h2>
 <div class="entry-meta">
@@ -38,14 +65,14 @@ navs:
 Nach Siegen von <strong>Bernd</strong> (kampflos), <strong>Peter</strong>, <strong>Hans-Dieter</strong> und <strong>Magnus</strong> stand es früh schon 4:0 für uns.<br/>
 <strong>Jonatan</strong> und <strong>Rouven</strong> stellen leider unnötig gute Stellungen ein, sonst wäre der Sieg höher ausgefallen. <strong>Tomas</strong> und <strong>Hilmar</strong> spielen Remis.<br/>
 So gab es einen <strong>5:3</strong> Erfolg gegen <strong>TSG Rot-Weiß Fredersdorf</strong>.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome.jpg"><img alt="" class="aligncenter wp-image-11801" decoding="async" height="354" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome.jpg 977w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome-300x236.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome-768x604.jpg 768w" width="450"/></a></p>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome.jpg"><img alt="" class="aligncenter wp-image-11801" decoding="async" height="354" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome.jpg 977w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome-300x236.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_173708_Chrome-768x604.jpg 768w" width="450"/></a></p>
 <p><strong>NARVA 2</strong> kommt (erwartungsgemäß) unter die Räder und verliert hoch.<br/>
 Die 2.Mannschaft hatte eine ganz schwere Aufgabe gegen <strong>SC Friesen Lichtenberg 2</strong>.<br/>
 Der DWZ-Schnitt von 1516 zu 1862 ließ uns als klaren Außenseiter starten.<br/>
 Am Ende zählen die Einzelerfolge, <strong>Michael</strong> gewinnt sauber sein Endspiel mit 2 Mehrbauern gegen 1700er!<br/>
 <strong>Hilmar</strong> mit Remis gegen Fernschachweltmeister <a href="https://de.wikipedia.org/wiki/Fritz_Baumbach" rel="noopener" target="_blank">Fritz Baumbach</a>!</p>
 <p>Fast alle Partien waren lange offen, als bereits bei 1. und 2. Mannschaft die ersten Partien beendet waren, spielten bei NARVA 2 noch alle 8 Bretter. Bei <strong>Alexander</strong> und vor allem <strong>Jens</strong> war sicher mehr drin. <strong>Günter</strong> hatte sein Qualitätsopfer falsch berechnet und steht danach deutlich schlechter, sein Gegner lässt ihn dann aber zurück kommen, im Endspiel hat Günter mit seinem schlechten Läufer aber keine Chance mehr. <strong>Oliver</strong> hält sich auch lange gut, muss dann aber die Qualität geben. Auch <strong>Lukas</strong> hat früh eine Qualle weniger und verwaltet dann den Rückstand bis ins Endspiel. Die <strong>1,5:6,5</strong> Niederlage klingt hoch, ist aber kein Beinbruch und hätte rein nach DWZ-Zahlen auch noch höher ausfallen können.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome.jpg"><img alt="" class="aligncenter wp-image-11803" decoding="async" height="349" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome.jpg 1008w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome-300x232.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome-768x595.jpg 768w" width="450"/></a></p>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome.jpg"><img alt="" class="aligncenter wp-image-11803" decoding="async" height="349" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome.jpg 1008w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome-300x232.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/Screenshot_20231126_152202_Chrome-768x595.jpg 768w" width="450"/></a></p>
 <div class="wp-caption alignleft" id="attachment_11797" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095635.jpg"><img alt="" aria-describedby="caption-attachment-11797" class="wp-image-11797 size-medium" decoding="async" height="194" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095635-300x194.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095635-300x194.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095635-1024x663.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095635-768x498.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095635.jpg 1437w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11797">Hilmar gegen Fritz Baumbach</p></div>
 <div class="wp-caption alignright" id="attachment_11798" style="width: 260px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-scaled.jpg"><img alt="" aria-describedby="caption-attachment-11798" class="wp-image-11798" decoding="async" height="193" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-300x231.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-300x231.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-1024x790.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-768x592.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-1536x1185.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095552-2048x1580.jpg 2048w" width="250"/></a><p class="wp-caption-text" id="caption-attachment-11798">Günter grübelt</p></div>
 <div class="wp-caption alignleft" id="attachment_11799" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540.jpg"><img alt="" aria-describedby="caption-attachment-11799" class="wp-image-11799 size-medium" decoding="async" height="197" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540-300x197.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540-300x197.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540-1024x672.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540-768x504.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540-1536x1008.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231126_095540-2048x1345.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11799">Gerhard stand gegen Uwe Bade früh sehr luftig</p></div>
@@ -184,7 +211,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="745de9e2a4"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="52b1b58bc9"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -196,7 +223,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="eabe155a4d"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="bc941604b9"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -207,7 +234,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="68997c1681"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="b1e235c0ed"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
@@ -376,7 +403,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" height="300" loading="lazy" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6569ba85a5de1-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-656b0c0d98eb4-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -384,7 +411,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-6569ba85a5de1-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-656b0c0d98eb4-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
@@ -502,21 +529,6 @@ NARVA 1 und 3 spielen am Donnerstag bei der SG Weißensee.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/02/training-mit-gm-michael-richter-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11490 
-<div class="post-11471 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11471">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/09/22/schnellschach-am-14-9/" rel="bookmark">Schnellschach am 14.9.</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/09/22/schnellschach-am-14-9/" rel="bookmark" title="23:54"><span class="entry-date">22. September 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auf der <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a> sind nun auch die Ergebnisse vom vorletzten Schnellschachturnier der Saison, das am 14.9. gespielt wurde, veröffentlicht. Turniersieger wurde <strong>Peter</strong>, dem damit auch der Gesamtsieg nicht mehr zu nehmen ist, vor Tomas und Jerry. Spannend bleibt aber das Rennen um Platz 2: <strong>Klaus</strong> liegt aktuell vor <strong>Tomas</strong>, der aber erst drei Teilnahmen hat, so dass bei ihm kein Ergebnis gestrichen wird.</p>
-<p>Erwähnenswert ist auch, dass insgesamt 16 Teilnehmer mitgespielt haben, was schon wieder einen neuen Teilnehmerrekord bedeutet.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/09/22/schnellschach-am-14-9/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11471 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
