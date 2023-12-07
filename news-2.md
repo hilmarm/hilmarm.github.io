@@ -229,7 +229,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="6187356703"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="7afdb967cb"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -241,7 +241,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="7f984f33c5"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="5a5f69ca01"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -252,7 +252,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="7817e6ad07"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="1ad6dd486b"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
@@ -421,7 +421,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <p>Bereits am Dienstag musste die <strong>2. Mannschaft</strong> nach <strong>Hermsdorf</strong>. Mit etwas Mühe bekamen wir dann doch 4 Spieler zusammen, Lukas wurde noch schnell nachgemeldet. Auch die Anreise der S-Bahn-Nutzer verlief nicht reibungslos, ich musste Klaus und Lukas mit dem Auto einsammeln. Der Wettkampf ging dann eindeutig für Hermsdorf aus, wir verlieren mit <strong>0,5:3,5</strong>. Den halben Punkt steuerte Klaus bei, nach der Eröffnung stand er direkt mit Mehrfigur auf Gewinn, verliert dann aber den Faden und stellt von +6 auf -6 (oder so ähnlich). Im Endspiel hat Klaus K+L+S und der Gegner K+T+2B (und lebt nur noch vom Inkrement).</p>
 <div class="wp-caption alignleft" id="attachment_11577" style="width: 212px"><a href="https://www.narva-schach.de/wordpress/20231010_221336/"><img alt="" aria-describedby="caption-attachment-11577" class="size-medium wp-image-11577" decoding="async" height="300" loading="lazy" sizes="(max-width: 202px) 100vw, 202px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-202x300.jpg 202w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-690x1024.jpg 690w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-768x1140.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1035x1536.jpg 1035w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-1380x2048.jpg 1380w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231010_221336-scaled.jpg 1725w" width="202"/></a><p class="wp-caption-text" id="caption-attachment-11577">Das Remisangebot nach Sd3+ nimmt der Gegner dann an</p></div>
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-657052180220e-1">
+<div class="rpbchessboard-chessboard rpbchessboard-diagramAlignment-center" id="rpbchessboard-6571a383b65fa-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
 			Sie müssen JavaScript aktivieren, um die Diagramme zu verbessern.		</div>
@@ -429,7 +429,7 @@ Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 h
 <div class="rpbchessboard-chessboardAnchor"></div>
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
-			var selector = '#' + "rpbchessboard-657052180220e-1" + ' .rpbchessboard-chessboardAnchor';
+			var selector = '#' + "rpbchessboard-6571a383b65fa-1" + ' .rpbchessboard-chessboardAnchor';
 			RPBChessboard.renderFEN($(selector), {"position":"8\/8\/8\/2k5\/6p1\/3N4\/3K1p2\/3B3r b - - 0 1","squareSize":32,"coordinateVisible":true,"colorset":"original","pieceset":"cburnett"});
 		});
 	</script>
