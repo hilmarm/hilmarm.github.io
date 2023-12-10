@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://bsg-eckbauer.de/berichte/open2023/open2023.php" rel="noopener" target="_blank">Eckbauer Open 2023</a></td>
-<td>09.10.-20.11.2023</td>
-<td>Torsten</td>
-</tr>
-<tr style="height: 24px;">
 <td><strong>Weihnachtsblitz Fredersdorf</strong></td>
 <td>10.12.2023</td>
 <td>eine Mannschaft</td>
@@ -78,7 +73,7 @@ Philipp, Hilmar, Juri</td>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/40-obsenem-vom-30-01-bis-08-02-2024.html" rel="noopener" target="_blank">40. Offene Berliner Senioren-Einzel-Meisterschaft</a></td>
 <td>30.01.-08.02.2024</td>
-<td>Hans-Dieter, Gerhard, Ulrich</td>
+<td>Hans-Dieter, Gerhard, Ulrich, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
