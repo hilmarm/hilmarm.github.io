@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><strong>Weihnachtsblitz Fredersdorf</strong></td>
-<td>10.12.2023</td>
-<td>eine Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a> <strong><span style="font-size: 8pt;"><em>Samstag bis Montag</em></span></strong></td>
 <td>16.12.-18.12.2023 !!</td>
 <td></td>
@@ -58,7 +53,7 @@ Blitzschach Open</td>
 x<br/>
 x<br/>
 x<br/>
-Philipp, Hilmar, Juri</td>
+Günter, Philipp, Hilmar, Juri</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
