@@ -32,7 +32,7 @@ navs:
 <p>Fotos gibt es schon:</p>
 <div class="wp-caption aligncenter" id="attachment_11884" style="width: 460px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11884" class="wp-image-11884" decoding="async" fetchpriority="high" height="600" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003-225x300.jpg 225w" width="450"/></a><p class="wp-caption-text" id="caption-attachment-11884">Pokalsieger, Vorsitzender, Abteilungsmeister</p></div>
 <div class="wp-caption aligncenter" id="attachment_11885" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11885" class="wp-image-11885 size-large" decoding="async" height="480" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg 1600w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-11885">Der Abteilungsmeister ist dieses mal blau/weiß</p></div>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-scaled.jpg"><img alt="" class="aligncenter wp-image-11886 size-large" decoding="async" height="289" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231214_203857-2048x923.jpg 2048w" width="640"/></a></p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#more-11889">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -49,7 +49,7 @@ navs:
 <p>Gestern stand das traditionelle <strong>Weihnachtsblitz in Fredersdorf</strong> an. Zum 46. mal gab es das 4er Mannschaftsturnier auf Einladung von <strong>TSG Rot-Weiß Fredersdorf/Vogelsdorf</strong>. Insgesamt 12 Mannschaften traten dieses mal an.</p>
 <p>An der Spitze gab es ein enges Rennen, lange führte Rotation Berlin mit IM Steve Berger an Brett 1, am Ende gewinnen jedoch die <strong>Sfr. Nord-Ost</strong> mit einem Brettpunkt Vorsprung auf die <strong>TSG Oberschöneweide</strong>. <strong>Rotation</strong> belegt Platz 3.</p>
 <p>Die Plätze 4 bis 6 haben dann alle 14 Mannschaftspunkte, Platz 4 <strong>Friesen</strong>, Platz 5 <strong>SV OSRAM</strong> und Platz 6 dann unsere <strong>NARVA</strong>-Jungs.</p>
-<p>Bester Mann bei uns <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat.jpg"><img alt="" class="wp-image-11854 size-medium alignleft" decoding="async" height="203" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat-300x203.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat-768x520.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat.jpg 1020w" width="300"/></a>ist <strong>Rudolf</strong> mit starken 17,5 Punkten aus 22 Partien an Brett 3.</p>
+<p>Bester Mann bei uns <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat.jpg"><img alt="" class="wp-image-11854 size-medium alignleft" decoding="async" height="203" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat-300x203.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat-300x203.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat-768x520.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Screenshot_20231210_200219_Adobe-Acrobat.jpg 1020w" width="300"/></a>ist <strong>Rudolf</strong> mit starken 17,5 Punkten aus 22 Partien an Brett 3.</p>
 <p><strong>Ekkehard</strong> erreicht am 4. Brett 13 Punkte.</p>
 <p><strong>Peter</strong> an Brett 1 holt 11 Punkte.</p>
 <p><strong>Tomas</strong> an Brett 2 kommt auf 8 Punkte.</p>
@@ -308,7 +308,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="75a04bdaac"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="dcbfabc058"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -320,7 +320,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="1bab4f0462"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="4b57836adb"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -331,7 +331,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="633bfaf14e"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="bbd9a3cc4f"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
