@@ -59,7 +59,7 @@ parent_title: Chronik
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2023/" rel="noopener">Pokal 2023</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/schnellschach-2023/" rel="noopener">Schnellschach 2023</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/blitz-2023/" rel="noopener">Blitz 2023</a><br/>
-<a rel="noopener" target="_blank"> Jahresabschluss Blitz 2023</a></h4>
+<a href="http://www.narva-schach.de/dateien/chronik/blitzjahres2023.html" rel="noopener" target="_blank"> Jahresabschluss Blitz 2023</a></h4>
 <h3>Saison 2022</h3>
 <h4><a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/abteilungsmeisterschaft-2022/" rel="noopener">Abteilungsmeisterschaft 2022</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2022/" rel="noopener">Pokal 2022</a><br/>

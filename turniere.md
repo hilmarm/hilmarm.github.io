@@ -15,11 +15,11 @@ navs:
 <h1 class="entry-title">Turniere</h1>
 <div class="entry-content">
 <h1>Interne Turniere/Ausschreibungen</h1>
-<h2>Ausschreibungen für 2023</h2>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2023.pdf">Abteilungsmeisterschaft 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Pokal-2023.pdf">Pokal 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Schnellschachmeisterschaft-2023.pdf">Schnellschach 2023</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Blitzschach-2023.pdf">Blitzschach 2023</a></p>
+<h2>Ausschreibungen für 2024</h2>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Abteilungsmeisterschaft-2024.pdf">Abteilungsmeisterschaft 2024</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Pokal-2024.pdf">Pokal 2024</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Blitzschach-2024.pdf">Blitzschach 2024</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Schnellschachmeisterschaft-2024.pdf">Schnellschachmeisterschaft 2024</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h1>Beitragsordnung / Beitrittsformular / Satzung / FIDE Regeln</h1>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/02/Beitragsordnung-2019.pdf" rel="noopener" target="_blank">Beitragsordnung</a> als PDF</p>
