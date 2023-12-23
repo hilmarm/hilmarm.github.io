@@ -84,12 +84,12 @@ navs:
 <tr>
 <td>28.03.24</td>
 <td class="versammlung">Skat</td>
-<td>QT</td>
+<td></td>
 </tr>
 <tr>
 <td>04.04.24</td>
 <td class="training">Training</td>
-<td></td>
+<td>QT?</td>
 </tr>
 <tr>
 <td>11.04.24</td>

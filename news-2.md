@@ -24,12 +24,58 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11878 
+<div class="post-11928 post type-post status-publish format-standard hentry category-nicht-kategorisiert-de" id="post-11928">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark">Interne Turniere 2024</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark" title="18:31"><span class="entry-date">22. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a> 2024 und die Ausschreibungen der <a href="https://www.narva-schach.de/wordpress/turniere/">internen Turniere</a> sind inzwischen veröffentlicht. </p>
+<p>Die ersten Anmeldungen gibt es auch schon: </p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a><br/>
+<a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
+<p>Anmeldungen für Pokal und Abteilungsmeisterschaft sind auch direkt hier möglich (für Blitz und Schnellschach ist die Anmeldung am jeweiligen Spieltag ausreichend):</p>
+<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f9811-p11928-o1" lang="de-DE">
+<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
+<form action="/wordpress/news-2/#wpcf7-f9811-p11928-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
+<div style="display: none;">
+<input name="_wpcf7" type="hidden" value="9811"/>
+<input name="_wpcf7_version" type="hidden" value="5.8.4"/>
+<input name="_wpcf7_locale" type="hidden" value="de_DE"/>
+<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p11928-o1"/>
+<input name="_wpcf7_container_post" type="hidden" value="11928"/>
+<input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+</div>
+<p><label> Dein Name<br/>
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" size="40" type="text" value=""/></span> </label>
+</p>
+<p>Abteilungsmeisterschaft: <span class="wpcf7-form-control-wrap" data-name="Abteilung"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><label><input name="Abteilung[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Abteilung[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
+Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><label><input name="Pokal[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Pokal[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
+Kommentar: <span class="wpcf7-form-control-wrap" data-name="Kommentar"><textarea aria-invalid="false" class="wpcf7-form-control wpcf7-textarea" cols="40" name="Kommentar" rows="10"></textarea></span>
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden"/>
+</p><div aria-hidden="true" class="wpcf7-response-output"></div>
+</form>
+</div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/nicht-kategorisiert-de/" rel="category tag">Nicht kategorisiert</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11928 
 <div class="post-11889 post type-post status-publish format-standard hentry category-intern" id="post-11889">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/" rel="bookmark">Weihnachtsfeier / Jahresabschluss</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/" rel="bookmark" title="13:54"><span class="entry-date">15. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Fotos gibt es schon:</p>
+<p>Am 14.12. fand unsere jährliche Weihnachtsfeier statt. Dabei wurden die Sieger der internen Turniere geehrt. Hier noch einmal die Preisträger:</p>
+<p><strong>Abteilungsmeisterschaft:</strong> 1. <strong>Rouven Arnold</strong>, 2. Peter Hintze, 3. Dr. Hans-Dieter Maetzing, Ratingpreis U1600 Ulrich Campe, Ratingpreis U1400 Michael Herrscher<br/>
+<strong>Pokal:</strong> 1. <strong>Rudolf Lange</strong>, 2. Dr. Hans-Dieter Maetzing, 3. Jonatan Schenk<br/>
+<strong>Blitzschach:</strong> 1. <strong>Peter Hintze</strong>, 2. Tomas Segerberg, 3. Dr. Hans-Dieter Maetzing<br/>
+<strong>Schnellschach:</strong> 1. <strong>Peter Hintze</strong>, 2. Tomas Segerberg, 3. Klaus Brinckmann</p>
+<p>Ausnahmsweise wurde diesmal auch ein Gästepreis auf der Weihnachtsfeier vergeben, und zwar im Schnellschach an <strong>Jerome Düren</strong> (zuletzt vereinslos), der inzwischen bei uns Mitglied geworden ist. Der beste Gast im Blitzschach, <strong>Matthias Pröschild</strong> (Chemie Weißensee), bekommt seinen Preis bei passender Gelegenheit.</p>
+<p>Anschließend fand noch unser traditionelles <strong>Würfelblitzturnier</strong> statt. Hier gewann der Pokalsieger und Ex-Vize <strong>Rudolf Lange</strong> vor dem aktuellen Vize Jonatan Schenk. Im Stechen um den dritten Platz setzte sich Neumitglied Jan-Hendrik Bahr durch.</p>
 <div class="wp-caption aligncenter" id="attachment_11884" style="width: 460px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11884" class="wp-image-11884" decoding="async" fetchpriority="high" height="600" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003-225x300.jpg 225w" width="450"/></a><p class="wp-caption-text" id="caption-attachment-11884">Pokalsieger, Vorsitzender, Abteilungsmeister</p></div>
 <div class="wp-caption aligncenter" id="attachment_11885" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11885" class="wp-image-11885 size-large" decoding="async" height="480" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg 1600w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-11885">Der Abteilungsmeister ist dieses mal blau/weiß</p></div>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#more-11889">Weiterlesen <span class="meta-nav">→</span></a></p>
@@ -308,7 +354,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="6ee89e9d85"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="603affb2d4"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -320,7 +366,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="2ea15cef0c"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="832ddf0eed"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -331,7 +377,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="f48976d614"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="8b6071d65e"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
@@ -473,24 +519,6 @@ Jonatan war der Gerademacher und kommt so auf 3 Punkte aus 4 Partien.</p>
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-11623 
-<div class="post-11616 post type-post status-publish format-standard hentry category-openberichte" id="post-11616">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/22/rueckblick-auf-duben-spreewaldcup/" rel="bookmark">Rückblick auf Duben/Spreewaldcup</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/22/rueckblick-auf-duben-spreewaldcup/" rel="bookmark" title="16:17"><span class="entry-date">22. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am 16. September fand bereits der <strong>Spreewaldpokal</strong> der SSG Lübbenau in Duben statt. NARVA erreichte Platz 12 von 24 mit den Spielern <strong>Hoppe</strong>, <strong>Hintze</strong>, <strong>Segerberg</strong>, <strong>Mietzelfeldt</strong> und <strong>Brinckmann</strong>.<br/>
-Vom Team NARVA selbst gab es keinen Bericht, aber unser Gastspieler an Brett 1 hat auf der Seite von Berolina Mitte einen Bericht geschrieben, inkl. Fotos, Partien von sich und alle Ergebnisse.</p>
-<p><span style="font-size: 8pt;">(auch mir selbst fehlte zuletzt die Zeit nach den vielen Turnieren, Erfstadt, BSEM, BSMM, BBEM, BBMM, BMM, BFL und Urlaub…..um etwas zu schreiben.)</span></p>
-<p><a href="https://www.svberolinamitte.de/news/spreewaldpokal-in-duben.html" rel="noopener" target="_blank">Link zu Berolina</a></p>
-<div class="wp-caption aligncenter" style="width: 510px"><a href="https://www.svberolinamitte.de/files/images/2023/10/spreewald/fotos/img_9888.jpg"><img alt="" decoding="async" src="https://www.svberolinamitte.de/files/images/2023/10/spreewald/fotos/img_9888.jpg" width="500"/></a><p class="wp-caption-text">Foto von Frank Hoppe</p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/22/rueckblick-auf-duben-spreewaldcup/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11616 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
