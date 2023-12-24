@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Düsseldorf</a> <strong><span style="font-size: 8pt;"><em>Samstag bis Montag</em></span></strong></td>
-<td>16.12.-18.12.2023 !!</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><strong>Weihnachts-Festival 2023</strong><br/>
 <a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_960.pdf" rel="noopener" target="_blank">Weihnachts-960</a><br/>
 <a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_Open.pdf" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a><br/>
@@ -52,13 +47,13 @@ Blitzschach Open</td>
 <td>x<br/>
 x<br/>
 x<br/>
-x<br/>
-Günter, Philipp, Hilmar, Juri</td>
+Batuhan, Klaus<br/>
+Batuhan, Günter, Philipp, Magnus, Hilmar, Juri</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>05.01.-07.01.2024</td>
-<td></td>
+<td>Andreas, Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
@@ -71,9 +66,14 @@ Günter, Philipp, Hilmar, Juri</td>
 <td>Hans-Dieter, Gerhard, Ulrich, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Stuttgart</a></td>
+<td>09.02.-11.02.2024</td>
+<td>Lukas</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>01.03.-03.03.2024</td>
-<td>Jonatan</td>
+<td>Jonatan, Lukas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
@@ -83,7 +83,7 @@ Günter, Philipp, Hilmar, Juri</td>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>24.05.-26.05.2024</td>
-<td></td>
+<td>Rudolf, Thomas ??</td>
 </tr>
 </tbody>
 </table>

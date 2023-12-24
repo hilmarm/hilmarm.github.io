@@ -24,13 +24,13 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11878 
-<div class="post-11928 post type-post status-publish format-standard hentry category-nicht-kategorisiert-de" id="post-11928">
+<div class="post-11928 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11928">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark">Interne Turniere 2024</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark" title="18:31"><span class="entry-date">22. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Der <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a> 2024 und die Ausschreibungen der <a href="https://www.narva-schach.de/wordpress/turniere/">internen Turniere</a> sind inzwischen veröffentlicht. </p>
-<p>Die ersten Anmeldungen gibt es auch schon: </p>
+<p>Der <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a> 2024 und die Ausschreibungen der <a href="https://www.narva-schach.de/wordpress/turniere/">internen Turniere</a> sind inzwischen veröffentlicht.</p>
+<p>Die ersten Anmeldungen gibt es auch schon:</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a><br/>
 <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
 <p>Anmeldungen für Pokal und Abteilungsmeisterschaft sind auch direkt hier möglich (für Blitz und Schnellschach ist die Anmeldung am jeweiligen Spieltag ausreichend):</p>
@@ -59,7 +59,7 @@ Kommentar: <span class="wpcf7-form-control-wrap" data-name="Kommentar"><textarea
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/nicht-kategorisiert-de/" rel="category tag">Nicht kategorisiert</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
@@ -76,6 +76,7 @@ Kommentar: <span class="wpcf7-form-control-wrap" data-name="Kommentar"><textarea
 <strong>Schnellschach:</strong> 1. <strong>Peter Hintze</strong>, 2. Tomas Segerberg, 3. Klaus Brinckmann</p>
 <p>Ausnahmsweise wurde diesmal auch ein Gästepreis auf der Weihnachtsfeier vergeben, und zwar im Schnellschach an <strong>Jerome Düren</strong> (zuletzt vereinslos), der inzwischen bei uns Mitglied geworden ist. Der beste Gast im Blitzschach, <strong>Matthias Pröschild</strong> (Chemie Weißensee), bekommt seinen Preis bei passender Gelegenheit.</p>
 <p>Anschließend fand noch unser traditionelles <strong>Würfelblitzturnier</strong> statt. Hier gewann der Pokalsieger und Ex-Vize <strong>Rudolf Lange</strong> vor dem aktuellen Vize Jonatan Schenk. Im Stechen um den dritten Platz setzte sich Neumitglied Jan-Hendrik Bahr durch.</p>
+<p><a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2023.html" rel="noopener" target="_blank">Ergebnisse</a></p>
 <div class="wp-caption aligncenter" id="attachment_11884" style="width: 460px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11884" class="wp-image-11884" decoding="async" fetchpriority="high" height="600" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003-225x300.jpg 225w" width="450"/></a><p class="wp-caption-text" id="caption-attachment-11884">Pokalsieger, Vorsitzender, Abteilungsmeister</p></div>
 <div class="wp-caption aligncenter" id="attachment_11885" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11885" class="wp-image-11885 size-large" decoding="async" height="480" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg 1600w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-11885">Der Abteilungsmeister ist dieses mal blau/weiß</p></div>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#more-11889">Weiterlesen <span class="meta-nav">→</span></a></p>
@@ -354,7 +355,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="603affb2d4"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="21a560cea5"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -366,7 +367,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="832ddf0eed"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="8fca0d0723"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -377,7 +378,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="8b6071d65e"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="bbfbd17c73"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
