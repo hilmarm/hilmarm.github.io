@@ -8,22 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-11878 post type-post status-publish format-standard sticky hentry category-intern" id="post-11878">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/" rel="bookmark">Auch am 21. und 28.12. geöffnet</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/" rel="bookmark" title="7:41"><span class="entry-date">15. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Wir haben auch an den nächsten beiden Donnerstagen geöffnet. Ab 18 Uhr gibt es die Möglichkeit zum Schach spielen bei uns!</p>
-<p>Ihr dürft also auch gerne am 21. und 28.12.23 vorbei kommen, auch wenn kein Turnier o.ä. angesetzt ist.</p>
-<p>Auch Gäste sind herzlich willkommen!!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11878 
 <div class="post-11928 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11928">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark">Interne Turniere 2024</a></h2>
 <div class="entry-meta">
@@ -88,6 +72,22 @@ Kommentar: <span class="wpcf7-form-control-wrap" data-name="Kommentar"><textarea
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11889 
+<div class="post-11878 post type-post status-publish format-standard hentry category-intern" id="post-11878">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/" rel="bookmark">Auch am 21. und 28.12. geöffnet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/" rel="bookmark" title="7:41"><span class="entry-date">15. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Wir haben auch an den nächsten beiden Donnerstagen geöffnet. Ab 18 Uhr gibt es die Möglichkeit zum Schach spielen bei uns!</p>
+<p>Ihr dürft also auch gerne am 21. und 28.12.23 vorbei kommen, auch wenn kein Turnier o.ä. angesetzt ist.</p>
+<p>Auch Gäste sind herzlich willkommen!!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-11878 
 <div class="post-11874 post type-post status-publish format-standard hentry category-openberichte" id="post-11874">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/11/weihnachtsblitz-in-fredersdorf/" rel="bookmark">Weihnachtsblitz in Fredersdorf</a></h2>
 <div class="entry-meta">
@@ -355,7 +355,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="e46eb03f1d"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="aabb61e995"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -367,7 +367,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="4861d329e7"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="3598b8068c"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -378,7 +378,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="6f97e9faaf"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="f72c32e6f6"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>

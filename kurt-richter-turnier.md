@@ -39,12 +39,15 @@ navs:
   Partien: partien
   1994: 1994-2
   1984: 1984-2
+  1982: 1982-2
   1981: 1981-2
+  Kinderturnier 1996: kinderturnier-1996
 ---
 <div class="post-243 page type-page status-publish hentry" id="post-243">
 <h1 class="entry-title">Kurt-Richter-Gedenkturnier</h1>
 <div class="entry-content">
-<p><a href="https://www.azquotes.com/quote/601506" title="Kurt Richter quote"><img alt="What would Chess be without silly mistakes? - Kurt Richter" class="aligncenter" decoding="async" src="//www.azquotes.com/picture-quotes/quote-what-would-chess-be-without-silly-mistakes-kurt-richter-60-15-06.jpg" width="600"/></a></p>
+<h1 style="text-align: center;"><a href="https://www.azquotes.com/quote/601506" title="Kurt Richter quote"><img alt="What would Chess be without silly mistakes? - Kurt Richter" class="aligncenter" decoding="async" src="//www.azquotes.com/picture-quotes/quote-what-would-chess-be-without-silly-mistakes-kurt-richter-60-15-06.jpg" width="600"/></a><br/>
+Kurt-Richter-Gedenkturniere</h1>
 <table border="2" width="464">
 <tbody>
 <tr class="xl6717289" style="height: 14.25pt;">
@@ -63,8 +66,8 @@ navs:
 </tr>
 <tr style="height: 14.25pt;">
 <td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">2</span></td>
-<td class="xl6717289"><span style="font-size: 10pt;">1982</span></td>
-<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">150</span></td>
+<td class="xl6717289"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/1982-2/"><span style="font-size: 10pt;">1982</span></a></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">156</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">Horst Strehlow</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">Einheit Friesen</span></td>
 </tr>
@@ -245,9 +248,35 @@ navs:
 </tr>
 </tbody>
 </table>
-<h2><strong>Häufigste Teilnehmer von 1981 bis 2019:</strong></h2>
+<h1 style="text-align: center;">Kurt-Richter-Kinderturniere</h1>
+<table border="2" width="464">
+<tbody>
+<tr class="xl6717289" style="height: 14.25pt;">
+<td class="xl6717289" height="19" style="height: 14.25pt; width: 15pt;" width="20"><span style="font-size: 10pt;">Nr</span></td>
+<td class="xl6717289" style="width: 29pt;" width="35"><span style="font-size: 10pt;">Jahr</span></td>
+<td class="xl6717289" style="width: 65pt;" width="80"><span style="font-size: 10pt;">Teilnehmer</span></td>
+<td class="xl6717289" style="width: 119pt;" width="158"><span style="font-size: 10pt;">Sieger</span></td>
+<td class="xl6717289" style="width: 121pt;" width="161"><span style="font-size: 10pt;">Verein</span></td>
+</tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">1</span></td>
+<td class="xl6717289"></td>
+<td class="xl6717289" style="text-align: center;"></td>
+<td class="xl1517289"></td>
+<td class="xl1517289" nowrap="nowrap"></td>
+</tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">2</span></td>
+<td class="xl6717289"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/kinderturnier-1996/"><span style="font-size: 10pt;">1996</span></a></td>
+<td class="xl6717289" style="text-align: center;">über 100</td>
+<td class="xl1517289"><span style="font-size: 10pt;">Wilhelm Jauk</span></td>
+<td class="xl1517289" nowrap="nowrap"><span style="font-size: 10pt;">TSG Oberschöneweide</span></td>
+</tr>
+</tbody>
+</table>
+<h2><strong>Häufigste Teilnehmer von 1981 bis 2023:</strong></h2>
 <p>1. Fitzke, Ulrich — 20 Teilnahmen<br/>
-2. Kohlmeyer, Dagobert — 18 Teilnahmen<br/>
+1. Kohlmeyer, Dagobert — 20 Teilnahmen<br/>
 3. Noak, Uwe — 14 Teilnahmen</p>
 <h2><strong>Wer war Kurt Richter?</strong></h2>
 <p><img alt="dscf0939_kurt_richter" class="alignnone wp-image-736 size-full" decoding="async" height="202" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0939_kurt_richter.jpg" width="200"/></p>
@@ -263,6 +292,7 @@ Auf der BSV Seite steht: <em>„Der Bezirksfachausschuß (BFA) Berlin lud in den
 Danach gab es in unregelmäßigen Abständen weitere Turniere, etwa 20. Im letzten Jahr wechselte Gerhard dann zur SG NARVA und nahm im Winter 2011 wieder an der Berliner Senioreneinzelmeisterschaft teil. Dort wurde ihm mehrfach der Wunsch nach einer Fortsetzung des Turniers entgegen gebracht.<br/>
 Das 30 jährige Jubiläum 2011 bot sich da natürlich gut an, das Turnier wieder zu beleben. Nun musste nur noch ein Veranstaltungsraum und Mitstreiter gefunden werden. Mitstreiter fanden sich schnell, auch in seinem neuen Verein NARVA war das Interesse geweckt worden. Die Suche nach einem Raum konnte auch erfolgreich abgeschlossen werden, im Seniorenheim „Haus Jahreszeiten“ fand er gleich Zustimmung.</p>
 <p>Seit 2014 findet das Turnier jährlich im „Rudi“ Nachbarschaftshaus statt.</p>
+<p>2023 wurde das Kurt-Richter-Gedenkturnier nach Corona-Pause neu gestartet und fand erstmals in Cooperation mit Rotation Berlin im Rathaus Mitte statt.</p>
 <p>2016 wurde Gerhard zum Ehrenpräsidenten des Berliner Schachverbandes ernannt!!</p>
 </div><!-- .entry-content -->
 </div> #post-243 

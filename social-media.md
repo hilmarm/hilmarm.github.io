@@ -20,21 +20,21 @@ parent_title: Impressum
 <li>Aktuelle Aufstellungen</li>
 <li>Termine</li>
 <li>Verabredungen/Treffpunkte</li>
-<li><strong>Aktuell 24 Teilnehmer</strong></li>
+<li><strong>Aktuell 27 Teilnehmer</strong></li>
 </ul>
 <hr/>
-<h2><span style="text-decoration: underline;">Twitter</span><img alt="" class="alignright wp-image-9081" decoding="async" height="91" sizes="(max-width: 110px) 100vw, 110px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-300x247.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-300x247.png 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-1024x843.png 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-768x632.png 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue.png 1034w" width="110"/></h2>
+<h2><span style="text-decoration: underline;">X</span><img alt="" class="alignright wp-image-9081" decoding="async" height="91" sizes="(max-width: 110px) 100vw, 110px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-300x247.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-300x247.png 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-1024x843.png 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue-768x632.png 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2022/01/2021-Twitter-logo-blue.png 1034w" width="110"/> – früher Twitter</h2>
 <p>Aktuelle News direkt auf Twitter:<br/>
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fwww.narva-schach.de%2F&amp;ref_src=twsrc%5Etfw%7Ctwcamp%5Ebuttonembed%7Ctwterm%5Efollow%7Ctwgr%5Enarva_schach&amp;region=follow_link&amp;screen_name=narva_schach" rel="noopener" target="_blank">Link zu Twitter NARVA-Schach</a></p>
-<p><strong>Bereits 166 Follower!</strong></p>
+<p><strong>Bereits 186 Follower!</strong></p>
 <hr/>
 <h2><span style="text-decoration: underline;">Instagram:</span><img class="alignright wp-image-1661" decoding="async" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/10/735145cfe0a4.png" width="120"/></h2>
 <p>Aktuelle Fotos von Turnieren.</p>
-<p><strong>Follower aktuell 303 !!</strong></p>
+<p><strong>Follower aktuell 365 !!</strong></p>
 <hr/>
 <h2><span style="text-decoration: underline;">Facebook:</span><img alt="front-1393846082939-flat" class="alignright wp-image-1661" decoding="async" src="http://www.narva-schach.de/dateien/facebook.png" width="120"/></h2>
 <p>Immer aktuelle News auf unserer Facebook-Seite!</p>
-<p><strong>Werde Fan! Aktuell haben wir 147 „gefällt mir“ und 161 Follower!!</strong></p>
+<p><strong>Werde Fan! Aktuell haben wir 151 „gefällt mir“ und 165 Follower!!</strong></p>
 </div><!-- .entry-content -->
 </div> #post-1839 
 <div id="comments">

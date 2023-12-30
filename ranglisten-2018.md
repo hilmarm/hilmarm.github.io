@@ -39,7 +39,9 @@ navs:
   Partien: partien
   1994: 1994-2
   1984: 1984-2
+  1982: 1982-2
   1981: 1981-2
+  Kinderturnier 1996: kinderturnier-1996
 navbar: false
 parent_title: Kurt-Richter-Gedenkturnier
 ---

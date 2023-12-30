@@ -1,5 +1,5 @@
 ---
-title: Teilnehmerliste 
+title: Kinderturnier 1996 
 layout: default
 navs:
   2023: 2023-2
@@ -45,11 +45,11 @@ navs:
 navbar: false
 parent_title: Kurt-Richter-Gedenkturnier
 ---
-<div class="post-430 page type-page status-publish hentry" id="post-430">
-<h1 class="entry-title">Teilnehmerliste</h1>
+<div class="post-11961 page type-page status-publish hentry" id="post-11961">
+<h1 class="entry-title">Kinderturnier 1996</h1>
 <div class="entry-content">
-<p><iframe height="1600" src="https://www.narva-schach.de/dateien/krt2011-teil.html" width="700"> /&gt;</iframe></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-scaled.jpg"><img alt="" class="aligncenter size-large wp-image-11962" decoding="async" fetchpriority="high" height="876" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-748x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-748x1024.jpg 748w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-219x300.jpg 219w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-768x1052.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-1122x1536.jpg 1122w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-1495x2048.jpg 1495w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231029_115237-scaled.jpg 1869w" width="640"/></a></p>
 </div><!-- .entry-content -->
-</div> #post-430 
+</div> #post-11961 
 <div id="comments">
 </div> #comments 
