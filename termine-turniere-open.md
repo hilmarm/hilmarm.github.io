@@ -23,17 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><strong>Weihnachts-Festival 2023</strong><br/>
-<a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_960.pdf" rel="noopener" target="_blank">Weihnachts-960</a><br/>
-<a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_Open.pdf" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a><br/>
-<a href="http://www.zitaschach.de/wp-content/uploads/2023/05/Ausschreibung_WF_Blitz.pdf" rel="noopener" target="_blank">Weihnachts-Blitz</a></td>
-<td>22.12.-30.12.2023<br/>
-22.12.2023<br/>
-27.-30.12.2023<br/>
-30.12.2023</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><strong><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">Neujahrs-Schachfestival 2024</a></strong><br/>
 Kinderschachturnier<br/>
 4. Berlin Mitte Open<br/>
@@ -87,6 +76,8 @@ Batuhan, Günter, Philipp, Magnus, Hilmar, Juri</td>
 </tr>
 </tbody>
 </table>
+<p> </p>
+<p> </p>
 </div><!-- .entry-content -->
 </div> #post-4315 
 <div id="comments">
