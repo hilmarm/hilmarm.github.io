@@ -205,7 +205,7 @@ navs:
 <td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
-<td>1630</td>
+<td>1631</td>
 <td>82</td>
 <td>1735</td>
 </tr>
@@ -253,7 +253,7 @@ navs:
 <td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
-<td>1503</td>
+<td>1504</td>
 <td>48</td>
 <td>0</td>
 </tr>
