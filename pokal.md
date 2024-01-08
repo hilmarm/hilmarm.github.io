@@ -37,6 +37,8 @@ parent_title: Turniere
 <li>W. Heinrich</li>
 <li>Eichstädt</li>
 <li>Hintze</li>
+<li>Mach</li>
+<li>G. Maiwald</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
