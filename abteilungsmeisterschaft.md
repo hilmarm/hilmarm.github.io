@@ -145,7 +145,7 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
-<p>noch nicht in SwissChess eingetragen: Mach, G. Maiwald</p>
+<p>noch nicht in SwissChess eingetragen: Mach, G. Maiwald, Magnusson, Pape, Steppuhn</p>
 </div><!-- .entry-content -->
 </div> #post-3561 
 <div id="comments">

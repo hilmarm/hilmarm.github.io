@@ -21,7 +21,7 @@ parent_title: Turniere
 <p>Stand: 04.01.2024</p>
 <ol>
 <li>Bahr</li>
-<li>Maetzing</li>
+<li>Dr. Maetzing</li>
 <li>Mietzelfeldt</li>
 <li>Herrscher</li>
 <li>Campe</li>
@@ -39,6 +39,9 @@ parent_title: Turniere
 <li>Hintze</li>
 <li>Mach</li>
 <li>G. Maiwald</li>
+<li>Magnusson</li>
+<li>Pape</li>
+<li>Steppuhn</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
