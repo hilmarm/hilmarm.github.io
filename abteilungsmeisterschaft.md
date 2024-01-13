@@ -16,7 +16,7 @@ parent_title: Turniere
 <div class="post-3561 page type-page status-publish hentry" id="post-3561">
 <h1 class="entry-title">Abteilungsmeisterschaft</h1>
 <div class="entry-content">
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2022/12/Abteilungsmeisterschaft-2024.pdf">Ausschreibung Abteilungsmeisterschaft 2024</a></p>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Abteilungsmeisterschaft-2024.pdf">Ausschreibung Abteilungsmeisterschaft 2024</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h2>1. Runde am 8. Februar</h2>
 <table class="clean swiss footable">

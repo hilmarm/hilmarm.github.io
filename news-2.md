@@ -82,29 +82,8 @@ Und auch der Anteil Frauen ist mit 2 von 52 ausbaufähig….</p>
 <p>Die ersten Anmeldungen gibt es auch schon:</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a><br/>
 <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
-<p>Anmeldungen für Pokal und Abteilungsmeisterschaft sind auch direkt hier möglich (für Blitz und Schnellschach ist die Anmeldung am jeweiligen Spieltag ausreichend):</p>
-<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f9811-p11928-o1" lang="de-DE">
-<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
-<form action="/wordpress/news-2/#wpcf7-f9811-p11928-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
-<div style="display: none;">
-<input name="_wpcf7" type="hidden" value="9811"/>
-<input name="_wpcf7_version" type="hidden" value="5.8.5"/>
-<input name="_wpcf7_locale" type="hidden" value="de_DE"/>
-<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p11928-o1"/>
-<input name="_wpcf7_container_post" type="hidden" value="11928"/>
-<input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
-</div>
-<p><label> Dein Name<br/>
-<span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" name="your-name" size="40" type="text" value=""/></span> </label>
-</p>
-<p>Abteilungsmeisterschaft: <span class="wpcf7-form-control-wrap" data-name="Abteilung"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><label><input name="Abteilung[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Abteilung[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
-Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><label><input name="Pokal[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Pokal[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
-Kommentar: <span class="wpcf7-form-control-wrap" data-name="Kommentar"><textarea aria-invalid="false" class="wpcf7-form-control wpcf7-textarea" cols="40" name="Kommentar" rows="10"></textarea></span>
-</p>
-<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden"/>
-</p><div aria-hidden="true" class="wpcf7-response-output"></div>
-</form>
-</div>
+<p>Anmeldungen für Pokal und Abteilungsmeisterschaft <del datetime="2024-01-12T17:39:17+00:00">sind</del> waren auch direkt hier möglich (für Blitz und Schnellschach ist die Anmeldung am jeweiligen Spieltag ausreichend):</p>
+<p><em>Anmeldung abgeschlossen, Formular entfernt</em></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -420,7 +399,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="90d0558b78"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="f857b1e4bb"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -432,7 +411,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="f7d84c26c0"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="42403183a1"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -443,7 +422,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="3372667e45"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="93cee05532"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
