@@ -395,6 +395,14 @@ navs:
 </tr>
 <tr>
 <td>46.</td>
+<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1725</td>
+</tr>
+<tr>
+<td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
 <td></td>
@@ -402,7 +410,7 @@ navs:
 <td>1705</td>
 </tr>
 <tr>
-<td>47.</td>
+<td>48.</td>
 <td><a href="http://www.schachbund.de/spieler/10778617.html" target="_blank"> Jayasurian Makkoth</a></td>
 <td></td>
 <td></td>
@@ -410,7 +418,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>48.</td>
+<td>49.</td>
 <td><a href="http://www.schachbund.de/spieler/10783153.html" target="_blank"> Silas Maiwald</a></td>
 <td></td>
 <td></td>
@@ -418,7 +426,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>49.</td>
+<td>50.</td>
 <td><a href="http://www.schachbund.de/spieler/10830173.html" target="_blank"> Juri Horst</a></td>
 <td></td>
 <td></td>
@@ -426,7 +434,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>50.</td>
+<td>51.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
 <td></td>
@@ -434,7 +442,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>51.</td>
+<td>52.</td>
 <td><a href="http://www.schachbund.de/spieler/10840349.html" target="_blank"> Jan Kühnel</a></td>
 <td></td>
 <td></td>
@@ -442,7 +450,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>52.</td>
+<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td></td>
