@@ -76,7 +76,7 @@ parent_title: Turniere
 <td>Schenk,Jonatan</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ parent_title: Turniere
 <td>Maiwald,Gunar</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

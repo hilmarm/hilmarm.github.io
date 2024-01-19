@@ -54,8 +54,8 @@ Mietzelfeldt – Stüve</p>
 <li>Pape</li>
 <li>Steppuhn</li>
 <li>Brinckmann</li>
-<li>Stüve?</li>
-<li>Schenk?</li>
+<li>Stüve</li>
+<li>Schenk</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 

@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12005 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-12005">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/01/18/4-runde-bmm-und-bfl/" rel="bookmark">4. Runde BMM und BFL</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/01/18/4-runde-bmm-und-bfl/" rel="bookmark" title="1:49"><span class="entry-date">18. Januar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>In der <strong>BMM</strong> gab es am Sonntag zwei Mannschaftssiege.</p>
+<p>NARVA 3 setzte sich mit 4:2 gegen Mattnetz 5 durch. Entscheidend war die letzte Partie des Tages – die anderen Mannschaften waren längst fertig, als Manfreds Gegner die Zeit überschritt. Das Endspiel war für Manfred aber auch klar gewonnen, das hat er sehr gut gemacht! Zuvor hatten bereits Oliver und Jan-Hendrik gewonnen. Thomas und Felix steuerten halbe Brettpunkte zum Mannschaftssieg bei.</p>
+<p>NARVA 2 zeigte gegen Mattnetz 3 eine ganz starke Leistung und gewann mit 5:3. Wesko, Ulrich, Ekkehard und der kurzfristig eingesprungene Gerhard gewannen. Micha und Dieter spielten jeweils remis. Und das, obwohl Mattnetz an allen Brettern nach DWZ überlegen war! Damit hat die Zweite im Kampf um den Klassenerhalt nun eine hervorragende Ausgangsposition.</p>
+<p>NARVA 1 spielte gegen einen direkten Konkurrenten um den Aufstieg, Chemie Weißensee 2 – und ausgerechnet hier lief es gar nicht. Nur Günter gewann, dazu kamen halbe Punkte von Tomas, Bernd, Rudolf und Neuzugang Jerry. Nach dieser 3:5-Niederlage ist der Aufstieg nicht mehr aus eigener Kraft zu schaffen, sondern wir müssen hoffen, dass die Konkurrenten sich gegenseitig die Punkte wegnehmen.</p>
+<p>In der <strong>BFL</strong> waren am Mittwoch alle drei Mannschaften bei den Schachfreunden Berlin 1903 zu Gast.</p>
+<p>NARVA 1 profitierte davon, dass SF Berlin 3 das erste Brett freilassen musste. Nach der Niederlage von Klaus an Brett 3 spielte aber Tom an Brett 4 das Turmendspiel mit Mehrbauern hervorragend und holte den vollen Brettpunkt. Manfred an Brett 2 reichte damit das remis – 2,5:1,5! Mit dem Sieg wahrt die Erste noch eine Restchance auf den sportlichen Klassenerhalt.</p>
+<p>NARVA 2 unterlag SF Berlin 4 mit 1,5:2,5. An Brett 1 kämpfte Felix (gegen DWZ 1900!) sehr gut und hielt die Partie lange offen, musste sich aber schließlich geschlagen geben. Auch für Lukas war gegen einen starken Gegner nichts zu holen. Die Aufrücker aus der Dritten punkteten aber: An Brett 4 gab Philipps Gegner auf, als er den Damentausch erzwang, wonach ein gewonnenes Bauernendspiel mit zwei oder drei Mehrbauern entstanden wäre. Bei Hilmar sah das gleichfarbige Läuferendspiel gut aus, aber womöglich war es gar nicht zu gewinnen. Am Ende blieben jedenfalls nur die Könige übrig – remis. Die Zweite bleibt damit auch weiterhin ohne Mannschaftspunkt, aber drei Runden kommen ja noch.</p>
+<p>NARVA 3 unterlag SF Berlin 6 ebenfalls mit 1,5:2,5. Ingo an Brett 3 war als Erster fertig. Mit einem Qualitätsopfer holte er den ganzen Punkt. Dann machte Torsten an Brett 1 gegen einen nominell stärkeren Gegner remis. Jan spielte zwischenzeitlich wirklich stark, hatte damit aber etwas zu spät, nämlich in schon verlorener Stellung, angefange. Leider wurde sein Kampfgeist nicht belohnt. Juri kämpfte im Turmendspiel auch noch lange ums Remis, musste sich aber am Ende ebenfalls geschlagen geben. Die Dritte bleibt damit vorerst weiter bei einem Mannschaftspunkt stehen, aber in den verbleibenden drei Runden sind mit solchen Leistungen durchaus noch Punkte zu erwarten.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/01/18/4-runde-bmm-und-bfl/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12005 
 <div class="post-11939 post type-post status-publish format-standard hentry category-intern" id="post-11939">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/01/02/neujahrsgruss-4/" rel="bookmark">Neujahrsgruß</a></h2>
 <div class="entry-meta">
@@ -399,7 +420,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="0ad295948a"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="80e03a5eb5"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -411,7 +432,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="65d5ed3eb3"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="810f713d2d"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -422,7 +443,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="69aa9f79e8"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="a3d2f7310a"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
@@ -519,34 +540,6 @@ Jonatan war der Gerademacher und kommt so auf 3 Punkte aus 4 Partien.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/28/kurt-richter-gedenkturnier-gestartet/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11645 
-<div class="post-11620 post type-post status-publish format-standard hentry category-krt" id="post-11620">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/" rel="bookmark">Kurt-Richter-Gedenkturnier kurz vor dem Start!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/" rel="bookmark" title="21:51"><span class="entry-date">23. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Freitag beginnt unser <strong>Kurt-Richter-Gedenkturnier 2023!</strong></p>
-<p>Turnierstart ist um 18 Uhr (letzte Anmeldung). Aktuell sind wir bei knapp <strong>100 Teilnehmer</strong>! Voraussichtlich können aber alle weiteren, wenn es nicht zu viele werden die spontan kommen, mitspielen. Das Orga-Team trifft sich schon um 14 Uhr am Rathaus Mitte zum aufbauen, weitere Helfer sind gerne gesehen.</p>
-<p>Von NARVA stehen in der Teilnehmerliste:</p>
-<ul>
-<li>Bernd</li>
-<li>Peter</li>
-<li>Günter</li>
-<li>Andreas</li>
-<li>Ekkehard</li>
-<li>Alexander</li>
-<li>Oliver</li>
-<li>Lukas</li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/">Turnierseite/Ausschreibung</a><br/>
-<a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2023-2/teilnehmerliste-2023/">Teilnehmerliste</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/23/kurt-richter-gedenkturnier-kurz-vor-dem-start/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11620 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
