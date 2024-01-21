@@ -295,7 +295,7 @@ navs:
 <td></td>
 <td>1402</td>
 <td>3</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>34.</td>
