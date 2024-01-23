@@ -23,28 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><strong><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">Neujahrs-Schachfestival 2024</a></strong><br/>
-Kinderschachturnier<br/>
-4. Berlin Mitte Open<br/>
-Schnellschach Open<br/>
-Blitzschach Open</td>
-<td>02.01.-07.01.2024<br/>
-02.01.2024<br/>
-03.-05.01.2024<br/>
-06.01.2024<br/>
-07.01.2024</td>
-<td>x<br/>
-x<br/>
-x<br/>
-Batuhan, Klaus<br/>
-Batuhan, Günter, Philipp, Magnus, Hilmar, Juri</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
-<td>05.01.-07.01.2024</td>
-<td>Andreas, Oliver</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
 <td>26.01.-28.01.2024</td>
 <td></td>
