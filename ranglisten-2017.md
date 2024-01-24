@@ -52,7 +52,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 10.11.2017 – 12.11.2017</h2>
 <p><br style="text-align: left;"/><iframe height="1500" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-TeilRang-R5.html" width="700"> /&gt;</iframe><br/>
 <iframe height="1500" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-DWZ-R5.html" width="700"> /&gt;</iframe><br/>
-<iframe height="1500" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-MannRang-R5.html" width="700"> /&gt;</iframe></p>
+<iframe height="1500" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-MannRang-R5.html" width="700"> /&gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-3210 
 <div id="comments">

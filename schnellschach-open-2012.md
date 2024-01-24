@@ -53,7 +53,7 @@ parent_title: Chronik
 <div class="post-316 page type-page status-publish hentry" id="post-316">
 <h1 class="entry-title">Schnellschach Open 2012</h1>
 <div class="entry-content">
-<p><img alt="rps20121124_194929_s2" class="aligncenter size-full wp-image-672" decoding="async" fetchpriority="high" height="294" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/rps20121124_194929_s2.jpg" width="209"/></p>
+<p><img alt="rps20121124_194929_s2" class="aligncenter size-full wp-image-672" decoding="async" height="294" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/rps20121124_194929_s2.jpg" width="209"/></p>
 <p>Zur 6. Auflage unseres Schnellschach Open fanden sich genau 30 Spieler ein – 3 weniger als im letzten Jahr. Der DWZ-Schnitt wurde aber wieder gesteigert auf jetzt 1809 (2011 = 1771). Zum ersten mal trat ein GM bei uns an, <strong>GM Martin Krämer</strong> (Sfrd. Berlin 1903 e.V.). Er war auch der klare Favorit auf den Turniersieg, immerhin hatte er auf den Setzlisten Zweiten über 400 mehr.<br/>
 Als Trainer bei Schachunion brachte er auch gleich 4 Jugendspieler von dort mit, damit hatte es Jirawat als Einzelkämpfer von Makkabi schwer beim Kampf um den Jugendpreis.<br/>
 Martin Krämer wurde seiner Favoritenrolle auch gerecht und gewann das Turnier mit 7 Punkten aus 7 Runden. Dahinter liefen gleich 4 Spieler mit 5 Punkten ein, <strong>Sergej Krefenstein</strong> (TuS Makkabi Berlin e.V.) hatte dabei die beste Wertung und errang Platz 2. Auf Platz 3 kam <strong>Franko Mahn</strong> (SC Weisse Dame e.V.) vor dem besten <strong>U18</strong> Spieler <strong>Nils Torzinski</strong> (Schachunion Berlin e.V. ).<br/>

@@ -53,7 +53,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <p><br style="text-align: left;"/><br/>
 <iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R5.html" width="600"> /&gt;</iframe><br/>
 <iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R4.html" width="600"> /&gt;</iframe><br/>
-<iframe height="800" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R3.html" width="600"> /&gt;</iframe><br/>
+<iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R3.html" width="600"> /&gt;</iframe><br/>
 <iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R2.html" width="600"> /&gt;</iframe><br/>
 <iframe height="800" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2017/11/Kurt_Richter_2017-Paar-R1.html" width="600"> /&gt;</iframe></p>
 </div><!-- .entry-content -->

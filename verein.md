@@ -83,7 +83,7 @@ parent_title: Chronik
 </tr>
 </tbody>
 </table>
-<p><img alt="Geschi1" class="alignnone wp-image-527" decoding="async" height="187" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Geschi1.jpg" width="150"/> <img alt="Narva Logo Farbe2" class="alignnone wp-image-528 size-thumbnail" decoding="async" height="150" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo-Farbe2-150x150.jpg" width="150"/> <img alt="Narva-Logo" class="alignnone wp-image-529" decoding="async" height="150" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo.gif" width="150"/></p>
+<p><img alt="Geschi1" class="alignnone wp-image-527" decoding="async" height="187" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Geschi1.jpg" width="150"/> <img alt="Narva Logo Farbe2" class="alignnone wp-image-528 size-thumbnail" decoding="async" height="150" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo-Farbe2-150x150.jpg" width="150"/> <img alt="Narva-Logo" class="alignnone wp-image-529" decoding="async" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo.gif" width="150"/></p>
 <h1 align="center"><strong><span style="text-decoration: underline;">Der Verein</span></strong></h1>
 <p>Im Verein SG NARVA Berlin e.V. gibt es mehrere Abteilungen, in denen die verschiedensten Sportarten ausgeübt werden können.<br/>
 Dazu gehören:</p>

@@ -26,7 +26,7 @@ lichess.org ist vor allem zum Blitz, Bullet, Quarantäne Liga. Gibt aber auch Tr
 <p><strong>CHESSMAIL.DE</strong><br/>
 Link zum Team: <a href="http://www.chessmail.de/club/SG_NARVA_Berlin_e.V." rel="noopener" target="_blank">http://www.chessmail.de/club/SG_NARVA_Berlin_e.V.</a></p>
 <p>chessmail.de sind eher lange Partien wie beim Fernschach. Dort kann man die Bedenkzeit von 24h bis zu 30 Tagen pro Zug einstellen.</p>
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg"><img alt="" class="alignleft wp-image-7151" decoding="async" height="62" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg" width="200"/></a></p>
+<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg"><img alt="" class="alignleft wp-image-7151" decoding="async" height="62" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/04/chess_com.jpg" width="200"/></a></p>
 <p><strong>CHESS.COM</strong><br/>
 Link zum Team: <a href="https://www.chess.com/club/sg-narva-berlin" rel="noopener" target="_blank">https://www.chess.com/club/sg-narva-berlin</a></p>
 <p>chess.com ist eine weitere freie Plattform zum online spielen. In einer Basisversion sind auch hier die Registrierung und Spiel kostenlos. Für mehr Funktionen, z. B. Turniere erstellen, ist ein Premium Account Voraussetzung.</p>
