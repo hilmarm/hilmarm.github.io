@@ -8,6 +8,37 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12029 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12029">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/01/26/start-in-die-neue-blitz-saison/" rel="bookmark">Start in die neue Blitz-Saison</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/01/26/start-in-die-neue-blitz-saison/" rel="bookmark" title="19:47"><span class="entry-date">26. Januar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nach dem <strong>Schnellschach GP</strong> vor 2 Wochen (<a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Ergebnisse</a>) ging nun auch das <strong>Monatsblitz 2024</strong> los. Mit 12 Teilnehmern ein ordentlicher Start, darunter 3 Gäste, Manfred ist ja passiv bei uns und Juri seit heute neues Mitglied bei uns!</p>
+<p>Bei seiner ersten Teilnahme wurde <strong>Manfred</strong> direkt Monatssieger! Mit 10 Punkten aus 11 Partien gab er nur halbe Punkte gegen die Verfolger Peter und Philipp ab. <strong>Peter</strong> kam am Ende mit 9,5 Punkten auf Platz 2, <strong>Philipp</strong> mit 8 Punkten auf Platz 3.</p>
+<p>Auf Platz 4 der beste Gast <strong>Ivan</strong> mit 7 Punkten.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
+<p>Zuletzt gab es wieder Diskussionen um die Startzeit beim Blitz. Einige wollen später anfangen, andere bei der aktuellen Zeit bleiben. Gute und schlechte Gründe gibt es für beide Varianten einige.</p>
+<p>Hier mal eine Umfrage zur Meinungsbildung.</p>
+<div class="wp-polls" id="polls-10">
+<form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_10" method="post">
+<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="7ace43e3c8"/></p>
+<p style="display: none;"><input name="poll_id" type="hidden" value="10"/></p>
+<p style="text-align: center;"><strong>Startzeit für Monatsblitz</strong></p><div class="wp-polls-ans" id="polls-10-ans"><ul class="wp-polls-ul">
+<li><input id="poll-answer-28" name="poll_10" type="radio" value="28"/> <label for="poll-answer-28">18:15 Uhr</label></li>
+<li><input id="poll-answer-29" name="poll_10" type="radio" value="29"/> <label for="poll-answer-29">19:00 Uhr</label></li>
+<li><input id="poll-answer-30" name="poll_10" type="radio" value="30"/> <label for="poll-answer-30">Egal</label></li>
+</ul><p style="text-align: center;"><input class="Buttons" name="vote" onclick="poll_vote(10);" type="button" value="   Vote   "/></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(10); return false;" title="View Results Of This Poll">View Results</a></p></div>
+</form>
+</div>
+<div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/01/26/start-in-die-neue-blitz-saison/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12029 
 <div class="post-12012 post type-post status-publish format-standard hentry category-openberichte" id="post-12012">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/01/23/turnierergebnisse-im-januar/" rel="bookmark">Turnierergebnisse im Januar</a></h2>
 <div class="entry-meta">
@@ -450,7 +481,7 @@ Wer wird Meister?</p>
 <p>Hier würden wir uns über Feedback der KRT Teilnehmer freuen, damit wir uns weiter verbessern können!</p>
 <div class="wp-polls" id="polls-7">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_7" method="post">
-<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="2c7cabe10d"/></p>
+<p style="display: none;"><input id="poll_7_nonce" name="wp-polls-nonce" type="hidden" value="6b5c8c874e"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="7"/></p>
 <p style="text-align: center;"><strong>Wie gefällt Euch die Bedenkzeitauswahl - die Mischung aus Rapid und Normal</strong></p><div class="wp-polls-ans" id="polls-7-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-21" name="poll_7" type="radio" value="21"/> <label for="poll-answer-21">sehr gut, passt so</label></li>
@@ -462,7 +493,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-7-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-8">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_8" method="post">
-<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="1b470a9ad4"/></p>
+<p style="display: none;"><input id="poll_8_nonce" name="wp-polls-nonce" type="hidden" value="a15609cccd"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="8"/></p>
 <p style="text-align: center;"><strong>Startgeld von 10,- € zu wenig?</strong></p><div class="wp-polls-ans" id="polls-8-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-24" name="poll_8" type="radio" value="24"/> <label for="poll-answer-24">ist in Ordnung</label></li>
@@ -473,7 +504,7 @@ Wer wird Meister?</p>
 <div class="wp-polls-loading" id="polls-8-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 <div class="wp-polls" id="polls-9">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_9" method="post">
-<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="ed54c6e9a5"/></p>
+<p style="display: none;"><input id="poll_9_nonce" name="wp-polls-nonce" type="hidden" value="76beb5d52f"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="9"/></p>
 <p style="text-align: center;"><strong>Zeitplan Turnier</strong></p><div class="wp-polls-ans" id="polls-9-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-26" name="poll_9" type="radio" value="26"/> <label for="poll-answer-26">war so perfekt</label></li>
@@ -530,31 +561,6 @@ Jonatan war der Gerademacher und kommt so auf 3 Punkte aus 4 Partien.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/30/bogdan-tomin-gewinnt-kurt-richter-gedenkturnier-2023/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11669 
-<div class="post-11651 post type-post status-publish format-standard hentry category-krt" id="post-11651">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/10/29/tag-2-beim-krt/" rel="bookmark">Tag 2 beim KRT</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/10/29/tag-2-beim-krt/" rel="bookmark" title="0:00"><span class="entry-date">29. Oktober 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>5 von 7 Runden sind gespielt, heute ging es in die Langpartien.</p>
-<p><a href="https://chess-results.com/tnr798052.aspx?lan=0" rel="noopener" target="_blank">https://chess-results.com/tnr798052.aspx?lan=0</a></p>
-<p>Die Tabellenspitze nach 5 Runden:<br/>
-3x 4,5 Punkte<br/>
-6x 4,0 Punkte<br/>
-10x 3,5 Punkte</p>
-<p>Und 2x NARVA im Verfolgerfeld. <strong>Bernd</strong> bildet die Spitze der 3,5 Punkte Spieler, <strong>Günter</strong> hat als 17. auch 3,5 Punkte.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/Screenshot_20231028_232325_Samsung-Internet.jpg"><img alt="" class="alignnone size-medium wp-image-11652" decoding="async" height="163" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/Screenshot_20231028_232325_Samsung-Internet-300x163.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/Screenshot_20231028_232325_Samsung-Internet-300x163.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/Screenshot_20231028_232325_Samsung-Internet-768x418.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/Screenshot_20231028_232325_Samsung-Internet.jpg 985w" width="300"/></a></p>
-<p>Dahinter mit 3 Punkten <strong>Peter</strong>, der aber, wie FM Brustkern einen Platz vor ihm, am letzten Tag nicht mehr dabei ist.</p>
-<p><strong>Jonatan</strong> aktuell auf Platz 27, mit 3 Punkten, und das als Gerademacher!! So ließ er Runde 2 aus und pausiert auch in Runde 6.</p>
-<p><strong>Andreas</strong> führt aktuell die Gruppe mit 2,5 Punkten an, in der auch <strong>Lukas</strong> liegt, der heute 100% holte! Für <strong>Alexander</strong> und <strong>Oliver</strong> läuft es hoffentlich morgen besser.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11653" decoding="async" height="128" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-300x128.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-300x128.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-1024x438.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-768x328.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-1536x657.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090749-2048x876.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11654" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090408-2048x923.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11655" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090419-2048x923.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11656" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090438-2048x923.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-scaled.jpg"><img alt="" class="alignnone size-medium wp-image-11657" decoding="async" height="135" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_090717-2048x923.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_151538.jpg"><img alt="" class="alignnone size-medium wp-image-11658" decoding="async" height="240" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_151538-300x240.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_151538-300x240.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_151538-1024x819.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_151538-768x615.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/20231028_151538.jpg 1447w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/10/29/tag-2-beim-krt/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11651 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

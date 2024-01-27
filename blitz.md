@@ -21,401 +21,139 @@ parent_title: Turniere
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Blitzschach-2024.pdf">Ausschreibung</a></p>
 <h2>Gesamtwertung</h2>
 <div style="overflow: auto;">
-<table class="clean footable" style="width: 139%;">
+<table class="clean footable" style="width: 139%; height: 666px;">
 <thead>
-<tr>
-<th style="padding-right: 10px; width: 15%;">Name</th>
-<th style="padding-right: 10px; width: 5%;">25.01.</th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th style="padding-right: 10px; width: 5%;"></th>
-<th data-type="numeric" style="padding-right: 10px; width: 8.68621%;"><strong>Gesamt</strong></th>
+<tr style="height: 18px;">
+<th style="padding-right: 10px; width: 15%; height: 18px;">Name</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">25.01.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">29.02.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">30.05.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">27.06.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">25.07.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">29.08.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">26.09.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">31.10.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">28.11.</th>
+<th data-type="numeric" style="padding-right: 10px; width: 8.68621%; height: 18px;"><strong>Gesamt</strong></th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Lenhardt</td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">12</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Hintze</td>
+<td style="width: 5%; height: 24px;">10</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">10</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Pape</td>
+<td style="width: 5%; height: 24px;">8</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">8</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Ogienko (G)</td>
+<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">6</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Mothes</td>
+<td style="width: 5%; height: 24px;">5</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">5</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Schenk</td>
+<td style="width: 5%; height: 24px;">4</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">4</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Hildebrand</td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">3</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Krüger</td>
+<td style="width: 5%; height: 24px;">2</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">2</td>
 </tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
-</tr>
-<tr>
-<td style="width: 15%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 5%;"></td>
-<td style="width: 8.68621%;"></td>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Schneider (G)</td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">1</td>
 </tr>
 </tbody>
 </table>
@@ -425,7 +163,7 @@ parent_title: Turniere
 <table class="clean swiss">
 <thead>
 <tr>
-<td colspan="11">Rangliste: Stand nach der 5. Runde</td>
+<td colspan="17">Rangliste: Stand nach der 11. Runde</td>
 </tr>
 <tr bgcolor="#00FF00">
 <th>Nr.</th>
@@ -437,6 +175,12 @@ parent_title: Turniere
 <th>4</th>
 <th>5</th>
 <th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
 <th>Punkte</th>
 <th>SoBerg</th>
 </tr>
@@ -444,16 +188,231 @@ parent_title: Turniere
 <tbody>
 <tr bgcolor="#00FFFF">
 <td>1</td>
-<td>Name</td>
-<td>Rating</td>
+<td>Lenhardt,Manfred</td>
+<td>1975</td>
+<td>**</td>
+<td>½</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>10.0</td>
+<td>47.25</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Hintze,Peter</td>
+<td>1887</td>
+<td>½</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>9.5</td>
+<td>45.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td>Pape,Philipp</td>
+<td>1629</td>
+<td>½</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>8.0</td>
+<td>34.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td>Ogienko,Ivan (G)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>7.0</td>
+<td>26.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td>Mothes,Thomas</td>
+<td>1558</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
 <td>**</td>
 <td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.5</td>
+<td>23.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>6</td>
+<td>Schenk,Jonatan</td>
+<td>1788</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>6.0</td>
+<td>27.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>7</td>
+<td>Hildebrand,Katrin</td>
+<td>1649</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>5.5</td>
+<td>21.25</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>8</td>
+<td>Krüger,Ekkehard</td>
+<td>1668</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>5.5</td>
+<td>18.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>9</td>
+<td nowrap="nowrap">Schneider,Wolfgang (G)</td>
+<td></td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.00</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>½</td>
+<td>0</td>
+<td>2.5</td>
+<td>9.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>10</td>
+<td>Ozturk,Timur (G)</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>2.5</td>
+<td>7.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>11</td>
+<td>Deicke,Juri</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>½</td>
+<td>**</td>
+<td>1</td>
+<td>2.0</td>
+<td>3.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>12</td>
+<td>Mach,Wolfgang</td>
+<td>1208</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1.0</td>
+<td>2.50</td>
 </tr>
 </tbody>
 </table>
