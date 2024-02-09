@@ -19,12 +19,12 @@ parent_title: Turniere
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Abteilungsmeisterschaft-2024.pdf">Ausschreibung Abteilungsmeisterschaft 2024</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h2>1. Runde am 8. Februar</h2>
-<table class="clean swiss footable">
+<table class="clean swiss footable" id="runde1">
 <thead>
 <tr>
 <th>Tisch</th>
 <th>TNr</th>
-<th>Teilnehmer</th>
+<th data-hide="none">Teilnehmer</th>
 <th>Tite</th>
 <th>Punkte</th>
 <th>–</th>
@@ -48,7 +48,7 @@ parent_title: Turniere
 <td>Düren,Jerome</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -62,7 +62,7 @@ parent_title: Turniere
 <td>Kreisel,Alexande</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ parent_title: Turniere
 <td>Brinckmann,Klaus</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ parent_title: Turniere
 <td></td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td>13.2.</td>
 </tr>
 <tr>
 <td>7</td>
@@ -133,7 +133,7 @@ parent_title: Turniere
 <td></td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td>??</td>
 </tr>
 <tr>
 <td>8</td>
@@ -146,8 +146,8 @@ parent_title: Turniere
 <td>Steppuhn,Detlef</td>
 <td></td>
 <td>()</td>
-<td> –</td>
-<td></td>
+<td>+ – –</td>
+<td>??</td>
 </tr>
 <tr>
 <td>9</td>
@@ -160,7 +160,7 @@ parent_title: Turniere
 <td>Pape,Philipp</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ parent_title: Turniere
 <td></td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td>29.2.</td>
 </tr>
 <tr>
 <td>11</td>
@@ -188,7 +188,7 @@ parent_title: Turniere
 <td>Mothes,Thomas</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -382,6 +382,15 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
+<p><script>//<!--
+
+ jQuery('th:contains("Teilnehmer")').attr("data-hide","none");
+ jQuery('th:contains("Ergebnis")').attr("data-hide","none");
+ jQuery('th:contains("Tisch")').attr("data-hide","tablet,phone");
+ jQuery('th:contains("TNr")').attr("data-hide","tablet,phone");
+ jQuery('th:contains("Tite")').attr("data-hide","tablet,phone");
+
+//--></script></p>
 </div><!-- .entry-content -->
 </div> #post-3561 
 <div id="comments">
