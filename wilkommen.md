@@ -15,8 +15,8 @@ Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend 
 </span></span></span></p>
 <h1><b>Wann?</b></h1>
 <p><b>jeden Donnerstag:</b></p>
-<p><b>ab 16:30 Uhr für alle!! Jugendtraining</b><br/>
-<b>ab 18:00 Uhr für alle!!</b></p>
+<p><b>ab 16:30 Uhr Jugendtraining</b><br/>
+<b>ab 18:00 Uhr für alle</b></p>
 <h1><strong>Wo?</strong></h1>
 <p><b>SG NARVA Berlin e.V.<br/>
 Abteilung Schach<br/>

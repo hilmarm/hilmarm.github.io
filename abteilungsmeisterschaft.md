@@ -146,8 +146,8 @@ parent_title: Turniere
 <td>Steppuhn,Detlef</td>
 <td></td>
 <td>()</td>
-<td>+ – –</td>
-<td>??</td>
+<td> –</td>
+<td>13.2.</td>
 </tr>
 <tr>
 <td>9</td>
