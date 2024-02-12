@@ -23,24 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
-<td>26.01.-28.01.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/40-obsenem-vom-30-01-bis-08-02-2024.html" rel="noopener" target="_blank">40. Offene Berliner Senioren-Einzel-Meisterschaft</a></td>
-<td>30.01.-08.02.2024</td>
-<td>Hans-Dieter, Gerhard, Ulrich, Ekkehard</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Stuttgart</a></td>
-<td>09.02.-11.02.2024</td>
-<td>Lukas</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>01.03.-03.03.2024</td>
-<td>Jonatan, Lukas</td>
+<td>Jonatan, Lukas, Ekkehard, Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>

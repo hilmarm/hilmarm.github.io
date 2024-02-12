@@ -133,7 +133,7 @@ parent_title: Turniere
 <td></td>
 <td>()</td>
 <td> –</td>
-<td>??</td>
+<td>22.2.</td>
 </tr>
 <tr>
 <td>8</td>

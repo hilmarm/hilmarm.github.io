@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1975</td>
-<td>456</td>
+<td>1986</td>
+<td>457</td>
 <td>2002</td>
 </tr>
 <tr>
@@ -267,19 +267,19 @@ navs:
 </tr>
 <tr>
 <td>30.</td>
+<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
+<td></td>
+<td>1460</td>
+<td>18</td>
+<td>1434</td>
+</tr>
+<tr>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1460</td>
 <td>42</td>
 <td></td>
-</tr>
-<tr>
-<td>31.</td>
-<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
-<td></td>
-<td>1435</td>
-<td>17</td>
-<td>1434</td>
 </tr>
 <tr>
 <td>32.</td>
@@ -293,7 +293,7 @@ navs:
 <td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
-<td>1402</td>
+<td>1401</td>
 <td>3</td>
 <td>0</td>
 </tr>
