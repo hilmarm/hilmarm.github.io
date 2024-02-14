@@ -118,7 +118,7 @@ parent_title: Turniere
 <td>Eichstädt,Torste</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td>13.2.</td>
 </tr>
 <tr>
@@ -146,7 +146,7 @@ parent_title: Turniere
 <td>Steppuhn,Detlef</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td>13.2.</td>
 </tr>
 <tr>
