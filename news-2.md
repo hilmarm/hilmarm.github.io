@@ -65,7 +65,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <p>Hier mal eine Umfrage zur Meinungsbildung.</p>
 <div class="wp-polls" id="polls-10">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_10" method="post">
-<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="1a10f9c41a"/></p>
+<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="7d82d220dc"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="10"/></p>
 <p style="text-align: center;"><strong>Startzeit für Monatsblitz</strong></p><div class="wp-polls-ans" id="polls-10-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-28" name="poll_10" type="radio" value="28"/> <label for="poll-answer-28">18:15 Uhr</label></li>
