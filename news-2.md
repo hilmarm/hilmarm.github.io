@@ -25,7 +25,7 @@ navs:
 <strong>Jan-Hendrik – Thomas M. 1:0</strong></p>
 <p>Es gab also auch einige Überraschungen. Unten ein paar Fotos die Tomas gemacht hat.</p>
 <p>Die <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">2.Runde</a> ist auch schon ausgelost.</p>
-<p>Gestern gab es dann auch die 1.Runde im <strong>Pokal</strong>. Beim neuen Rekord von 24 Teilnehmern, fanden direkt 9 Partien statt, hier kommen wir langsam an die Kapazitätsgrenze unserer Räume…. Große Überraschungen blieben hier bei den Ergebnissen aus, der spannendste Kampf war dann das Toppduell zwischen Rudolf und Peter. Außerdem gab es mit Ismaele einen Neuzugang, der auch direkt in den Wettbewerb mit eingestiegen ist (auch Abteilungsmeisterschaft ab Runde 2).</p>
+<p>Gestern gab es dann auch die 1.Runde im <strong>Pokal</strong>. Beim neuen Rekord von 24 Teilnehmern, fanden direkt 9 Partien statt, hier kommen wir langsam an die Kapazitätsgrenze unserer Räume…. Große Überraschungen blieben hier bei den Ergebnissen aus, der spannendste Kampf war dann das Topduell zwischen den Pokalsiegern 2023 und 2022, Rudolf und Peter. Außerdem gab es mit Ismaele einen Neuzugang, der auch direkt in den Wettbewerb mit eingestiegen ist (auch Abteilungsmeisterschaft ab Runde 2).</p>
 <p><strong>Klaus – Hans-Dieter 0:1</strong><br/>
 <strong>Ismaele – Wolfgang 0:1</strong><br/>
 <strong>Rudolf – Peter ½:½ (Blitz 0:2)</strong><br/>
@@ -103,7 +103,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <p>Hier mal eine Umfrage zur Meinungsbildung.</p>
 <div class="wp-polls" id="polls-10">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_10" method="post">
-<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="c75f4547df"/></p>
+<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="f2bc662d44"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="10"/></p>
 <p style="text-align: center;"><strong>Startzeit für Monatsblitz</strong></p><div class="wp-polls-ans" id="polls-10-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-28" name="poll_10" type="radio" value="28"/> <label for="poll-answer-28">18:15 Uhr</label></li>
