@@ -16,6 +16,20 @@ parent_title: Impressum
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12095 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-12095">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/02/18/bmm-23-24-runde-6/" rel="bookmark">Geschützt: BMM 23/24 Runde 6</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/02/18/bmm-23-24-runde-6/" rel="bookmark" title="18:00"><span class="entry-date">18. Februar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-12095 
 <div class="post-12043 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-12043">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/01/30/bmm-23-24-runde-5/" rel="bookmark">Geschützt: BMM 23/24 Runde 5</a></h2>
 <div class="entry-meta">
@@ -282,20 +296,6 @@ parent_title: Impressum
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-6578 
-<div class="post-6574 post type-post status-publish format-standard post-password-required hentry category-partien category-training" id="post-6574">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2019/11/18/training-shenis-angriff-auf-f7/" rel="bookmark">Geschützt: Training Shenis – Angriff auf f7</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2019/11/18/training-shenis-angriff-auf-f7/" rel="bookmark" title="12:56"><span class="entry-date">18. November 2019</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a>, <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-6574 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
