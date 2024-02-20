@@ -21,7 +21,7 @@ navs:
 <p><strong>NARVA 3</strong> spielte ebenfalls gegen <strong>Eckbauer</strong>, allerdings deren dritte Mannschaft. <strong>Detlef</strong> holte einen schnellen Punkt, dann kamen allerdings Niederlagen bei <strong>Micha</strong>, <strong>Thomas</strong> und <strong>Jan</strong>. <strong>Felix</strong> spielte „nur“ remis – er stand besser, aber der Gegner (DWZ 1600) fand wohl ein Dauerschach. Als letztes führte noch <strong>Oliver</strong> seine Partie zum Sieg. An der Mannschaftsniederlage änderte das allerdings nichts mehr. Es ist bereits die zweite 2,5:3,5-Niederlage in dieser Saison. Aufsteigen kann man so wohl nicht, aber die Dritte hat zumindest wieder bewiesen, dass sie auch mit den stärkeren Mannschaften der Liga mithalten kann.</p>
 <p><span style="text-decoration: underline;">Bericht der 3.Mannschaft von Torsten:</span><br/>
 Für die 3te gab es eine knappe Niederlage gegen Deutschlands ältesten Schachverein. Hervorzuheben sind das Remis von Felix an Brett 1 gegen einen gestandenen Clubspieler (DWZ ~1600), wobei Felix gegen einen sehr gefährlichen Königsangriff die Nerven behalten hat. Dazu hat Oli hervorragenden Kampfgeist bewiesen und an Brett 2 in einem hochwertigen Spiel am Ende mit dem Glück des Tüchtigen von einem Aussetzer seines Gegenüber profitiert.<br/>
-Dies war auch das längste Spiel des Tages von allen drei Mannschaften. An den beiden letzten Brettern hat Eckbauer zwei sehr starke junge Talente, gegen die wir erwartungsgemäß nicht mithalten konnten.</p>
+Dies war auch das längste Spiel des Tages von allen drei Mannschaften. An den beiden letzten Brettern hat Eckbauer zwei sehr starke junge Talente, gegen die wir nicht mithalten konnten.</p>
 <p>Ergebnisse im Überblick:</p>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2024/02/18/bmm-runde-6-zwei-siege-eine-niederlage/#more-12098">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
@@ -29,7 +29,7 @@ Dies war auch das längste Spiel des Tages von allen drei Mannschaften. An den b
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/18/bmm-runde-6-zwei-siege-eine-niederlage/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/18/bmm-runde-6-zwei-siege-eine-niederlage/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12098 
 <div class="post-12085 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12085">
@@ -127,7 +127,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <p>Hier mal eine Umfrage zur Meinungsbildung.</p>
 <div class="wp-polls" id="polls-10">
 <form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_10" method="post">
-<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="94d1be9b86"/></p>
+<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="b417e8f8b9"/></p>
 <p style="display: none;"><input name="poll_id" type="hidden" value="10"/></p>
 <p style="text-align: center;"><strong>Startzeit für Monatsblitz</strong></p><div class="wp-polls-ans" id="polls-10-ans"><ul class="wp-polls-ul">
 <li><input id="poll-answer-28" name="poll_10" type="radio" value="28"/> <label for="poll-answer-28">18:15 Uhr</label></li>
