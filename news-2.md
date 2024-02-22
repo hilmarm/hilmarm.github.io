@@ -126,15 +126,12 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <p>Zuletzt gab es wieder Diskussionen um die Startzeit beim Blitz. Einige wollen später anfangen, andere bei der aktuellen Zeit bleiben. Gute und schlechte Gründe gibt es für beide Varianten einige.</p>
 <p>Hier mal eine Umfrage zur Meinungsbildung.</p>
 <div class="wp-polls" id="polls-10">
-<form action="/wordpress/index.php" class="wp-polls-form" id="polls_form_10" method="post">
-<p style="display: none;"><input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="b417e8f8b9"/></p>
-<p style="display: none;"><input name="poll_id" type="hidden" value="10"/></p>
 <p style="text-align: center;"><strong>Startzeit für Monatsblitz</strong></p><div class="wp-polls-ans" id="polls-10-ans"><ul class="wp-polls-ul">
-<li><input id="poll-answer-28" name="poll_10" type="radio" value="28"/> <label for="poll-answer-28">18:15 Uhr</label></li>
-<li><input id="poll-answer-29" name="poll_10" type="radio" value="29"/> <label for="poll-answer-29">19:00 Uhr</label></li>
-<li><input id="poll-answer-30" name="poll_10" type="radio" value="30"/> <label for="poll-answer-30">Egal</label></li>
-</ul><p style="text-align: center;"><input class="Buttons" name="vote" onclick="poll_vote(10);" type="button" value="   Vote   "/></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(10); return false;" title="View Results Of This Poll">View Results</a></p></div>
-</form>
+<li>18:15 Uhr <small>(22%, 2 Votes)</small><div class="pollbar" style="width: 22%;" title="18:15 Uhr (22% | 2 Votes)"></div></li>
+<li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
+<li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
+</ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="4b106367b0"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->

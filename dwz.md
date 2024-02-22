@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2197</td>
 <td>62</td>
-<td>2211</td>
+<td>2176</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -71,7 +71,7 @@ navs:
 <td>P</td>
 <td>1986</td>
 <td>457</td>
-<td>2002</td>
+<td>1983</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -452,6 +452,22 @@ navs:
 <tr>
 <td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>54.</td>
+<td><a href="http://www.schachbund.de/spieler/10858405.html" target="_blank"> Juri Deicke</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>55.</td>
+<td><a href="http://www.schachbund.de/spieler/10858491.html" target="_blank"> Ismaele Cattaneo</a></td>
 <td></td>
 <td></td>
 <td></td>
