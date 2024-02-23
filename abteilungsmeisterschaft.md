@@ -321,7 +321,7 @@ parent_title: Turniere
 <td>Campe,Ulrich</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td>22.2.</td>
 </tr>
 <tr>

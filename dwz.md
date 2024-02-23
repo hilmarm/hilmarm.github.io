@@ -267,19 +267,19 @@ navs:
 </tr>
 <tr>
 <td>30.</td>
-<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
-<td></td>
-<td>1460</td>
-<td>18</td>
-<td>1434</td>
-</tr>
-<tr>
-<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1460</td>
 <td>42</td>
 <td></td>
+</tr>
+<tr>
+<td>31.</td>
+<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
+<td></td>
+<td>1459</td>
+<td>18</td>
+<td>1434</td>
 </tr>
 <tr>
 <td>32.</td>
