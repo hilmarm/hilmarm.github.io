@@ -157,8 +157,8 @@ navs:
 <td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
-<td>1779</td>
-<td>100</td>
+<td>1765</td>
+<td>101</td>
 <td>1815</td>
 </tr>
 <tr>
@@ -189,8 +189,8 @@ navs:
 <td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1668</td>
-<td>68</td>
+<td>1652</td>
+<td>69</td>
 <td>1829</td>
 </tr>
 <tr>
@@ -205,8 +205,8 @@ navs:
 <td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
-<td>1631</td>
-<td>82</td>
+<td>1629</td>
+<td>83</td>
 <td>1735</td>
 </tr>
 <tr>
@@ -229,8 +229,8 @@ navs:
 <td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1608</td>
-<td>102</td>
+<td>1620</td>
+<td>103</td>
 <td>1734</td>
 </tr>
 <tr>

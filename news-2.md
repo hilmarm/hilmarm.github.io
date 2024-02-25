@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12125 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12125">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/02/24/nur-alle-28-jahre/" rel="bookmark">Nur alle 28 Jahre….</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/02/24/nur-alle-28-jahre/" rel="bookmark" title="12:17"><span class="entry-date">24. Februar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>…fällt der 29.02. auf einen Donnerstag und ist damit ein letzter Donnerstag im Monat, also <strong>Monatsblitz</strong>!!</p>
+<p>Aus diesem Anlass gibt es für den Sieger am Donnerstag eine Flasche Rotwein! (für nicht Alkoholiker finden wir bestimmt auch was)</p>
+<p><strong>Start ist wie immer um 18:15 Uhr!</strong><br/>
+<strong>Anmeldung 18 Uhr.<br/>
+Bedenkzeit 3+2.</strong><br/>
+<strong>Kein Startgeld!</strong><br/>
+<strong>Gäste sind natürlich herzlich willkommen!</strong></p>
+<p>Das letzte 29.02. Blitz war 1996, hier fehlen mir jedoch die Monatsergebnisse.</p>
+<p><em>* bzgl. alle 28 Jahre gibt es ganz geringe Ausnahmen wegen Jahren, die genau durch 100, aber nicht durch 400 teilbar sind…..</em></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/24/nur-alle-28-jahre/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12125 
 <div class="post-12119 post type-post status-publish format-standard hentry category-bfl" id="post-12119">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/02/23/runde-5-der-bfl/" rel="bookmark">Runde 5 der BFL</a></h2>
 <div class="entry-meta">
@@ -154,7 +176,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="e64272f793"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="794d691df9"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -508,27 +530,6 @@ Sein 3. Erfolg in der Abteilungsmeisterschaft. <a href="https://www.narva-schach
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/11/22/pokalfinale-2023/#comments">4 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11755 
-<div class="post-11741 post type-post status-publish format-standard hentry category-intern" id="post-11741">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/11/18/einladung-zur-weihnachtsfeier-3/" rel="bookmark">Einladung zur Weihnachtsfeier</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/11/18/einladung-zur-weihnachtsfeier-3/" rel="bookmark" title="9:51"><span class="entry-date">18. November 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Am 14.12.23 findet unsere traditionelle Weihnachtsfeier als Jahresabschluss statt! Der Vorstand lädt Euch dazu herzlich ein!!</strong></p>
-<p><strong><span style="color: #ff0000;">Start ist um 18:30 Uhr!</span></strong><br/>
-<strong><span style="color: #ff0000;">Es gibt ausreichend zu essen und zu trinken!</span></strong><br/>
-<strong><span style="color: #ff0000;">Es gibt die Siegerehrung für die internen Turniere!</span></strong><br/>
-<strong><span style="color: #ff0000;">Es gibt ein Blitzturnier mit anschließenden Würfeln!</span></strong></p>
-<p><strong>Der Beitrag für jeden Teilnehmer beträgt 3,- €</strong></p>
-<p>Teilnehmen dürfen alle Mitglieder der Abteilung Schach!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920.jpg"><img alt="" class="aligncenter size-large wp-image-11743" decoding="async" height="427" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-1024x683.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920.jpg 1920w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/11/18/einladung-zur-weihnachtsfeier-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11741 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
