@@ -203,14 +203,6 @@ navs:
 </tr>
 <tr>
 <td>22.</td>
-<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
-<td></td>
-<td>1629</td>
-<td>83</td>
-<td>1735</td>
-</tr>
-<tr>
-<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1629</td>
@@ -218,12 +210,20 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>24.</td>
+<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
 <td>1629</td>
 <td>1</td>
 <td>0</td>
+</tr>
+<tr>
+<td>24.</td>
+<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
+<td></td>
+<td>1627</td>
+<td>83</td>
+<td>1735</td>
 </tr>
 <tr>
 <td>25.</td>
