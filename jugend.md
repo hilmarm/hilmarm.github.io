@@ -11,7 +11,7 @@ navs:
 <p><span style="font-size: 14pt;">Unsere Trainer: Alexander Kreisel und Ekkehard Krüger</span></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg"><img alt="" class="size-medium wp-image-3899 aligncenter" decoding="async" height="150" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-768x384.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-1024x512.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg 1184w" width="300"/></a></p>
 <p><span style="text-decoration-line: underline; font-size: 1.8em;">News von der Berliner Schachjugend:</span></p>
-<ul><!--via SimplePie with RSSImport--><li><a href="https://www.schachjugend-in-berlin.de/bjmm-u19-4/" title="BJMM u19">BJMM u19</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjmm-2024-u12-u14-u16/" title="BJMM 2024 u12/u14/u16">BJMM 2024 u12/u14/u16</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjem-u8-und-rahmenturniere/" title="BJEM u8 und Rahmenturniere">BJEM u8 und Rahmenturniere</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjem-2024-und-rahmenturniere/" title="BJEM 2024">BJEM 2024</a></li><li><a href="https://www.schachjugend-in-berlin.de/ausschreibungen-der-endrunden-der-bjemw/" title="Ausschreibungen der Endrunden der BJEMw &amp; Anmeldeliste">Ausschreibungen der Endrunden der BJEMw &amp; Anmeldeliste</a></li><li><a href="https://www.schachjugend-in-berlin.de/jugendwinterturnier-2024/" title="Jugendwinterturnier 2024">Jugendwinterturnier 2024</a></li><li><a href="https://www.schachjugend-in-berlin.de/winterturnier-2024/" title="Winterturnier 2024">Winterturnier 2024</a></li></ul>
+<ul><!--via SimplePie with RSSImport--><li><a href="https://www.schachjugend-in-berlin.de/kinder-und-jugendturnier-der-sf-nordost/" title="Kinder und Jugendturnier der SF Nordost">Kinder und Jugendturnier der SF Nordost</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjmm-u19-4/" title="BJMM u19">BJMM u19</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjmm-2024-u12-u14-u16/" title="BJMM 2024 u12/u14/u16">BJMM 2024 u12/u14/u16</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjem-u8-und-rahmenturniere/" title="BJEM u8 und Rahmenturniere">BJEM u8 und Rahmenturniere</a></li><li><a href="https://www.schachjugend-in-berlin.de/bjem-2024-und-rahmenturniere/" title="BJEM 2024">BJEM 2024</a></li><li><a href="https://www.schachjugend-in-berlin.de/ausschreibungen-der-endrunden-der-bjemw/" title="Ausschreibungen der Endrunden der BJEMw &amp; Anmeldeliste">Ausschreibungen der Endrunden der BJEMw &amp; Anmeldeliste</a></li><li><a href="https://www.schachjugend-in-berlin.de/jugendwinterturnier-2024/" title="Jugendwinterturnier 2024">Jugendwinterturnier 2024</a></li></ul>
 <p style="text-align: center;"><span style="text-decoration: underline; font-size: 18pt;">Spieler aus der NARVA – Jugend</span></p>
 <table>
 <tbody>
@@ -92,7 +92,7 @@ Großmeister (2015)</td>
 <td>2173</td>
 </tr>
 <tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Janett Wordel</strong></span> – <a href="https://players.chessbase.com/de/player/wordel_janett/286109" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
+<td colspan="2"><span style="font-size: 14pt;"><strong>Janett Cissé</strong> (Wordel)</span> – <a href="https://players.chessbase.com/de/player/wordel_janett/286109" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
 </tr>
 <tr>
 <td>Geb.</td>
@@ -108,11 +108,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>–</td>
+<td>2120 (vor 2001 – letzte Auswertung)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>2120? DWZ?</td>
+<td>2120?</td>
 </tr>
 <tr>
 <td colspan="2"><span style="font-size: 14pt;"><strong>Nam Tham</strong></span> – <a href="https://players.chessbase.com/de/player/tham_nam/377884" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
