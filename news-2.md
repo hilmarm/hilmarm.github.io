@@ -14,14 +14,11 @@ navs:
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/02/24/nur-alle-28-jahre/" rel="bookmark" title="12:17"><span class="entry-date">24. Februar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>…fällt der 29.02. auf einen Donnerstag und ist damit ein letzter Donnerstag im Monat, also <strong>Monatsblitz</strong>!!</p>
-<p>Aus diesem Anlass gibt es für den Sieger am Donnerstag eine Flasche Rotwein! (für nicht Alkoholiker finden wir bestimmt auch was)</p>
-<p><strong>Start ist wie immer um 18:15 Uhr!</strong><br/>
-<strong>Anmeldung 18 Uhr.<br/>
-Bedenkzeit 3+2.</strong><br/>
-<strong>Kein Startgeld!</strong><br/>
-<strong>Gäste sind natürlich herzlich willkommen!</strong></p>
-<p>Das letzte 29.02. Blitz war 1996, hier fehlen mir jedoch die Monatsergebnisse.</p>
-<p><em>* bzgl. alle 28 Jahre gibt es ganz geringe Ausnahmen wegen Jahren, die genau durch 100, aber nicht durch 400 teilbar sind…..</em></p>
+<div class="wp-caption aligncenter" id="attachment_12133" style="width: 226px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-scaled.jpg"><img alt="" aria-describedby="caption-attachment-12133" class="size-medium wp-image-12133" decoding="async" height="300" sizes="(max-width: 216px) 100vw, 216px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-216x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-216x300.jpg 216w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-737x1024.jpg 737w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-768x1067.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-1106x1536.jpg 1106w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-1474x2048.jpg 1474w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/20240229_203111-scaled.jpg 1843w" width="216"/></a><p class="wp-caption-text" id="caption-attachment-12133">Der Sieger vom 29.02.2024<br/>Mit 8,5 Punkten aus 10 Partien.</p></div>
+<p>Tomas sicherte sich mit einem Punkt Vorsprung den Sieg. Auf Platz 2 kam Hans-Dieter und auf Platz 3 Tom mit jeweils 7,5 Punkten.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+<p>Das nächste Monatsblitz an einem 29.02. ist dann 2052!</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2024/02/24/nur-alle-28-jahre/#more-12125">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -41,7 +38,7 @@ Bedenkzeit 3+2.</strong><br/>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12120" decoding="async" height="155" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome-300x155.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome-300x155.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome-768x396.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome.jpg 961w" width="300"/></a></p>
 <p><strong>NARVA 2</strong> kam am Dienstag zu einem <strong>2:2</strong> Unentschieden gegen <strong>SK International Schach Experten SG 1</strong> (was für ein Name…). Hier holte <strong>Batu</strong> einen vollen Punkt, <strong>Klaus</strong> und Neuzugang <strong>Mert</strong> spielten Remis, <strong>Tom</strong> verliert.</p>
 <p>NARVA 2 bleibt damit Letzter und muss im nächsten Spiel gegen Mariendorf gewinnen um noch den letzten Strohhalm zum Klassenerhalt zu greifen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030.jpg"><img alt="" class="aligncenter size-medium wp-image-12122" decoding="async" height="167" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-300x167.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-300x167.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-768x428.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030.jpg 854w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030.jpg"><img alt="" class="aligncenter size-medium wp-image-12122" decoding="async" height="167" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-300x167.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-300x167.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-768x428.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030.jpg 854w" width="300"/></a></p>
 <p>Auch <strong>NARVA 3</strong> sammelte zumindest einen Punkt und spielte auch <strong>2:2</strong>. Gegen <strong>Kreuzberg 4</strong> konnten <strong>Philipp</strong> und <strong>Juri</strong> gewinnen, <strong>Torsten</strong> und <strong>Ingo</strong> verlieren.</p>
 <p>NARVA 3 liegt auf Platz 7 und muss noch gegen den Letzten spielen, absteigen kann man aber wohl nicht….</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145.jpg"><img alt="" class="aligncenter size-medium wp-image-12121" decoding="async" height="160" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145-300x160.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145-300x160.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145-768x409.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145.jpg 922w" width="300"/></a></p>
@@ -176,7 +173,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="b727638073"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="2bbe7968aa"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
