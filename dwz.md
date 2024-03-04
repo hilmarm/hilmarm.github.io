@@ -45,8 +45,8 @@ navs:
 <td>2.</td>
 <td><a href="http://www.schachbund.de/spieler/10033664.html" target="_blank"> Bernd Daverkausen</a></td>
 <td></td>
-<td>2077</td>
-<td>179</td>
+<td>2076</td>
+<td>180</td>
 <td>2130</td>
 </tr>
 <tr>
@@ -147,14 +147,6 @@ navs:
 </tr>
 <tr>
 <td>15.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1788</td>
-<td>66</td>
-<td>1679</td>
-</tr>
-<tr>
-<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
 <td>1765</td>
@@ -162,12 +154,20 @@ navs:
 <td>1815</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
 <td></td>
 <td>1764</td>
 <td>61</td>
 <td>1615</td>
+</tr>
+<tr>
+<td>17.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1738</td>
+<td>67</td>
+<td>1679</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -189,8 +189,8 @@ navs:
 <td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1652</td>
-<td>69</td>
+<td>1697</td>
+<td>70</td>
 <td>1829</td>
 </tr>
 <tr>
@@ -267,19 +267,19 @@ navs:
 </tr>
 <tr>
 <td>30.</td>
+<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
+<td></td>
+<td>1485</td>
+<td>19</td>
+<td>1434</td>
+</tr>
+<tr>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1460</td>
 <td>42</td>
 <td></td>
-</tr>
-<tr>
-<td>31.</td>
-<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
-<td></td>
-<td>1459</td>
-<td>18</td>
-<td>1434</td>
 </tr>
 <tr>
 <td>32.</td>
@@ -293,8 +293,8 @@ navs:
 <td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
-<td>1402</td>
-<td>3</td>
+<td>1386</td>
+<td>4</td>
 <td>0</td>
 </tr>
 <tr>
