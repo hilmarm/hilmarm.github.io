@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12150 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-12150">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/05/90-geburtstag-manfred-smala-goldene-ehrennadel/" rel="bookmark">90. Geburtstag Manfred Smala – Goldene Ehrennadel</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/05/90-geburtstag-manfred-smala-goldene-ehrennadel/" rel="bookmark" title="19:42"><span class="entry-date">5. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Die SG NARVA wünscht unserem Ehrenmitglied Manfred Smala Alles Gute zu seinem 90. Geburtstag!!</strong></p>
+<p>Über seine viele Verdienste und Auszeichnungen im Verein und Verband habe ich schon oft geschrieben (<a href="https://www.berlinerschachverband.de/entry/manfred-smala-feiert-80-geburtstag.html" rel="noopener" target="_blank">Link 80.Geburtstag</a>). Manfred ist und bleibt für mich einfach die gute Seele von NARVA. Seine Hingabe für den Verein und vor allem der Jugendarbeit waren gerade in den schwierigen Jahren nach der Wende enorm wichtig.</p>
+<p>Auch jetzt, wo er aus gesundheitlichen Gründen schon länger nicht mehr an den Clubabenden teilnehmen kann, informiert er sich regelmäßig über die Jugend und wie es im Verein läuft wenn man mit ihm telefoniert.</p>
+<p>Er war fast vier Jahrzehnte bei NARVA aktiv und hat viel organisiert, von 1989 bis 1998 war er Vorsitzender der Abteilung Schach. Er hat die Abteilung Schach in der Wendezeit von einer Betriebssportgemeinschaft, in eine selbständige Sportgruppe der SG NARVA Berlin e.V. überführt. Von 1992 bis 2015 war er auch Jugendwart und hat für den Fortbestand der Jugendarbeit nach der Wende gesorgt. Unter seiner Ausbildung waren z.B. Wesko Heinrich und Andreas Kinski.</p>
+<p>2012 erhielt er auf dem Verbandstag des Berliner Schachverbandes vom Landessportbund Berlin die Sportjugend Gratia in Gold!</p>
+<p>Auch das Anlegen einer Chronik, lag seit der Wende in seinen Händen, erst mit dieser war das umfangreiche Archiv auf unserer Homepage möglich.</p>
+<p>Heute zu seinem 90. Geburtstag waren Hans-Dieter, Wesko, Alexander und Ich zum überbringen der Glückwünsche bei ihm zu Besuch. Außerdem hat er von der  SG NARVA noch die Ehrennadel des Vereins in Gold bekommen, als Anerkennung und Würdigung seiner verdienstvollen Tätigkeit für die SG NARVA und der Abteilung Schach.</p>
+<p>Wir wünschen Dir weiterhin Alles Gute und dass Du uns noch viele Jahre erhalten bleibst und wir unszum 95. wiedersehen!!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/auszeichnungen_s_smala_2012.jpg"><img alt="" class="size-medium wp-image-12152 alignnone" decoding="async" height="300" sizes="(max-width: 145px) 100vw, 145px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/auszeichnungen_s_smala_2012-145x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/auszeichnungen_s_smala_2012-145x300.jpg 145w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/auszeichnungen_s_smala_2012-494x1024.jpg 494w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/auszeichnungen_s_smala_2012.jpg 660w" width="145"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-scaled.jpg"><img alt="" class="size-medium wp-image-12151 alignnone" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/100_3031_smala_am_brett-scaled.jpg 1920w" width="225"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/05/90-geburtstag-manfred-smala-goldene-ehrennadel/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12150 
 <div class="post-12140 post type-post status-publish format-standard hentry category-bmm" id="post-12140">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/03/bmm-runde-7-nur-1-sieg/" rel="bookmark">BMM Runde 7 – nur 1 Sieg</a></h2>
 <div class="entry-meta">
@@ -15,9 +37,9 @@ navs:
 <div class="entry-content">
 <p><strong>Runde 7</strong> zur BMM brachte nur für <strong>NARVA 1</strong> einen Sieg.</p>
 <p>Die Erste erkämpfte sich ein knappes <strong>4,5:3,5</strong> gegen <strong>SC Kreuzberg 5</strong>! Der Kampf war die ganze Zeit sehr knapp und völlig offen, Siege von Alexander und Thomas standen Niederlagen von George und Jens entgegen. Dazu Remis von Tomas, Rouven und Peter. Am Ende konnte Bernd mit seinem Sieg beim Stand von 3,5:3,5 den Mannschaftserfolg klar machen.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12143" decoding="async" height="242" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-300x242.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-300x242.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-768x619.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome.jpg 964w" width="300"/></a></p>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12143" decoding="async" height="242" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-300x242.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-300x242.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-768x619.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome.jpg 964w" width="300"/></a></p>
 <p>Die <strong>2. Mannschaft</strong> geriet bei der <strong>SG Weißensee 2</strong> mit <strong>2:6</strong> etwas zu hoch unter die Räder. Nur Hilmar an Brett 2 konnte gewinnen. Andreas und Günter kamen zu halben Punkten. Felix hing leider bei der Anreise im Polizeieinsatz in F’hain fest.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12144" decoding="async" height="239" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-300x239.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-300x239.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-768x611.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome.jpg 943w" width="300"/></a></p>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12144" decoding="async" height="239" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-300x239.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-300x239.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-768x611.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome.jpg 943w" width="300"/></a></p>
 <p><strong>NARVA 3</strong> erkämpfte sich gegen den Tabellenführer <strong>TSG Oberschöneweide 7</strong> zumindest eine knappe <strong>2,5:3,5</strong> Niederlage. Vor allem die Erfolge an Brett 1 und 2 und das Remis von Jugendspieler Juri sind schöne Einzelerfolge!<br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12145" decoding="async" height="196" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome-300x196.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome-768x502.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome.jpg 868w" width="300"/></a></p>
 <p><span style="text-decoration: underline;">Fotos von NARVA 1 und 2 sowie der Bericht zu NARVA 3 von ML Torsten:</span></p>
@@ -195,7 +217,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="a845c20914"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="cb98caa42a"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -504,32 +526,6 @@ Am Ende zählen die Einzelerfolge, <strong>Michael</strong> gewinnt sauber sein 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/11/27/bmm-runde-3-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11804 
-<div class="post-11793 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11793">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/11/24/finale-in-der-abteilungsmeisterschaft/" rel="bookmark">Finale in der Abteilungsmeisterschaft</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/11/24/finale-in-der-abteilungsmeisterschaft/" rel="bookmark" title="11:33"><span class="entry-date">24. November 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern fand die letzte Runde der <strong>Abteilungsmeisterschaft</strong> statt. Auch wenn noch 2 Partien fehlen, ist die Entscheidung um den Titel bereits gefallen!</p>
-<p><strong>Rouven</strong> ging kein Risiko ein und gewann sicher gegen <strong>Michael</strong>. Damit hätte Hans-Dieter auch gewinnen müssen, um auch auf 6 Punkte zu kommen. Dann hätten wir auf die Zweitwertung warten müssen. Das parallele Duell zwischen <strong>Peter</strong> und <strong>Hans-Dieter</strong> endet aber mit einem Sieg von Peter, der damit auch noch an Hans-Dieter vorbei auf das Treppchen zieht.</p>
-<p><strong>Rouven ist damit Abteilungsmeister 2023!! Herzlichen Glückwunsch!!</strong><br/>
-Sein 3. Erfolg in der Abteilungsmeisterschaft. <a href="https://www.narva-schach.de/wordpress/chronik/">Chronik</a></p>
-<p>Platz 2 und 3 hängt noch von der Partie <strong>Ulrich</strong> gegen <strong>Klaus</strong> ab.</p>
-<p>Die weiteren Ergebnisse von gestern:<br/>
-<strong>Ekkehard – Jonatan ½:½</strong><br/>
-<strong>Manfred – Alexander 0:1</strong><br/>
-<strong>Felix – Thomas 0:1</strong><br/>
-<strong>Gerhard – Torsten 1:0</strong><br/>
-<strong>Lukas – Philipp 0:1</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926.jpg"><img alt="" class="aligncenter wp-image-11791" decoding="async" height="338" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926-1024x769.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926-1024x769.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926-768x577.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926-1536x1154.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204926-2048x1539.jpg 2048w" width="450"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-scaled.jpg"><img alt="" class="aligncenter wp-image-11792" decoding="async" height="289" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-1024x657.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-1024x657.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-300x192.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-768x493.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-1536x985.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/20231123_204218-2048x1314.jpg 2048w" width="450"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/11/24/finale-in-der-abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11793 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
