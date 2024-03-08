@@ -23,9 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
-<td>01.03.-03.03.2024</td>
-<td>Jonatan, Lukas, Ekkehard, Oliver</td>
+<td><a href="https://www.reykjavikopen.com/" rel="noopener" target="_blank">Reykjavik Open 2024</a></td>
+<td>15.03.-21.03.2024</td>
+<td>Tomas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/schnellschach-gp-2023-2024-tsg-oberschoeneweide-e-v.html" rel="noopener" target="_blank">Schnellschach-Grand Prix Oberschöneweide</a></td>
