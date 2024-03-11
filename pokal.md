@@ -19,7 +19,7 @@ parent_title: Turniere
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Pokal-2024.pdf">Ausschreibung</a></p>
 <h2>2. Runde am 18. April</h2>
 <p>Kreisel – Dr. Maetzing<br/>
-Maiwald/Magnusson – Pape<br/>
+Maiwald – Pape<br/>
 Hintze – Dr. Heinrich<br/>
 Mothes – Herrscher</p>
 <h2>1. Runde am 15. Februar</h2>
@@ -57,7 +57,7 @@ Mothes – Herrscher</p>
 <tr>
 <td>Maiwald</td>
 <td>Magnusson</td>
-<td>:</td>
+<td>1 : 0</td>
 </tr>
 <tr>
 <td>v. Kraft</td>
