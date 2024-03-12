@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12186 post type-post status-publish format-standard hentry category-intern" id="post-12186">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark">Jahreshauptversammlung am 11.04.24</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark" title="11:32"><span class="entry-date">12. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die Einladung zur Jahreshauptversammlung inkl. Wahl des Vorstandes und der Kassenprüfer solltet ihr per Mail erhalten haben.</p>
+<p>Im Mitgliederbereich findet ihr die Einladung auch nochmal komplett.</p>
+<p><strong>Termin: 11.04.24 um 18:30 Uhr</strong><br/>
+<strong>Ort: Kadiner Str. 1</strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12186 
 <div class="post-12165 post type-post status-publish format-standard hentry category-bfl" id="post-12165">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/07/bfl-runde-6-nullnummer-fast/" rel="bookmark">BFL Runde 6 – Nullnummer – fast</a></h2>
 <div class="entry-meta">
@@ -236,7 +253,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="f6c56b1ede"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="6eb5adba18"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -486,33 +503,6 @@ Danach schon <strong>Felix</strong> mit +120!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/04/nikolaus-training-mit-rouven/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11832 
-<div class="post-11826 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11826">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/01/november-blitz-interne-turniere-beendet/" rel="bookmark">November Blitz – interne Turniere beendet</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/01/november-blitz-interne-turniere-beendet/" rel="bookmark" title="22:11"><span class="entry-date">1. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern fand das November Blitz statt und gleichzeitig wurden die letzten Partien zur Abteilungsmeisterschaft gespielt. Damit sind nun alle 2023er Wettbewerbe abgeschlossen.</p>
-<p>Die Partien der <strong>Abteilungsmeisterschaft</strong> brachten noch ein Remis zwischen <strong>Wolfgang</strong> und <strong>Gunar</strong> sowie einen Sieg von <strong>Ulrich</strong> gegen <strong>Klaus</strong>. Damit konnte Klaus nicht mehr auf das Treppchen klettern und fällt in der letzten Runde auf Rang 4 zurück.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Ergebnisse und Tabellen</a></p>
-<p>Im <strong>Blitz</strong> fanden sich zum Finale 11 Teilnehmer ein, etwas weniger als zuletzt, dafür jedoch an der Spitze eng und stark besetzt. Pünktlich zum Start von Runde 2 traf nach 800km Anreise auch <strong>Sven</strong> ein!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-scaled.jpg"><img alt="" class="wp-image-11827 alignnone" decoding="async" height="336" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-762x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-762x1024.jpg 762w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-223x300.jpg 223w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-768x1032.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-1143x1536.jpg 1143w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-1524x2048.jpg 1524w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195814-scaled.jpg 1905w" width="250"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812.jpg"><img alt="" class="wp-image-11824 alignnone" decoding="async" height="337" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-760x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-760x1024.jpg 760w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-223x300.jpg 223w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-768x1035.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812-1139x1536.jpg 1139w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195746-scaled-e1701465041812.jpg 1152w" width="250"/></a></p>
-<p>Die Spitze lieferte sich bis zur letzten Runde einen engen Kampf, <strong>Peter</strong> marschierte erst sicher durch, nach seiner spielfrei-Pause gab er aber gleich 2x ab, so wurde es noch einmal eng. <strong>Ekkehard</strong> sammelte auch fleißig Punkte und gab auch nur 2 Partien ab. Am Ende hat Peter einen halben Punkt in der Zweitwertung Vorsprung und holt sich damit auch diesen Tagessieg! Ekkehard kommt mit ebenfalls 8 Punkten auf Platz 2.</p>
-<p><strong>Jonatan</strong> belegt mit 7,5 Punkten und Sieg gegen Peter Platz 3! <strong>Stefan</strong> von Rotation hat dann 7 Punkte und es folgen <strong>Sven</strong> und <strong>Matthias</strong> mit 6,5 Punkten.</p>
-<p>Die Gesamtwertung war schon nach der Oktober-Runde klar:<br/>
-<strong>1. Peter<br/>
-2. Tomas<br/>
-3. Hans-Dieter</strong></p>
-<p>Bester Gast wurde <span style="text-decoration: underline;"><strong>Matthias Pröschild</strong></span> von <strong>Chemie Weißensee</strong> auf Gesamtrang 5! Er brauchte noch die November Teilnahme um auf 5 gewertete Runden für den Gästepreis zu kommen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse Blitz</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-scaled.jpg"><img alt="" class="aligncenter size-large wp-image-11825" decoding="async" height="289" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-1024x462.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-1024x462.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20231130_195756-2048x923.jpg 2048w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/01/november-blitz-interne-turniere-beendet/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11826 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
