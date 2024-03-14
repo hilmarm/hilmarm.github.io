@@ -499,20 +499,20 @@ parent_title: Chronik
 <td align="CENTER"></td>
 </tr>
 <tr>
-<td align="CENTER">1991</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-1991/">1991</a></td>
 <td align="CENTER">Berlin-Klasse</td>
 <td align="CENTER">6.</td>
 <td align="CENTER">Klasse 2</td>
 <td align="CENTER">?</td>
 <td align="CENTER">Klasse 3</td>
 <td align="CENTER">Klassenerhalt</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER">Klasse 4</td>
+<td align="CENTER">7.</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
 </tr>
 <tr>
-<td align="CENTER">1990</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-1990/">1990</a></td>
 <td align="CENTER">Stadtliga</td>
 <td align="CENTER">3.</td>
 <td align="CENTER">2.Stadtklasse</td>

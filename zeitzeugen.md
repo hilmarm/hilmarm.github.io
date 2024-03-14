@@ -52,6 +52,19 @@ parent_title: Chronik
 ---
 <h1 class="page-title">
 				Archiv der Kategorie: <span>„Zeitzeugen“</span> </h1>
+<div class="post-12202 post type-post status-publish format-standard hentry category-zeitzeugen" id="post-12202">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/14/endrunde-bjem-1991-e-jugend-ak9-10/" rel="bookmark">Endrunde BJEM 1991 E-Jugend (AK9/10)</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/14/endrunde-bjem-1991-e-jugend-ak9-10/" rel="bookmark" title="7:57"><span class="entry-date">14. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/zeitzeugen/" rel="category tag">„Zeitzeugen“</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/14/endrunde-bjem-1991-e-jugend-ak9-10/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12202 
 <div class="post-5677 post type-post status-publish format-standard hentry category-zeitzeugen" id="post-5677">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2019/03/16/narva-mitglieder-1991/" rel="bookmark">NARVA Mitglieder 1991</a></h2>
 <div class="entry-meta">

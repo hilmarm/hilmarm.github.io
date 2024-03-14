@@ -287,13 +287,13 @@ Achtfacher Berliner Meister im Schach: 1922 – 1923 – 1929 – 1939 – 1933 
 <p>link=Quelle: <a href="http://de.wikipedia.org/wiki/Kurt_Richter" rel="noopener" target="_blank">Wikipedia</a></p>
 <h2><strong>30 Jahre Kurt-Richter-Gedenkturnier? (2011)</strong></h2>
 <p><img alt="dscf0513" class="alignnone wp-image-737 size-medium" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0513-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0513-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0513.jpg 480w" width="225"/></p>
-<p>Vor 30 Jahren, 1981, gab es das erste Kurt-Richter-Gedenkturnier. Schon damals war <strong>Gerhard Mietzelfeldt</strong><em> (Foto von Frank Hoppe, 2011 Seniorenschnellschach)</em> die treibende Kraft bei der Organisation des Turniers. Zu der Zeit war Gerhard Vorsitzender des Bezirksfachausschuß (BFA) Berlin, dem Ostberliner Schachverband.<br/>
+<p><strong>1981</strong> gab es das erste Kurt-Richter-Gedenkturnier. Schon damals war <strong>Gerhard Mietzelfeldt</strong><em> (Foto von Frank Hoppe, 2011 Seniorenschnellschach)</em> die treibende Kraft bei der Organisation des Turniers. Zu der Zeit war Gerhard Vorsitzender des Bezirksfachausschuß (BFA) Berlin, dem Ostberliner Schachverband.<br/>
 Auf der BSV Seite steht: <em>„Der Bezirksfachausschuß (BFA) Berlin lud in den Winterferien 1981 erstmals zu einem offenen Turnier zu Ehren Kurt Richter’s in eine Marzahner Schule. Ziel des Veranstalters war es, Hobbyspieler für das Vereinsschach zu gewinnen und ihnen ein Kräftemessen mit Vereinsspielern zu ermöglichen.“</em><br/>
 Danach gab es in unregelmäßigen Abständen weitere Turniere, etwa 20. Im letzten Jahr wechselte Gerhard dann zur SG NARVA und nahm im Winter 2011 wieder an der Berliner Senioreneinzelmeisterschaft teil. Dort wurde ihm mehrfach der Wunsch nach einer Fortsetzung des Turniers entgegen gebracht.<br/>
-Das 30 jährige Jubiläum 2011 bot sich da natürlich gut an, das Turnier wieder zu beleben. Nun musste nur noch ein Veranstaltungsraum und Mitstreiter gefunden werden. Mitstreiter fanden sich schnell, auch in seinem neuen Verein NARVA war das Interesse geweckt worden. Die Suche nach einem Raum konnte auch erfolgreich abgeschlossen werden, im Seniorenheim „Haus Jahreszeiten“ fand er gleich Zustimmung.</p>
-<p>Seit 2014 findet das Turnier jährlich im „Rudi“ Nachbarschaftshaus statt.</p>
-<p>2023 wurde das Kurt-Richter-Gedenkturnier nach Corona-Pause neu gestartet und fand erstmals in Cooperation mit Rotation Berlin im Rathaus Mitte statt.</p>
-<p>2016 wurde Gerhard zum Ehrenpräsidenten des Berliner Schachverbandes ernannt!!</p>
+Das 30 jährige Jubiläum 2011 bot sich da natürlich gut an, das Turnier wieder zu beleben. Nun musste nur noch ein Veranstaltungsraum und Mitstreiter gefunden werden. Mitstreiter fanden sich schnell, auch in seinem neuen Verein NARVA war das Interesse geweckt worden. Die Suche nach einem Raum konnte auch erfolgreich abgeschlossen werden, im Seniorenheim „Haus Jahreszeiten“ wurde 2011 gespielt. Turniersieger wurde GM Sergej Kalinitschew.</p>
+<p>Von <strong>2014</strong> bis <strong>2019</strong> fand das Turnier dann jährlich im „Rudi“ Nachbarschaftszentrum unter der Leitung vom SG NARVA Schach Vorsitzenden Thomas Mothes statt.</p>
+<p><strong>2023</strong> wurde das Kurt-Richter-Gedenkturnier nach Corona-Pause neu gestartet und fand erstmals in Kooperation mit SSV Rotation Berlin e.V. im Rathaus Mitte statt.</p>
+<p><strong>2016 wurde Gerhard zum Ehrenpräsidenten des Berliner Schachverbandes ernannt!!</strong></p>
 </div><!-- .entry-content -->
 </div> #post-243 
 <div id="comments">
