@@ -578,7 +578,7 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
-<p><script>//<!-- jQuery('th:contains("Teilnehmer")').attr("data-hide","none"); jQuery('th:contains("Ergebnis")').attr("data-hide","none"); jQuery('th:contains("Tisch")').attr("data-hide","tablet,phone"); jQuery('th:contains("TNr")').attr("data-hide","tablet,phone"); jQuery('th:contains("Tite")').attr("data-hide","tablet,phone"); //--></script></p>
+<p><script>/*<!--*/ jQuery('th:contains("Teilnehmer")').attr("data-hide","none"); jQuery('th:contains("Ergebnis")').attr("data-hide","none"); jQuery('th:contains("Tisch")').attr("data-hide","tablet,phone"); jQuery('th:contains("TNr")').attr("data-hide","tablet,phone"); jQuery('th:contains("Tite")').attr("data-hide","tablet,phone"); //--></script></p>
 </div><!-- .entry-content -->
 </div> #post-3561 
 <div id="comments">

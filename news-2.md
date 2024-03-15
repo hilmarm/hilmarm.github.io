@@ -8,6 +8,21 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12209 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12209">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/15/maerz-schnellschach/" rel="bookmark">März-Schnellschach</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/15/maerz-schnellschach/" rel="bookmark" title="0:18"><span class="entry-date">15. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern fand das zweite Turnier unserer diesjährigen Schnellschachserie statt. Insgesamt fanden sich dazu 16 Teilnehmer ein. Den ersten Platz holte mit fünf Siegen aus fünf Partien unser Schnellschachmeister 2023, <strong>Peter</strong>. Zweiter wurde <strong>Tomas</strong> mit 3,5 Punkten vor <strong>Klaus</strong>, ebenfalls mit 3,5 Punkten. Bester Gast wurde <strong>Eberhard Herrmann</strong> (SC Zugzwang 95), der zur zweiten Runde noch überredet werden musste, überhaupt mitzuspielen, dann aber nur gegen Tomas verlor. Ein gutes Turnier spielte auch <strong>Lukas</strong>, der mit 2,5 Punkten Platz 7 belegte.</p>
+<p>In der Gesamtwertung muss Klaus damit die Führung an Peter abgeben. Tomas macht nach dem schlechten ersten Turnier vier Plätze gut und ist nun Dritter.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/15/maerz-schnellschach/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12209 
 <div class="post-12186 post type-post status-publish format-standard hentry category-intern" id="post-12186">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark">Jahreshauptversammlung am 11.04.24</a></h2>
 <div class="entry-meta">
@@ -253,7 +268,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="325e5acf39"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="64f11291bb"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -485,24 +500,6 @@ Danach schon <strong>Felix</strong> mit +120!!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/09/dwz-auswertung-abteilungsmeisterschaft-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11847 
-<div class="post-11832 post type-post status-publish format-standard hentry category-training" id="post-11832">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/04/nikolaus-training-mit-rouven/" rel="bookmark">Nikolaus Training mit Rouven</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/04/nikolaus-training-mit-rouven/" rel="bookmark" title="20:10"><span class="entry-date">4. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Unser frisch gebackener <strong>Abteilungmeister 2023 Rouven Arnold </strong>möchte ein paar schöne Partien zum <strong>Thema Queen’s Gambit Accepted (QGA)</strong> (angenommenes Damengambit) zeigen und ein wenig Werbung für diese Eröffnung (für beide Seiten) machen!</p>
-<p><strong>Interessierte sind herzlich Willkommen!</strong></p>
-<p><strong>Donnerstag, 07.12.23 ab 18:15 Uhr!</strong></p>
-<div class="wp-caption alignleft" id="attachment_11834" style="width: 260px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-scaled.jpg"><img alt="" aria-describedby="caption-attachment-11834" class="wp-image-11834" decoding="async" height="298" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-252x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-252x300.jpg 252w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-860x1024.jpg 860w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-768x915.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-1289x1536.jpg 1289w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/20190530_104713-1719x2048.jpg 1719w" width="250"/></a><p class="wp-caption-text" id="caption-attachment-11834">Rouven am Brett beim Himmelfahrts-Blitzturnier – ohne QGA</p></div>
-<div class="wp-caption alignright" id="attachment_11833" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg"><img alt="" aria-describedby="caption-attachment-11833" class="wp-image-11833 size-medium" decoding="async" height="249" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1024x852.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-768x639.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1536x1277.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg 1817w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11833">Rouven beim Training 2022 – Londoner System</p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/04/nikolaus-training-mit-rouven/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11832 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
