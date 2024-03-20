@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.reykjavikopen.com/" rel="noopener" target="_blank">Reykjavik Open 2024</a></td>
-<td>15.03.-21.03.2024</td>
-<td>Tomas</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/schnellschach-gp-2023-2024-tsg-oberschoeneweide-e-v.html" rel="noopener" target="_blank">Schnellschach-Grand Prix Oberschöneweide</a></td>
-<td>23.03.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://grenkechessopen.de/de/" rel="noopener" target="_blank">Grenke Chess Open</a></td>
 <td>28.03.-01.04.2024</td>
 <td>Mert</td>
@@ -40,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-m-klasse.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft QT 2024</a></td>
 <td>30.03.-07.04.2024</td>
-<td>Jonatan, Torsten</td>
+<td>Jonatan, Torsten, Felix</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
