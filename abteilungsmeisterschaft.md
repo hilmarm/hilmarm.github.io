@@ -49,7 +49,7 @@ parent_title: Turniere
 <td></td>
 <td>(1)</td>
 <td> –</td>
-<td></td>
+<td>16.5.</td>
 </tr>
 <tr>
 <td>2</td>
@@ -62,7 +62,7 @@ parent_title: Turniere
 <td>Hintze,Peter</td>
 <td></td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ parent_title: Turniere
 <td>Mach,Wolfgang</td>
 <td></td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ parent_title: Turniere
 <td>Maetzing,Hans-Di</td>
 <td></td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -104,7 +104,7 @@ parent_title: Turniere
 <td>Krüger,Ekkehard</td>
 <td></td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ parent_title: Turniere
 <td></td>
 <td>(0)</td>
 <td> –</td>
-<td></td>
+<td>28.3.</td>
 </tr>
 <tr>
 <td>7</td>
@@ -133,7 +133,7 @@ parent_title: Turniere
 <td></td>
 <td>(0)</td>
 <td> –</td>
-<td></td>
+<td>26.3.</td>
 </tr>
 <tr>
 <td>8</td>
@@ -161,7 +161,7 @@ parent_title: Turniere
 <td></td>
 <td>(0)</td>
 <td> –</td>
-<td></td>
+<td>4.4.</td>
 </tr>
 <tr>
 <td>10</td>
@@ -174,7 +174,7 @@ parent_title: Turniere
 <td>Eichstädt,Torste</td>
 <td></td>
 <td>(0)</td>
-<td> –</td>
+<td>+ – –</td>
 <td></td>
 </tr>
 <tr>
@@ -188,7 +188,7 @@ parent_title: Turniere
 <td>Heinrich,Wesko</td>
 <td></td>
 <td>(0)</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
@@ -203,7 +203,7 @@ parent_title: Turniere
 <td></td>
 <td>(0)</td>
 <td> –</td>
-<td></td>
+<td>??</td>
 </tr>
 </tbody>
 </table>
