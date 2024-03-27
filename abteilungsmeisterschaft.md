@@ -132,7 +132,7 @@ parent_title: Turniere
 <td>Heinrich,Manfred</td>
 <td></td>
 <td>(0)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td>26.3.</td>
 </tr>
 <tr>
