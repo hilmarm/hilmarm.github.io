@@ -33,7 +33,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>2432 (November 2023)</td>
+<td>2434 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -62,7 +62,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>2312</td>
+<td>2330 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -131,7 +131,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1948</td>
+<td>1975 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -154,7 +154,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1844</td>
+<td>1906 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -177,7 +177,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1981 (Stand 2018 – letzte Auswertung)</td>
+<td>1989 (Stand 2018 – letzte Auswertung)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -200,11 +200,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1868</td>
+<td>1921 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1919</td>
+<td>1921</td>
 </tr>
 <tr>
 <td>
@@ -229,11 +229,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1796</td>
+<td>1878 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1796</td>
+<td>1878</td>
 </tr>
 <tr>
 <td>
@@ -258,11 +258,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1591</td>
+<td>1755 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1592</td>
+<td>1755</td>
 </tr>
 <tr>
 <td>
@@ -287,11 +287,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1570</td>
+<td>1742 (März 2024)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1570</td>
+<td>1742</td>
 </tr>
 <tr>
 <td colspan="2">
