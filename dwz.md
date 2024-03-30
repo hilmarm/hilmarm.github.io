@@ -85,8 +85,8 @@ navs:
 <td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
 <td></td>
-<td>1947</td>
-<td>127</td>
+<td>1945</td>
+<td>128</td>
 <td>2084</td>
 </tr>
 <tr>
