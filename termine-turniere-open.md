@@ -30,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-m-klasse.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft QT 2024</a></td>
 <td>30.03.-07.04.2024</td>
-<td>Jonatan, Torsten, Felix</td>
+<td>Jonatan, Felix</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
@@ -46,6 +46,21 @@ parent_title: Termine
 <td><a href="https://www.seniorenschach-brandenburg.de/2023/10/31/31-offenes-brandenburgisches-seniorenturnier-2024/" rel="noopener" target="_blank">31. offene Seniorenturnier in Miedzyzdroje</a></td>
 <td>14.06.-24.06.2024</td>
 <td>Hans-Dieter, Gerhard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachklub-altrip.de/" rel="noopener" target="_blank">Fischerfestblitz Altrip</a></td>
+<td>07.07.2024</td>
+<td>Bram, Norbert, Rudolf, Thomas und Ex&amp;Hopp</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2024/" rel="noopener" target="_blank">Kreuzberger Sommer 2024</a></td>
+<td>20.07.-28.07.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2024</a></td>
+<td>10.08.-18.08.2024</td>
+<td></td>
 </tr>
 </tbody>
 </table>
