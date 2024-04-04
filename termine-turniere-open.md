@@ -43,6 +43,11 @@ parent_title: Termine
 <td>Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/06/sv_osram_open_25.pdf" rel="noopener" target="_blank">25. SV OSRAM Open</a></td>
+<td>08.06.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.seniorenschach-brandenburg.de/2023/10/31/31-offenes-brandenburgisches-seniorenturnier-2024/" rel="noopener" target="_blank">31. offene Seniorenturnier in Miedzyzdroje</a></td>
 <td>14.06.-24.06.2024</td>
 <td>Hans-Dieter, Gerhard</td>
