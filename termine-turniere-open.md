@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://grenkechessopen.de/de/" rel="noopener" target="_blank">Grenke Chess Open</a></td>
-<td>28.03.-01.04.2024</td>
-<td>Mert</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-m-klasse.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft QT 2024</a></td>
 <td>30.03.-07.04.2024</td>
 <td>Jonatan, Felix</td>
@@ -38,14 +33,24 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>
+<td>25.04.2024</td>
+<td>ML Günter, Dieter, Rouven, Philipp, Magnus, Peter</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>24.05.-26.05.2024</td>
 <td>Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
+<td><strong>2. Kleeblatt-Turnier</strong> (mehr Infos demnächst)</td>
+<td>02.06.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/06/sv_osram_open_25.pdf" rel="noopener" target="_blank">25. SV OSRAM Open</a></td>
 <td>08.06.2024</td>
-<td></td>
+<td>Günter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.seniorenschach-brandenburg.de/2023/10/31/31-offenes-brandenburgisches-seniorenturnier-2024/" rel="noopener" target="_blank">31. offene Seniorenturnier in Miedzyzdroje</a></td>

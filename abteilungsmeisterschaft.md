@@ -160,7 +160,7 @@ parent_title: Turniere
 <td>Maiwald,Gunar</td>
 <td></td>
 <td>(0)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td>4.4.</td>
 </tr>
 <tr>
@@ -363,7 +363,7 @@ parent_title: Turniere
 <td>Horst,Juri</td>
 <td></td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td>29.2.</td>
 </tr>
 <tr>
