@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-m-klasse.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft QT 2024</a></td>
-<td>30.03.-07.04.2024</td>
-<td>Jonatan, Felix</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
 <td>19.04.-21.04.2024</td>
 <td></td>
@@ -38,12 +33,28 @@ parent_title: Termine
 <td>ML Günter, Dieter, Rouven, Philipp, Magnus, Peter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.tickettailor.com/events/lotzkulturug/1202726" rel="noopener" target="_blank">5 Jahre Chess &amp; Jazz</a></td>
+<td>27.04.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/b53eb5c3-9c67-4e04-8813-e7ebf1ca8624/BerlinerHalbmarathonBlitzschach%20neu.pdf" rel="noopener" target="_blank">ELO-Halbmarathon im Blitzschach</a></td>
+<td>11.05.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/cb0831b8-3b08-4979-bce6-f36aedec79fc/Berliner%20Schach-Triathlon%202024.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
+<td>12.05.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>24.05.-26.05.2024</td>
 <td>Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
-<td><strong>2. Kleeblatt-Turnier</strong> (mehr Infos demnächst)</td>
+<td><strong>2. Kleeblatt-Turnier</strong><br/>
+(mehr Infos demnächst)</td>
 <td>02.06.2024</td>
 <td></td>
 </tr>
@@ -70,6 +81,17 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2024</a></td>
 <td>10.08.-18.08.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
+<td>03.10.-06.10.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><strong>Kurt-Richter-Gedenkturnier 2024</strong><br/>
+(mehr Infos demnächst)</td>
+<td>01.11.-03.11.2024</td>
 <td></td>
 </tr>
 </tbody>
