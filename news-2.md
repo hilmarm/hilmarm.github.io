@@ -8,32 +8,39 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-12186 post type-post status-publish format-standard sticky hentry category-intern" id="post-12186">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark">Jahreshauptversammlung am 11.04.24</a></h2>
+<div class="post-12264 post type-post status-publish format-standard hentry category-skat" id="post-12264">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/" rel="bookmark">Skat ist kein Glücksspiel!</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark" title="11:32"><span class="entry-date">12. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/" rel="bookmark" title="7:56"><span class="entry-date">12. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Die Einladung zur Jahreshauptversammlung inkl. Wahl des Vorstandes und der Kassenprüfer solltet ihr per Mail erhalten haben.</p>
-<p>Im Mitgliederbereich findet ihr die Einladung auch nochmal komplett.<br/>
-<em><span style="color: #ff0000;">Update am 20.03.24 zu Beitragserhöhung BSV und deren Auswirkung</span>.</em></p>
-<p><strong>Termin: 11.04.24 um 18:30 Uhr</strong><br/>
-<strong>Ort: Kadiner Str. 1</strong></p>
+<p>Liebe Skatfreunde,</p>
+<p>hier endlich der Bericht zu unserem alljährlichem-mittlerweile-auf-Grün-Donnerstag-etabliertem-NARVA Skat-Turnier 😉 , ich wollte nicht den Hinweis auf unsere Jahreshauptversammlung von Platz 1 in der News-Liste verdrängen, aber auch mindestens zwei Tage lang (Dank an Thomas für den leicht verzögerten nächsten Bericht zu selbiger) ‚oben‘ in unseren News stehen 😉 .</p>
+<p>Zur Überschrift:<br/>
+In Abwesenheit des Siegers von 2022 (Jonatan) gewann der von 2021 (Peter – evtl. 😉 lag sein Sieg aber auch an den von ihm gesponserten neuen Karten, deren Piks zumindest dem Berichterstatter anfänglich arge Augenschmerzen bereiteten 😉 ) vor dem aus 2023 (Hilmar (I 😉 )), der Sieger davor war dann wohl eher doch etwas zufällig 😉 . Und auch der Dritte vom Vorjahr (Thomas T.) konnte diesen Platz bestätigen und so den damaligen Zweiten (Ekkehard) auf einen immer noch respektablen 4. Platz verweisen.</p>
+<p>Für die weiteren Ränge mit teilweise sehr knappen Abständen siehe Chronik.</p>
+<p>bis zum nächsten Jahr, dann mit hoffentlich noch mehr Teilnehmern (gute Hoffnung begründet – dieses Jahr +1 gegenüber den beiden Vorjahren trotz einiger leider verhinderter ‚Stammteilnehmer‘) wünscht Gut Blatt!</p>
+<p>Euer Klaus<br/>
+(der auch wieder etwas gelernt hat, nämlich rechtzeitig vorher zu überprüfen, ob auch hinreichend viele Listen vorhanden sind. – Dieses Problem konnte Dank Dieter im anfangs verzweifeltem Kampf gegen den Drucker bewältigt werden 😉 , nochmals vielen Dank, lieber Dr.)</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-12186 
+</div> #post-12264 
 <div class="post-12255 post type-post status-publish format-standard hentry category-openberichte" id="post-12255">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/" rel="bookmark">Grenke Open und QT zur BEM</a></h2>
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/" rel="bookmark">Grenke Open und QT zur BEM – Update</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/" rel="bookmark" title="13:01"><span class="entry-date">5. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Aktuell läuft in Lichtenrade das <strong>Qualifikationsturnier </strong>(QT)<strong> zur Berliner Einzelmeisterschaft </strong>(BEM). Von NARVA nehmen hier Jonatan und Felix teil.</p>
 <p>Nach 6 Runden haben beide 3 Punkte.<strong> Jonatan</strong> wird damit nicht ganz zufrieden sein, schafft er damit wieder einige DWZ-Punkte ab.</p>
 <p><strong>Felix</strong> dagegen spielt ein starkes Turnier und hat bis jetzt nur die Niederlage aus Runde 1, seit Runde 2 ist er ungeschlagen, 4x Remis und ein Sieg. So kommt er auf eine ELO-Performance von 1793!! In der Rating-Kategorie 1-1299 hat er z.Z. einen Punkt Vorsprung auf den nächsten.</p>
+<p><strong><span style="color: #ff0000;">– Endstand –</span></strong></p>
+<p>Die letzten 3 Runde brachten für <strong>Jonatan</strong> noch 2 volle Punkte und er kam am Ende mit 5 Punkten auf Platz 52 (Setzliste 61), trotzdem verliert er ca. 10 DWZ-Punkte, wird also nicht ganz zufrieden sein.</p>
+<p><strong>Felix</strong> musste in den Runden 7 und 8 Niederlagen hinnehmen und konnte erst in Runde 9 ein Remis erreichen. Damit war der Ratingpreis nicht mehr zu erreichen, aber trotzdem hat er mit am Ende 3,5 Punkten und Platz 94 (Setzliste 112) ein gutes Turnier gespielt und steigert sich in der DWZ von 1232 auf 1375!</p>
+<p>Leider gibt es auf der BSV weder Abschlusstabellen noch Ranglisten für die einzelnen Rating-Kategorien, es gibt nur die Ergebnisse auf Chess-Results.</p>
 <p><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-m-klasse.html" rel="noopener" target="_blank">Turnierseite beim BSV</a></p>
 <p><a href="https://chess-results.com/tnr904908.aspx?lan=0&amp;art=0&amp;fed=GER&amp;turdet=YES" rel="noopener" target="_blank">Ergebnisse auf Chess-Results</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554.jpg"><img alt="" class="alignnone wp-image-12256 size-medium" decoding="async" height="259" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-300x259.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-300x259.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-1024x884.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-768x663.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554.jpg 1376w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608.jpg"><img alt="" class="wp-image-12257 size-medium alignnone" decoding="async" height="247" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-1024x844.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-768x633.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-1536x1266.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608.jpg 1677w" width="300"/></a></p>
@@ -86,6 +93,24 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/15/maerz-schnellschach/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12209 
+<div class="post-12186 post type-post status-publish format-standard hentry category-intern" id="post-12186">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark">Jahreshauptversammlung am 11.04.24</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark" title="11:32"><span class="entry-date">12. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die Einladung zur Jahreshauptversammlung inkl. Wahl des Vorstandes und der Kassenprüfer solltet ihr per Mail erhalten haben.</p>
+<p>Im Mitgliederbereich findet ihr die Einladung auch nochmal komplett.<br/>
+<em><span style="color: #ff0000;">Update am 20.03.24 zu Beitragserhöhung BSV und deren Auswirkung</span>.</em></p>
+<p><strong>Termin: 11.04.24 um 18:30 Uhr</strong><br/>
+<strong>Ort: Kadiner Str. 1</strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12186 
 <div class="post-12165 post type-post status-publish format-standard hentry category-bfl" id="post-12165">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/07/bfl-runde-6-nullnummer-fast/" rel="bookmark">BFL Runde 6 – Nullnummer – fast</a></h2>
 <div class="entry-meta">
@@ -314,7 +339,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="3f442c47a4"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="c89cafedc7"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -484,22 +509,6 @@ Und auch der Anteil Frauen ist mit 2 von 52 ausbaufähig….</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11889 
-<div class="post-11878 post type-post status-publish format-standard hentry category-intern" id="post-11878">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/" rel="bookmark">Auch am 21. und 28.12. geöffnet</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/" rel="bookmark" title="7:41"><span class="entry-date">15. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Wir haben auch an den nächsten beiden Donnerstagen geöffnet. Ab 18 Uhr gibt es die Möglichkeit zum Schach spielen bei uns!</p>
-<p>Ihr dürft also auch gerne am 21. und 28.12.23 vorbei kommen, auch wenn kein Turnier o.ä. angesetzt ist.</p>
-<p>Auch Gäste sind herzlich willkommen!!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/auch-am-21-und-28-12-geoeffnet/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11878 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

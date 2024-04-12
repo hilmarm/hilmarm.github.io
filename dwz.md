@@ -173,8 +173,8 @@ navs:
 <td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
-<td>1738</td>
-<td>67</td>
+<td>1728</td>
+<td>68</td>
 <td>1678</td>
 </tr>
 <tr>
@@ -307,6 +307,14 @@ navs:
 </tr>
 <tr>
 <td>35.</td>
+<td><a href="http://www.schachbund.de/spieler/10796627.html" target="_blank"> Felix Salgueiro</a></td>
+<td></td>
+<td>1375</td>
+<td>4</td>
+<td></td>
+</tr>
+<tr>
+<td>36.</td>
 <td><a href="http://www.schachbund.de/spieler/10718317.html" target="_blank"> Gunar Maiwald</a></td>
 <td></td>
 <td>1357</td>
@@ -314,7 +322,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>36.</td>
+<td>37.</td>
 <td><a href="http://www.schachbund.de/spieler/10082176.html" target="_blank"> Michael Herrscher</a></td>
 <td></td>
 <td>1347</td>
@@ -322,7 +330,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>37.</td>
+<td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
 <td>1262</td>
@@ -330,7 +338,7 @@ navs:
 <td>1392</td>
 </tr>
 <tr>
-<td>38.</td>
+<td>39.</td>
 <td><a href="http://www.schachbund.de/spieler/10078511.html" target="_blank"> Manfred Heinrich</a></td>
 <td></td>
 <td>1253</td>
@@ -338,19 +346,11 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>39.</td>
+<td>40.</td>
 <td><a href="http://www.schachbund.de/spieler/10209542.html" target="_blank"> Manfred Smala</a></td>
 <td></td>
 <td>1232</td>
 <td>32</td>
-<td></td>
-</tr>
-<tr>
-<td>40.</td>
-<td><a href="http://www.schachbund.de/spieler/10796627.html" target="_blank"> Felix Salgueiro</a></td>
-<td></td>
-<td>1232</td>
-<td>3</td>
 <td></td>
 </tr>
 <tr>
