@@ -28,14 +28,19 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>
-<td>25.04.2024</td>
-<td>ML Günter, Dieter, Rouven, Philipp, Magnus, Peter</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.tickettailor.com/events/lotzkulturug/1202726" rel="noopener" target="_blank">5 Jahre Chess &amp; Jazz</a></td>
 <td>27.04.2024</td>
 <td></td>
+</tr>
+<tr style="height: 24px;">
+<td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>
+<td>09.05.2024</td>
+<td>ML Günter, Dieter, Rouven, Philipp, Magnus, Peter</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://chessence.de/turnier-anmeldung-2/" rel="noopener" target="_blank">CHESSENCE OPEN Berlin</a></td>
+<td>09.05.-12.05.2024</td>
+<td>Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://jimdo-storage.global.ssl.fastly.net/file/b53eb5c3-9c67-4e04-8813-e7ebf1ca8624/BerlinerHalbmarathonBlitzschach%20neu.pdf" rel="noopener" target="_blank">ELO-Halbmarathon im Blitzschach</a></td>
