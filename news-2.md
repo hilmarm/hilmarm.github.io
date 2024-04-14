@@ -17,10 +17,10 @@ navs:
 <p>hier endlich der Bericht zu unserem alljährlichem-mittlerweile-auf-Grün-Donnerstag-etabliertem-NARVA Skat-Turnier 😉 , ich wollte nicht den Hinweis auf unsere Jahreshauptversammlung von Platz 1 in der News-Liste verdrängen, aber auch mindestens zwei Tage lang (Dank an Thomas für den leicht verzögerten nächsten Bericht zu selbiger) ‚oben‘ in unseren News stehen 😉 .</p>
 <p>Zur Überschrift:<br/>
 In Abwesenheit des Siegers von 2022 (Jonatan) gewann der von 2021 (Peter – evtl. 😉 lag sein Sieg aber auch an den von ihm gesponserten neuen Karten, deren Piks zumindest dem Berichterstatter anfänglich arge Augenschmerzen bereiteten 😉 ) vor dem aus 2023 (Hilmar (I 😉 )), der Sieger davor war dann wohl eher doch etwas zufällig 😉 . Und auch der Dritte vom Vorjahr (Thomas T.) konnte diesen Platz bestätigen und so den damaligen Zweiten (Ekkehard) auf einen immer noch respektablen 4. Platz verweisen.</p>
-<p>Für die weiteren Ränge mit teilweise sehr knappen Abständen siehe Chronik.</p>
+<p>Für die weiteren Ränge mit teilweise sehr knappen Abständen <a href="https://www.narva-schach.de/wordpress/chronik/skat/">siehe Chronik</a>.</p>
 <p>bis zum nächsten Jahr, dann mit hoffentlich noch mehr Teilnehmern (gute Hoffnung begründet – dieses Jahr +1 gegenüber den beiden Vorjahren trotz einiger leider verhinderter ‚Stammteilnehmer‘) wünscht Gut Blatt!</p>
 <p>Euer Klaus<br/>
-(der auch wieder etwas gelernt hat, nämlich rechtzeitig vorher zu überprüfen, ob auch hinreichend viele Listen vorhanden sind. – Dieses Problem konnte Dank Dieter im anfangs verzweifeltem Kampf gegen den Drucker bewältigt werden 😉 , nochmals vielen Dank, lieber Dr.)</p>
+<em>(der auch wieder etwas gelernt hat, nämlich rechtzeitig vorher zu überprüfen, ob auch hinreichend viele Listen vorhanden sind. – Dieses Problem konnte Dank Dieter im anfangs verzweifeltem Kampf gegen den Drucker bewältigt werden 😉 , nochmals vielen Dank, lieber Dr.)</em></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -339,7 +339,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="11c049b349"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="b006b3c3ea"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->

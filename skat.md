@@ -212,12 +212,80 @@ parent_title: Chronik
 <td align="left">2023</td>
 <td align="left">Hilmar Petzold</td>
 </tr>
+<tr>
+<td align="left">2024</td>
+<td align="left">Peter Hintze</td>
+</tr>
 </tbody>
 </table>
 <h2 align="center"><span style="text-decoration: underline;"><b>!! Grand Ouvert !! </b>von Torsten Behrendt am 17.01.1991</span></h2>
 <p align="center"><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" rel="noopener" target="_blank"><img alt="grandouvert" class="aligncenter wp-image-543 size-full" decoding="async" height="351" sizes="(max-width: 255px) 100vw, 255px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert.jpg 255w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/grandouvert-218x300.jpg 218w" width="255"/></a></p>
 <h1 align="center"><strong><u>Einzelergebnisse</u></strong></h1>
 </div>
+<hr/>
+<h3>2024</h3>
+<h4>04. April 2024</h4>
+<table>
+<thead>
+<tr>
+<th>Platz</th>
+<th>Name</th>
+<th>Punkte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Peter Hintze</td>
+<td>1356</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Hilmar Petzold</td>
+<td>1111</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Thomas Totz</td>
+<td>1084</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Ekkehard Krüger</td>
+<td>1011</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Dr. Hans-Dieter Maetzing</td>
+<td>984</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Klaus Brinckmann</td>
+<td>759</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Wolfgang Mach</td>
+<td>512</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Tomas Segerberg</td>
+<td>272</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Jan-Hendrik Bahr</td>
+<td>254</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Eberhard Herrmann (G)</td>
+<td>248</td>
+</tr>
+</tbody>
+</table>
 <hr/>
 <h3>2023</h3>
 <h4>13. April 2023</h4>
