@@ -176,7 +176,8 @@ Seit 1998 ist die Abteilung Schach nun in der Kadiner Str. 1 zu Hause. Diese sta
 Ende 1992 waren 6 Interessenten im neuen Objekt Auerstr.17 zu zählen.<br/>
 5/92 übernimmt <strong>Manfred Smala</strong> diese Funktion und übte sie bis 2015 aus.<br/>
 Danach übernahm kurz <strong>Dirk Laurin</strong> die Position (<a href="https://www.narva-schach.de/wordpress/2017/04/15/schockierende-tiefe-trauer/">im April 2017 viel zu früh verstorben</a>), bis im April 2016 <strong>Alexander Kreisel</strong> zum Jugendwart gewählt wurde und bis heute aktiv ist. Auch er stammt aus der Jugendabteilung von NARVA, also ein „Eigengewächs“.</p>
-<p>Die Corona-Pandemie ab März 2020 unterbrach unsere Jugendarbeit dann komplett. Erst im Februar 2023 gab es einen Neustart mit Alexander Kreisel und <strong>Ekkehard Krüger</strong>.</p>
+<p>Die Corona-Pandemie ab März 2020 unterbrach unsere Jugendarbeit dann komplett. Erst im Februar 2023 gab es einen Neustart mit Alexander Kreisel und <strong>Ekkehard Krüger</strong>.<br/>
+Im April 2024 übernimmt Ekkehard dann auch das Amt vom Jugendwart im Vorstand.</p>
 <h1 align="center"><span style="text-decoration: underline;"><strong>Die Abteilung Schach in ihren „Besten Jahren“</strong></span><br/>
 <span style="text-decoration: underline;"><strong> Eine Zwischenbilanz nach 40 Jahren Schach</strong></span><br/>
 – 1990 –</h1>

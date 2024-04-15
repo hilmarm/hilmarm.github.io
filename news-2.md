@@ -8,6 +8,42 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12269 post type-post status-publish format-standard hentry category-intern category-sg-narva" id="post-12269">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/" rel="bookmark">Vorstand fast unverändert im Amt bestätigt</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/" rel="bookmark" title="6:22"><span class="entry-date">15. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Auf der <strong>Mitgliederversammlung</strong> am Donnerstag wurde der Vorstand fast unverändert im Amt bestätigt, nur auf der Position vom Jugendwart gibt es eine Änderung. Alexander verlässt den Vorstand, wird aber weiterhin im Jugendtraining aktiv sein. Als neuer <strong>Jugendwart</strong> wurde <strong>Ekkehard</strong> in den Vorstand gewählt.</p>
+<p>Die Kassenprüfer wurden komplett neu gewählt, da Hans-Dieter und Ulrich nicht mehr zur Wahl angetreten sind. Neu gewählt wurden <strong>Andreas Kinski</strong> und <strong>Magnus Keller</strong>.</p>
+<p>Außerdem wurde die <strong>Beitragserhöhung</strong> bei nur einer Enthaltung angenommen.<br/>
+Die Beiträge erhöhen sich also zum 01.01.2025 auf:<br/>
+<strong>5,50 €/Monat ermäßigt</strong><br/>
+<strong>9,00 €/Monat voll</strong><br/>
+Die Rabattmöglichkeit bis Ende Februar bleibt bestehen.</p>
+<p>Als Gast bei der Versammlung war mit <strong>Heiko Wagner der Vorsitzende der SG NARVA</strong> anwesend.<br/>
+Hier fand die Hauptversammlung mit Wahl bereits am 14.03.24 statt. Hier blieb der Vorstand komplett unverändert:<br/>
+Heiko Wagner (Handball) – Vorsitzender<br/>
+Sarah Pfeifer (Volleyball) – Vertreterin<br/>
+Thomas Mothes (Schach) – Kassenwart<br/>
+Martina Sampka (Handball) – Vertreterin für Besonderes</p>
+<p>Unter Sonstiges ging es dann noch um:</p>
+<ul>
+<li>BMM Saisonabschluss und die Suche nach einem Raum</li>
+<li>Die aktuelle Situation im RuDi</li>
+<li>Termin Kleeblatt-Turnier am 02.06.</li>
+<li>Termin KRT vom 01.11. – 03.11.</li>
+<li>Der inoffizielle Dienstag mit Anmerkungen dazu</li>
+<li>Getränke/Küche</li>
+</ul>
+<p>Alles weitere in den Protokollen im Mitgliederbereich.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a>, <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12269 
 <div class="post-12264 post type-post status-publish format-standard hentry category-skat" id="post-12264">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/" rel="bookmark">Skat ist kein Glücksspiel!</a></h2>
 <div class="entry-meta">
@@ -339,7 +375,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="b006b3c3ea"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="da8fb318be"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -485,30 +521,6 @@ Und auch der Anteil Frauen ist mit 2 von 52 ausbaufähig….</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11928 
-<div class="post-11889 post type-post status-publish format-standard hentry category-intern" id="post-11889">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/" rel="bookmark">Weihnachtsfeier / Jahresabschluss</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/" rel="bookmark" title="13:54"><span class="entry-date">15. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am 14.12. fand unsere jährliche Weihnachtsfeier statt. Dabei wurden die Sieger der internen Turniere geehrt. Hier noch einmal die Preisträger:</p>
-<p><strong>Abteilungsmeisterschaft:</strong> 1. <strong>Rouven Arnold</strong>, 2. Peter Hintze, 3. Dr. Hans-Dieter Maetzing, Ratingpreis U1600 Ulrich Campe, Ratingpreis U1400 Michael Herrscher<br/>
-<strong>Pokal:</strong> 1. <strong>Rudolf Lange</strong>, 2. Dr. Hans-Dieter Maetzing, 3. Jonatan Schenk<br/>
-<strong>Blitzschach:</strong> 1. <strong>Peter Hintze</strong>, 2. Tomas Segerberg, 3. Dr. Hans-Dieter Maetzing<br/>
-<strong>Schnellschach:</strong> 1. <strong>Peter Hintze</strong>, 2. Tomas Segerberg, 3. Klaus Brinckmann</p>
-<p>Ausnahmsweise wurde diesmal auch ein Gästepreis auf der Weihnachtsfeier vergeben, und zwar im Schnellschach an <strong>Jerome Düren</strong> (zuletzt vereinslos), der inzwischen bei uns Mitglied geworden ist. Der beste Gast im Blitzschach, <strong>Matthias Pröschild</strong> (Chemie Weißensee), bekommt seinen Preis bei passender Gelegenheit.</p>
-<p>Anschließend fand noch unser traditionelles <strong>Würfelblitzturnier</strong> statt. Hier gewann der Pokalsieger und Ex-Vize <strong>Rudolf Lange</strong> vor dem aktuellen Vize Jonatan Schenk. Im Stechen um den dritten Platz setzte sich Neumitglied Jan-Hendrik Bahr durch.</p>
-<p><a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2023.html" rel="noopener" target="_blank">Ergebnisse</a></p>
-<div class="wp-caption aligncenter" id="attachment_11884" style="width: 460px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11884" class="wp-image-11884" decoding="async" height="600" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231214-WA0003-225x300.jpg 225w" width="450"/></a><p class="wp-caption-text" id="caption-attachment-11884">Pokalsieger, Vorsitzender, Abteilungsmeister</p></div>
-<div class="wp-caption aligncenter" id="attachment_11885" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg"><img alt="" aria-describedby="caption-attachment-11885" class="wp-image-11885 size-large" decoding="async" height="480" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG-20231215-WA0003.jpg 1600w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-11885">Der Abteilungsmeister ist dieses mal blau/weiß</p></div>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#more-11889">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/15/weihnachtsfeier-jahresabschluss/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11889 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

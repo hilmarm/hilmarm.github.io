@@ -16,7 +16,8 @@ navs:
 <tr>
 <td align="left">
 <h4>Angaben gemäß § 5 TMG:</h4>
-<p>SG NARVA Berlin e. V. Abteilung Schach<br/>
+<p>Begegnungsstätte „Lebensfreude“<br/>
+SG NARVA Berlin e. V. Abteilung Schach<br/>
 Kadiner Str. 1<br/>
 10243 Berlin<br/>
 <a href="http://www.narva-schach.de">www.narva-schach.de</a></p>
@@ -68,7 +69,7 @@ spielleiter(at)narva-schach.de</li>
 Myriam Kügler<br/>
 kassenwart(at)narva-schach.de</li>
 <li><u><b>Jugendwart</b></u><br/>
-Alexander Kreisel &amp; Gerhard Mietzelfeldt<br/>
+Ekkehard Krüger<br/>
 jugendwart(at)narva-schach.de</li>
 </ul>
 </li>
