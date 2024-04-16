@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12292 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12292">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/" rel="bookmark">Ankündigung: Kleeblatt-Turnier 2024</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/" rel="bookmark" title="22:07"><span class="entry-date">15. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am 2. Juni tragen wir im RuDi wieder unser Kleeblatt-Turnier aus – ein offenes Turnier, bei dem an einem Tag drei DWZ-gewertete Partien spielt. Alles weitere in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/Kleeblatt-Turnier-2024.pdf">Ausschreibung</a> bzw. auf der <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/">Turnierseite</a>. Anmeldungen sind ab sofort möglich.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12292 
 <div class="post-12269 post type-post status-publish format-standard hentry category-intern category-sg-narva" id="post-12269">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/" rel="bookmark">Vorstand fast unverändert im Amt bestätigt</a></h2>
 <div class="entry-meta">
@@ -375,7 +389,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="da8fb318be"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="fd87d5e4fb"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -502,25 +516,6 @@ Und auch der Anteil Frauen ist mit 2 von 52 ausbaufähig….</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/01/02/neujahrsgruss-4/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-11939 
-<div class="post-11928 post type-post status-publish format-standard hentry category-interne-turniere" id="post-11928">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark">Interne Turniere 2024</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/" rel="bookmark" title="18:31"><span class="entry-date">22. Dezember 2023</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der <a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a> 2024 und die Ausschreibungen der <a href="https://www.narva-schach.de/wordpress/turniere/">internen Turniere</a> sind inzwischen veröffentlicht.</p>
-<p>Die ersten Anmeldungen gibt es auch schon:</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a><br/>
-<a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
-<p>Anmeldungen für Pokal und Abteilungsmeisterschaft <del datetime="2024-01-12T17:39:17+00:00">sind</del> waren auch direkt hier möglich (für Blitz und Schnellschach ist die Anmeldung am jeweiligen Spieltag ausreichend):</p>
-<p><em>Anmeldung abgeschlossen, Formular entfernt</em></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11928 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

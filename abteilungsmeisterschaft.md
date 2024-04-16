@@ -6,7 +6,8 @@ navs:
   Pokal: pokal
   Blitz: blitz
   Schnellschach: schnellschach
-  Kleeblatt-Turnier: kleeblatt-turnier
+  Kleeblatt-Turnier: kleeblatt-turnier-2024
+  Kleeblatt-Turnier 2022: kleeblatt-turnier-2022
   Training: training
   Ergebnisse melden: ergebnisse-melden
   Online Schach: online-chessmail-de
@@ -175,6 +176,18 @@ parent_title: Turniere
 <td>–</td>
 <td>9</td>
 <td>Pape,Philipp</td>
+<td>(0)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td>26</td>
+<td>Werner,Michael</td>
+<td>(0)</td>
+<td>–</td>
+<td>25</td>
+<td>Wäldrich,Oliver</td>
 <td>(0)</td>
 <td> –</td>
 <td></td>

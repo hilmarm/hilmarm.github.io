@@ -6,7 +6,8 @@ navs:
   Pokal: pokal
   Blitz: blitz
   Schnellschach: schnellschach
-  Kleeblatt-Turnier: kleeblatt-turnier
+  Kleeblatt-Turnier: kleeblatt-turnier-2024
+  Kleeblatt-Turnier 2022: kleeblatt-turnier-2022
   Training: training
   Ergebnisse melden: ergebnisse-melden
   Online Schach: online-chessmail-de

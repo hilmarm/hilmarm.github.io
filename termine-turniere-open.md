@@ -45,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://jimdo-storage.global.ssl.fastly.net/file/b53eb5c3-9c67-4e04-8813-e7ebf1ca8624/BerlinerHalbmarathonBlitzschach%20neu.pdf" rel="noopener" target="_blank">ELO-Halbmarathon im Blitzschach</a></td>
 <td>11.05.2024</td>
-<td></td>
+<td>Günter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://jimdo-storage.global.ssl.fastly.net/file/cb0831b8-3b08-4979-bce6-f36aedec79fc/Berliner%20Schach-Triathlon%202024.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
@@ -58,8 +58,7 @@ parent_title: Termine
 <td>Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
-<td><strong>2. Kleeblatt-Turnier</strong><br/>
-(mehr Infos demnächst)</td>
+<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/"><strong>2. Kleeblatt-Turnier</strong></a></td>
 <td>02.06.2024</td>
 <td></td>
 </tr>
