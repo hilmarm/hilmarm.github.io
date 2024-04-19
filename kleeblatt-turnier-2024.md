@@ -23,6 +23,7 @@ parent_title: Turniere
 <h2>Vorangemeldete Teilnehmer</h2>
 <ol>
 <li>Dr. Herbert Mayer (SSV Rotation Berlin, DWZ 1631)</li>
+<li>Silvio Brandt (BSV 63 Chemie Weißensee, DWZ 1864)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 

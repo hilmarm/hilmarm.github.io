@@ -18,11 +18,70 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Pokal-2024.pdf">Ausschreibung</a></p>
+<h2>3. Runde am 13. Juni</h2>
+<table class="clean swiss footable" id="runde1">
+<thead>
+<tr>
+<th>Weiß</th>
+<th>Schwarz</th>
+<th>Ergeb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mach</td>
+<td>Arnold</td>
+<td></td>
+</tr>
+<tr>
+<td>Krüger</td>
+<td>Hintze</td>
+<td></td>
+</tr>
+<tr>
+<td>Mothes</td>
+<td>Mietzelfeldt</td>
+<td></td>
+</tr>
+<tr>
+<td>Pape</td>
+<td>Dr. Maetzing</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>2. Runde am 18. April</h2>
-<p>Kreisel – Dr. Maetzing<br/>
-Maiwald – Pape<br/>
-Hintze – Dr. Heinrich<br/>
-Mothes – Herrscher</p>
+<table class="clean swiss footable" id="runde1">
+<thead>
+<tr>
+<th>Weiß</th>
+<th>Schwarz</th>
+<th>Ergeb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Kreisel</td>
+<td><strong>Dr. Maetzing</strong></td>
+<td>0 : 1</td>
+</tr>
+<tr>
+<td>Maiwald</td>
+<td><strong>Pape</strong></td>
+<td>0 : 1</td>
+</tr>
+<tr>
+<td><strong>Hintze</strong></td>
+<td>Dr. Heinrich</td>
+<td>1 : 0</td>
+</tr>
+<tr>
+<td><strong>Mothes</strong></td>
+<td>Herrscher</td>
+<td>1 : 0</td>
+</tr>
+</tbody>
+</table>
 <h2>1. Runde am 15. Februar</h2>
 <table class="clean swiss footable" id="runde1">
 <thead>
@@ -36,63 +95,63 @@ Mothes – Herrscher</p>
 <tbody>
 <tr>
 <td>Brinckmann</td>
-<td>Dr. Maetzing</td>
+<td><strong>Dr. Maetzing</strong></td>
 <td>0 : 1</td>
 </tr>
 <tr>
 <td>Cattaneo</td>
-<td>Mach</td>
+<td><strong>Mach</strong></td>
 <td>0 : 1</td>
 </tr>
 <tr>
 <td>Lange</td>
-<td>Hintze</td>
+<td><strong>Hintze</strong></td>
 <td>½ : ½</td>
 <td>0 : 2</td>
 </tr>
 <tr>
-<td>Pape</td>
+<td><strong>Pape</strong></td>
 <td>W. Heinrich</td>
 <td>1 : 0</td>
 </tr>
 <tr>
-<td>Maiwald</td>
+<td><strong>Maiwald</strong></td>
 <td>Magnusson</td>
 <td>1 : 0</td>
 </tr>
 <tr>
 <td>v. Kraft</td>
-<td>Dr. Heinrich</td>
+<td><strong>Dr. Heinrich</strong></td>
 <td>– : +</td>
 </tr>
 <tr>
-<td>Krüger</td>
+<td><strong>Krüger</strong></td>
 <td>Campe</td>
 <td>1 : 0</td>
 </tr>
 <tr>
-<td>Arnold</td>
+<td><strong>Arnold</strong></td>
 <td>Schenk</td>
 <td>½ : ½</td>
 <td>1½ : ½</td>
 </tr>
 <tr>
 <td>Eichstädt</td>
-<td>Herrscher</td>
+<td><strong>Herrscher</strong></td>
 <td>0 : 1</td>
 </tr>
 <tr>
 <td>Bahr</td>
-<td>Mothes</td>
+<td><strong>Mothes</strong></td>
 <td>0 : 1</td>
 </tr>
 <tr>
-<td>Kreisel</td>
+<td><strong>Kreisel</strong></td>
 <td>Steppuhn</td>
 <td>1 : 0</td>
 </tr>
 <tr>
-<td>Mietzelfeldt</td>
+<td><strong>Mietzelfeldt</strong></td>
 <td>Stüve</td>
 <td>1 : 0</td>
 </tr>
