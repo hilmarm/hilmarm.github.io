@@ -23,19 +23,14 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Darmstadt</a></td>
-<td>19.04.-21.04.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.tickettailor.com/events/lotzkulturug/1202726" rel="noopener" target="_blank">5 Jahre Chess &amp; Jazz</a></td>
 <td>27.04.2024</td>
-<td></td>
+<td>Batu</td>
 </tr>
 <tr style="height: 24px;">
 <td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>
 <td>09.05.2024</td>
-<td>ML Günter, Dieter, Rouven, Philipp, Magnus, Peter</td>
+<td>2 Mannschaften Günter, Tomas, Dieter, Rouven, Philipp, Magnus, Peter, Thomas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://chessence.de/turnier-anmeldung-2/" rel="noopener" target="_blank">CHESSENCE OPEN Berlin</a></td>

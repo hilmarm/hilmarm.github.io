@@ -280,7 +280,7 @@ parent_title: Turniere
 <td>10</td>
 <td>Mietzelfeldt,Ger</td>
 <td>(1)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>

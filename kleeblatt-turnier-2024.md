@@ -24,6 +24,9 @@ parent_title: Turniere
 <ol>
 <li>Dr. Herbert Mayer (SSV Rotation Berlin, DWZ 1631)</li>
 <li>Silvio Brandt (BSV 63 Chemie Weißensee, DWZ 1864)</li>
+<li>Wieslaw Młynarski (ohne Verein, Elo 1567)</li>
+<li>Milosz Młynarski (SV Empor Berlin, DWZ 1443)</li>
+<li>Nala Sarah Młynarska (SV Empor Berlin, ohne DWZ) </li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
