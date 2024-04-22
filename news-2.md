@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12320 post type-post status-publish format-standard hentry category-bmm" id="post-12320">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/" rel="bookmark">BMM Runde 8 – 2 klare Siege</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/" rel="bookmark" title="18:28"><span class="entry-date">21. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>2 Siege und eine Niederlage in der vorletzten Runde der BMM.</p>
+<p><strong>NARVA 1</strong> verliert knapp gegen <strong>Berolina Mitte 4</strong> mit <strong>3,5:4,5</strong>. Es geht für die Erste aber um nichts mehr und es war auch deren letzte Runde, da man Runde 9 spielfrei hat.</p>
+<p><strong>NARVA 2</strong> überrollt <strong>Motor Wildau 1</strong> mit <strong>7:1</strong>!! Ganz stark! Beim Stand von 7:0 gelingt Wildau noch der Ehrentreffer. Damit ist auch der Klassenerhalt sicher und Wildau muss eine Klasse tiefer.</p>
+<p><strong>NARVA 3</strong> gewinnt auch deutlich gegen <strong>Eckturm 2</strong>, mit <strong>5,5:0,5</strong> gibt es für den Gegner nur einen halben Brettpunkt.</p>
+<p>Danke an alle die heute fleißig beim Aufbauen geholfen haben und natürlich für die starken Ergebnisse der Zweiten und Dritten.</p>
+<p>Ergebnisse und Bilder</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/#more-12320">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12320 
 <div class="post-12292 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12292">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/" rel="bookmark">Ankündigung: Kleeblatt-Turnier 2024</a></h2>
 <div class="entry-meta">
@@ -389,7 +409,7 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <li>19:00 Uhr <small>(44%, 4 Votes)</small><div class="pollbar" style="width: 44%;" title="19:00 Uhr (44% | 4 Votes)"></div></li>
 <li>Egal <small>(33%, 3 Votes)</small><div class="pollbar" style="width: 33%;" title="Egal (33% | 3 Votes)"></div></li>
 </ul><p style="text-align: center;">Total Voters: <strong>9</strong></p></div>
-<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="cf2a92834e"/>
+<input id="poll_10_nonce" name="wp-polls-nonce" type="hidden" value="620e3558e6"/>
 </div>
 <div class="wp-polls-loading" id="polls-10-loading"><img alt="Wird geladen ..." class="wp-polls-image" height="16" src="https://www.narva-schach.de/wordpress/wp-content/plugins/wp-polls/images/loading.gif" title="Wird geladen ..." width="16"/> Wird geladen ...</div>
 </div><!-- .entry-content -->
@@ -451,71 +471,6 @@ Bericht von Nord-Ost: <a href="https://sfr-nordost.berlin/content/spielbericht-2
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/01/18/4-runde-bmm-und-bfl/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12005 
-<div class="post-11939 post type-post status-publish format-standard hentry category-intern" id="post-11939">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/01/02/neujahrsgruss-4/" rel="bookmark">Neujahrsgruß</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/01/02/neujahrsgruss-4/" rel="bookmark" title="22:38"><span class="entry-date">2. Januar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Hallo Team NARVA!</p>
-<p>Und wieder beginnt ein Neues Jahr! Ich wünsche Euch allen ein gesundes und erfolgreiches Jahr 2024! Der Präsident verabschiedet sich direkt erstmal in den Urlaub.</p>
-<p>Ich denke wir hatten eine schöne <strong>Jahresabschlussfeier</strong>, <a href="https://www.narva-schach.de/dateien/chronik/blitzjahres2023.html" rel="noopener" target="_blank">Ergebnisse</a><br/>
-Dafür möchte ich mich auch noch bei Klaus bedanken, dass er bis tief in die Nacht noch aufgeräumt und geputzt hat!</p>
-<p>Die <strong>internen Turniere für 2024</strong> sind bereits ausgeschrieben, die ersten Anmeldungen liegen auch schon vor, bis <strong>11.01.24</strong> könnt ihr noch melden, dann wird Pokal und Abteilungsmeisterschaft ausgelost! Auch der <strong>Terminplan</strong> ist schon online.</p>
-<p><a href="https://www.narva-schach.de/wordpress/2023/12/22/interne-turniere-2024/">Anmeldung interne Turniere</a><br/>
-<a href="https://www.narva-schach.de/wordpress/termine/">Terimplan</a></p>
-<p>Die <strong>BMM</strong> geht am 14.01.24 weiter – die <strong>BFL</strong> dann in der Woche danach. In der BMM stehen für 1. und 2. Mannschaft richtungsweisende Runden im Januar an. Besetzungsprobleme haben wir wohl nicht, aber wir wollen natürlich in den bestmöglichen Aufstellungen spielen. In der BFL sah es zuletzt sehr eng aus, hier wäre eine höhere Spielbereitschaft schön und für die ML entspannter. Hier spielen alle 3 Mannschaften am 17.01. bei den Schachfreunden.</p>
-<p>Wie bereits zur Weihnachtsfeier erwähnt, steht zur <strong>Mitgliederversammlung</strong> am 11.04.24 auch die Wahl für den Vorstand an. So wie es bis jetzt aussieht, machen alle vom aktuellen Vorstand weiter.<br/>
-Wir würden uns natürlich über Verstärkung im Vorstand freuen! Aufgaben gibt es immer.<br/>
-Einen neuen Kassenprüfer werden wir auf jeden Fall benötigen.</p>
-<p>Was steht noch in <strong>2024</strong> an?</p>
-<p>Natürlich soll es wieder ein <strong>Kurt-Richter-Turnier</strong> geben. Und da es 2023 so gut lief, wahrscheinlich gleicher Ort und ähnlicher Ablauf. Einen Termin können wir bestimmen, wenn die BMM-Termine für 24/25 stehen.</p>
-<p>Wir werden auch versuchen das <strong>Kleeblatt-Turnier</strong> wie 2022 wieder durchführen zu können.</p>
-<p>Auswärts soll es wieder nach <strong>Erftstadt</strong> gehen, aber auch das Traditionelle Turnier in <strong>Altrip</strong> steht im Juli auf dem Programm.<br/>
-Einige Anmeldungen für die <strong>DSAM Turniere</strong> gibt es auch schon. <strong>Potsdam</strong>, gleich zum Jahresstart, ist schon ausgebucht, von uns sind Andreas und Oliver am Start – Viel Erfolg. <strong>Stuttgart</strong>, <strong>Magdeburg</strong> und wahrscheinlich auch <strong>Travemünde</strong> sind schon mit NARVA Spielern geplant. Auf dem Magdeburg Termin liegt nur leider eine BMM Runde…..<br/>
-<a href="https://www.narva-schach.de/wordpress/termine/termine-turniere-open/">Siehe</a></p>
-<p>Der <strong>Hauptverein</strong> plant aktuell eine komplette <strong>Neugestaltung der Homepage</strong>. Aktuell ist diese (<a href="https://www.sg-narva.de/" rel="noopener" target="_blank">www.sg-narva.de</a>) zu 99% eine Handball-Homepage. Nun sollen auch die anderen Abteilungen, vorrangig Volleyball und Boxen, die nach Umstrukturierungen im Vorstand zur Zeit eine deutliche Verstärkung erfahren, mehr Raum bekommen. Die SG NARVA hat dafür auch einen Fördertopf vom DOSB angezapft und sich die damit verbundene professionelle Hilfe gesucht. Da wir als einzige Abteilung über eine eigene Webseite verfügen und diese auch sehr umfangreich ist, wird noch zu klären sein, wie unsere Seite verknüpft wird und/oder sich dann vom Design anpassen wird. Auch die neue Hauptseite soll WordPress verwenden.<br/>
-Der ganze Prozess wird aber sicher noch einige Zeit 2024 dauern.</p>
-<p>Unsere <strong>Mitgliederentwicklung</strong> war im letzten Jahr sehr positiv, Stand 1.1.2024 sind wir jetzt <strong>52</strong>. Zwischendurch waren wir sogar 56, aber zum Jahresende gibt es traditionell die Abmeldung von inaktiven Mitgliedern. Zuletzt hatten wir 1989 insgesamt 52 Mitglieder, damals jedoch 32 U18!</p>
-<p>Was fehlt, siehe auch Grafik unten, ist also vor allem der Bereich U18. Unsere Kinder-/Jugendabteilung sollte auch demnächst wieder Zuwachs bekommen. Hoffe ich….<br/>
-Und auch der Anteil Frauen ist mit 2 von 52 ausbaufähig….</p>
-<div class="wp-caption aligncenter" id="attachment_11845" style="width: 460px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Mitglieder-Diagramm-1950_2024.jpg"><img alt="" aria-describedby="caption-attachment-11845" class="wp-image-11845" decoding="async" height="291" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Mitglieder-Diagramm-1950_2024-300x194.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Mitglieder-Diagramm-1950_2024-300x194.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Mitglieder-Diagramm-1950_2024-1024x661.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Mitglieder-Diagramm-1950_2024-768x496.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Mitglieder-Diagramm-1950_2024.jpg 1161w" width="450"/></a><p class="wp-caption-text" id="caption-attachment-11845">Mitgliederentwicklung jeweils Stand 1.1.<br/>Aktuell 52 wie schon beim letzten Hoch 1989. Nur damals 32 Jugendliche!</p></div>
-<div class="wp-caption aligncenter" id="attachment_11944" style="width: 460px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74.jpg"><img alt="" aria-describedby="caption-attachment-11944" class="wp-image-11944" decoding="async" height="270" loading="lazy" sizes="(max-width: 450px) 100vw, 450px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74-300x180.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74-1024x614.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74-768x461.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74-1536x922.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/394bc30d-45b5-42d9-8ff0-e1143f069f74.jpg 2000w" width="450"/></a><p class="wp-caption-text" id="caption-attachment-11944">Altersverteilung der aktuellen Mitglieder</p></div>
-<p>Hier noch die Mitgliederzahlen der Abteilungen bei NARVA (insgesamt 821 Mitglieder):</p>
-<table>
-<tbody>
-<tr>
-<td>Handball</td>
-<td>581</td>
-</tr>
-<tr>
-<td>Schach</td>
-<td>52</td>
-</tr>
-<tr>
-<td>Volleyball</td>
-<td>48</td>
-</tr>
-<tr>
-<td>Boxen</td>
-<td>36</td>
-</tr>
-<tr>
-<td>Freizeit (80) Turnen (13) Gymnastik (11)</td>
-<td>93</td>
-</tr>
-</tbody>
-</table>
-<p>Bereits im März gibt es einen runden Geburtstag zu feiern. <strong>Unser ältestes Mitglied wird 90!</strong> Ich werde diesbezüglich im Februar noch auf Euch zukommen.</p>
-<p><strong>So hoffe ich auf ein erfolgreiches und trotzdem ruhiges Jahr 2024 und wünsche Euch alles Gute!</strong></p>
-<p>Thomas Mothes</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/01/02/neujahrsgruss-4/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-11939 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
