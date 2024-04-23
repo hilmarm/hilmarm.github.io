@@ -80,7 +80,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2024</a></td>
 <td>10.08.-18.08.2024</td>
-<td></td>
+<td>Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
