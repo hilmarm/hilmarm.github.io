@@ -34,6 +34,13 @@ parent_title: Turniere
 <li>Ismaele Cattaneo (SG NARVA Berlin, ohne DWZ)</li>
 <li>Hilmar Magnusson (SG NARVA Berlin, DWZ 1629)</li>
 <li>Onno Zhang (SSV Rotation Berlin, DWZ 1514)</li>
+<li>Martin Sebastian (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 1809)</li>
+<li>Karl Gersemann (TSG Oberschöneweide, DWZ 1768)</li>
+<li>Olaf Gersemann (TSG Oberschöneweide, DWZ 1153)</li>
+<li>Hartmut Riedel (SC 1977 Zitadelle Spandau, DWZ 2154)</li>
+<li>Hans-Joachim Kaufhold (SC Weisse Dame, DWZ 1086)</li>
+<li>Jeremy Wadepfuhl (SC Borussia Lichtenberg, DWZ 1945)</li>
+<li>Harald Krawczyk (SG Rot-Weiß Neuenhagen, DWZ 1386)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
