@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.tickettailor.com/events/lotzkulturug/1202726" rel="noopener" target="_blank">5 Jahre Chess &amp; Jazz</a></td>
 <td>27.04.2024</td>
-<td>Batu</td>
+<td>Batu, Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>

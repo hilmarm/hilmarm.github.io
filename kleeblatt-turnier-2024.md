@@ -41,6 +41,8 @@ parent_title: Turniere
 <li>Hans-Joachim Kaufhold (SC Weisse Dame, DWZ 1086)</li>
 <li>Jeremy Wadepfuhl (SC Borussia Lichtenberg, DWZ 1945)</li>
 <li>Harald Krawczyk (SG Rot-Weiß Neuenhagen, DWZ 1386)</li>
+<li>Sebastian Steinkühler (SV Berolina Mitte, DWZ 1706)</li>
+<li>Niklas Langer (SCC Eintracht Berlin, DWZ 1537)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
