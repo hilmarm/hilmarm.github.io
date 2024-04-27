@@ -42,7 +42,12 @@ parent_title: Turniere
 <li>Jeremy Wadepfuhl (SC Borussia Lichtenberg, DWZ 1945)</li>
 <li>Harald Krawczyk (SG Rot-Weiß Neuenhagen, DWZ 1386)</li>
 <li>Sebastian Steinkühler (SV Berolina Mitte, DWZ 1706)</li>
-<li>Niklas Langer (SCC Eintracht Berlin, DWZ 1537)</li>
+<li>Niklas Langer (SC Eintracht Berlin, DWZ 1537)</li>
+<li>Angela Hülß (BSV 63 Chemie Weißensee, DWZ 1378)</li>
+<li>Philipp Nonnenmacher (SK CAISSA Hermsdorf-Frohnau, DWZ 1615)</li>
+<li>Martin Langbein (SC Eintracht Berlin, DWZ 1025)</li>
+<li>Andreas Ziepa (SC Kreuzberg, DWZ 823)</li>
+<li>Christoph Döpmann (SF Nord-Ost Berlin, DWZ 1491)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
