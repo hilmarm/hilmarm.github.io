@@ -48,6 +48,9 @@ parent_title: Turniere
 <li>Martin Langbein (SC Eintracht Berlin, DWZ 1025)</li>
 <li>Andreas Ziepa (SC Kreuzberg, DWZ 823)</li>
 <li>Christoph Döpmann (SF Nord-Ost Berlin, DWZ 1491)</li>
+<li>Alexander Hülß (BSV 63 Chemie Weißensee, DWZ 1569)</li>
+<li>Lev Jozsa (SV Berolina Mitte, DWZ 1026)</li>
+<li>Tiago Bobe Rimoldi (SC Borussia Lichtenberg, ohne DWZ)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
