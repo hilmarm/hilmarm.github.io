@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.tickettailor.com/events/lotzkulturug/1202726" rel="noopener" target="_blank">5 Jahre Chess &amp; Jazz</a></td>
-<td>27.04.2024</td>
-<td>Batu, Mert</td>
-</tr>
-<tr style="height: 24px;">
 <td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>
 <td>09.05.2024</td>
 <td>2 Mannschaften Günter, Tomas, Dieter, Rouven, Philipp, Magnus, Peter, Thomas</td>
@@ -40,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://jimdo-storage.global.ssl.fastly.net/file/b53eb5c3-9c67-4e04-8813-e7ebf1ca8624/BerlinerHalbmarathonBlitzschach%20neu.pdf" rel="noopener" target="_blank">ELO-Halbmarathon im Blitzschach</a></td>
 <td>11.05.2024</td>
-<td>Günter</td>
+<td>Günter, Andreas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://jimdo-storage.global.ssl.fastly.net/file/cb0831b8-3b08-4979-bce6-f36aedec79fc/Berliner%20Schach-Triathlon%202024.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
