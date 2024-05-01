@@ -37,8 +37,8 @@ navs:
 <td>1.</td>
 <td><a href="http://www.schachbund.de/spieler/10013642.html" target="_blank"> Bram Van Den Berg</a></td>
 <td></td>
-<td>2197</td>
-<td>62</td>
+<td>2229</td>
+<td>63</td>
 <td>2179</td>
 </tr>
 <tr>

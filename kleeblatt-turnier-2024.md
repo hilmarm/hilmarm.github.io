@@ -51,6 +51,7 @@ parent_title: Turniere
 <li>Alexander Hülß (BSV 63 Chemie Weißensee, DWZ 1569)</li>
 <li>Lev Jozsa (SV Berolina Mitte, DWZ 1026)</li>
 <li>Tiago Bobe Rimoldi (SC Borussia Lichtenberg, ohne DWZ)</li>
+<li>Daria Horodnycha (SC Eintracht Berlin, ohne DWZ)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
