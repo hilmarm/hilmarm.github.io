@@ -52,6 +52,9 @@ parent_title: Turniere
 <li>Lev Jozsa (SV Berolina Mitte, DWZ 1026)</li>
 <li>Tiago Bobe Rimoldi (SC Borussia Lichtenberg, ohne DWZ)</li>
 <li>Daria Horodnycha (SC Eintracht Berlin, ohne DWZ)</li>
+<li>Torsten Miowitz (SG Lasker Steglitz-Wilmersdorf, DWZ 1815)</li>
+<li>Aleksandr Vinogradov (SG Lasker Steglitz-Wilmersdorf, DWZ 1545)</li>
+<li>Lavinia Kampa (SG Lasker Steglitz-Wilmersdorf, DWZ 1646)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
