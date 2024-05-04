@@ -55,6 +55,13 @@ parent_title: Turniere
 <li>Torsten Miowitz (SG Lasker Steglitz-Wilmersdorf, DWZ 1815)</li>
 <li>Aleksandr Vinogradov (SG Lasker Steglitz-Wilmersdorf, DWZ 1545)</li>
 <li>Lavinia Kampa (SG Lasker Steglitz-Wilmersdorf, DWZ 1646)</li>
+<li>Torsten Eichstädt (SG NARVA Berlin, DWZ 1262)</li>
+<li>Matthias Pröschild (BSV 63 Chemie Weißensee, DWZ 1830)</li>
+<li>Mathilda Bächle (ohne Verein, ohne DWZ)</li>
+<li>Antje-Christine Krüger (TSG Rot-Weiß Fredersdorf/Vogelsdorf)</li>
+<li>Noah Szameitpreiks (TSG Rot-Weiß Fredersdorf/Vogelsdorf)</li>
+<li>Andy Wesner (ESV Waren, DWZ 1135)</li>
+<li>Katrin Hildebrand (SG NARVA Berlin, DWZ 1649)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
