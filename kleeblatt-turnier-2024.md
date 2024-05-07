@@ -30,14 +30,12 @@ parent_title: Turniere
 <li>Lara Hafermann (SC Borussia Lichtenberg, DWZ 1673)</li>
 <li>Jörg Fuchs (ohne Verein, Elo 1846)</li>
 <li>Ilja Köppen (BSV 63 Chemie Weißensee, DWZ 1436)</li>
-<li>René Kellner (Potsdamer SV Mitte, DWZ 1516)</li>
 <li>Ismaele Cattaneo (SG NARVA Berlin, ohne DWZ)</li>
 <li>Hilmar Magnusson (SG NARVA Berlin, DWZ 1629)</li>
 <li>Onno Zhang (SSV Rotation Berlin, DWZ 1514)</li>
 <li>Martin Sebastian (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 1809)</li>
 <li>Karl Gersemann (TSG Oberschöneweide, DWZ 1768)</li>
 <li>Olaf Gersemann (TSG Oberschöneweide, DWZ 1153)</li>
-<li>Hartmut Riedel (SC 1977 Zitadelle Spandau, DWZ 2154)</li>
 <li>Hans-Joachim Kaufhold (SC Weisse Dame, DWZ 1086)</li>
 <li>Jeremy Wadepfuhl (SC Borussia Lichtenberg, DWZ 1945)</li>
 <li>Harald Krawczyk (SG Rot-Weiß Neuenhagen, DWZ 1386)</li>
@@ -58,10 +56,15 @@ parent_title: Turniere
 <li>Torsten Eichstädt (SG NARVA Berlin, DWZ 1262)</li>
 <li>Matthias Pröschild (BSV 63 Chemie Weißensee, DWZ 1830)</li>
 <li>Mathilda Bächle (ohne Verein, ohne DWZ)</li>
-<li>Antje-Christine Krüger (TSG Rot-Weiß Fredersdorf/Vogelsdorf)</li>
-<li>Noah Szameitpreiks (TSG Rot-Weiß Fredersdorf/Vogelsdorf)</li>
+<li>Antje-Christine Krüger (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 1536)</li>
+<li>Noah Szameitpreiks (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 789)</li>
 <li>Andy Wesner (ESV Waren, DWZ 1135)</li>
 <li>Katrin Hildebrand (SG NARVA Berlin, DWZ 1649)</li>
+<li>Eiko Bleicher (SK CAISSA Hermsdorf-Frohnau, DWZ 1807)</li>
+<li>Adrian Klein (SK CAISSA Hermsdorf-Frohnau, ohne DWZ)</li>
+<li>Vsevolod Vinogradov (SG Lasker Steglitz-Wilmerssdorf, DWZ 1067)</li>
+<li>Levi Studdert (SSV Rotation Berlin, DWZ 1245)</li>
+<li>Fabian Schön (SG Rot-Weiß Neuenhagen, DWZ 1526)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
