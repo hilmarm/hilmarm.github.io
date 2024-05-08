@@ -72,11 +72,11 @@ parent_title: Chronik
 <tr>
 <td align="CENTER">2024</td>
 <td align="CENTER">Klasse 1</td>
-<td align="CENTER"></td>
+<td align="CENTER">3.</td>
 <td align="CENTER">Klasse 1</td>
-<td align="CENTER"></td>
+<td align="CENTER">6.</td>
 <td align="CENTER">Klasse 3</td>
-<td align="CENTER"></td>
+<td align="CENTER">4.</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>

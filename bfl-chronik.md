@@ -69,11 +69,11 @@ parent_title: Chronik
 <tr>
 <td>2024</td>
 <td>Staffel A</td>
-<td></td>
+<td>7.</td>
 <td>Staffel B</td>
-<td></td>
+<td>8.</td>
 <td>Staffel C</td>
-<td></td>
+<td>7.</td>
 </tr>
 <tr>
 <td><a href="https://www.narva-schach.de/wordpress/chronik/bfl-chronik/bfl-2023/">2023</a></td>
@@ -113,7 +113,7 @@ parent_title: Chronik
 <tr>
 <td><a href="http://www.narva-schach.de/wordpress/chronik/bfl-chronik/bfl-2018/">2018</a></td>
 <td>Staffel C</td>
-<td>3. (Aufstieg)</td>
+<td>3.</td>
 <td></td>
 <td></td>
 </tr>

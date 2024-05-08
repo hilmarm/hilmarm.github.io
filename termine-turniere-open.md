@@ -45,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>24.05.-26.05.2024</td>
-<td>Rudolf, Thomas ??</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/"><strong>2. Kleeblatt-Turnier</strong></a></td>
