@@ -65,6 +65,8 @@ parent_title: Turniere
 <li>Vsevolod Vinogradov (SG Lasker Steglitz-Wilmerssdorf, DWZ 1067)</li>
 <li>Levi Studdert (SSV Rotation Berlin, DWZ 1245)</li>
 <li>Fabian Schön (SG Rot-Weiß Neuenhagen, DWZ 1526)</li>
+<li>Jan-Michael Harndt (ohne Verein, Elo 1984)</li>
+<li>Simon Baumann (HSK Lister Turm, DWZ 1573)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
