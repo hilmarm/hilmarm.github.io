@@ -62,11 +62,14 @@ parent_title: Turniere
 <li>Katrin Hildebrand (SG NARVA Berlin, DWZ 1649)</li>
 <li>Eiko Bleicher (SK CAISSA Hermsdorf-Frohnau, DWZ 1807)</li>
 <li>Adrian Klein (SK CAISSA Hermsdorf-Frohnau, ohne DWZ)</li>
-<li>Vsevolod Vinogradov (SG Lasker Steglitz-Wilmerssdorf, DWZ 1067)</li>
+<li>Vsevolod Vinogradov (SG Lasker Steglitz-Wilmersdorf, DWZ 1067)</li>
 <li>Levi Studdert (SSV Rotation Berlin, DWZ 1245)</li>
 <li>Fabian Schön (SG Rot-Weiß Neuenhagen, DWZ 1526)</li>
 <li>Jan-Michael Harndt (ohne Verein, Elo 1984)</li>
 <li>Simon Baumann (HSK Lister Turm, DWZ 1573)</li>
+<li>Philipp Pape (SG NARVA Berlin, DWZ 1629)</li>
+<li>Norbert Koriath (SC Eintracht Berlin, DWZ 1508)</li>
+<li>Tim Zussner (SV Empor Berlin, DWZ 1469)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
