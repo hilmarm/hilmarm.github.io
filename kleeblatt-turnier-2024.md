@@ -17,6 +17,7 @@ parent_title: Turniere
 <div class="post-12284 page type-page status-publish hentry" id="post-12284">
 <h1 class="entry-title">Kleeblatt-Turnier</h1>
 <div class="entry-content">
+<p><strong>Das Turnier ist ausgebucht! Weitere Interessenten kommen auf die Warteliste.</strong></p>
 <p>Am 2. Juni 2024 tragen wir im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin, wieder ein <b>Kleeblatt-Turnier</b> aus. </p>
 <p>Das (<i>vier</i>blättrige) Kleeblatt steht dabei für die <i>Vierergruppen</i>, in denen jeweils ein DWZ-gewertetes Rundenturnier gespielt wird. Das Turnier richtet sich ausdrücklich an Spieler <i>aller</i> Spielstärken und Altersgruppen, eine Mitgliedschaft in einem Schachverein ist nicht erforderlich.</p>
 <p>Alle weiteren Informationen findet ihr in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/Kleeblatt-Turnier-2024.pdf">Ausschreibung</a>.</p>
@@ -70,6 +71,14 @@ parent_title: Turniere
 <li>Philipp Pape (SG NARVA Berlin, DWZ 1629)</li>
 <li>Norbert Koriath (SC Eintracht Berlin, DWZ 1508)</li>
 <li>Tim Zussner (SV Empor Berlin, DWZ 1469)</li>
+<li>Elian von Gehlen (TSG Oberschöneweide, DWZ 1192)</li>
+<li>Samuel von Gehlen (TSG Oberschöneweide, DWZ 1214)</li>
+<li>Maxime Varazi (SV Empor Berlin, DWZ 1534)</li>
+<li>Matteo Vinogradov (TSG Oberschöneweide, DWZ 1144)</li>
+</ol>
+<h2>Warteliste</h2>
+<ol>
+<li>…</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 

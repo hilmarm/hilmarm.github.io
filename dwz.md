@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1995</td>
-<td>459</td>
+<td>1987</td>
+<td>460</td>
 <td>1982</td>
 </tr>
 <tr>
@@ -238,7 +238,7 @@ navs:
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
 <td>1587</td>
-<td>104</td>
+<td>105</td>
 <td>1708</td>
 </tr>
 <tr>
