@@ -52,7 +52,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/11/himmelfahrts-blitz-in-weissensee/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/11/himmelfahrts-blitz-in-weissensee/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12383 
 <div class="post-12362 post type-post status-publish format-standard hentry category-bmm" id="post-12362">
