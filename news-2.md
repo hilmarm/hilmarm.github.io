@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12413 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12413">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark">Schnellschach GP mit Schachbücher</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark" title="20:12"><span class="entry-date">14. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>Donnerstag</strong> 16.06. findet die 3.Runde vom <strong>NARVA Schnellschach GP 2024</strong> statt!<br/>
+– Beginn 18:15 Uhr<br/>
+– Bedenkzeit 12+3<br/>
+– Modus je nach Teilnehmerzahl – meist 5 Runden Schweizer System<br/>
+– Gäste sind natürlich herzlich willkommen!!<br/>
+– kein Startgeld<br/>
+– Es gibt Sachpreise vom Schweden!!*</p>
+<p><em>* Tomas hat sein Bücherregal aufgeräumt und als Sachpreise diverse Schachbücher mitgebracht!! </em><br/>
+<em>Es gibt also auch mehrere Preise, nicht nur für den Ersten!</em></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12413 
 <div class="post-12409 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12409">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/12/kleeblatt-turnier-ausgebucht/" rel="bookmark">Kleeblatt-Turnier ausgebucht!</a></h2>
 <div class="entry-meta">
@@ -450,29 +472,6 @@ Dies war auch das längste Spiel des Tages von allen drei Mannschaften. An den b
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/16/1-runde-abteilung-und-pokal/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12085 
-<div class="post-12068 post type-post status-publish format-standard hentry category-openberichte" id="post-12068">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/02/12/berliner-seniorenmeisterschaft-2024/" rel="bookmark">Berliner Seniorenmeisterschaft 2024</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/02/12/berliner-seniorenmeisterschaft-2024/" rel="bookmark" title="11:28"><span class="entry-date">12. Februar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Vom 30.01. bis 08.02.24 fand bei der TSG Oberschöneweide die <strong>Berliner Senioren Einzelmeisterschaft 2024</strong> statt. Von NARVA waren am Start <strong>Hans-Dieter</strong>, <strong>Ekkehard</strong>, <strong>Gerhard</strong> und <strong>Ulrich</strong> dabei.</p>
-<p><strong>Ekkehard</strong> musste das Turnier nach 4 Runden und 2 Punkten beenden, die anderen spielten die 9 Runden durch.</p>
-<p>Am Ende bester NARVA-Mann war <strong>Ulrich</strong> auf Platz 40 (Setzliste Rang 67) mit 5 Punkten!<br/>
-Nur einen halben Buchholzpunkt dahinter auf Platz 42 (Setzliste 47) beendete <strong>Hans-Dieter</strong> das Turnier.<br/>
-<strong>Gerhard</strong> kam auch deutlich vor seinem Setzlistenplatz 69, auf Platz 54 mit 4,5 Punkten, ins Ziel.</p>
-<p>In der Mannschaftswertung belegten wir am Ende einen guten 7.Platz.</p>
-<p><a href="https://www.berlinerschachverband.de/40-berliner-senioren-einzelmeisterschaft-2024.html" rel="noopener" target="_blank">Turnierseite</a><br/>
-<a href="https://chess-results.com/tnr837599.aspx?lan=0" rel="noopener" target="_blank">Ergebnisse bei Chess-Results</a></p>
-<p>Fotos aus Runde 5 <em>(von Thomas)</em> und Runde 6 <em>(von Hans-Dieter)</em></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138.jpg"><img alt="" class="size-medium wp-image-12069 alignnone" decoding="async" height="300" loading="lazy" sizes="(max-width: 247px) 100vw, 247px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138-247x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138-247x300.jpg 247w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138-844x1024.jpg 844w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138-768x932.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138-1266x1536.jpg 1266w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100138.jpg 1404w" width="247"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147.jpg"><img alt="" class="size-medium wp-image-12070 alignnone" decoding="async" height="300" loading="lazy" sizes="(max-width: 244px) 100vw, 244px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147-244x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147-244x300.jpg 244w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147-833x1024.jpg 833w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147-768x944.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147-1250x1536.jpg 1250w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147-1666x2048.jpg 1666w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100147.jpg 1710w" width="244"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258.jpg"><img alt="" class="size-medium wp-image-12071 alignnone" decoding="async" height="300" loading="lazy" sizes="(max-width: 214px) 100vw, 214px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258-214x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258-214x300.jpg 214w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258-731x1024.jpg 731w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258-768x1075.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258-1097x1536.jpg 1097w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258-1463x2048.jpg 1463w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100258.jpg 1468w" width="214"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334.jpg"><img alt="" class="size-medium wp-image-12072 alignnone" decoding="async" height="300" loading="lazy" sizes="(max-width: 184px) 100vw, 184px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334-184x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334-184x300.jpg 184w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334-627x1024.jpg 627w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334-768x1254.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334-941x1536.jpg 941w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334-1255x2048.jpg 1255w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240203_100334.jpg 1502w" width="184"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018.jpg"><img alt="" class="size-medium wp-image-12073 alignnone" decoding="async" height="169" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018-1024x576.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018-1536x864.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/IMG-20240205-WA0018.jpg 1600w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/12/berliner-seniorenmeisterschaft-2024/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12068 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

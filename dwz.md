@@ -371,6 +371,14 @@ navs:
 </tr>
 <tr>
 <td>43.</td>
+<td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
+<td></td>
+<td>1215</td>
+<td>9</td>
+<td>0</td>
+</tr>
+<tr>
+<td>44.</td>
 <td><a href="http://www.schachbund.de/spieler/10830175.html" target="_blank"> Wolfgang Mach</a></td>
 <td></td>
 <td>1208</td>
@@ -378,7 +386,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>44.</td>
+<td>45.</td>
 <td><a href="http://www.schachbund.de/spieler/10745115.html" target="_blank"> Myriam Kügler</a></td>
 <td></td>
 <td>1107</td>
@@ -386,7 +394,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>45.</td>
+<td>46.</td>
 <td><a href="http://www.schachbund.de/spieler/10273928.html" target="_blank"> Thomas Totz</a></td>
 <td></td>
 <td>1104</td>
@@ -394,7 +402,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>46.</td>
+<td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10620251.html" target="_blank"> Frieder Arms</a></td>
 <td></td>
 <td>1081</td>
@@ -402,7 +410,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>47.</td>
+<td>48.</td>
 <td><a href="http://www.schachbund.de/spieler/10405586.html" target="_blank"> Jasper Maiwald</a></td>
 <td></td>
 <td>871</td>
@@ -410,7 +418,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>48.</td>
+<td>49.</td>
 <td><a href="http://www.schachbund.de/spieler/10778617.html" target="_blank"> Jayasurian Makkoth</a></td>
 <td></td>
 <td></td>
@@ -418,7 +426,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>49.</td>
+<td>50.</td>
 <td><a href="http://www.schachbund.de/spieler/10783153.html" target="_blank"> Silas Maiwald</a></td>
 <td></td>
 <td></td>
@@ -426,7 +434,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>50.</td>
+<td>51.</td>
 <td><a href="http://www.schachbund.de/spieler/10830173.html" target="_blank"> Juri Horst</a></td>
 <td></td>
 <td></td>
@@ -434,7 +442,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>51.</td>
+<td>52.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
 <td></td>
@@ -442,7 +450,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>52.</td>
+<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10840349.html" target="_blank"> Jan Kühnel</a></td>
 <td></td>
 <td></td>
@@ -450,7 +458,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>53.</td>
+<td>54.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td></td>
@@ -458,7 +466,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>54.</td>
+<td>55.</td>
 <td><a href="http://www.schachbund.de/spieler/10858405.html" target="_blank"> Juri Deicke</a></td>
 <td></td>
 <td></td>
@@ -466,7 +474,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>55.</td>
+<td>56.</td>
 <td><a href="http://www.schachbund.de/spieler/10858491.html" target="_blank"> Ismaele Cattaneo</a></td>
 <td></td>
 <td></td>
