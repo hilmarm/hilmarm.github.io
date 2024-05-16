@@ -28,9 +28,7 @@ parent_title: Turniere
 <li>Wieslaw Młynarski (ohne Verein, Elo 1567)</li>
 <li>Milosz Młynarski (SV Empor Berlin, DWZ 1443)</li>
 <li>Nala Sarah Młynarska (SV Empor Berlin, ohne DWZ)</li>
-<li>Lara Hafermann (SC Borussia Lichtenberg, DWZ 1673)</li>
 <li>Jörg Fuchs (ohne Verein, Elo 1846)</li>
-<li>Ilja Köppen (BSV 63 Chemie Weißensee, DWZ 1436)</li>
 <li>Ismaele Cattaneo (SG NARVA Berlin, ohne DWZ)</li>
 <li>Hilmar Magnusson (SG NARVA Berlin, DWZ 1629)</li>
 <li>Onno Zhang (SSV Rotation Berlin, DWZ 1514)</li>

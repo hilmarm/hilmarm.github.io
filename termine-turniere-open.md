@@ -23,26 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><strong>Himmelfahrtsblitz SG Weißensee</strong></td>
-<td>09.05.2024</td>
-<td>2 Mannschaften Günter, Tomas, Dieter, Rouven, Philipp, Magnus, Peter, Thomas, Jonatan</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://chessence.de/turnier-anmeldung-2/" rel="noopener" target="_blank">CHESSENCE OPEN Berlin</a></td>
-<td>09.05.-12.05.2024</td>
-<td>Oliver, Michael W.</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/b53eb5c3-9c67-4e04-8813-e7ebf1ca8624/BerlinerHalbmarathonBlitzschach%20neu.pdf" rel="noopener" target="_blank">ELO-Halbmarathon im Blitzschach</a></td>
-<td>11.05.2024</td>
-<td>Günter, Andreas</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://jimdo-storage.global.ssl.fastly.net/file/cb0831b8-3b08-4979-bce6-f36aedec79fc/Berliner%20Schach-Triathlon%202024.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
-<td>12.05.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>24.05.-26.05.2024</td>
 <td></td>
@@ -65,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachklub-altrip.de/Flyer%20Fischerfest%202024.pdf" rel="noopener" target="_blank">Fischerfestblitz Altrip</a></td>
 <td>07.07.2024</td>
-<td>Bram, Norbert, Rudolf, Thomas und Ex&amp;Hopp</td>
+<td>Norbert, Rudolf, Thomas und Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2024/" rel="noopener" target="_blank">Kreuzberger Sommer 2024</a></td>
