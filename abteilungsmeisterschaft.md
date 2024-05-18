@@ -220,8 +220,8 @@ parent_title: Turniere
 <td>8</td>
 <td>Magnusson,Hilmar</td>
 <td>(1)</td>
-<td> –</td>
-<td>16.5.</td>
+<td>0 – 1</td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -352,7 +352,7 @@ parent_title: Turniere
 <td>24</td>
 <td>Cattaneo,Ismaele</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>

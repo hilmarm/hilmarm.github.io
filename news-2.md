@@ -8,28 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-12413 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-12413">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark">Schnellschach GP mit Schachbücher</a></h2>
+<div class="post-12428 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12428">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/17/gerhard-gewinnt-mit-5-aus-5/" rel="bookmark">Gerhard gewinnt mit 5 aus 5!!</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark" title="20:12"><span class="entry-date">14. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/17/gerhard-gewinnt-mit-5-aus-5/" rel="bookmark" title="19:26"><span class="entry-date">17. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Am <strong>Donnerstag</strong> 16.06. findet die 3.Runde vom <strong>NARVA Schnellschach GP 2024</strong> statt!<br/>
-– Beginn 18:15 Uhr<br/>
-– Bedenkzeit 12+3<br/>
-– Modus je nach Teilnehmerzahl – meist 5 Runden Schweizer System<br/>
-– Gäste sind natürlich herzlich willkommen!!<br/>
-– kein Startgeld<br/>
-– Es gibt Sachpreise vom Schweden!!*</p>
-<p><em>* Tomas hat sein Bücherregal aufgeräumt und als Sachpreise diverse Schachbücher mitgebracht!! </em><br/>
-<em>Es gibt also auch mehrere Preise, nicht nur für den Ersten!</em></p>
+<p>Überraschungssieger beim Schnellschach gestern. Die <strong>3. Runde</strong> im <strong>NARVA Schnellschach GP</strong> fand gestern mit 12 Teilnehmern statt, von den Favoriten auf den Gesamtsieg bzw. vordere Plätze fehlten Peter, Jerry (spielte nebenan Abteilungsmeisterschaft und verlor gegen Hilmar) und Jonatan. Damit rechneten sich Tomas und Klaus fette Punkte für die Gesamtwertung aus. Es kam anders.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-scaled.jpg"><img alt="" class="alignleft size-medium wp-image-12429" decoding="async" height="134" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-300x134.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-300x134.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-1024x457.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-768x343.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-1536x686.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_205201-2048x915.jpg 2048w" width="300"/></a></p>
+<p>Klaus gab schon früh im Turnier Punkte ab, <strong>Tomas</strong> war zumindest bis zur letzten Runde noch im Rennen um den Tagessieg. <strong>Gerhard</strong> hatte sich jedoch schon in einen Rausch gespielt und ging mit 4 aus 4 in das Duell mit Tomas in der letzten Runde. Tomas hatte dann auch eine Figur mehr, übersah aber ein Schach und verliert. Damit gewinnt Gerhard mit 5 Siegen in 5 Runden und Tomas verliert sogar noch Platz 2 an mich um einen halben Buchholzpunkt!</p>
+<p>In der Gesamtwertung liegt nun trotzdem Klaus vorn, Platz 5 und 5 Punkte reichten um die Führung zu übernehmen. Tomas rückt auf Rang 3 ganz nah an die Spitze.</p>
+<p>Tomas hatte Buchpreise gespendet, diese reichten für alle Teilnehmer. <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-12432" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240516_195812-2048x1536.jpg 2048w" width="300"/></a></p>
+<p>Mit <strong>Amer</strong> gab es auch wieder ein neues Mitglied! Herzlich willkommen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/" rel="noopener">Ergebnisse</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/17/gerhard-gewinnt-mit-5-aus-5/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-12413 
+</div> #post-12428 
 <div class="post-12421 post type-post status-publish format-standard hentry category-openberichte" id="post-12421">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/16/chessence-in-berlin/" rel="bookmark">Chessence in Berlin</a></h2>
 <div class="entry-meta">
@@ -55,7 +53,7 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/15/3x-narva-beim-halbmarathon/" rel="bookmark" title="13:57"><span class="entry-date">15. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton.jpg"><img alt="" class="size-medium wp-image-12417 alignleft" decoding="async" height="259" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton-300x259.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton-300x259.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton-768x662.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton.jpg 800w" width="300"/></a>Nein, nicht beim Lauf, beim <strong>Berliner ELO-Halbmarathon</strong> im Blitzschach von Rotation Berlin im Rathaus Mitte. Dieser fand am 11.05.24, Samstag nach Himmelfahrt, statt.<br/>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton.jpg"><img alt="" class="size-medium wp-image-12417 alignleft" decoding="async" height="259" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton-300x259.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton-300x259.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton-768x662.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/halbmaraton.jpg 800w" width="300"/></a>Nein, nicht beim Lauf, beim <strong>Berliner ELO-Halbmarathon</strong> im Blitzschach von Rotation Berlin im Rathaus Mitte. Dieser fand am 11.05.24, Samstag nach Himmelfahrt, statt.<br/>
 Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>Andreas </strong>am Start. Alle 3 in der unteren Hälfte gesetzt, es ging um den Spaß, Spielerfahrung und zumindest Günter und Philipp waren ja noch vom Donnerstag im Blitzmodus.</p>
 <p>Gespielt wurden 15 Runden, je 2 Partien, im Modus 3+2, inkl. ELO Auswertung.</p>
 <p>Turniersieger wurde IM Ilja Schneider.</p>
@@ -74,6 +72,28 @@ Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>A
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/15/3x-narva-beim-halbmarathon/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12416 
+<div class="post-12413 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12413">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark">Schnellschach GP mit Schachbücher</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark" title="20:12"><span class="entry-date">14. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>Donnerstag</strong> 16.06. findet die 3.Runde vom <strong>NARVA Schnellschach GP 2024</strong> statt!<br/>
+– Beginn 18:15 Uhr<br/>
+– Bedenkzeit 12+3<br/>
+– Modus je nach Teilnehmerzahl – meist 5 Runden Schweizer System<br/>
+– Gäste sind natürlich herzlich willkommen!!<br/>
+– kein Startgeld<br/>
+– Es gibt Sachpreise vom Schweden!!*</p>
+<p><em>* Tomas hat sein Bücherregal aufgeräumt und als Sachpreise diverse Schachbücher mitgebracht!! </em><br/>
+<em>Es gibt also auch mehrere Preise, nicht nur für den Ersten!</em></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12413 
 <div class="post-12409 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12409">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/12/kleeblatt-turnier-ausgebucht/" rel="bookmark">Kleeblatt-Turnier ausgebucht!</a></h2>
 <div class="entry-meta">
@@ -95,7 +115,7 @@ Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>A
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/11/himmelfahrts-blitz-in-weissensee/" rel="bookmark" title="11:26"><span class="entry-date">11. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Zum 13. Mal fand dieses Jahr das <strong>Himmelfahrts-Blitz der SG Weißensee</strong> statt. Gleichzeitig feierte sie dabei ihren <strong>75. Geburtstag!</strong> Wir hatten auch ein Geschenk dabei! <em>(nur wir eigentlich?)</em></p>
-<div class="wp-caption alignleft" id="attachment_12386" style="width: 160px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-scaled.jpg"><img alt="" aria-describedby="caption-attachment-12386" class="wp-image-12386 size-thumbnail" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-144x144.jpg 144w" width="150"/></a><p class="wp-caption-text" id="caption-attachment-12386">Unser Geschenk</p></div>
+<div class="wp-caption alignleft" id="attachment_12386" style="width: 160px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-scaled.jpg"><img alt="" aria-describedby="caption-attachment-12386" class="wp-image-12386 size-thumbnail" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240504_124032-144x144.jpg 144w" width="150"/></a><p class="wp-caption-text" id="caption-attachment-12386">Unser Geschenk</p></div>
 <p>Es waren wieder viele befreundete Vereine eingeladen (Nord-Ost, Berolina Mitte, Rotation Berlin, TSG Oberschöneweide usw.), viele brachten gleich 2 Mannschaften mit, so auch NARVA. Insgesamt fanden sich so 14 Teams ein, es wäre sogar Platz für 16 gewesen.</p>
 <p>Team NARVA war bis Mittwoch noch mit 10 Interessenten ausreichend besetzt, dann gab es jedoch ein paar Ausfälle und wir waren nur noch 7. Lukas machte sich dann, mehr oder weniger direkt aus der Nachtschicht, auf dem Weg, damit wir noch „voll“ (sowohl als auch) werden.</p>
 <p><strong>NARVA 1</strong> bestand dann aus <strong>Rouven</strong>, <strong>Tomas</strong>, <strong>Jonatan</strong> und <strong>Günter</strong> – Setzlistenplatz 5.<br/>
@@ -431,29 +451,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/24/nur-alle-28-jahre/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12125 
-<div class="post-12119 post type-post status-publish format-standard hentry category-bfl" id="post-12119">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/02/23/runde-5-der-bfl/" rel="bookmark">Runde 5 der BFL</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/02/23/runde-5-der-bfl/" rel="bookmark" title="19:49"><span class="entry-date">23. Februar 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Diese Woche fand Runde 5 zur <strong>BFL</strong> statt. Die 3 NARVA Mannschaften hatten jeweils Heimspiele und kamen auf 2 Unentschieden und eine Niederlage.</p>
-<p><strong>NARVA 1</strong> bekam es gestern mit <strong>Zitadelle Spandau</strong> zu tun und da FM Michael Schulz unsere Clubräume sehen wollte, war die Hoffnung und Vorbereitung von <strong>Jonatan</strong> dahin. An Brett 1 war die Partie dann auch schnell mit einer Niederlage für Jonatan entschieden, noch davor trennten sich <strong>Manfred</strong> und Terry van der Veen Remis – mehr war hier auch nicht drin. Da <strong>Ekkehard</strong> schon sehr passiv stand und eher dabei war die Stellung irgendwie zusammen zu halten, sah es zeitig nach einer Niederlage für die Erste aus. Erst als <strong>mein</strong> sehr schnell spielender Gegner patzte und dann von meinem Angriff etwas überrascht war, kam wieder Hoffnung auf. Nach meinem Sieg hätte Ekkehard aber zumindest Remis spielen müssen, was ihm aber nicht mehr gelang. So gab es eine knappe <strong>1,5:2,5</strong> Niederlage.</p>
-<p>Aktuell liegt NARVA 1 auf Platz 6 (von 8), allerdings spielen die beiden Verfolger noch gegeneinander und wir müssen gegen 1 und 3 ran.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12120" decoding="async" height="155" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome-300x155.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome-300x155.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome-768x396.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/Screenshot_20240222_232722_Chrome.jpg 961w" width="300"/></a></p>
-<p><strong>NARVA 2</strong> kam am Dienstag zu einem <strong>2:2</strong> Unentschieden gegen <strong>SK International Schach Experten SG 1</strong> (was für ein Name…). Hier holte <strong>Batu</strong> einen vollen Punkt, <strong>Klaus</strong> und Neuzugang <strong>Mert</strong> spielten Remis, <strong>Tom</strong> verliert.</p>
-<p>NARVA 2 bleibt damit Letzter und muss im nächsten Spiel gegen Mariendorf gewinnen um noch den letzten Strohhalm zum Klassenerhalt zu greifen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030.jpg"><img alt="" class="aligncenter size-medium wp-image-12122" decoding="async" height="167" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-300x167.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-300x167.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030-768x428.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181030.jpg 854w" width="300"/></a></p>
-<p>Auch <strong>NARVA 3</strong> sammelte zumindest einen Punkt und spielte auch <strong>2:2</strong>. Gegen <strong>Kreuzberg 4</strong> konnten <strong>Philipp</strong> und <strong>Juri</strong> gewinnen, <strong>Torsten</strong> und <strong>Ingo</strong> verlieren.</p>
-<p>NARVA 3 liegt auf Platz 7 und muss noch gegen den Letzten spielen, absteigen kann man aber wohl nicht….</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145.jpg"><img alt="" class="aligncenter size-medium wp-image-12121" decoding="async" height="160" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145-300x160.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145-300x160.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145-768x409.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/02/20240223_181145.jpg 922w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/02/23/runde-5-der-bfl/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12119 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
