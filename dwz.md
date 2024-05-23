@@ -69,7 +69,7 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1981</td>
+<td>1982</td>
 <td>462</td>
 <td>1982</td>
 </tr>
@@ -139,6 +139,14 @@ navs:
 </tr>
 <tr>
 <td>14.</td>
+<td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
+<td></td>
+<td>1813</td>
+<td>8</td>
+<td>1705</td>
+</tr>
+<tr>
+<td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
 <td></td>
 <td>1759</td>
@@ -146,7 +154,7 @@ navs:
 <td>1753</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
 <td></td>
 <td>1753</td>
@@ -154,20 +162,12 @@ navs:
 <td>1615</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>17.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1749</td>
 <td>72</td>
 <td>1823</td>
-</tr>
-<tr>
-<td>17.</td>
-<td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
-<td></td>
-<td>1739</td>
-<td>7</td>
-<td>1705</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -221,7 +221,7 @@ navs:
 <td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
-<td>1622</td>
+<td>1621</td>
 <td>84</td>
 <td>1738</td>
 </tr>
@@ -261,7 +261,7 @@ navs:
 <td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
-<td>1520</td>
+<td>1519</td>
 <td>50</td>
 <td>0</td>
 </tr>

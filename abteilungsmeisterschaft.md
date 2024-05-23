@@ -70,7 +70,7 @@ parent_title: Turniere
 <td>Düren,Jerome</td>
 <td>(1)</td>
 <td> –</td>
-<td></td>
+<td>??</td>
 </tr>
 <tr>
 <td>4</td>
@@ -106,7 +106,7 @@ parent_title: Turniere
 <td>Heinrich,Wesko</td>
 <td>(1)</td>
 <td> –</td>
-<td></td>
+<td>4.7.</td>
 </tr>
 <tr>
 <td>7</td>

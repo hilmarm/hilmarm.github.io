@@ -73,10 +73,12 @@ parent_title: Turniere
 <li>Samuel von Gehlen (TSG Oberschöneweide, DWZ 1214)</li>
 <li>Maxime Varazi (SV Empor Berlin, DWZ 1534)</li>
 <li>Matteo Vinogradov (TSG Oberschöneweide, DWZ 1144)</li>
+<li>Kirill Zavyalov (SSV Rotation Berlin, DWZ 1181)</li>
+<li>Sarvesh Sivakumar (SK Tempelhof 1931, ohne DWZ)</li>
 </ol>
 <h2>Warteliste</h2>
 <ol>
-<li>…</li>
+<li>Valentin Köhler (SV Empor Berlin, DWZ 1331)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
