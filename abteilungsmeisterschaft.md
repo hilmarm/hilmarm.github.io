@@ -45,7 +45,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Maetzing,Hans-Di</td>
 <td>(2)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -57,7 +57,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Schenk,Jonatan</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -81,7 +81,7 @@ parent_title: Turniere
 <td>7</td>
 <td>Campe,Ulrich</td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -93,7 +93,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Herrscher,Michae</td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ parent_title: Turniere
 <td>22</td>
 <td>Bahr,Jan-Hendrik</td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Brinckmann,Klaus</td>
 <td>(½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -153,7 +153,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Kreisel,Alexande</td>
 <td>(0)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -177,7 +177,7 @@ parent_title: Turniere
 <td>9</td>
 <td>Pape,Philipp</td>
 <td>(0)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>

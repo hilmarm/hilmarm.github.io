@@ -229,7 +229,7 @@ navs:
 <td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
-<td>1604</td>
+<td>1603</td>
 <td>3</td>
 <td>0</td>
 </tr>

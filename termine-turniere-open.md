@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
-<td>24.05.-26.05.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/"><strong>2. Kleeblatt-Turnier</strong></a></td>
 <td>02.06.2024</td>
 <td></td>
@@ -35,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/06/sv_osram_open_25.pdf" rel="noopener" target="_blank">25. SV OSRAM Open</a></td>
 <td>08.06.2024</td>
-<td>Günter</td>
+<td>Günter, Gerhard, Lukas?</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.seniorenschach-brandenburg.de/2023/10/31/31-offenes-brandenburgisches-seniorenturnier-2024/" rel="noopener" target="_blank">31. offene Seniorenturnier in Miedzyzdroje</a></td>

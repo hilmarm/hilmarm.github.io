@@ -79,6 +79,10 @@ parent_title: Turniere
 <h2>Warteliste</h2>
 <ol>
 <li>Valentin Köhler (SV Empor Berlin, DWZ 1331)</li>
+<li>Nikita Faidun (TuS Makkabi Berlin, DWZ 1429)</li>
+<li>Yevhenii Zatenko (SG Lasker Steglitz-Wilmersdorf, DWZ 920)</li>
+<li>Jan-Hendrik Bahr (SG NARVA Berlin, DWZ 1013)</li>
+<li>Lukas von Kraft (SG NARVA Berlin, DWZ 1476)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
