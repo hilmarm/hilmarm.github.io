@@ -8,6 +8,32 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12455 post type-post status-publish format-standard hentry category-interne-turniere category-nicht-kategorisiert-de" id="post-12455">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/" rel="bookmark">Abteilungsmeisterschaft Runde 3</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/" rel="bookmark" title="19:43"><span class="entry-date">24. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern gab es <strong>Runde 3</strong> zur <strong>Abteilungsmeisterschaft 2024</strong>. Ein Großteil der Partien wurde auch schon gespielt, einige werden nachgeholt.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12453" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-144x144.jpg 144w" width="150"/></a></p>
+<p>Im Spitzenspiel zwischen <strong>Peter</strong> und <strong>Hans-Dieter</strong> gab es ein Remis, Hans-Dieter konnte trotz Minusbauern alle Gewinnversuche von Peter abwehren. <strong>Himar</strong>, der jüngere, gewann gegen <strong>Ulrich</strong> und bleibt damit mit 3 Punkten ungeschlagen. Auch bei 3 Punkten steht nun <strong>Ekkehard</strong>, der beim Jakobsweg Kraft getankt hat und im eigentlich ausgeglichenen Damenendspiel noch <strong>Jonatan</strong> eiskalt überrumpelte.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12454" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-144x144.jpg 144w" width="150"/></a></p>
+<p>Im Verfolgerfeld konnte <strong>ich</strong> einen schnellen Sieg gegen <strong>Michael H.</strong> erreichen, <strong>Lukas</strong> gewinnt gegen <strong>Jan-Hendrik</strong> und <strong>Alexander</strong> gegen <strong>Manfred</strong>.</p>
+<p>Ein Remis gab es zwischen <strong>Detlef</strong> und <strong>Philipp</strong>, sowie zwischen <strong>Ismaele</strong> und <strong>Klaus</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Ergebnisse</a><br/>
+Peter Hans-Dieter ½:½<br/>
+Ekkehard Jonatan 1:0<br/>
+Hilmar Ulrich 1:0<br/>
+Thomas Michael 1:0<br/>
+Lukas Jan-Hendrik 1:0<br/>
+Ismaele Klaus ½:½<br/>
+Manfred Alexander 0:1<br/>
+Detlef Philipp ½:½</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/nicht-kategorisiert-de/" rel="category tag">Nicht kategorisiert</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12455 
 <div class="post-12442 post type-post status-publish format-standard hentry category-bfl category-bmm category-dwz" id="post-12442">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/21/dwz-auswertung-bfl-bmm/" rel="bookmark">DWZ Auswertung BFL &amp; BMM</a></h2>
 <div class="entry-meta">
@@ -16,10 +42,10 @@ navs:
 <p>Am Wochenende gab es die DWZ Auswertungen für BFL und BMM.</p>
 <p>Bei der <strong>BFL</strong> gab es sehr viel Minus:<br/>
 Mit +27 ist <strong>Hilmar</strong> hier der Beste, gefolgt von <strong>Tom</strong> +15 und <strong>Günter</strong> +14 sowie <strong>Torsten</strong> +7. Mehr Plus gab es nicht…..</p>
-<div class="wp-caption aligncenter" id="attachment_12440" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat.jpg"><img alt="" aria-describedby="caption-attachment-12440" class="size-large wp-image-12440" decoding="async" height="563" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-1024x901.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-1024x901.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-300x264.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-768x675.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat.jpg 1079w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-12440">Auswertung BFL</p></div>
+<div class="wp-caption aligncenter" id="attachment_12440" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat.jpg"><img alt="" aria-describedby="caption-attachment-12440" class="size-large wp-image-12440" decoding="async" height="563" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-1024x901.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-1024x901.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-300x264.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat-768x675.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080206_Adobe-Acrobat.jpg 1079w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-12440">Auswertung BFL</p></div>
 <p>Bei der <strong>BMM</strong> deutlich mehr Plus:<br/>
 Die größte Steigerung hat hier <strong>Michael</strong> mit +83!</p>
-<div class="wp-caption aligncenter" id="attachment_12439" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat.jpg"><img alt="" aria-describedby="caption-attachment-12439" class="wp-image-12439 size-large" decoding="async" height="873" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-751x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-751x1024.jpg 751w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-220x300.jpg 220w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-768x1048.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat.jpg 810w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-12439">Auswertung BMM</p></div>
+<div class="wp-caption aligncenter" id="attachment_12439" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat.jpg"><img alt="" aria-describedby="caption-attachment-12439" class="wp-image-12439 size-large" decoding="async" height="873" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-751x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-751x1024.jpg 751w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-220x300.jpg 220w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat-768x1048.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/Screenshot_20240521_080228_Adobe-Acrobat.jpg 810w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-12439">Auswertung BMM</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -430,28 +456,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/05/90-geburtstag-manfred-smala-goldene-ehrennadel/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12150 
-<div class="post-12140 post type-post status-publish format-standard hentry category-bmm" id="post-12140">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/03/bmm-runde-7-nur-1-sieg/" rel="bookmark">BMM Runde 7 – nur 1 Sieg</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/03/bmm-runde-7-nur-1-sieg/" rel="bookmark" title="17:46"><span class="entry-date">3. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Runde 7</strong> zur BMM brachte nur für <strong>NARVA 1</strong> einen Sieg.</p>
-<p>Die Erste erkämpfte sich ein knappes <strong>4,5:3,5</strong> gegen <strong>SC Kreuzberg 5</strong>! Der Kampf war die ganze Zeit sehr knapp und völlig offen, Siege von Alexander und Thomas standen Niederlagen von George und Jens entgegen. Dazu Remis von Tomas, Rouven und Peter. Am Ende konnte Bernd mit seinem Sieg beim Stand von 3,5:3,5 den Mannschaftserfolg klar machen.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12143" decoding="async" height="242" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-300x242.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-300x242.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome-768x619.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154300_Chrome.jpg 964w" width="300"/></a></p>
-<p>Die <strong>2. Mannschaft</strong> geriet bei der <strong>SG Weißensee 2</strong> mit <strong>2:6</strong> etwas zu hoch unter die Räder. Nur Hilmar an Brett 2 konnte gewinnen. Andreas und Günter kamen zu halben Punkten. Felix hing leider bei der Anreise im Polizeieinsatz in F’hain fest.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12144" decoding="async" height="239" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-300x239.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-300x239.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome-768x611.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154344_Chrome.jpg 943w" width="300"/></a></p>
-<p><strong>NARVA 3</strong> erkämpfte sich gegen den Tabellenführer <strong>TSG Oberschöneweide 7</strong> zumindest eine knappe <strong>2,5:3,5</strong> Niederlage. Vor allem die Erfolge an Brett 1 und 2 und das Remis von Jugendspieler Juri sind schöne Einzelerfolge!<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-12145" decoding="async" height="196" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome-300x196.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome-768x502.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/03/Screenshot_20240303_154411_Chrome.jpg 868w" width="300"/></a></p>
-<p><span style="text-decoration: underline;">Fotos von NARVA 1 und 2 sowie der Bericht zu NARVA 3 von ML Torsten:</span></p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2024/03/03/bmm-runde-7-nur-1-sieg/#more-12140">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/03/bmm-runde-7-nur-1-sieg/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12140 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
