@@ -205,7 +205,7 @@ navs:
 <td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
-<td>1695</td>
+<td>1696</td>
 <td>6</td>
 <td>0</td>
 </tr>
@@ -293,7 +293,7 @@ navs:
 <td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
-<td>1445</td>
+<td>1446</td>
 <td>6</td>
 <td>1485</td>
 </tr>
@@ -341,7 +341,7 @@ navs:
 <td>39.</td>
 <td><a href="http://www.schachbund.de/spieler/10078511.html" target="_blank"> Manfred Heinrich</a></td>
 <td></td>
-<td>1289</td>
+<td>1290</td>
 <td>27</td>
 <td></td>
 </tr>
