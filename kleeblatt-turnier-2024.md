@@ -27,10 +27,8 @@ parent_title: Turniere
 <li>Silvio Brandt (BSV 63 Chemie Weißensee, DWZ 1864)</li>
 <li>Wieslaw Młynarski (ohne Verein, Elo 1567)</li>
 <li>Milosz Młynarski (SV Empor Berlin, DWZ 1443)</li>
-<li>Nala Sarah Młynarska (SV Empor Berlin, ohne DWZ)</li>
 <li>Jörg Fuchs (ohne Verein, Elo 1846)</li>
 <li>Ismaele Cattaneo (SG NARVA Berlin, ohne DWZ)</li>
-<li>Hilmar Magnusson (SG NARVA Berlin, DWZ 1629)</li>
 <li>Onno Zhang (SSV Rotation Berlin, DWZ 1514)</li>
 <li>Martin Sebastian (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 1809)</li>
 <li>Karl Gersemann (TSG Oberschöneweide, DWZ 1768)</li>
@@ -55,8 +53,6 @@ parent_title: Turniere
 <li>Torsten Eichstädt (SG NARVA Berlin, DWZ 1262)</li>
 <li>Matthias Pröschild (BSV 63 Chemie Weißensee, DWZ 1830)</li>
 <li>Mathilda Bächle (ohne Verein, ohne DWZ)</li>
-<li>Antje-Christine Krüger (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 1536)</li>
-<li>Noah Szameitpreiks (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 789)</li>
 <li>Andy Wesner (ESV Waren, DWZ 1135)</li>
 <li>Katrin Hildebrand (SG NARVA Berlin, DWZ 1649)</li>
 <li>Eiko Bleicher (SK CAISSA Hermsdorf-Frohnau, DWZ 1807)</li>
@@ -75,14 +71,16 @@ parent_title: Turniere
 <li>Matteo Vinogradov (TSG Oberschöneweide, DWZ 1144)</li>
 <li>Kirill Zavyalov (SSV Rotation Berlin, DWZ 1181)</li>
 <li>Sarvesh Sivakumar (SK Tempelhof 1931, ohne DWZ)</li>
-</ol>
-<h2>Warteliste</h2>
-<ol>
 <li>Valentin Köhler (SV Empor Berlin, DWZ 1331)</li>
 <li>Nikita Faidun (TuS Makkabi Berlin, DWZ 1429)</li>
 <li>Yevhenii Zatenko (SG Lasker Steglitz-Wilmersdorf, DWZ 920)</li>
 <li>Jan-Hendrik Bahr (SG NARVA Berlin, DWZ 1013)</li>
+</ol>
+<h2>Warteliste</h2>
+<ol>
 <li>Lukas von Kraft (SG NARVA Berlin, DWZ 1476)</li>
+<li>Martin Trifonov (ohne Verein, ohne DWZ)</li>
+<li>Michael Tornow (SV Wusterhausen, DWZ 1756)</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-12284 
