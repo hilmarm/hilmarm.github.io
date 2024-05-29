@@ -25,9 +25,9 @@ parent_title: Turniere
 <ol>
 <li>Dr. Herbert Mayer (SSV Rotation Berlin, DWZ 1631)</li>
 <li>Silvio Brandt (BSV 63 Chemie Weißensee, DWZ 1864)</li>
-<li>Wieslaw Młynarski (ohne Verein, Elo 1567)</li>
+<li>Wieslaw Młynarski (ohne Verein, Elo 1567 / TWZ 1278)</li>
 <li>Milosz Młynarski (SV Empor Berlin, DWZ 1443)</li>
-<li>Jörg Fuchs (ohne Verein, Elo 1846)</li>
+<li>Jörg Fuchs (ohne Verein, Elo 1846 / TWZ 1743)</li>
 <li>Ismaele Cattaneo (SG NARVA Berlin, ohne DWZ)</li>
 <li>Onno Zhang (SSV Rotation Berlin, DWZ 1514)</li>
 <li>Martin Sebastian (TSG Rot-Weiß Fredersdorf/Vogelsdorf, DWZ 1809)</li>
@@ -60,7 +60,7 @@ parent_title: Turniere
 <li>Vsevolod Vinogradov (SG Lasker Steglitz-Wilmersdorf, DWZ 1067)</li>
 <li>Levi Studdert (SSV Rotation Berlin, DWZ 1245)</li>
 <li>Fabian Schön (SG Rot-Weiß Neuenhagen, DWZ 1526)</li>
-<li>Jan-Michael Harndt (ohne Verein, Elo 1984)</li>
+<li>Jan-Michael Harndt (ohne Verein, Elo 1984, TWZ 1973)</li>
 <li>Simon Baumann (HSK Lister Turm, DWZ 1573)</li>
 <li>Philipp Pape (SG NARVA Berlin, DWZ 1629)</li>
 <li>Norbert Koriath (SC Eintracht Berlin, DWZ 1508)</li>
