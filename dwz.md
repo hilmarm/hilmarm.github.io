@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1982</td>
-<td>462</td>
+<td>2011</td>
+<td>463</td>
 <td>1982</td>
 </tr>
 <tr>
@@ -443,14 +443,6 @@ navs:
 </tr>
 <tr>
 <td>52.</td>
-<td><a href="http://www.schachbund.de/spieler/10840349.html" target="_blank"> Jan Kühnel</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td></td>
@@ -458,7 +450,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>54.</td>
+<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10858405.html" target="_blank"> Juri Deicke</a></td>
 <td></td>
 <td></td>
@@ -466,7 +458,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>55.</td>
+<td>54.</td>
 <td><a href="http://www.schachbund.de/spieler/10858491.html" target="_blank"> Ismaele Cattaneo</a></td>
 <td></td>
 <td></td>
@@ -474,7 +466,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>56.</td>
+<td>55.</td>
 <td><a href="http://www.schachbund.de/spieler/10868673.html" target="_blank"> Amer Mukran</a></td>
 <td></td>
 <td></td>
