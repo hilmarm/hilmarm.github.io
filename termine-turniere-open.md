@@ -40,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachklub-altrip.de/Flyer%20Fischerfest%202024.pdf" rel="noopener" target="_blank">Fischerfestblitz Altrip</a></td>
 <td>07.07.2024</td>
-<td>Norbert, Rudolf, Thomas und Ex&amp;Hopp</td>
+<td>Norbert, Rudolf, Thomas, Rouven und Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2024/" rel="noopener" target="_blank">Kreuzberger Sommer 2024</a></td>
@@ -50,7 +50,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2024</a></td>
 <td>10.08.-18.08.2024</td>
-<td>Ekkehard</td>
+<td>Günter, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
