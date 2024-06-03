@@ -17,7 +17,6 @@ parent_title: Turniere
 <div class="post-12284 page type-page status-publish hentry" id="post-12284">
 <h1 class="entry-title">Kleeblatt-Turnier</h1>
 <div class="entry-content">
-<p><strong>Das Turnier ist ausgebucht! Weitere Interessenten kommen auf die Warteliste.</strong></p>
 <p>Am 2. Juni 2024 tragen wir im Nachbarschaftszentrum „RuDi“, Modersohnstr. 55, 10245 Berlin, wieder ein <b>Kleeblatt-Turnier</b> aus. </p>
 <p>Das (<i>vier</i>blättrige) Kleeblatt steht dabei für die <i>Vierergruppen</i>, in denen jeweils ein DWZ-gewertetes Rundenturnier gespielt wird. Das Turnier richtet sich ausdrücklich an Spieler <i>aller</i> Spielstärken und Altersgruppen, eine Mitgliedschaft in einem Schachverein ist nicht erforderlich.</p>
 <p>Alle weiteren Informationen findet ihr in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/Kleeblatt-Turnier-2024.pdf">Ausschreibung</a>.</p>
@@ -174,18 +173,18 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>10</td>
-<td>Varazi,​Maxime</td>
-<td>1682</td>
-<td>1415</td>
-<td>SV Empor Berlin e.V.</td>
-<td>Gruppe Steinitz</td>
-</tr>
-<tr>
-<td>11</td>
 <td>Mayer,​Herbert</td>
 <td>1682</td>
 <td>1665</td>
 <td>SSV Rotation Berlin e.V.</td>
+<td>Gruppe Steinitz</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Varazi,​Maxime</td>
+<td>1682</td>
+<td>1415</td>
+<td>SV Empor Berlin e.V.</td>
 <td>Gruppe Steinitz</td>
 </tr>
 <tr>
@@ -350,19 +349,19 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>32</td>
-<td>Zavyalov,​Kirill</td>
-<td>1181</td>
-<td>0</td>
-<td>SSV Rotation Berlin e.V.</td>
-<td>Gruppe Marshall</td>
-</tr>
-<tr>
-<td>33</td>
 <td>Vinogradov,​Matteo</td>
 <td>1181</td>
 <td>0</td>
 <td>TSG Oberschöneweide e.V.</td>
 <td>Gruppe Nimzowitsch</td>
+</tr>
+<tr>
+<td>33</td>
+<td>Zavyalov,​Kirill</td>
+<td>1181</td>
+<td>0</td>
+<td>SSV Rotation Berlin e.V.</td>
+<td>Gruppe Marshall</td>
 </tr>
 <tr>
 <td>34</td>
@@ -422,10 +421,10 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>41</td>
-<td>Sivakumar,​Sarvesh</td>
+<td>Bobe Rimoldi,​Tiago</td>
 <td>0</td>
 <td>0</td>
-<td>SK Tempelhof 1931</td>
+<td>SC Borussia Lichtenberg</td>
 <td>Gruppe Najdorf</td>
 </tr>
 <tr>
@@ -438,10 +437,10 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>43</td>
-<td>Bobe Rimoldi,​Tiago</td>
+<td>Sivakumar,​Sarvesh</td>
 <td>0</td>
 <td>0</td>
-<td>SC Borussia Lichtenberg</td>
+<td>SK Tempelhof 1931</td>
 <td>Gruppe Najdorf</td>
 </tr>
 <tr>
@@ -473,39 +472,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Bleicher,​Eiko</td>
-<td>SK CAISSA Hermsdorf-Frohnau</td>
-<td>1831</td>
-<td>1800</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Steinkühler,​Sebastian</td>
 <td>SV Berolina Mitte e.V.</td>
 <td>1866</td>
 <td>1707</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.75</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Brandt,​Silvio</td>
 <td>BSV 63 Chemie Weißensee</td>
 <td>1901</td>
 <td>1887</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>2.25</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
+<td>Bleicher,​Eiko</td>
+<td>SK CAISSA Hermsdorf-Frohnau</td>
+<td>1831</td>
+<td>1800</td>
+<td>1.5</td>
+<td>1.75</td>
+</tr>
+<tr>
+<td>4</td>
 <td>Miowitz,​Torsten</td>
 <td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
 <td>1831</td>
 <td>1797</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.75</td>
 </tr>
 </tbody>
 </table>
@@ -526,14 +525,14 @@ parent_title: Turniere
 <td>Miowitz,Torsten</td>
 <td> – </td>
 <td>Bleicher,Eiko</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Steinkühler,Sebastian</td>
 <td> – </td>
 <td>Brandt,Silvio</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -554,14 +553,14 @@ parent_title: Turniere
 <td>Brandt,Silvio</td>
 <td> – </td>
 <td>Miowitz,Torsten</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bleicher,Eiko</td>
 <td> – </td>
 <td>Steinkühler,Sebastian</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -582,14 +581,14 @@ parent_title: Turniere
 <td>Miowitz,Torsten</td>
 <td> – </td>
 <td>Steinkühler,Sebastian</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Brandt,Silvio</td>
 <td> – </td>
 <td>Bleicher,Eiko</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -616,35 +615,35 @@ parent_title: Turniere
 <td>TSG Rot-Weiß Fredersdorf/Vogelsdorf e.V.</td>
 <td>1807</td>
 <td>1933</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Pröschild,​Matthias</td>
-<td>BSV 63 Chemie Weißensee</td>
-<td>1811</td>
-<td>1778</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Vinogradov,​Aleksandr</td>
-<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
-<td>1728</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Gersemann,​Karl</td>
 <td>TSG Oberschöneweide e.V.</td>
 <td>1806</td>
 <td>1548</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Pröschild,​Matthias</td>
+<td>BSV 63 Chemie Weißensee</td>
+<td>1811</td>
+<td>1778</td>
+<td>1.0</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vinogradov,​Aleksandr</td>
+<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
+<td>1728</td>
+<td>0</td>
+<td>1.0</td>
+<td>1.5</td>
 </tr>
 </tbody>
 </table>
@@ -665,14 +664,14 @@ parent_title: Turniere
 <td>Gersemann,Karl</td>
 <td> – </td>
 <td>Sebastian,Martin</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Pröschild,Matthias</td>
 <td> – </td>
 <td>Vinogradov,Aleksandr</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -693,14 +692,14 @@ parent_title: Turniere
 <td>Vinogradov,Aleksandr</td>
 <td> – </td>
 <td>Gersemann,Karl</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Sebastian,Martin</td>
 <td> – </td>
 <td>Pröschild,Matthias</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -721,14 +720,14 @@ parent_title: Turniere
 <td>Gersemann,Karl</td>
 <td> – </td>
 <td>Pröschild,Matthias</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Vinogradov,Aleksandr</td>
 <td> – </td>
 <td>Sebastian,Martin</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -751,39 +750,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Varazi,​Maxime</td>
-<td>SV Empor Berlin e.V.</td>
-<td>1682</td>
-<td>1415</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Mayer,​Herbert</td>
 <td>SSV Rotation Berlin e.V.</td>
 <td>1682</td>
 <td>1665</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
 <td>1</td>
-<td>Nonnenmacher,​Philipp</td>
-<td>SK CAISSA Hermsdorf-Frohnau</td>
-<td>1604</td>
-<td>1290</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>Varazi,​Maxime</td>
+<td>SV Empor Berlin e.V.</td>
+<td>1682</td>
+<td>1415</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
 <td>Mietzelfeldt,​Gerhard</td>
 <td>SG NARVA Berlin e.V.</td>
 <td>1594</td>
 <td>1708</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Nonnenmacher,​Philipp</td>
+<td>SK CAISSA Hermsdorf-Frohnau</td>
+<td>1604</td>
+<td>1290</td>
+<td>1.0</td>
+<td>1.5</td>
 </tr>
 </tbody>
 </table>
@@ -804,14 +803,14 @@ parent_title: Turniere
 <td>Mietzelfeldt,Gerhard</td>
 <td> – </td>
 <td>Varazi,Maxime</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Mayer,Herbert</td>
 <td> – </td>
 <td>Nonnenmacher,Philipp</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -832,14 +831,14 @@ parent_title: Turniere
 <td>Nonnenmacher,Philipp</td>
 <td> – </td>
 <td>Mietzelfeldt,Gerhard</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Varazi,Maxime</td>
 <td> – </td>
 <td>Mayer,Herbert</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -860,14 +859,14 @@ parent_title: Turniere
 <td>Mietzelfeldt,Gerhard</td>
 <td> – </td>
 <td>Mayer,Herbert</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Nonnenmacher,Philipp</td>
 <td> – </td>
 <td>Varazi,Maxime</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -890,39 +889,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Langer,​Niklas</td>
-<td>SC Eintracht Berlin e.V.</td>
-<td>1536</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Brinckmann,​Klaus</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>1714</td>
-<td>1668</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Zussner,​Tim</td>
 <td>SV Empor Berlin e.V.</td>
 <td>1584</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
 <td>1</td>
+<td>Langer,​Niklas</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1536</td>
+<td>0</td>
+<td>2.0</td>
+<td>2.5</td>
+</tr>
+<tr>
+<td>3</td>
 <td>Baumann,​Simon</td>
 <td>HSK Lister Turm</td>
 <td>1579</td>
 <td>1438</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Brinckmann,​Klaus</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1714</td>
+<td>1668</td>
+<td>1.0</td>
+<td>1.5</td>
 </tr>
 </tbody>
 </table>
@@ -943,14 +942,14 @@ parent_title: Turniere
 <td>Baumann,Simon</td>
 <td> – </td>
 <td>Langer,Niklas</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Brinckmann,Klaus</td>
 <td> – </td>
 <td>Zussner,Tim</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -971,14 +970,14 @@ parent_title: Turniere
 <td>Zussner,Tim</td>
 <td> – </td>
 <td>Baumann,Simon</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Langer,Niklas</td>
 <td> – </td>
 <td>Brinckmann,Klaus</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -999,14 +998,14 @@ parent_title: Turniere
 <td>Baumann,Simon</td>
 <td> – </td>
 <td>Brinckmann,Klaus</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zussner,Tim</td>
 <td> – </td>
 <td>Langer,Niklas</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1033,26 +1032,8 @@ parent_title: Turniere
 <td>BSV 63 Chemie Weißensee</td>
 <td>1574</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Klein,​Adrian</td>
-<td>SK CAISSA Hermsdorf-Frohnau</td>
-<td>1481</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Koriath,​Norbert</td>
-<td>SC Eintracht Berlin e.V.</td>
-<td>1509</td>
-<td>1802</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.5</td>
+<td>2.25</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1060,6 +1041,24 @@ parent_title: Turniere
 <td>SSV Rotation Berlin e.V.</td>
 <td>1571</td>
 <td>1523</td>
+<td>2.5</td>
+<td>2.25</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Koriath,​Norbert</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>1509</td>
+<td>1802</td>
+<td>1.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Klein,​Adrian</td>
+<td>SK CAISSA Hermsdorf-Frohnau</td>
+<td>1481</td>
+<td>0</td>
 <td>0.0</td>
 <td>0.0</td>
 </tr>
@@ -1082,14 +1081,14 @@ parent_title: Turniere
 <td>Zhang,Onno</td>
 <td> – </td>
 <td>Hülß,Alexander</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Klein,Adrian</td>
 <td> – </td>
 <td>Koriath,Norbert</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1110,14 +1109,14 @@ parent_title: Turniere
 <td>Koriath,Norbert</td>
 <td> – </td>
 <td>Zhang,Onno</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Hülß,Alexander</td>
 <td> – </td>
 <td>Klein,Adrian</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1138,14 +1137,14 @@ parent_title: Turniere
 <td>Zhang,Onno</td>
 <td> – </td>
 <td>Klein,Adrian</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Koriath,Norbert</td>
 <td> – </td>
 <td>Hülß,Alexander</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1168,36 +1167,36 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
+<td>Jozsa,​Lev</td>
+<td>SV Berolina Mitte e.V.</td>
+<td>1078</td>
+<td>0</td>
+<td>3.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>2</td>
 <td>Kaufhold,​Hans-Joachim</td>
 <td>SC Weisse Dame e.V.</td>
 <td>1074</td>
 <td>1158</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>1.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Bächle,​Mathilda</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>3</td>
 <td>Vinogradov,​Matteo</td>
 <td>TSG Oberschöneweide e.V.</td>
 <td>1181</td>
 <td>0</td>
-<td>0.0</td>
+<td>1.0</td>
 <td>0.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Jozsa,​Lev</td>
-<td>SV Berolina Mitte e.V.</td>
-<td>1078</td>
+<td>4</td>
+<td>Bächle,​Mathilda</td>
+<td></td>
+<td>0</td>
 <td>0</td>
 <td>0.0</td>
 <td>0.0</td>
@@ -1221,14 +1220,14 @@ parent_title: Turniere
 <td>Jozsa,Lev</td>
 <td> – </td>
 <td>Kaufhold,Hans-Joachim</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bächle,Mathilda</td>
 <td> – </td>
 <td>Vinogradov,Matteo</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1249,14 +1248,14 @@ parent_title: Turniere
 <td>Vinogradov,Matteo</td>
 <td> – </td>
 <td>Jozsa,Lev</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Kaufhold,Hans-Joachim</td>
 <td> – </td>
 <td>Bächle,Mathilda</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1277,14 +1276,14 @@ parent_title: Turniere
 <td>Jozsa,Lev</td>
 <td> – </td>
 <td>Bächle,Mathilda</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Vinogradov,Matteo</td>
 <td> – </td>
 <td>Kaufhold,Hans-Joachim</td>
-<td>?:?</td>
+<td>-:+</td>
 </tr>
 </tbody>
 </table>
@@ -1307,37 +1306,37 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Mlynarski,​Milosz</td>
-<td>SV Empor Berlin e.V.</td>
-<td>1468</td>
-<td>1438</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Kampa,​Lavinia</td>
-<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
-<td>1408</td>
-<td>1410</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>von Gehlen,​Elian</td>
-<td>TSG Oberschöneweide e.V.</td>
-<td>1353</td>
-<td>1157</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Schön,​Fabian</td>
 <td>SG Rot-Weiß Neuenhagen</td>
 <td>1467</td>
 <td>1460</td>
+<td>2.5</td>
+<td>2.5</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Mlynarski,​Milosz</td>
+<td>SV Empor Berlin e.V.</td>
+<td>1468</td>
+<td>1438</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Kampa,​Lavinia</td>
+<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
+<td>1408</td>
+<td>1410</td>
+<td>1.5</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>von Gehlen,​Elian</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1353</td>
+<td>1157</td>
 <td>0.0</td>
 <td>0.0</td>
 </tr>
@@ -1360,14 +1359,14 @@ parent_title: Turniere
 <td>Schön,Fabian</td>
 <td> – </td>
 <td>Mlynarski,Milosz</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Kampa,Lavinia</td>
 <td> – </td>
 <td>von Gehlen,Elian</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1388,14 +1387,14 @@ parent_title: Turniere
 <td>von Gehlen,Elian</td>
 <td> – </td>
 <td>Schön,Fabian</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Mlynarski,Milosz</td>
 <td> – </td>
 <td>Kampa,Lavinia</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1416,14 +1415,14 @@ parent_title: Turniere
 <td>Schön,Fabian</td>
 <td> – </td>
 <td>Kampa,Lavinia</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>von Gehlen,Elian</td>
 <td> – </td>
 <td>Mlynarski,Milosz</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1446,36 +1445,36 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Gersemann,​Olaf</td>
-<td>TSG Oberschöneweide e.V.</td>
-<td>1212</td>
-<td>1067</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>Vinogradov,​Vsevolod</td>
+<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
+<td>1222</td>
+<td>0</td>
+<td>3.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Köhler,​Valentin</td>
 <td>SV Empor Berlin e.V.</td>
 <td>1327</td>
 <td>0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Gersemann,​Olaf</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1212</td>
+<td>1067</td>
+<td>1.0</td>
 <td>0.0</td>
 </tr>
 <tr>
-<td>1</td>
+<td>4</td>
 <td>Hülß,​Angela</td>
 <td>BSV 63 Chemie Weißensee</td>
 <td>1343</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Vinogradov,​Vsevolod</td>
-<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
-<td>1222</td>
 <td>0</td>
 <td>0.0</td>
 <td>0.0</td>
@@ -1499,14 +1498,14 @@ parent_title: Turniere
 <td>Vinogradov,Vsevolod</td>
 <td> – </td>
 <td>Gersemann,Olaf</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Köhler,Valentin</td>
 <td> – </td>
 <td>Hülß,Angela</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1527,14 +1526,14 @@ parent_title: Turniere
 <td>Hülß,Angela</td>
 <td> – </td>
 <td>Vinogradov,Vsevolod</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Gersemann,Olaf</td>
 <td> – </td>
 <td>Köhler,Valentin</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1555,14 +1554,14 @@ parent_title: Turniere
 <td>Vinogradov,Vsevolod</td>
 <td> – </td>
 <td>Köhler,Valentin</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Hülß,Angela</td>
 <td> – </td>
 <td>Gersemann,Olaf</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1585,37 +1584,37 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>von Gehlen,​Samuel</td>
-<td>TSG Oberschöneweide e.V.</td>
-<td>1199</td>
-<td>1183</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Zavyalov,​Kirill</td>
 <td>SSV Rotation Berlin e.V.</td>
 <td>1181</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Wesner,​Andy</td>
 <td>ESV Waren</td>
 <td>1185</td>
 <td>1205</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>1.0</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
 <td>Mlynarski,​Wieslaw</td>
 <td>SV Empor Berlin</td>
 <td>0</td>
 <td>1278</td>
+<td>1.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>von Gehlen,​Samuel</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1199</td>
+<td>1183</td>
 <td>0.0</td>
 <td>0.0</td>
 </tr>
@@ -1638,14 +1637,14 @@ parent_title: Turniere
 <td>Mlynarski,Wieslaw</td>
 <td> – </td>
 <td>von Gehlen,Samuel</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zavyalov,Kirill</td>
 <td> – </td>
 <td>Wesner,Andy</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1666,14 +1665,14 @@ parent_title: Turniere
 <td>Wesner,Andy</td>
 <td> – </td>
 <td>Mlynarski,Wieslaw</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>von Gehlen,Samuel</td>
 <td> – </td>
 <td>Zavyalov,Kirill</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1694,14 +1693,14 @@ parent_title: Turniere
 <td>Mlynarski,Wieslaw</td>
 <td> – </td>
 <td>Zavyalov,Kirill</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Wesner,Andy</td>
 <td> – </td>
 <td>von Gehlen,Samuel</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1724,35 +1723,35 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Trifonov,​Martin</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Zatenko,​Yevhenii</td>
-<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
-<td>920</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Langbein,​Martin</td>
 <td>SC Eintracht Berlin e.V.</td>
 <td>1025</td>
 <td>0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Horodnycha,​Daria</td>
+<td>SC Eintracht Berlin e.V.</td>
+<td>0</td>
+<td>0</td>
+<td>2.0</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Zatenko,​Yevhenii</td>
+<td>Schachgesellschaft Lasker Steglitz-Wilmersdorf</td>
+<td>920</td>
+<td>0</td>
+<td>1.0</td>
 <td>0.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Horodnycha,​Daria</td>
-<td>SC Eintracht Berlin e.V.</td>
+<td>4</td>
+<td>Trifonov,​Martin</td>
+<td></td>
 <td>0</td>
 <td>0</td>
 <td>0.0</td>
@@ -1777,14 +1776,14 @@ parent_title: Turniere
 <td>Horodnycha,Daria</td>
 <td> – </td>
 <td>Trifonov,Martin</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zatenko,Yevhenii</td>
 <td> – </td>
 <td>Langbein,Martin</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1805,14 +1804,14 @@ parent_title: Turniere
 <td>Langbein,Martin</td>
 <td> – </td>
 <td>Horodnycha,Daria</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Trifonov,Martin</td>
 <td> – </td>
 <td>Zatenko,Yevhenii</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1833,14 +1832,14 @@ parent_title: Turniere
 <td>Horodnycha,Daria</td>
 <td> – </td>
 <td>Zatenko,Yevhenii</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Langbein,Martin</td>
 <td> – </td>
 <td>Trifonov,Martin</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1863,39 +1862,39 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Ziepa,​Andreas</td>
-<td>SC Kreuzberg e.V.</td>
-<td>880</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Sivakumar,​Sarvesh</td>
-<td>SK Tempelhof 1931</td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Bobe Rimoldi,​Tiago</td>
 <td>SC Borussia Lichtenberg</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Bahr,​Jan-Hendrik</td>
 <td>SG NARVA Berlin e.V.</td>
 <td>1013</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Ziepa,​Andreas</td>
+<td>SC Kreuzberg e.V.</td>
+<td>880</td>
+<td>0</td>
+<td>1.5</td>
+<td>2.25</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sivakumar,​Sarvesh</td>
+<td>SK Tempelhof 1931</td>
+<td>0</td>
+<td>0</td>
+<td>0.5</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>
@@ -1916,14 +1915,14 @@ parent_title: Turniere
 <td>Bahr,Jan-Hendrik</td>
 <td> – </td>
 <td>Ziepa,Andreas</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Sivakumar,Sarvesh</td>
 <td> – </td>
 <td>Bobe Rimoldi,Tiago</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1944,14 +1943,14 @@ parent_title: Turniere
 <td>Bobe Rimoldi,Tiago</td>
 <td> – </td>
 <td>Bahr,Jan-Hendrik</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Ziepa,Andreas</td>
 <td> – </td>
 <td>Sivakumar,Sarvesh</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1972,14 +1971,14 @@ parent_title: Turniere
 <td>Bahr,Jan-Hendrik</td>
 <td> – </td>
 <td>Sivakumar,Sarvesh</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bobe Rimoldi,Tiago</td>
 <td> – </td>
 <td>Ziepa,Andreas</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
