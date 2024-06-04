@@ -8,6 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12480 post type-post status-publish format-standard hentry category-training" id="post-12480">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/03/training-am-donnerstag-mit-rouven/" rel="bookmark">Training am Donnerstag mit Rouven</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/03/training-am-donnerstag-mit-rouven/" rel="bookmark" title="14:20"><span class="entry-date">3. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>Donnerstag</strong> 06.06.24 zu unserem Training gibt es von <strong>Rouven</strong>:</p>
+<p><strong>„Ideen gegen Holländisch! Für 1.d4/ 1.Sf3/ 1.Sc3</strong><br/>
+<strong>Von grundsolide bis richtig scharf! Für jeden soll etwas dabei sein!“</strong></p>
+<p>Auch Gäste sind herzlich willkommen! Start ist um 18:15 Uhr!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_.png"><img alt="" class="alignleft size-thumbnail wp-image-12481" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-150x150.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-144x144.png 144w" width="150"/></a></p>
+<div class="wp-caption alignright" id="attachment_11833" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg"><img alt="" aria-describedby="caption-attachment-11833" class="wp-image-11833 size-medium" decoding="async" height="249" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1024x852.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-768x639.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1536x1277.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg 1817w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11833">Rouven Arnold beim Training</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/03/training-am-donnerstag-mit-rouven/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12480 
 <div class="post-12464 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12464">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/01/restplaetze-beim-kleeblatt-turnier/" rel="bookmark">Restplätze beim Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
@@ -29,7 +48,7 @@ navs:
 <p>Am Donnerstag fand das <strong>Monatsblitz Mai</strong> statt und war mit 16 Teilnehmern stark besucht. Monatssieger wurde mit 14,5 Punkten aus 15 Partien <strong>Peter</strong>, der nun auch in der Gesamtwertung vorne liegt.</p>
 <p>Platz 2 ging an <strong>Jonatan</strong> mit 13 Punkten, vor dem besten Gast <strong>Matthias</strong> mit 12,5 Punkten.</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg"><img alt="" class="alignleft wp-image-12471 size-full" decoding="async" height="486" sizes="(max-width: 853px) 100vw, 853px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg 853w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai-300x171.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai-768x438.jpg 768w" width="853"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg"><img alt="" class="alignleft wp-image-12471 size-full" decoding="async" height="486" loading="lazy" sizes="(max-width: 853px) 100vw, 853px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg 853w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai-300x171.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai-768x438.jpg 768w" width="853"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -43,7 +62,7 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/" rel="bookmark" title="19:43"><span class="entry-date">24. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Gestern gab es <strong>Runde 3</strong> zur <strong>Abteilungsmeisterschaft 2024</strong>. Ein Großteil der Partien wurde auch schon gespielt, einige werden nachgeholt.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12453" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-144x144.jpg 144w" width="150"/></a></p>
+<p>Gestern gab es <strong>Runde 3</strong> zur <strong>Abteilungsmeisterschaft 2024</strong>. Ein Großteil der Partien wurde auch schon gespielt, einige werden nachgeholt.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12453" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-144x144.jpg 144w" width="150"/></a></p>
 <p>Im Spitzenspiel zwischen <strong>Peter</strong> und <strong>Hans-Dieter</strong> gab es ein Remis, Hans-Dieter konnte trotz Minusbauern alle Gewinnversuche von Peter abwehren. <strong>Himar</strong>, der jüngere, gewann gegen <strong>Ulrich</strong> und bleibt damit mit 3 Punkten ungeschlagen. Auch bei 3 Punkten steht nun <strong>Ekkehard</strong>, der beim Jakobsweg Kraft getankt hat und im eigentlich ausgeglichenen Damenendspiel noch <strong>Jonatan</strong> eiskalt überrumpelte.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12454" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-144x144.jpg 144w" width="150"/></a></p>
 <p>Im Verfolgerfeld konnte <strong>ich</strong> einen schnellen Sieg gegen <strong>Michael H.</strong> erreichen, <strong>Lukas</strong> gewinnt gegen <strong>Jan-Hendrik</strong> und <strong>Alexander</strong> gegen <strong>Manfred</strong>.</p>
 <p>Ein Remis gab es zwischen <strong>Detlef</strong> und <strong>Philipp</strong>, sowie zwischen <strong>Ismaele</strong> und <strong>Klaus</strong>.</p>
@@ -427,24 +446,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/15/maerz-schnellschach/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12209 
-<div class="post-12186 post type-post status-publish format-standard hentry category-intern" id="post-12186">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark">Jahreshauptversammlung am 11.04.24</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/" rel="bookmark" title="11:32"><span class="entry-date">12. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die Einladung zur Jahreshauptversammlung inkl. Wahl des Vorstandes und der Kassenprüfer solltet ihr per Mail erhalten haben.</p>
-<p>Im Mitgliederbereich findet ihr die Einladung auch nochmal komplett.<br/>
-<em><span style="color: #ff0000;">Update am 20.03.24 zu Beitragserhöhung BSV und deren Auswirkung</span>.</em></p>
-<p><strong>Termin: 11.04.24 um 18:30 Uhr</strong><br/>
-<strong>Ort: Kadiner Str. 1</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/12/jahreshauptversammlung-am-11-04-24/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12186 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
