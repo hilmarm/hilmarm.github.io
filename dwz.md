@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2011</td>
-<td>463</td>
+<td>1993</td>
+<td>464</td>
 <td>1982</td>
 </tr>
 <tr>
@@ -229,7 +229,7 @@ navs:
 <td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
-<td>1603</td>
+<td>1604</td>
 <td>3</td>
 <td>0</td>
 </tr>
