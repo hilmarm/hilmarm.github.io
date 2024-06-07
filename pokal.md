@@ -45,8 +45,8 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>Pape</td>
-<td>Dr. Maetzing</td>
-<td></td>
+<td><strong>Dr. Maetzing</strong></td>
+<td>0 : 1</td>
 </tr>
 </tbody>
 </table>

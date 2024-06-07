@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/"><strong>2. Kleeblatt-Turnier</strong></a></td>
-<td>02.06.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/06/sv_osram_open_25.pdf" rel="noopener" target="_blank">25. SV OSRAM Open</a></td>
 <td>08.06.2024</td>
 <td>Günter, Gerhard, Lukas?</td>

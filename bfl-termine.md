@@ -31,66 +31,66 @@ parent_title: Termine
 <tbody>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">1</td>
-<td nowrap="nowrap" style="height: 24px;">SG Weißensee (A)</td>
-<td style="text-align: center; height: 24px;">12.10.</td>
-<td nowrap="nowrap" style="height: 24px;">Caissa Hermsdorf (A)</td>
-<td style="text-align: center; height: 24px;">10.10.</td>
-<td nowrap="nowrap" style="height: 24px;">SG Weißensee 2 (A)</td>
-<td style="text-align: center; height: 24px;">12.10.</td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">2</td>
-<td style="height: 24px;">Berolina (H)</td>
-<td style="text-align: center; height: 24px;">16.11.</td>
-<td style="height: 24px;">TSG O’schöneweide (H)</td>
-<td style="text-align: center; height: 24px;">14.11.</td>
-<td nowrap="nowrap" style="height: 24px;">Berolina 2 (H)</td>
-<td style="text-align: center; height: 24px;">14.11.</td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">3</td>
-<td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 2 (A)</td>
-<td style="text-align: center; height: 24px;">29.11.</td>
-<td style="height: 24px;">Neukölln (A)</td>
-<td style="height: 24px;">01.12.</td>
-<td nowrap="nowrap" style="height: 24px;">Mariendorf 2 (A)</td>
-<td style="text-align: center; height: 24px;">29.11.</td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">4</td>
-<td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 3 (A)</td>
-<td style="height: 24px;">17.01.</td>
-<td nowrap="nowrap" style="height: 24px;">Sfr.Berlin 4 (A)</td>
-<td style="text-align: center; height: 24px;">17.01.</td>
-<td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 6 (A)</td>
-<td style="text-align: center; height: 24px;">17.01.</td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">5</td>
-<td style="height: 24px;">Zitadelle (H)</td>
-<td style="text-align: center; height: 24px;">22.02.</td>
-<td style="height: 24px;">SK International (H)</td>
-<td style="text-align: center; height: 24px;">20.02.</td>
-<td nowrap="nowrap" style="height: 24px;">Kreuzberg 4 (H)</td>
-<td style="text-align: center; height: 24px;">20.02.</td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">6</td>
-<td style="height: 24px;">Sfr. Berlin 1 (A)</td>
-<td style="text-align: center; height: 24px;">06.03.</td>
-<td style="height: 24px;">Mariendorf (A)</td>
-<td style="text-align: center; height: 24px;">06.03.</td>
-<td nowrap="nowrap" style="height: 24px;">Sfr. Berlin 5 (A)</td>
-<td style="text-align: center; height: 24px;">06.03.</td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">7</td>
-<td style="height: 24px;">Kreuzberg (H)</td>
-<td style="text-align: center; height: 24px;">25.04.</td>
-<td style="height: 24px;">Kreuzberg 2 (H)</td>
-<td style="text-align: center; height: 24px;">23.04.</td>
-<td nowrap="nowrap" style="height: 24px;">Kreuzberg 3 (H)</td>
-<td style="text-align: center; height: 24px;">23.04.</td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;"></td>
+<td style="text-align: center; height: 24px;"></td>
 </tr>
 </tbody>
 </table>
