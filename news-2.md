@@ -27,7 +27,8 @@ navs:
 <p>Die Gruppe Tartakower bestand nur aus Kindern und Jugendlichen. Hier gewann immer der ältere Spieler – für <strong>Martin Langbein</strong> bedeutet das drei Punkte und den Gruppensieg. In dieser Gruppe war unser jüngster Teilnehmer zu finden – Martin Trifonov ist erst fünf Jahre alt, und spielt schon ziemlich gut Schach, auch wenn es gegen die älteren Jugendlichen diesmal noch nicht für Punkte gereicht hat.</p>
 <p>In der Gruppe Najdorf war mit Jan auch wieder ein NARVA-Spieler vertreten. Er erreichte zwei Punkte, wegen der besseren Sonneborn-Berger-Wertung hatte aber <strong>Tiago Bobe Rimoldi</strong> (SC Borussia Lichtenberg) mit ebenfalls zwei Punkten am Ende die Nase vorn.</p>
 <p>Alle Ergebnisse gibt es auf der <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/">Turnierseite</a>.</p>
-<p>Die Datei für die DWZ-Auswertung habe ich bereits verschickt. Wenn es damit keine Probleme gibt sollte die Auswertung also voraussichtlich in den nächsten Tagen erfolgen.</p>
+<p>Die Datei für die DWZ-Auswertung habe ich bereits verschickt. <s>Wenn es damit keine Probleme gibt sollte die Auswertung also voraussichtlich in den nächsten Tagen erfolgen.</s><br/>
+<strong>Update</strong>: Derzeit wird an einem Fehler in der DWZ-Datenbank gearbeitet. Die Auswertung verzögert sich daher noch etwas.</p>
 <p>Bei Rotation Berlin gibt es auch noch einen <a href="https://www.rotation-berlin-schach.de/home/kleeblatt-o2.06.2024/">Turnierbericht von Dr. Herbert Mayer</a>.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
