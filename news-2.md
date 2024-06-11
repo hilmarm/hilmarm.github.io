@@ -8,6 +8,21 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12495 post type-post status-publish format-standard hentry category-allgemein" id="post-12495">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark">BMM Saisonabschluss am 20.06.</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark" title="10:12"><span class="entry-date">11. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>20.06.</strong> wollen wir am Clubabend ab ca. 18 Uhr unseren <strong>BMM/BFL Saisonabschluss</strong> nachholen. Es wird etwas zu essen und zu trinken geben und vielleicht auch ein paar Preise.</p>
+<p>Eingeladen sind alle Mitglieder der Abteilung Schach.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12495 
 <div class="post-12483 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12483">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/04/12483/" rel="bookmark">Bericht vom Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
@@ -438,27 +453,6 @@ In Abwesenheit des Siegers von 2022 (Jonatan) gewann der von 2021 (Peter – evt
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12255 
-<div class="post-12228 post type-post status-publish format-standard hentry category-skat" id="post-12228">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/03/21/skat-am-donnerstag-28-03-24/" rel="bookmark">Skat am Donnerstag 28.03.24</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/03/21/skat-am-donnerstag-28-03-24/" rel="bookmark" title="21:48"><span class="entry-date">21. März 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>Donnerstag den 28.03.2024</strong> findet unser <strong>Skat 2024</strong> statt!</p>
-<p>Das <strong>Startgeld</strong> beträgt für <span style="text-decoration: underline;">Mitglieder 2 €, für Gäste 3 €</span>.</p>
-<p><strong>Anmeldung</strong> vor Ort bitte möglichst bis <strong>18:10 Uhr,</strong><br/>
-danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzahl, wahrscheinlich wieder drei Serien mit je vier Runden.</p>
-<p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2022/11/ISkO-2022.pdf" rel="noopener" target="_blank">Link</a></p>
-<p>Gut Blatt !</p>
-<p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" decoding="async" height="247" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/03/21/skat-am-donnerstag-28-03-24/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12228 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

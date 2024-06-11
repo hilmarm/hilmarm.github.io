@@ -41,7 +41,7 @@ parent_title: Turniere
 <tr>
 <td>Mothes</td>
 <td>Mietzelfeldt</td>
-<td></td>
+<td>verlegt</td>
 </tr>
 <tr>
 <td>Pape</td>
