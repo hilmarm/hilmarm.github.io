@@ -71,7 +71,7 @@ navs:
 <td>P</td>
 <td>2012</td>
 <td>465</td>
-<td>1982</td>
+<td>2019</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -143,7 +143,7 @@ navs:
 <td></td>
 <td>1813</td>
 <td>8</td>
-<td>1705</td>
+<td>1808</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -151,7 +151,7 @@ navs:
 <td></td>
 <td>1759</td>
 <td>9</td>
-<td>1753</td>
+<td>1757</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -187,14 +187,6 @@ navs:
 </tr>
 <tr>
 <td>20.</td>
-<td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
-<td></td>
-<td>1714</td>
-<td>74</td>
-<td>1668</td>
-</tr>
-<tr>
-<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
 <td>1704</td>
@@ -202,12 +194,20 @@ navs:
 <td>1617</td>
 </tr>
 <tr>
-<td>22.</td>
+<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1695</td>
 <td>6</td>
 <td>0</td>
+</tr>
+<tr>
+<td>22.</td>
+<td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
+<td></td>
+<td>1680</td>
+<td>75</td>
+<td>1668</td>
 </tr>
 <tr>
 <td>23.</td>
@@ -245,8 +245,8 @@ navs:
 <td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1594</td>
-<td>107</td>
+<td>1586</td>
+<td>108</td>
 <td>1708</td>
 </tr>
 <tr>
@@ -405,8 +405,8 @@ navs:
 <td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
-<td>1013</td>
-<td>1</td>
+<td>1056</td>
+<td>2</td>
 <td></td>
 </tr>
 <tr>

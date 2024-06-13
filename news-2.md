@@ -43,7 +43,8 @@ navs:
 <p>In der Gruppe Najdorf war mit Jan auch wieder ein NARVA-Spieler vertreten. Er erreichte zwei Punkte, wegen der besseren Sonneborn-Berger-Wertung hatte aber <strong>Tiago Bobe Rimoldi</strong> (SC Borussia Lichtenberg) mit ebenfalls zwei Punkten am Ende die Nase vorn.</p>
 <p>Alle Ergebnisse gibt es auf der <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/">Turnierseite</a>.</p>
 <p>Die Datei für die DWZ-Auswertung habe ich bereits verschickt. <s>Wenn es damit keine Probleme gibt sollte die Auswertung also voraussichtlich in den nächsten Tagen erfolgen.</s><br/>
-<strong>Update</strong>: Derzeit wird an einem Fehler in der DWZ-Datenbank gearbeitet. Die Auswertung verzögert sich daher noch etwas.</p>
+<strong>Update</strong> vom 8.6.: Derzeit wird an einem Fehler in der DWZ-Datenbank gearbeitet. Die Auswertung verzögert sich daher noch etwas.</p>
+<p><strong>Update 2</strong> vom 12.6.: Das Turnier wurde nun in der Datenbank erfasst. Die Auswertung soll heute Nacht erfolgen.</p>
 <p>Bei Rotation Berlin gibt es auch noch einen <a href="https://www.rotation-berlin-schach.de/home/kleeblatt-o2.06.2024/">Turnierbericht von Dr. Herbert Mayer</a>.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
