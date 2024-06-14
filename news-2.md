@@ -13,8 +13,9 @@ navs:
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark" title="10:12"><span class="entry-date">11. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Am <strong>20.06.</strong> wollen wir am Clubabend ab ca. 18 Uhr unseren <strong>BMM/BFL Saisonabschluss</strong> nachholen. Es wird etwas zu essen und zu trinken geben und vielleicht auch ein paar Preise.</p>
+<p>Am <strong>20.06.</strong> wollen wir am Clubabend ab ca. 18 Uhr unseren <strong>BMM/BFL Saisonabschluss</strong> nachholen. Es wird einen kleinen Imbiss geben und vielleicht auch ein paar Preise.</p>
 <p>Eingeladen sind alle Mitglieder der Abteilung Schach.</p>
+<p>Ort: Kadiner Str.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">

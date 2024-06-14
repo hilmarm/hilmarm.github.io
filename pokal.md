@@ -30,8 +30,8 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>Mach</td>
-<td>Arnold</td>
-<td></td>
+<td><strong>Arnold</strong></td>
+<td>0 : 1</td>
 </tr>
 <tr>
 <td>Krüger</td>
