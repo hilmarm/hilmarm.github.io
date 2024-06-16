@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-12495 post type-post status-publish format-standard hentry category-allgemein" id="post-12495">
+<div class="post-12495 post type-post status-publish format-standard sticky hentry category-allgemein" id="post-12495">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark">BMM Saisonabschluss am 20.06.</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark" title="10:12"><span class="entry-date">11. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -24,6 +24,38 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12495 
+<div class="post-12513 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12513">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/" rel="bookmark">Spontanes Rundenturnier am Pokal-Abend</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/" rel="bookmark" title="17:58"><span class="entry-date">14. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Da vom angesetzten <strong>Pokal Viertelfinale</strong> nur eine Partie gespielt wurde, <strong>Rouven</strong> gewann gegen <strong>Wolfgang</strong>, sich aber wieder viele Schachfreunde bei uns eingefunden hatten, wurde ein spontanes Rundenturnier gespielt.</p>
+<p>Auf Initiative und dann auch unter der Organisation von <strong>Tom</strong> (Super Idee, Super Einsatz, Danke für selbständiges Handeln!) kamen 12 Teilnehmer zusammen. Zuerst wollten wir mit Bedenkzeit 10+0 spielen, das erwies sich dann aber mit steigender Teilnehmerzahl als zu lang, so wurde es 5+3.</p>
+<p>Die ersten 2 (?) Runden spielten wir im Bornstein-Modus* – das mit dem Uhren stellen muss Tom dann noch üben 😉 – erst im Duell Präsident gegen Vize fiel das auf….</p>
+<p>Turniersieger wurde mit <strong>Igor</strong> ein Gast! Es folgten <strong>Peter</strong> und <strong>Klaus</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg"><img alt="" class="wp-image-12512 size-medium aligncenter" decoding="async" height="217" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-1024x740.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-768x555.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg 1495w" width="300"/></a></p>
+<p>1. Igor 10,5 Punkte<br/>
+2. Peter 9,5 (direkte Duell ging an Igor)<br/>
+3. Klaus 9<br/>
+4. Tom 7,5<br/>
+5. Jonatan 7<br/>
+6. Thomas M. 5<br/>
+7. Alex 4<br/>
+8. Eberhard 4<br/>
+9. Oliver 3 (Remis gegen Peter!)<br/>
+10. Wolfgang 2,5<br/>
+11. Jan-Hendrik 2<br/>
+12. Stefan 1</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg"><img alt="" class="aligncenter wp-image-12511 size-medium" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg 1920w" width="225"/></a></p>
+<p><span style="font-size: 8pt;"><em>* Sobald ein Spieler am Zug ist, fängt die Uhr nicht gleich an zu laufen, sondern erst nach Ablauf der Zugbedenkzeit (sogenanntes „Delay“)</em></span></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12513 
 <div class="post-12483 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12483">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/04/12483/" rel="bookmark">Bericht vom Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
@@ -64,8 +96,8 @@ navs:
 <p><strong>„Ideen gegen Holländisch! Für 1.d4/ 1.Sf3/ 1.Sc3</strong><br/>
 <strong>Von grundsolide bis richtig scharf! Für jeden soll etwas dabei sein!“</strong></p>
 <p>Auch Gäste sind herzlich willkommen! Start ist um 18:15 Uhr!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_.png"><img alt="" class="alignleft size-thumbnail wp-image-12481" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-150x150.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-144x144.png 144w" width="150"/></a></p>
-<div class="wp-caption alignright" id="attachment_11833" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg"><img alt="" aria-describedby="caption-attachment-11833" class="wp-image-11833 size-medium" decoding="async" height="249" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1024x852.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-768x639.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1536x1277.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg 1817w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11833">Rouven Arnold beim Training</p></div>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_.png"><img alt="" class="alignleft size-thumbnail wp-image-12481" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-150x150.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/26px-Chess_-t45.svg_-144x144.png 144w" width="150"/></a></p>
+<div class="wp-caption alignright" id="attachment_11833" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg"><img alt="" aria-describedby="caption-attachment-11833" class="wp-image-11833 size-medium" decoding="async" height="249" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-300x249.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1024x852.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-768x639.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672-1536x1277.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/IMG_20220602_195511_672.jpg 1817w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11833">Rouven Arnold beim Training</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -429,32 +461,6 @@ In Abwesenheit des Siegers von 2022 (Jonatan) gewann der von 2021 (Peter – evt
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12264 
-<div class="post-12255 post type-post status-publish format-standard hentry category-openberichte" id="post-12255">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/" rel="bookmark">Grenke Open und QT zur BEM – Update</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/" rel="bookmark" title="13:01"><span class="entry-date">5. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Aktuell läuft in Lichtenrade das <strong>Qualifikationsturnier </strong>(QT)<strong> zur Berliner Einzelmeisterschaft </strong>(BEM). Von NARVA nehmen hier Jonatan und Felix teil.</p>
-<p>Nach 6 Runden haben beide 3 Punkte.<strong> Jonatan</strong> wird damit nicht ganz zufrieden sein, schafft er damit wieder einige DWZ-Punkte ab.</p>
-<p><strong>Felix</strong> dagegen spielt ein starkes Turnier und hat bis jetzt nur die Niederlage aus Runde 1, seit Runde 2 ist er ungeschlagen, 4x Remis und ein Sieg. So kommt er auf eine ELO-Performance von 1793!! In der Rating-Kategorie 1-1299 hat er z.Z. einen Punkt Vorsprung auf den nächsten.</p>
-<p><strong><span style="color: #ff0000;">– Endstand –</span></strong></p>
-<p>Die letzten 3 Runde brachten für <strong>Jonatan</strong> noch 2 volle Punkte und er kam am Ende mit 5 Punkten auf Platz 52 (Setzliste 61), trotzdem verliert er ca. 10 DWZ-Punkte, wird also nicht ganz zufrieden sein.</p>
-<p><strong>Felix</strong> musste in den Runden 7 und 8 Niederlagen hinnehmen und konnte erst in Runde 9 ein Remis erreichen. Damit war der Ratingpreis nicht mehr zu erreichen, aber trotzdem hat er mit am Ende 3,5 Punkten und Platz 94 (Setzliste 112) ein gutes Turnier gespielt und steigert sich in der DWZ von 1232 auf 1375!</p>
-<p>Leider gibt es auf der BSV weder Abschlusstabellen noch Ranglisten für die einzelnen Rating-Kategorien, es gibt nur die Ergebnisse auf Chess-Results.</p>
-<p><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-m-klasse.html" rel="noopener" target="_blank">Turnierseite beim BSV</a></p>
-<p><a href="https://chess-results.com/tnr904908.aspx?lan=0&amp;art=0&amp;fed=GER&amp;turdet=YES" rel="noopener" target="_blank">Ergebnisse auf Chess-Results</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554.jpg"><img alt="" class="alignnone wp-image-12256 size-medium" decoding="async" height="259" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-300x259.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-300x259.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-1024x884.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554-768x663.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175554.jpg 1376w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608.jpg"><img alt="" class="wp-image-12257 size-medium alignnone" decoding="async" height="247" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-1024x844.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-768x633.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608-1536x1266.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/20240404_175608.jpg 1677w" width="300"/></a></p>
-<p>Vom 26.03. bis 01.04.24 (über Ostern) fand in Karlsruhe das traditionelle <strong>GRENKE Chess Open</strong> zum ersten mal nach Corona wieder statt. Neben dem in der Öffentlichkeit Beachtung findenden „Classic“ Turnier mit Carlsen, Keymer und Co. (Carlsen hat das Turnier gewonnen, Keymer belgte am Ende Platz 4), gab es das Open als offenes Turnier unterteilt in 3 Gruppen. Insgesamt nahmen über 2500 Schachspieler am Turnier teil!!</p>
-<p>Von NARVA war im B-Open <strong>Mert</strong> dabei. Er hatte bis jetzt nur ein ELO von 1835 und war damit an Nummer 389 gesetzt. Am Ende erreicht er Platz 262 mit 5,5 Punkten aus 9 Runden. Danach bekam er nun auch eine DWZ Auswertung und hat hier jetzt 1745.</p>
-<p><a href="https://grenkechessopen.de/de/b-open" rel="noopener" target="_blank">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/05/grenke-open-und-qt-zur-bem/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12255 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
