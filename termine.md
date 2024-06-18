@@ -223,7 +223,7 @@ navs:
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;">10.10.24</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Training mit GM Richter!</td>
 <td style="height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">

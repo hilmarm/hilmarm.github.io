@@ -25,32 +25,32 @@ parent_title: Turniere
 <td style="height: 24px; width: 169.117px;">Name</td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">04. Mai 2023</td>
-<td style="height: 24px; width: 175.25px;">Vorbereitung auf den Gegner</td>
-<td style="height: 24px; width: 169.117px;">Jonatan Schenk</td>
+<td style="height: 24px; width: 149.633px;">02. Mai 2024</td>
+<td style="height: 24px; width: 175.25px;"></td>
+<td style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">01. Juni 2023</td>
-<td style="height: 24px; width: 175.25px;">Regelkunde + Uhren</td>
-<td style="height: 24px; width: 169.117px;">Thomas Mothes</td>
+<td style="height: 24px; width: 149.633px;">06. Juni 2024</td>
+<td style="height: 24px; width: 175.25px;">Ideen gegen Holländisch!…</td>
+<td style="height: 24px; width: 169.117px;">Rouven Arnold</td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">06. Juli 2023</td>
-<td style="height: 24px; width: 175.25px;">Eröffnungen abseits der Theorie</td>
-<td style="height: 24px; width: 169.117px;">Dr.Hans-Dieter Maetzing</td>
+<td style="height: 24px; width: 149.633px;">04. Juli 2024</td>
+<td style="height: 24px; width: 175.25px;"></td>
+<td style="height: 24px; width: 169.117px;">Rouven?</td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">03. August 2023</td>
-<td style="height: 24px; width: 175.25px;">Partien DSAM</td>
-<td nowrap="nowrap" style="height: 24px; width: 169.117px;">Jonatan Schenk</td>
+<td style="height: 24px; width: 149.633px;">01. August 2024</td>
+<td style="height: 24px; width: 175.25px;"></td>
+<td nowrap="nowrap" style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="height: 24px; width: 149.633px;">07. September 2023</td>
+<td nowrap="nowrap" style="height: 24px; width: 149.633px;">05. September 2024</td>
 <td nowrap="nowrap" style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;">Rouven Arnold?</td>
+<td style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">05. Oktober 2023</td>
+<td style="height: 24px; width: 149.633px;">10. Oktober 2024</td>
 <td style="height: 24px; width: 175.25px;"></td>
 <td style="height: 24px; width: 169.117px;"><strong>GM Michael Richter</strong></td>
 </tr>

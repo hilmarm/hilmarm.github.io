@@ -285,7 +285,7 @@ navs:
 <td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10110847.html" target="_blank"> Ingo König</a></td>
 <td></td>
-<td>1465</td>
+<td>1464</td>
 <td>5</td>
 <td></td>
 </tr>
