@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/06/sv_osram_open_25.pdf" rel="noopener" target="_blank">25. SV OSRAM Open</a></td>
-<td>08.06.2024</td>
-<td>Günter, Gerhard, Lukas?</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.seniorenschach-brandenburg.de/2023/10/31/31-offenes-brandenburgisches-seniorenturnier-2024/" rel="noopener" target="_blank">31. offene Seniorenturnier in Miedzyzdroje</a></td>
 <td>14.06.-24.06.2024</td>
 <td>Hans-Dieter, Gerhard</td>
@@ -36,6 +31,16 @@ parent_title: Termine
 <td><a href="https://www.schachklub-altrip.de/Flyer%20Fischerfest%202024.pdf" rel="noopener" target="_blank">Fischerfestblitz Altrip</a></td>
 <td>07.07.2024</td>
 <td>Norbert, Rudolf, Thomas, Rouven und Ex&amp;Hopp</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-einzelmeisterschaft-2024.html" rel="noopener" target="_blank">Berliner Schnellschach-EM 2024</a></td>
+<td>13.07.2024</td>
+<td>Batu, Mert</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-mannschaftsmeisterschaft-2024.html" rel="noopener" target="_blank">Berliner Schnellschach-MM 2024</a></td>
+<td>14.07.2024</td>
+<td>Mannschaft: Batu, Mert, Hilmar, Philipp</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2024/" rel="noopener" target="_blank">Kreuzberger Sommer 2024</a></td>
