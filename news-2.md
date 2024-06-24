@@ -8,22 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-12495 post type-post status-publish format-standard sticky hentry category-allgemein" id="post-12495">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark">BMM Saisonabschluss am 20.06.</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark" title="10:12"><span class="entry-date">11. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>20.06.</strong> wollen wir am Clubabend ab ca. 18 Uhr unseren <strong>BMM/BFL Saisonabschluss</strong> nachholen. Es wird einen kleinen Imbiss geben und vielleicht auch ein paar Preise.</p>
-<p>Eingeladen sind alle Mitglieder der Abteilung Schach.</p>
-<p>Ort: Kadiner Str.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12495 
 <div class="post-12513 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12513">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/" rel="bookmark">Spontanes Rundenturnier am Pokal-Abend</a></h2>
 <div class="entry-meta">
@@ -56,6 +40,22 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12513 
+<div class="post-12495 post type-post status-publish format-standard hentry category-allgemein" id="post-12495">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark">BMM Saisonabschluss am 20.06.</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark" title="10:12"><span class="entry-date">11. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>20.06.</strong> wollen wir am Clubabend ab ca. 18 Uhr unseren <strong>BMM/BFL Saisonabschluss</strong> nachholen. Es wird einen kleinen Imbiss geben und vielleicht auch ein paar Preise.</p>
+<p>Eingeladen sind alle Mitglieder der Abteilung Schach.</p>
+<p>Ort: Kadiner Str.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12495 
 <div class="post-12483 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12483">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/04/12483/" rel="bookmark">Bericht vom Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
