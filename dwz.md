@@ -163,19 +163,19 @@ navs:
 </tr>
 <tr>
 <td>17.</td>
+<td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
+<td></td>
+<td>1752</td>
+<td>103</td>
+<td>1820</td>
+</tr>
+<tr>
+<td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1749</td>
 <td>72</td>
 <td>1823</td>
-</tr>
-<tr>
-<td>18.</td>
-<td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
-<td></td>
-<td>1733</td>
-<td>102</td>
-<td>1820</td>
 </tr>
 <tr>
 <td>19.</td>
@@ -227,6 +227,14 @@ navs:
 </tr>
 <tr>
 <td>25.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1610</td>
+<td>109</td>
+<td>1708</td>
+</tr>
+<tr>
+<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
 <td>1604</td>
@@ -234,20 +242,12 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>26.</td>
+<td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
 <td>1597</td>
 <td>76</td>
 <td>1592</td>
-</tr>
-<tr>
-<td>27.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1586</td>
-<td>108</td>
-<td>1708</td>
 </tr>
 <tr>
 <td>28.</td>
