@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.seniorenschach-brandenburg.de/2023/10/31/31-offenes-brandenburgisches-seniorenturnier-2024/" rel="noopener" target="_blank">31. offene Seniorenturnier in Miedzyzdroje</a></td>
-<td>14.06.-24.06.2024</td>
-<td>Hans-Dieter, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/2_Lausitzer_Schachturnier.pdf" rel="noopener" target="_blank">2. Lausitzer Schachturnier</a></td>
 <td>05.07.-07.07.2024</td>
 <td>Michael W.</td>
@@ -83,8 +78,7 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><strong>Kurt-Richter-Gedenkturnier 2024</strong><br/>
-(mehr Infos demnächst)</td>
+<td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><strong>Kurt-Richter-Gedenkturnier 2024</strong></a></td>
 <td>01.11.-03.11.2024</td>
 <td></td>
 </tr>

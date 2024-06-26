@@ -178,12 +178,12 @@ navs:
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;">08.08.24</td>
-<td class="pokal" style="height: 24px;">Pokal</td>
+<td class="versammlung" style="height: 24px;">Mitgliederversammlung</td>
 <td style="height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;">15.08.24</td>
-<td class="versammlung" style="height: 24px;">Mitgliederversammlung</td>
+<td class="pokal" style="height: 24px;">Pokal</td>
 <td style="height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
