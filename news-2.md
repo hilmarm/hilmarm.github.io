@@ -8,6 +8,36 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12536 post type-post status-publish format-standard hentry category-termine" id="post-12536">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/" rel="bookmark">Termine, Termine, Termine</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/" rel="bookmark" title="12:58"><span class="entry-date">26. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Wer möchte noch an den <strong>Berliner Schnellschach-Meisterschaften</strong> teilnehmen?<br/>
+Am <strong>Samstag 13.07.24</strong> ist die <a href="https://www.berlinerschachverband.de/berliner-schnellschach-einzelmeisterschaft-2024.html" rel="noopener" target="_blank">Einzelmeisterschaft</a> – aktuell sind Batu und Mert angemeldet.<br/>
+Am <strong>Sonntag 14.07.24</strong> dann die <a href="https://www.berlinerschachverband.de/berliner-schnellschach-mannschaftsmeisterschaft-2024.html" rel="noopener" target="_blank">Mannschaftsmeisterschaft</a> – aktuell ist eine Mannschaft gemeldet.<br/>
+Gespielt wird jeweils im <strong>Modus 15+10</strong><br/>
+Wer noch dabei sein möchte, Bitte Mail an mich. Bei einer weiteren Mannschaft benötige ich die komplette Aufstellung inkl. ML!</p>
+<p>Wie ihr rechts schon sehen könnt, ist nun die Ausschreibung zum <strong>Kurt-Richter-Gedenkturnier 2024</strong> raus! Termin ist das 1. November Wochenende –<strong> 01.11.24 – 03.11.24</strong>!<br/>
+Anmeldungen sind ab jetzt möglich. Turnierablauf wie im letzten Jahr. Helfer sind wieder gern gesehen!<br/>
+<a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/">Ausschreibung</a></p>
+<p>Den Termin für die <strong>Mitgliederversammlung zur BMM</strong> mussten wir eine Woche vorziehen und mit dem Pokal tauschen. Grund ist der Meldetermin zur BMM.<br/>
+Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Fragebögen wieder ausfüllen!! (Link folgt hier)<br/>
+Die Ausschreibung zur <a href="https://www.berlinerschachverband.de/bmm-24-25.html" rel="noopener" target="_blank">BMM findet ihr hier</a> – es gibt ein paar kleine Änderungen über die wir letzte Woche schon diskutiert hatten:</p>
+<ul>
+<li>1.Klasse jetzt auch die Bedenkzeit wie Stadtliga – also 90 min / 40 Züge + 30 min / Rest der Partie zzgl. einem Inkrement von 30 Sekunden ab dem 1. Zug</li>
+<li>3.Klasse soll mit 8er Mannschaften spielen, nur 4.Klasse mit 6er</li>
+<li>Anfangszeit 9 Uhr kann wenn beide Mannschaften das möchten auf 10 Uhr verlegt werden…..</li>
+</ul>
+<p>Der Termin für das Training mit <strong>GM Michael Richter</strong> steht fest: Es ist der <strong>10.10.2024</strong>!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12536 
 <div class="post-12513 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12513">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/" rel="bookmark">Spontanes Rundenturnier am Pokal-Abend</a></h2>
 <div class="entry-meta">
@@ -440,27 +470,6 @@ Martina Sampka (Handball) – Vertreterin für Besonderes</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12269 
-<div class="post-12264 post type-post status-publish format-standard hentry category-skat" id="post-12264">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/" rel="bookmark">Skat ist kein Glücksspiel!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/" rel="bookmark" title="7:56"><span class="entry-date">12. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Liebe Skatfreunde,</p>
-<p>hier endlich der Bericht zu unserem alljährlichem-mittlerweile-auf-Grün-Donnerstag-etabliertem-NARVA Skat-Turnier 😉 , ich wollte nicht den Hinweis auf unsere Jahreshauptversammlung von Platz 1 in der News-Liste verdrängen, aber auch mindestens zwei Tage lang (Dank an Thomas für den leicht verzögerten nächsten Bericht zu selbiger) ‚oben‘ in unseren News stehen 😉 .</p>
-<p>Zur Überschrift:<br/>
-In Abwesenheit des Siegers von 2022 (Jonatan) gewann der von 2021 (Peter – evtl. 😉 lag sein Sieg aber auch an den von ihm gesponserten neuen Karten, deren Piks zumindest dem Berichterstatter anfänglich arge Augenschmerzen bereiteten 😉 ) vor dem aus 2023 (Hilmar (I 😉 )), der Sieger davor war dann wohl eher doch etwas zufällig 😉 . Und auch der Dritte vom Vorjahr (Thomas T.) konnte diesen Platz bestätigen und so den damaligen Zweiten (Ekkehard) auf einen immer noch respektablen 4. Platz verweisen.</p>
-<p>Für die weiteren Ränge mit teilweise sehr knappen Abständen <a href="https://www.narva-schach.de/wordpress/chronik/skat/">siehe Chronik</a>.</p>
-<p>bis zum nächsten Jahr, dann mit hoffentlich noch mehr Teilnehmern (gute Hoffnung begründet – dieses Jahr +1 gegenüber den beiden Vorjahren trotz einiger leider verhinderter ‚Stammteilnehmer‘) wünscht Gut Blatt!</p>
-<p>Euer Klaus<br/>
-<em>(der auch wieder etwas gelernt hat, nämlich rechtzeitig vorher zu überprüfen, ob auch hinreichend viele Listen vorhanden sind. – Dieses Problem konnte Dank Dieter im anfangs verzweifeltem Kampf gegen den Drucker bewältigt werden 😉 , nochmals vielen Dank, lieber Dr.)</em></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/12/skat-ist-kein-gluecksspiel/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12264 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
