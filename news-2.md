@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12542 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12542">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/" rel="bookmark">Enges Rennen im Juni-Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/" rel="bookmark" title="14:18"><span class="entry-date">30. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Das <strong>Monatsblitz</strong> am Donnerstag war wieder gut besucht, 14 Teilnehmer fanden trotz scheißtreibender Temperaturen den Weg zu uns. An der Spitze gab es ein sehr enges Rennen, alle Sieganwärter gaben hier und da Punkte ab. Am Ende lag dann trotzdem wieder <strong>Peter auf Platz 1</strong>, wenn auch nur durch einen Punkt in der Zweitwertung!</p>
+<p>Er kam am Ende mit <strong>Tomas</strong> zusammen auf 10,5 Punkte. Platz 3 ging an den besten Gast, <strong>Matthias</strong> erreichte 10 Punkte. Auch <strong>Philipp</strong> und <strong>Tom</strong> waren mit 9,5 und 8,5 bis zum Schluss nah drann.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg"><img alt="" class="aligncenter wp-image-12543 size-full" decoding="async" height="434" sizes="(max-width: 666px) 100vw, 666px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg 666w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24-300x195.jpg 300w" width="666"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12542 
 <div class="post-12536 post type-post status-publish format-standard hentry category-termine" id="post-12536">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/" rel="bookmark">Termine, Termine, Termine</a></h2>
 <div class="entry-meta">
@@ -60,7 +77,7 @@ Die Ausschreibung zur <a href="https://www.berlinerschachverband.de/bmm-24-25.ht
 10. Wolfgang 2,5<br/>
 11. Jan-Hendrik 2<br/>
 12. Stefan 1</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg"><img alt="" class="aligncenter wp-image-12511 size-medium" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg 1920w" width="225"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg"><img alt="" class="aligncenter wp-image-12511 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg 1920w" width="225"/></a></p>
 <p><span style="font-size: 8pt;"><em>* Sobald ein Spieler am Zug ist, fängt die Uhr nicht gleich an zu laufen, sondern erst nach Ablauf der Zugbedenkzeit (sogenanntes „Delay“)</em></span></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
@@ -434,42 +451,6 @@ Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>A
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12292 
-<div class="post-12269 post type-post status-publish format-standard hentry category-intern category-sg-narva" id="post-12269">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/" rel="bookmark">Vorstand fast unverändert im Amt bestätigt</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/" rel="bookmark" title="6:22"><span class="entry-date">15. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auf der <strong>Mitgliederversammlung</strong> am Donnerstag wurde der Vorstand fast unverändert im Amt bestätigt, nur auf der Position vom Jugendwart gibt es eine Änderung. Alexander verlässt den Vorstand, wird aber weiterhin im Jugendtraining aktiv sein. Als neuer <strong>Jugendwart</strong> wurde <strong>Ekkehard</strong> in den Vorstand gewählt.</p>
-<p>Die Kassenprüfer wurden komplett neu gewählt, da Hans-Dieter und Ulrich nicht mehr zur Wahl angetreten sind. Neu gewählt wurden <strong>Andreas Kinski</strong> und <strong>Magnus Keller</strong>.</p>
-<p>Außerdem wurde die <strong>Beitragserhöhung</strong> bei nur einer Enthaltung angenommen.<br/>
-Die Beiträge erhöhen sich also zum 01.01.2025 auf:<br/>
-<strong>5,50 €/Monat ermäßigt</strong><br/>
-<strong>9,00 €/Monat voll</strong><br/>
-Die Rabattmöglichkeit bis Ende Februar bleibt bestehen.</p>
-<p>Als Gast bei der Versammlung war mit <strong>Heiko Wagner der Vorsitzende der SG NARVA</strong> anwesend.<br/>
-Hier fand die Hauptversammlung mit Wahl bereits am 14.03.24 statt. Hier blieb der Vorstand komplett unverändert:<br/>
-Heiko Wagner (Handball) – Vorsitzender<br/>
-Sarah Pfeifer (Volleyball) – Vertreterin<br/>
-Thomas Mothes (Schach) – Kassenwart<br/>
-Martina Sampka (Handball) – Vertreterin für Besonderes</p>
-<p>Unter Sonstiges ging es dann noch um:</p>
-<ul>
-<li>BMM Saisonabschluss und die Suche nach einem Raum</li>
-<li>Die aktuelle Situation im RuDi</li>
-<li>Termin Kleeblatt-Turnier am 02.06.</li>
-<li>Termin KRT vom 01.11. – 03.11.</li>
-<li>Der inoffizielle Dienstag mit Anmerkungen dazu</li>
-<li>Getränke/Küche</li>
-</ul>
-<p>Alles weitere in den Protokollen im Mitgliederbereich.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a>, <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/15/vorstand-fast-unveraendert-im-amt-bestaetigt/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12269 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

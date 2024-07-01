@@ -50,6 +50,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
+<p>– Alexis Oortmann, SSV Rotation Berlin<br/>
+– Dr. Herbert Mayer, SSV Rotation Berlin<br/>
+– Günter Idaczek, SG NARVA Berlin</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
