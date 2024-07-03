@@ -69,8 +69,8 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2029</td>
-<td>466</td>
+<td>2018</td>
+<td>467</td>
 <td>2019</td>
 </tr>
 <tr>
