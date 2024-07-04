@@ -50,17 +50,20 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<p>Angemeldet inkl. Startgeld überwiesen:<br/>
+<p><em>Angemeldet inkl. Startgeld überwiesen:</em><br/>
 – Andreas Grosch, SV Berolina Mitte<br/>
 – Günter Idaczek, SG NARVA Berlin<br/>
-– Frank König, BSG Eckbauer</p>
-<p>Anmeldung angekommen:<br/>
+– Frank König, BSG Eckbauer<br/>
+– Bernd Boettger, Berliner Volksbank (FV Schach)<br/>
+– Magnus Keller, SG NARVA Berlin<br/>
+– Ulrich Campe, SG NARVA Berlin<br/>
+– Peter Thürauf, SW Nürnberg</p>
+<p><em>Anmeldung angekommen:</em><br/>
 – Alexis Oortmann, SSV Rotation Berlin<br/>
 – Dr. Herbert Mayer, SSV Rotation Berlin<br/>
-– Magnus Keller, SG NARVA Berlin<br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
-– Ulrich Campe, SG NARVA Berlin </p>
-<p>Stand: 02.07.2024</p>
+– Teodora Georgieva, Empor Berlin</p>
+<p>Stand: 03.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

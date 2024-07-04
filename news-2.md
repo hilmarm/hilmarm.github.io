@@ -39,8 +39,9 @@ Wer noch dabei sein möchte, Bitte Mail an mich. Bei einer weiteren Mannschaft b
 Anmeldungen sind ab jetzt möglich. Turnierablauf wie im letzten Jahr. Helfer sind wieder gern gesehen!<br/>
 <a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/">Ausschreibung</a></p>
 <p>Den Termin für die <strong>Mitgliederversammlung zur BMM</strong> mussten wir eine Woche vorziehen und mit dem Pokal tauschen. Grund ist der Meldetermin zur BMM.<br/>
-Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Fragebögen wieder ausfüllen!! (Link folgt hier)<br/>
-Die Ausschreibung zur <a href="https://www.berlinerschachverband.de/bmm-24-25.html" rel="noopener" target="_blank">BMM findet ihr hier</a> – es gibt ein paar kleine Änderungen über die wir letzte Woche schon diskutiert hatten:</p>
+Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Fragebögen wieder ausfüllen!! </p>
+<p>Den Fragebogen findet ihr <a href="https://www.narva-schach.de/wordpress/2024/07/03/fragebogen-2024/">im Mitgliederbereich</a>.</p>
+<p>Die Ausschreibung zur <a href="https://www.berlinerschachverband.de/bmm-24-25.html" rel="noopener" target="_blank">BMM findet ihr hier</a> – es gibt ein paar kleine Änderungen über die wir letzte Woche schon diskutiert hatten:</p>
 <ul>
 <li>1.Klasse jetzt auch die Bedenkzeit wie Stadtliga – also 90 min / 40 Züge + 30 min / Rest der Partie zzgl. einem Inkrement von 30 Sekunden ab dem 1. Zug</li>
 <li>3.Klasse soll mit 8er Mannschaften spielen, nur 4.Klasse mit 6er</li>
