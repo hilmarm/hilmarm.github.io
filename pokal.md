@@ -18,7 +18,29 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Pokal-2024.pdf">Ausschreibung</a></p>
-<h2>3. Runde am 13. Juni</h2>
+<h2>4. Runde – Halbfinale – am 15. August</h2>
+<table class="clean swiss footable" id="runde1">
+<thead>
+<tr>
+<th>Weiß</th>
+<th>Schwarz</th>
+<th>Ergeb.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arnold</td>
+<td>Hintze</td>
+<td></td>
+</tr>
+<tr>
+<td>Mietzelfeldt</td>
+<td>Dr. Maetzing</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<h2>3. Runde – Viertelfinale – am 13. Juni</h2>
 <table class="clean swiss footable" id="runde1">
 <thead>
 <tr>
@@ -35,13 +57,13 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>Krüger</td>
-<td>Hintze</td>
-<td></td>
+<td><strong>Hintze</strong></td>
+<td>0 : 1</td>
 </tr>
 <tr>
 <td>Mothes</td>
-<td>Mietzelfeldt</td>
-<td>verlegt</td>
+<td><strong>Mietzelfeldt</strong></td>
+<td>0 : 1</td>
 </tr>
 <tr>
 <td>Pape</td>
@@ -50,7 +72,7 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
-<h2>2. Runde am 18. April</h2>
+<h2>2. Runde – Zwischenrunde – am 18. April</h2>
 <table class="clean swiss footable" id="runde1">
 <thead>
 <tr>
