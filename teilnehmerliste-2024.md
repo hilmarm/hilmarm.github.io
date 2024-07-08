@@ -58,12 +58,14 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Magnus Keller, SG NARVA Berlin<br/>
 – Ulrich Campe, SG NARVA Berlin<br/>
 – Peter Thürauf, SW Nürnberg<br/>
-– Teodora Georgieva, Empor Berlin</p>
+– Teodora Georgieva, Empor Berlin<br/>
+– Hermann Stuckstedte, SV Königsjäger Süd-West e.V.</p>
 <p><em>Anmeldung angekommen:</em><br/>
 – Alexis Oortmann, SSV Rotation Berlin<br/>
 – Dr. Herbert Mayer, SSV Rotation Berlin<br/>
-– Sergej Krefenstein, TuS Makkabi Berlin</p>
-<p>Stand: 04.07.2024</p>
+– Sergej Krefenstein, TuS Makkabi Berlin<br/>
+– Franz Tham, TSG Rot/ Weiß Fredersdorf</p>
+<p>Stand: 08.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
