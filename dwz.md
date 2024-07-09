@@ -59,19 +59,19 @@ navs:
 </tr>
 <tr>
 <td>4.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>2032</td>
+<td>468</td>
+<td>2023</td>
+</tr>
+<tr>
+<td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10096720.html" target="_blank"> Sven Judas</a></td>
 <td></td>
 <td>2030</td>
 <td>65</td>
 <td>2040</td>
-</tr>
-<tr>
-<td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>2018</td>
-<td>467</td>
-<td>2023</td>
 </tr>
 <tr>
 <td>6.</td>

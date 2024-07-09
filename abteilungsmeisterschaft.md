@@ -545,7 +545,7 @@ parent_title: Turniere
 <td>12</td>
 <td>Heinrich,Wesko</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>

@@ -59,13 +59,17 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Ulrich Campe, SG NARVA Berlin<br/>
 – Peter Thürauf, SW Nürnberg<br/>
 – Teodora Georgieva, Empor Berlin<br/>
-– Hermann Stuckstedte, SV Königsjäger Süd-West e.V.</p>
+– Hermann Stuckstedte, SV Königsjäger Süd-West e.V.<br/>
+– Franz Tham, TSG Rot/ Weiß Fredersdorf<br/>
+– Dr. Klaus Kapr, Friesen Lichtenberg</p>
 <p><em>Anmeldung angekommen:</em><br/>
 – Alexis Oortmann, SSV Rotation Berlin<br/>
 – Dr. Herbert Mayer, SSV Rotation Berlin<br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
-– Franz Tham, TSG Rot/ Weiß Fredersdorf</p>
-<p>Stand: 08.07.2024</p>
+– Jörg Nagler, Rochade Müncheberg<br/>
+– Rüdiger Meinicke, Rochade Müncheberg</p>
+<p> </p>
+<p>Stand: 09.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
