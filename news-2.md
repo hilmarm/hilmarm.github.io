@@ -8,6 +8,42 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12575 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12575">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/10/27-emanuel-lasker-schnellturnier-in-thyrow/" rel="bookmark">27. Emanuel-Lasker-Schnellturnier in Thyrow</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/10/27-emanuel-lasker-schnellturnier-in-thyrow/" rel="bookmark" title="10:34"><span class="entry-date">10. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der Name des bisher einzigen deutschen Schachweltmeisters Emanuel Lasker ist eng mit dem Ort Thyrow verbunden. Lasker verbrachte hier mit seiner Frau von 1923 bis 1933 in einem eigenwillig strukturierten Sommerhaus einen Teil seines Lebens, auch um der Hitze der Großstadt Berlin zu entfliehen.<em> (Text Schachbund)</em></p>
+<p>Das taten dann dieses Jahr auch Peter und Günter vom Team NARVA. Gespielt wurden 7 Runden, angesetzt waren 9, aber aufgrund von technischen Problemen vor Runde 1 musste gekürzt werden.</p>
+<p>Am Ende gab es mit <strong>Frank Hoppe</strong> einen Überraschungssieger! Dahinter kamen erst die vermeintlichen Favoriten „Matze“ Schöwel (Platz 2) und IM Ralf Schöne (Platz 4) ins Ziel. Auf Platz 5 ein gut aufgelegter <strong>Peter Hintze</strong>, der damit Platz 2 bei den Senioren belegte.</p>
+<p><strong>Günter</strong> kam am Ende auf Platz 10 ins Ziel und war auch zufrieden.</p>
+<p><a href="https://www.schachbund.de/news/ueberraschungssieger-beim-27-emanuel-lasker-schachturnier.html" rel="noopener" target="_blank">Bericht und Tabellen beim Schachbund</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0038.jpg"><img alt="" class="alignleft size-medium wp-image-12576" decoding="async" height="300" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0038-250x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0038-250x300.jpg 250w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0038.jpg 697w" width="250"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0035.jpg"><img alt="" class="alignleft size-medium wp-image-12577" decoding="async" height="287" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0035-300x287.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0035-300x287.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0035-768x734.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0035.jpg 806w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028.jpg"><img alt="" class="alignleft size-medium wp-image-12578" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-768x768.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-1536x1536.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0028.jpg 1728w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030.jpg"><img alt="" class="alignleft size-medium wp-image-12579" decoding="async" height="300" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-1024x1024.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-768x768.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-1536x1536.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/07/IMG-20240706-WA0030.jpg 1728w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/10/27-emanuel-lasker-schnellturnier-in-thyrow/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12575 
+<div class="post-12571 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12571">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/" rel="bookmark">Miedzyzdroje/Misdroy 2024</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/" rel="bookmark" title="20:22"><span class="entry-date">9. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Es ist zwar schon wieder knapp 2 Wochen her, aber auch dieses Jahr waren wieder NARVA Spieler beim <strong>Offenen</strong> <strong>Brandenburgischen Seniorenturnier in Misdroy</strong> (PL) vom 14. – 24.06.2024 am Start.</p>
+<p><strong>Hans-Dieter</strong> kommt inzwischen auf seine 7. Teilnahme, bei <strong>Gerhard</strong> sind es nun 5. (bis 2010 zurück, weiter zurück habe ich nichts gefunden)</p>
+<p>Dieses Jahr kamen am Ende beide auf die gleiche Punktzahl. Beide beenden das Turnier mit 4,5 aus 9 und den Plätzen 46 und 53.</p>
+<p><a href="https://www.findchessgames.com/index-0134,224,1063%7C1%7C1677.html" rel="noopener" target="_blank">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12571 
 <div class="post-12542 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12542">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/" rel="bookmark">Enges Rennen im Juni-Blitz</a></h2>
 <div class="entry-meta">
@@ -16,7 +52,7 @@ navs:
 <p>Das <strong>Monatsblitz</strong> am Donnerstag war wieder gut besucht, 14 Teilnehmer fanden trotz scheißtreibender Temperaturen den Weg zu uns. An der Spitze gab es ein sehr enges Rennen, alle Sieganwärter gaben hier und da Punkte ab. Am Ende lag dann trotzdem wieder <strong>Peter auf Platz 1</strong>, wenn auch nur durch einen Punkt in der Zweitwertung!</p>
 <p>Er kam am Ende mit <strong>Tomas</strong> zusammen auf 10,5 Punkte. Platz 3 ging an den besten Gast, <strong>Matthias</strong> erreichte 10 Punkte. Auch <strong>Philipp</strong> und <strong>Tom</strong> waren mit 9,5 und 8,5 bis zum Schluss nah drann.</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg"><img alt="" class="aligncenter wp-image-12543 size-full" decoding="async" height="434" sizes="(max-width: 666px) 100vw, 666px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg 666w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24-300x195.jpg 300w" width="666"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg"><img alt="" class="aligncenter wp-image-12543 size-full" decoding="async" height="434" loading="lazy" sizes="(max-width: 666px) 100vw, 666px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg 666w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24-300x195.jpg 300w" width="666"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -65,7 +101,7 @@ Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Frage
 <p>Auf Initiative und dann auch unter der Organisation von <strong>Tom</strong> (Super Idee, Super Einsatz, Danke für selbständiges Handeln!) kamen 12 Teilnehmer zusammen. Zuerst wollten wir mit Bedenkzeit 10+0 spielen, das erwies sich dann aber mit steigender Teilnehmerzahl als zu lang, so wurde es 5+3.</p>
 <p>Die ersten 2 (?) Runden spielten wir im Bornstein-Modus* – das mit dem Uhren stellen muss Tom dann noch üben 😉 – erst im Duell Präsident gegen Vize fiel das auf….</p>
 <p>Turniersieger wurde mit <strong>Igor</strong> ein Gast! Es folgten <strong>Peter</strong> und <strong>Klaus</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg"><img alt="" class="wp-image-12512 size-medium aligncenter" decoding="async" height="217" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-1024x740.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-768x555.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg 1495w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg"><img alt="" class="wp-image-12512 size-medium aligncenter" decoding="async" height="217" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-1024x740.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-768x555.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg 1495w" width="300"/></a></p>
 <p>1. Igor 10,5 Punkte<br/>
 2. Peter 9,5 (direkte Duell ging an Igor)<br/>
 3. Klaus 9<br/>
@@ -418,40 +454,6 @@ Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>A
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/27/bfl-finale-duell-gegen-kreuzberg/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12338 
-<div class="post-12320 post type-post status-publish format-standard hentry category-bmm" id="post-12320">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/" rel="bookmark">BMM Runde 8 – 2 klare Siege</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/" rel="bookmark" title="18:28"><span class="entry-date">21. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>2 Siege und eine Niederlage in der vorletzten Runde der BMM.</p>
-<p><strong>NARVA 1</strong> verliert knapp gegen <strong>Berolina Mitte 4</strong> mit <strong>3,5:4,5</strong>. Es geht für die Erste aber um nichts mehr und es war auch deren letzte Runde, da man Runde 9 spielfrei hat.</p>
-<p><strong>NARVA 2</strong> überrollt <strong>Motor Wildau 1</strong> mit <strong>7:1</strong>!! Ganz stark! Beim Stand von 7:0 gelingt Wildau noch der Ehrentreffer. Damit ist auch der Klassenerhalt sicher und Wildau muss eine Klasse tiefer.</p>
-<p><strong>NARVA 3</strong> gewinnt auch deutlich gegen <strong>Eckturm 2</strong>, mit <strong>5,5:0,5</strong> gibt es für den Gegner nur einen halben Brettpunkt.</p>
-<p>Danke an alle die heute fleißig beim Aufbauen geholfen haben und natürlich für die starken Ergebnisse der Zweiten und Dritten.</p>
-<p>Ergebnisse und Bilder</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/#more-12320">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/21/bmm-runde-8-2-klare-siege/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12320 
-<div class="post-12292 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12292">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/" rel="bookmark">Ankündigung: Kleeblatt-Turnier 2024</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/" rel="bookmark" title="22:07"><span class="entry-date">15. April 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am 2. Juni tragen wir im RuDi wieder unser Kleeblatt-Turnier aus – ein offenes Turnier, bei dem an einem Tag drei DWZ-gewertete Partien spielt. Alles weitere in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/04/Kleeblatt-Turnier-2024.pdf">Ausschreibung</a> bzw. auf der <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2024/">Turnierseite</a>. Anmeldungen sind ab sofort möglich.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/04/15/ankuendigung-kleeblatt-turnier-2024/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12292 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
