@@ -61,15 +61,16 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Teodora Georgieva, Empor Berlin<br/>
 – Hermann Stuckstedte, SV Königsjäger Süd-West e.V.<br/>
 – Franz Tham, TSG Rot/ Weiß Fredersdorf<br/>
-– Dr. Klaus Kapr, Friesen Lichtenberg</p>
-<p><em>Anmeldung angekommen:</em><br/>
+– Dr. Klaus Kapr, Friesen Lichtenberg<br/>
 – Alexis Oortmann, SSV Rotation Berlin<br/>
-– Dr. Herbert Mayer, SSV Rotation Berlin<br/>
+– Dr. Herbert Mayer, SSV Rotation Berlin</p>
+<p><em>Anmeldung angekommen:</em><br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
 – Jörg Nagler, Rochade Müncheberg<br/>
-– Rüdiger Meinicke, Rochade Müncheberg</p>
+– Rüdiger Meinicke, Rochade Müncheberg<br/>
+– Dagobert Kohlmeyer, SG Weißensee</p>
 <p> </p>
-<p>Stand: 09.07.2024</p>
+<p>Stand: 10.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

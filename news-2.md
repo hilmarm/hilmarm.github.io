@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-12575 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12575">
+<div class="post-12575 post type-post status-publish format-standard hentry category-openberichte" id="post-12575">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/10/27-emanuel-lasker-schnellturnier-in-thyrow/" rel="bookmark">27. Emanuel-Lasker-Schnellturnier in Thyrow</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/10/27-emanuel-lasker-schnellturnier-in-thyrow/" rel="bookmark" title="10:34"><span class="entry-date">10. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -22,12 +22,12 @@ navs:
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/10/27-emanuel-lasker-schnellturnier-in-thyrow/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12575 
-<div class="post-12571 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12571">
+<div class="post-12571 post type-post status-publish format-standard hentry category-openberichte" id="post-12571">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/" rel="bookmark">Miedzyzdroje/Misdroy 2024</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/" rel="bookmark" title="20:22"><span class="entry-date">9. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -39,7 +39,7 @@ navs:
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
