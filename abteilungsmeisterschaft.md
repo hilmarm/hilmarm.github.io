@@ -406,7 +406,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Herrscher,Michae</td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -509,7 +509,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Düren,Jerome</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -557,7 +557,7 @@ parent_title: Turniere
 <td>23</td>
 <td>Stüve,Maxim</td>
 <td>(1)</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>

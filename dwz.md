@@ -333,7 +333,7 @@ navs:
 <td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
-<td>1309</td>
+<td>1295</td>
 <td>38</td>
 <td>1635</td>
 </tr>
@@ -349,7 +349,7 @@ navs:
 <td>40.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
-<td>1246</td>
+<td>1248</td>
 <td>14</td>
 <td></td>
 </tr>
@@ -365,7 +365,7 @@ navs:
 <td>42.</td>
 <td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
 <td></td>
-<td>1215</td>
+<td>1214</td>
 <td>9</td>
 <td>0</td>
 </tr>
