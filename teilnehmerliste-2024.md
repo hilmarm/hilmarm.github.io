@@ -70,9 +70,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Rüdiger Meinicke, Rochade Müncheberg<br/>
 – Dagobert Kohlmeyer, SG Weißensee<br/>
 – Fabian Schmidt, Königsjäger Süd-West<br/>
-– Dave Schwarz, Rochade Müncheberg</p>
+– Dave Schwarz, Rochade Müncheberg<br/>
+– Oliver Dung Nguyen, SC Borussia Lichtenberg<br/>
+– Fredy Reimann, Königsjäger Süd-West<br/>
+– Sibylle Guder, SF Berlin</p>
 <p> </p>
-<p>Stand: 12.07.2024</p>
+<p>Stand: 15.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
