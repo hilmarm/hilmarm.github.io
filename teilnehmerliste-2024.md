@@ -63,7 +63,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Franz Tham, TSG Rot/ Weiß Fredersdorf<br/>
 – Dr. Klaus Kapr, Friesen Lichtenberg<br/>
 – Alexis Oortmann, SSV Rotation Berlin<br/>
-– Dr. Herbert Mayer, SSV Rotation Berlin</p>
+– Dr. Herbert Mayer, SSV Rotation Berlin<br/>
+– Ulrich Fitzke, DB/BSW Berlin</p>
 <p><em>Anmeldung angekommen:</em><br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
 – Jörg Nagler, Rochade Müncheberg<br/>

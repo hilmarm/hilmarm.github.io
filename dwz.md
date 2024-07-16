@@ -347,6 +347,14 @@ navs:
 </tr>
 <tr>
 <td>40.</td>
+<td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
+<td></td>
+<td>1265</td>
+<td>10</td>
+<td>0</td>
+</tr>
+<tr>
+<td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
 <td>1248</td>
@@ -354,20 +362,12 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>41.</td>
+<td>42.</td>
 <td><a href="http://www.schachbund.de/spieler/10209542.html" target="_blank"> Manfred Smala</a></td>
 <td></td>
 <td>1232</td>
 <td>32</td>
 <td></td>
-</tr>
-<tr>
-<td>42.</td>
-<td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
-<td></td>
-<td>1214</td>
-<td>9</td>
-<td>0</td>
 </tr>
 <tr>
 <td>43.</td>

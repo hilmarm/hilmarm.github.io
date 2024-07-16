@@ -50,7 +50,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
 <td>03.10.-06.10.2024</td>
-<td></td>
+<td>Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><strong>Kurt-Richter-Gedenkturnier 2024</strong></a></td>
