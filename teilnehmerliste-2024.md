@@ -64,7 +64,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Dr. Klaus Kapr, Friesen Lichtenberg<br/>
 – Alexis Oortmann, SSV Rotation Berlin<br/>
 – Dr. Herbert Mayer, SSV Rotation Berlin<br/>
-– Ulrich Fitzke, DB/BSW Berlin</p>
+– Ulrich Fitzke, DB/BSW Berlin<br/>
+– Sibylle Guder, SF Berlin<br/>
+– Fredy Reimann, Königsjäger Süd-West<br/>
+– David Pleschka, SC Borussia Lichtenberg</p>
 <p><em>Anmeldung angekommen:</em><br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
 – Jörg Nagler, Rochade Müncheberg<br/>
@@ -72,11 +75,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Dagobert Kohlmeyer, SG Weißensee<br/>
 – Fabian Schmidt, Königsjäger Süd-West<br/>
 – Dave Schwarz, Rochade Müncheberg<br/>
-– Oliver Dung Nguyen, SC Borussia Lichtenberg<br/>
-– Fredy Reimann, Königsjäger Süd-West<br/>
-– Sibylle Guder, SF Berlin</p>
+– Oliver Dung Nguyen, SC Borussia Lichtenberg</p>
 <p> </p>
-<p>Stand: 15.07.2024</p>
+<p>Stand: 17.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
