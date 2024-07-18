@@ -333,8 +333,8 @@ navs:
 <td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
-<td>1295</td>
-<td>38</td>
+<td>1308</td>
+<td>39</td>
 <td>1635</td>
 </tr>
 <tr>
