@@ -61,7 +61,7 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2032</td>
+<td>2031</td>
 <td>468</td>
 <td>2023</td>
 </tr>
@@ -237,7 +237,7 @@ navs:
 <td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
-<td>1604</td>
+<td>1603</td>
 <td>3</td>
 <td>0</td>
 </tr>
@@ -301,7 +301,7 @@ navs:
 <td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
 <td></td>
-<td>1439</td>
+<td>1438</td>
 <td>18</td>
 <td>0</td>
 </tr>
