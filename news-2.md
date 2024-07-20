@@ -8,6 +8,33 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12617 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12617">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/19/abteilungsmeisterschaft-runde-4-2/" rel="bookmark">Abteilungsmeisterschaft Runde 4</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/19/abteilungsmeisterschaft-runde-4-2/" rel="bookmark" title="21:35"><span class="entry-date">19. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag stand Runde 4 zur Abteilungsmeisterschaft an. Es wurden auch insgesamt 8 Partien gespielt, eine wurde vorgespielt und die noch fehlenden demnächst nachgespielt.</p>
+<p>Ergebnisse:<br/>
+Hilmar – Ekkehard 1:0<br/>
+Jonatan – Peter 0:1<br/>
+Hans-Dieter – Gerhard 1:0<br/>
+Alexander – Thomas M ½:½<br/>
+Jerry – Lukas 1:0<br/>
+Ulrich – Wolfgang 1:0<br/>
+Maxim – Michael H. 1:0<br/>
+Klaus – Jan-Hendrik ½:½<br/>
+Oliver – Manfred H. 1:0</p>
+<p>Damit Hilmar jetzt alleine mit 4 aus 4 an der Spitze, gefolgt von Peter und Hans-Dieter mit 3,5 Punkten.</p>
+<p>Jonatan hat auch schon Runde 5 ausgelost.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/19/abteilungsmeisterschaft-runde-4-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12617 
 <div class="post-12602 post type-post status-publish format-standard hentry category-openberichte" id="post-12602">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/14/berliner-schnellschach-mannschaftsmeisterschaft/" rel="bookmark">Berliner Schnellschach Mannschaftsmeisterschaft</a></h2>
 <div class="entry-meta">
@@ -410,21 +437,6 @@ Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>A
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12413 
-<div class="post-12409 post type-post status-publish format-standard hentry category-offene-turniere" id="post-12409">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/12/kleeblatt-turnier-ausgebucht/" rel="bookmark">Kleeblatt-Turnier ausgebucht!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/12/kleeblatt-turnier-ausgebucht/" rel="bookmark" title="15:30"><span class="entry-date">12. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Drei Wochen vor dem diesjährigen Kleeblatt-Turnier ist dieses nun <strong>ausgebucht</strong>. Die geplante Teilnehmerzahl haben wir sogar schon leicht überschritten und sind nun bei 52 Teilnehmern.</p>
-<p>Weitere Interessenten werden nun auf eine Warteliste gesetzt und können dann nachrücken, falls jemand absagt.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/12/kleeblatt-turnier-ausgebucht/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12409 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
