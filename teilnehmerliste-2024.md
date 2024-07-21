@@ -69,7 +69,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Fredy Reimann, Königsjäger Süd-West<br/>
 – David Pleschka, SC Borussia Lichtenberg<br/>
 – Johannes Müller, SC Eintracht Berlin<br/>
-– Benjamin Schweitzer, SF Berlin</p>
+– Benjamin Schweitzer, SF Berlin<br/>
+– Oliver Dung Nguyen, SC Borussia Lichtenberg</p>
 <p><em>Anmeldung angekommen:</em><br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
 – Jörg Nagler, Rochade Müncheberg<br/>
@@ -77,10 +78,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Dagobert Kohlmeyer, SG Weißensee<br/>
 – Fabian Schmidt, Königsjäger Süd-West<br/>
 – Dave Schwarz, Rochade Müncheberg<br/>
-– Oliver Dung Nguyen, SC Borussia Lichtenberg<br/>
-– Maxime Varazi, Empor Berlin</p>
+– Maxime Varazi, Empor Berlin<br/>
+– Mandy Gietz, Rochade Müncheberg<br/>
+– Dr. Frank Garbin, ohne Verein</p>
 <p> </p>
-<p>Stand: 19.07.2024</p>
+<p>Stand: 20.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
