@@ -50,28 +50,112 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<p><em>Angemeldet inkl. Startgeld überwiesen:</em><br/>
-– Andreas Grosch, SV Berolina Mitte<br/>
-– Günter Idaczek, SG NARVA Berlin<br/>
-– Frank König, BSG Eckbauer<br/>
-– Bernd Böttger, Berliner Volksbank (FV Schach)<br/>
-– Magnus Keller, SG NARVA Berlin<br/>
-– Ulrich Campe, SG NARVA Berlin<br/>
-– Peter Thürauf, SW Nürnberg<br/>
-– Teodora Georgieva, Empor Berlin<br/>
-– Hermann Stuckstedte, SV Königsjäger Süd-West e.V.<br/>
-– Franz Tham, TSG Rot/ Weiß Fredersdorf<br/>
-– Dr. Klaus Kapr, Friesen Lichtenberg<br/>
-– Alexis Oortmann, SSV Rotation Berlin<br/>
-– Dr. Herbert Mayer, SSV Rotation Berlin<br/>
-– Ulrich Fitzke, DB/BSW Berlin<br/>
-– Sibylle Guder, SF Berlin<br/>
-– Fredy Reimann, Königsjäger Süd-West<br/>
-– David Pleschka, SC Borussia Lichtenberg<br/>
-– Johannes Müller, SC Eintracht Berlin<br/>
-– Benjamin Schweitzer, SF Berlin<br/>
-– Oliver Dung Nguyen, SC Borussia Lichtenberg</p>
-<p><em>Anmeldung angekommen:</em><br/>
+<p><em>Angemeldet inkl. Startgeld überwiesen:</em></p>
+<table style="border-collapse: collapse; width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">1</td>
+<td style="width: 33.3333%;">Andreas Grosch</td>
+<td style="width: 33.3333%;">SV Berolina Mitte</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">2</td>
+<td style="width: 33.3333%;">Günter Idaczek</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">3</td>
+<td style="width: 33.3333%;">Frank König</td>
+<td style="width: 33.3333%;">BSG Eckbauer</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">4</td>
+<td style="width: 33.3333%;">Bernd Böttger</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Berliner Volksbank (FV Schach)</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">5</td>
+<td style="width: 33.3333%;">Magnus Keller</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">6</td>
+<td style="width: 33.3333%;">Ulrich Campe</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">7</td>
+<td style="width: 33.3333%;">Peter Thürauf</td>
+<td style="width: 33.3333%;">SW Nürnberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">8</td>
+<td style="width: 33.3333%;">Teodora Georgieva</td>
+<td style="width: 33.3333%;">Empor Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">9</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Hermann Stuckstedte</td>
+<td style="width: 33.3333%;">SV Königsjäger Süd-West e.V.</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">10</td>
+<td style="width: 33.3333%;">Franz Tham</td>
+<td style="width: 33.3333%;">TSG Rot/ Weiß Fredersdorf</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">11</td>
+<td style="width: 33.3333%;">Dr. Klaus Kapr</td>
+<td style="width: 33.3333%;">Friesen Lichtenberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">12</td>
+<td style="width: 33.3333%;">Alexis Oortmann</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">13</td>
+<td style="width: 33.3333%;">Dr. Herbert Mayer</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">14</td>
+<td style="width: 33.3333%;">Ulrich Fitzke</td>
+<td style="width: 33.3333%;">DB/BSW Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">15</td>
+<td style="width: 33.3333%;">Sibylle Guder</td>
+<td style="width: 33.3333%;">SF Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">16</td>
+<td style="width: 33.3333%;">Fredy Reimann</td>
+<td nowrap="nowrap" style="width: 33.3333%;">SV Königsjäger Süd-West e.V.</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">17</td>
+<td style="width: 33.3333%;">David Pleschka</td>
+<td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">18</td>
+<td style="width: 33.3333%;">Johannes Müller</td>
+<td style="width: 33.3333%;">SC Eintracht Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">19</td>
+<td style="width: 33.3333%;">Benjamin Schweitzer</td>
+<td style="width: 33.3333%;">SF Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">20</td>
+<td style="width: 33.3333%;">Oliver Dung Nguyen</td>
+<td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
+</tr>
+</tbody>
+</table>
+<p><strong><em>Anmeldung angekommen:</em></strong><br/>
 – Sergej Krefenstein, TuS Makkabi Berlin<br/>
 – Jörg Nagler, Rochade Müncheberg<br/>
 – Rüdiger Meinicke, Rochade Müncheberg<br/>
@@ -80,9 +164,10 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Dave Schwarz, Rochade Müncheberg<br/>
 – Maxime Varazi, Empor Berlin<br/>
 – Mandy Gietz, Rochade Müncheberg<br/>
-– Dr. Frank Garbin, ohne Verein</p>
+– Dr. Frank Garbin, ohne Verein<br/>
+– Boris Dimitrijeski, König Tegel</p>
 <p> </p>
-<p>Stand: 20.07.2024</p>
+<p>Stand: 21.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
