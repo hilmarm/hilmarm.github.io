@@ -50,7 +50,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<p><em>Angemeldet inkl. Startgeld überwiesen:</em></p>
+<p><strong><em>Angemeldet inkl. Startgeld überwiesen:</em></strong></p>
 <table style="border-collapse: collapse; width: 100%;">
 <tbody>
 <tr>
@@ -153,6 +153,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td style="width: 33.3333%;">Oliver Dung Nguyen</td>
 <td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">21</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Ismael Martínez Ferrer</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -165,9 +170,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Maxime Varazi, Empor Berlin<br/>
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
-– Boris Dimitrijeski, König Tegel</p>
-<p> </p>
-<p>Stand: 21.07.2024</p>
+– Boris Dimitrijeski, König Tegel<br/>
+– Michel Zimmer, Ludwigsfelder SC 54</p>
+<p>Stand: 24.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
