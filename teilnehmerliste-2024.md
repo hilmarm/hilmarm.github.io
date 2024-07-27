@@ -158,6 +158,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Ismael Martínez Ferrer</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">22</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Francois-David Velin-Langlamet</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -171,8 +176,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
 – Boris Dimitrijeski, König Tegel<br/>
-– Michel Zimmer, Ludwigsfelder SC 54</p>
-<p>Stand: 24.07.2024</p>
+– Michel Zimmer, Ludwigsfelder SC 54<br/>
+– Armin Krawatzki, Läufer Reinickendorf</p>
+<p>Stand: 26.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
