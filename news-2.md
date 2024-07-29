@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12631 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12631">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/" rel="bookmark">Juli Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/" rel="bookmark" title="19:47"><span class="entry-date">28. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Auch beim Juli-Blitz gab es ein enges Rennen um den Tagessieg. 11 Teilnehmer, darunter 4 starke Gäste, ergaben ein gutes Teilnehmerfeld.</p>
+<p><strong>Peter</strong> gab gegen Ekkehard ab und spielte Remis gegen Gast Walker, <strong>Ekkehard</strong> verlor gegen Matthias und Gast Steinmann, <strong>Matthias</strong> gab sogar 3 Punkte ab.</p>
+<p>Am Ende gewinnt also wieder Peter mit 8,5 aus 10, vor Ekkehard und Matthias.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12631 
 <div class="post-12617 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12617">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/19/abteilungsmeisterschaft-runde-4-2/" rel="bookmark">Abteilungsmeisterschaft Runde 4</a></h2>
 <div class="entry-meta">
@@ -415,28 +432,6 @@ Von NARVA waren <strong>Günter</strong>, <strong>Philipp</strong> und <strong>A
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/15/3x-narva-beim-halbmarathon/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12416 
-<div class="post-12413 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12413">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark">Schnellschach GP mit Schachbücher</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/" rel="bookmark" title="20:12"><span class="entry-date">14. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>Donnerstag</strong> 16.06. findet die 3.Runde vom <strong>NARVA Schnellschach GP 2024</strong> statt!<br/>
-– Beginn 18:15 Uhr<br/>
-– Bedenkzeit 12+3<br/>
-– Modus je nach Teilnehmerzahl – meist 5 Runden Schweizer System<br/>
-– Gäste sind natürlich herzlich willkommen!!<br/>
-– kein Startgeld<br/>
-– Es gibt Sachpreise vom Schweden!!*</p>
-<p><em>* Tomas hat sein Bücherregal aufgeräumt und als Sachpreise diverse Schachbücher mitgebracht!! </em><br/>
-<em>Es gibt also auch mehrere Preise, nicht nur für den Ersten!</em></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/14/schnellschach-gp-mit-schachbuecher/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12413 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

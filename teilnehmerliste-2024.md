@@ -51,7 +51,14 @@ parent_title: Kurt-Richter-Gedenkturnier
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
 <p><strong><em>Angemeldet inkl. Startgeld überwiesen:</em></strong></p>
-<table style="border-collapse: collapse; width: 100%;">
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>TlnNr</th>
+<th>Teilnehmer</th>
+<th>Verein/Ort</th>
+</tr>
+</thead>
 <tbody>
 <tr>
 <td style="width: 33.3333%;">1</td>
@@ -163,6 +170,26 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Francois-David Velin-Langlamet</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">23</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Olaf Kreuchauf</td>
+<td style="width: 33.3333%;">SC Eintracht Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">24</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Norbert Koriath</td>
+<td style="width: 33.3333%;">SC Eintracht Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">25</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Michel Zimmer</td>
+<td style="width: 33.3333%;">Ludwigsfelder SC 54</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">26</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Michael Sennholz</td>
+<td style="width: 33.3333%;">SV Berolina Mitte</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -176,9 +203,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
 – Boris Dimitrijeski, König Tegel<br/>
-– Michel Zimmer, Ludwigsfelder SC 54<br/>
-– Armin Krawatzki, Läufer Reinickendorf</p>
-<p>Stand: 26.07.2024</p>
+– Armin Krawatzki, Läufer Reinickendorf<br/>
+– Ingo Sommer, SC Kreuzberg</p>
+<p>Stand: 29.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

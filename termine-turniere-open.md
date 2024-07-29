@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://schachopenruedersdorf.de/" rel="noopener" target="_blank">3. Rüdersdorfer Open 2024</a></td>
-<td>18.07.-21.07.2024</td>
-<td>Batu</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.schachclubkreuzberg.de/werner-ott-open-kreuzberger-sommer-2024/" rel="noopener" target="_blank">Kreuzberger Sommer 2024</a></td>
-<td>20.07.-28.07.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2024</a></td>
 <td>10.08.-18.08.2024</td>
 <td>Günter, Ekkehard, Lukas</td>
