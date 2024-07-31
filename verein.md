@@ -84,6 +84,7 @@ parent_title: Chronik
 </tbody>
 </table>
 <p><img alt="Geschi1" class="alignnone wp-image-527" decoding="async" height="187" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Geschi1.jpg" width="150"/> <img alt="Narva Logo Farbe2" class="alignnone wp-image-528 size-thumbnail" decoding="async" height="150" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo-Farbe2-150x150.jpg" width="150"/> <img alt="Narva-Logo" class="alignnone wp-image-529" decoding="async" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/Narva-Logo.gif" width="150"/></p>
+<h1 align="center"><a href="https://de.wikipedia.org/wiki/SG_NARVA_Berlin" rel="noopener" target="_blank">Auf Wikipedia über die SG NARVA</a></h1>
 <h1 align="center"><strong><span style="text-decoration: underline;">Der Verein</span></strong></h1>
 <p>Im Verein SG NARVA Berlin e.V. gibt es mehrere Abteilungen, in denen die verschiedensten Sportarten ausgeübt werden können.<br/>
 Dazu gehören:</p>
@@ -98,7 +99,7 @@ Dazu gehören:</p>
 </tr>
 <tr>
 <td nowrap="nowrap" width="200">Ruderclub NARVA-Oberspree e.V.</td>
-<td nowrap="nowrap"><a href="http://www.sgnarva.ag.vu/" rel="noopener noreferrer" target="_blank">www.sgnarva.ag.vu</a> (keine Abteilung der SG NARVA)</td>
+<td nowrap="nowrap"><a href="http://www.sgnarva.ag.vu/" rel="noopener noreferrer" target="_blank">www.sgnarva.ag.vu</a> (keine Abteilung der SG NARVA mehr)</td>
 </tr>
 <tr>
 <td width="200">Volleyball</td>
@@ -172,7 +173,7 @@ Seit 1998 ist die Abteilung Schach nun in der Kadiner Str. 1 zu Hause. Diese sta
 <p>11/73 bis 1976: Karl – Heinz Ollek</p>
 <p>Erneut ab 9/86 wird ein Jugendwart wirksam.<br/>
 <strong>Ronald Hübner</strong> arbeitet erfolgreich bis 6/91. Fortan geht er einer Erwerbstätigkeit außerhalb Berlins nach.<br/>
-<strong>GM Michael Richter</strong>, danach <strong>Lars Neumeier</strong>, stammen aus seiner “Schule” (auch <strong>Thomas Mothes</strong>, nur nicht so erfolgreich), die 1989 mit 32 Teilnehmern ein Maximum hatte, danach enorm schrumpfte.<br/>
+<strong>GM Michael Richter</strong>, danach <strong>FM Lars Neumeier</strong>, stammen aus seiner “Schule” (auch <strong>Thomas Mothes</strong>, nur nicht so erfolgreich), die 1989 mit 32 Teilnehmern ein Maximum hatte, danach enorm schrumpfte.<br/>
 Ende 1992 waren 6 Interessenten im neuen Objekt Auerstr.17 zu zählen.<br/>
 5/92 übernimmt <strong>Manfred Smala</strong> diese Funktion und übte sie bis 2015 aus.<br/>
 Danach übernahm kurz <strong>Dirk Laurin</strong> die Position (<a href="https://www.narva-schach.de/wordpress/2017/04/15/schockierende-tiefe-trauer/">im April 2017 viel zu früh verstorben</a>), bis im April 2016 <strong>Alexander Kreisel</strong> zum Jugendwart gewählt wurde und bis heute aktiv ist. Auch er stammt aus der Jugendabteilung von NARVA, also ein „Eigengewächs“.</p>
@@ -237,6 +238,14 @@ Im April 2024 übernimmt Ekkehard dann auch das Amt vom Jugendwart im Vorstand.<
 </tbody>
 </table>
 <p>Mit 3 Mannschaftspunkten (21 Brett-Pkt.) wurde in der 2. Klasse der 9. Platz erreicht, dabei gingen nur drei Punkte kampflos verloren. Das Ergebnis hatte den Abstieg in die 3. Klasse zur Folge.</p>
+<h1 align="center"><strong><span style="text-decoration: underline;">Die Corona-Jahre und danach</span></strong></h1>
+<h1 align="center"><strong><span style="text-decoration: underline;"> 75 Jahre NARVA Schach</span></strong></h1>
+<p>Mit Beginn der Corona-Pandemie im Jahr 2020 brach auch der Spielbetrieb beim Schach komplett zusammen. Ab 12. März 2020 wurden die Spiellokale geschlossen und BMM sowie auch unsere internen Turniere unterbrochen. Davon betroffen war auch die geplante 70 Jahre NARVA Schach Feier inkl. Mannschaftsblitzturnier im Juli.</p>
+<p>Ende Juli ging es dann in kleinen Gruppen, unter Auflagen zumindest intern weiter. Ende Oktober war dann wieder alles unterbrochen, erst am 24.06.2021 ging ein Training wieder los. Im Sommer 2021 wurde dann die noch fehlende BMM aus der Saison 19/20 nachgeholt. Für das 2.Halbjahr 2021 gab es dann zumindest wieder einen Terminplan für die internen Clubabende und es wurden Blitz- und Schnellschachmeisterschaften ausgespielt.</p>
+<p>Einen kompletten Neustart für BMM, BFL und interne Turniere gab es dann erst für 2022. Während der gesamten Corona-Zeit spielte NARVA auf der online-Plattform lichess.com in der Quarantäne-Liga und später (und bis heute) auch in der Rapid-Liga. So konnten vor allem über das Internet viele neue Mitglieder gewonnen werden.</p>
+<p>Während der Pandemie gab es auch erstmals eine Vorstandswahl per Briefwahl. Außerdem wurde dabei die Satzung bzgl. Anwesenheit bei Mitgliederversammlungen angepasst.</p>
+<p>Nach der Corona-Pandemie im Jahr 2023 gab es einen starken Mitgliederzuwachs und NARVA Schach erreichte wieder deutlich über 50 Mitglieder. Der Abteilungsgeburtstag soll dann 2025 zum 75. Jubiläum nachgeholt werden.</p>
+<p> </p>
 <p><img alt="brett" class="aligncenter size-thumbnail wp-image-533" decoding="async" height="150" loading="lazy" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/05/brett-150x150.jpg" width="150"/></p>
 <h1 align="center"><strong><span style="text-decoration: underline;">Spielorte / Trainingsorte</span></strong><br/>
 <strong><span style="text-decoration: underline;"> der Abt. Schach</span></strong></h1>

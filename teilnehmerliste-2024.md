@@ -190,6 +190,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Michael Sennholz</td>
 <td style="width: 33.3333%;">SV Berolina Mitte</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">27</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Florian Griebling</td>
+<td style="width: 33.3333%;">SC Kreuzberg</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -205,7 +210,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Boris Dimitrijeski, König Tegel<br/>
 – Armin Krawatzki, Läufer Reinickendorf<br/>
 – Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 29.07.2024</p>
+<p>Stand: 30.07.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

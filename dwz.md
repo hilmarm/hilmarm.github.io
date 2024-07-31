@@ -357,7 +357,7 @@ navs:
 <td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
-<td>1248</td>
+<td>1247</td>
 <td>14</td>
 <td></td>
 </tr>
@@ -405,7 +405,7 @@ navs:
 <td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
-<td>1056</td>
+<td>1055</td>
 <td>2</td>
 <td></td>
 </tr>
