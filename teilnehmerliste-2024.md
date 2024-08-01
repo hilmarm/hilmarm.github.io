@@ -195,10 +195,14 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Florian Griebling</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">28</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Sergej Krefenstein</td>
+<td style="width: 33.3333%;">TuS Makkabi Berlin</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
-– Sergej Krefenstein, TuS Makkabi Berlin<br/>
 – Jörg Nagler, Rochade Müncheberg<br/>
 – Rüdiger Meinicke, Rochade Müncheberg<br/>
 – Dagobert Kohlmeyer, SG Weißensee<br/>
@@ -210,7 +214,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Boris Dimitrijeski, König Tegel<br/>
 – Armin Krawatzki, Läufer Reinickendorf<br/>
 – Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 30.07.2024</p>
+<p>Stand: 01.08.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

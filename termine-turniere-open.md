@@ -33,14 +33,24 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.lsbb.de/archiv-pdf/Oranienburger%20Ausschreibung%202024.pdf" rel="noopener" target="_blank">3. Oranienburger Chess-Open 2024</a></td>
+<td><a href="https://www.schachclub-oranienburg.de/wordpress/2024/07/3-oranienburger-chess-open-2024/" rel="noopener" target="_blank">3. Oranienburger Chess-Open 2024</a></td>
 <td>07.09.-08.09.2024</td>
 <td>Batu</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/bbem-2024.html" rel="noopener" target="_blank">BEMM 2024</a></td>
+<td>14.09.2024</td>
+<td>Batu, Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202024.pdf" rel="noopener" target="_blank">Spreewaldpokal</a></td>
 <td>14.09.2024</td>
 <td>zwei Mannschaften</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/bbmm-2024.html" rel="noopener" target="_blank">BBMM 2024</a></td>
+<td>15.09.2024</td>
+<td>Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
