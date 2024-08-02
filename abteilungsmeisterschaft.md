@@ -415,7 +415,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Maetzing,Hans-Di</td>
 <td>(3½)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -475,7 +475,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Schenk,Jonatan</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -638,7 +638,7 @@ parent_title: Turniere
 <td>12</td>
 <td>Heinrich,Wesko</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
