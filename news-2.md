@@ -22,7 +22,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/#comments">Ein Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12631 
 <div class="post-12617 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12617">

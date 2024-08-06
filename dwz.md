@@ -51,6 +51,14 @@ navs:
 </tr>
 <tr>
 <td>3.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>2054</td>
+<td>471</td>
+<td>2023</td>
+</tr>
+<tr>
+<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
 <td>2039</td>
@@ -58,20 +66,12 @@ navs:
 <td>2103</td>
 </tr>
 <tr>
-<td>4.</td>
+<td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10096720.html" target="_blank"> Sven Judas</a></td>
 <td></td>
 <td>2030</td>
 <td>65</td>
 <td>2040</td>
-</tr>
-<tr>
-<td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>2024</td>
-<td>469</td>
-<td>2023</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -333,7 +333,7 @@ navs:
 <td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
-<td>1308</td>
+<td>1309</td>
 <td>39</td>
 <td>1635</td>
 </tr>
