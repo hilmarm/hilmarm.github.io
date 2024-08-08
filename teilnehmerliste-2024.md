@@ -200,6 +200,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Sergej Krefenstein</td>
 <td style="width: 33.3333%;">TuS Makkabi Berlin</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">29</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Armin Krawatzki</td>
+<td style="width: 33.3333%;">Läufer Reinickendorf</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -212,9 +217,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
 – Boris Dimitrijeski, König Tegel<br/>
-– Armin Krawatzki, Läufer Reinickendorf<br/>
-– Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 01.08.2024</p>
+– Ingo Sommer, SC Kreuzberg<br/>
+– Jeremy Wadepfuhl, SC Borussia Lichtenberg</p>
+<p>Stand: 08.08.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
