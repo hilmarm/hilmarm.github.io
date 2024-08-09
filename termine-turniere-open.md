@@ -53,6 +53,11 @@ parent_title: Termine
 <td>Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit 2024</a></td>
+<td>30.09.-06.10.2024</td>
+<td>Hans-Dieter, Ulrich</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
 <td>03.10.-06.10.2024</td>
 <td>Oliver</td>
