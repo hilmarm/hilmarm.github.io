@@ -16,7 +16,7 @@ Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend 
 <p><b>jeden Donnerstag:</b></p>
 <p><b>ab 16:30 Uhr Jugendtraining</b><br/>
 <b>ab 18:00 Uhr für alle</b></p>
-<h1><strong>Wo?<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Barrierefrei.jpg"><img alt="" class="wp-image-12647 alignright" decoding="async" height="176" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Barrierefrei-300x300.jpg" width="153"/></a></strong></h1>
+<h1><strong>Wo?<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Barrierefrei.jpg"><img alt="" class="wp-image-12647 alignright" decoding="async" height="80" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Barrierefrei-300x300.jpg" width="87"/></a></strong></h1>
 <p><b>SG NARVA Berlin e.V.<br/>
 Abteilung Schach<br/>
 Kadiner Str. 1<br/>

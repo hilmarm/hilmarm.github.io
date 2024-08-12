@@ -210,6 +210,16 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Jeremy Wadepfuhl</td>
 <td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">31</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Boris Dimitrijeski</td>
+<td style="width: 33.3333%;">SK König Tegel</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">32</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Ekkehard Krüger</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -221,9 +231,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Maxime Varazi, Empor Berlin<br/>
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
-– Boris Dimitrijeski, König Tegel<br/>
 – Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 09.08.2024</p>
+<p>Stand: 12.08.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

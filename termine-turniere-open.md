@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="http://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2024</a></td>
 <td>10.08.-18.08.2024</td>
-<td>Günter, Ekkehard, Lukas</td>
+<td>Günter, Ekkehard, Mert, Tom</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/2024004%20Ausschreibung%20Dennewitz%2007092024.pdf" rel="noopener" target="_blank">211 Jahre Schlacht bei Dennewitz</a></td>
