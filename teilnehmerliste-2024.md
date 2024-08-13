@@ -220,6 +220,11 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Ekkehard Krüger</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">33</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Henrik Petersen</td>
+<td style="width: 33.3333%;">SV Koblenz</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -232,7 +237,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
 – Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 12.08.2024</p>
+<p>Stand: 13.08.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
