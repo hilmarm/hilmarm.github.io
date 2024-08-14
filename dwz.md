@@ -55,7 +55,7 @@ navs:
 <td>P</td>
 <td>2054</td>
 <td>471</td>
-<td>2023</td>
+<td>2041</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -215,7 +215,7 @@ navs:
 <td></td>
 <td>1649</td>
 <td>64</td>
-<td>0</td>
+<td></td>
 </tr>
 <tr>
 <td>24.</td>
@@ -471,7 +471,7 @@ navs:
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td>0</td>
 </tr>
 </table>
 </div><!-- .entry-content -->
