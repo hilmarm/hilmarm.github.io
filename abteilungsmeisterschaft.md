@@ -698,7 +698,7 @@ parent_title: Turniere
 <td>26</td>
 <td>Werner,Michael</td>
 <td>(0)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 </tbody>

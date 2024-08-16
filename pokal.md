@@ -25,18 +25,20 @@ parent_title: Turniere
 <th>Weiß</th>
 <th>Schwarz</th>
 <th>Ergeb.</th>
+<th>Rückspiel</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Arnold</td>
 <td>Hintze</td>
-<td></td>
+<td>½ : ½</td>
+<td>22.08.??</td>
 </tr>
 <tr>
-<td>Mietzelfeldt</td>
+<td><strong>Mietzelfeldt</strong></td>
 <td>Dr. Maetzing</td>
-<td></td>
+<td>1 : 0</td>
 </tr>
 </tbody>
 </table>
