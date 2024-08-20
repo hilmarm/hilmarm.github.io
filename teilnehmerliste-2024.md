@@ -225,6 +225,16 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Henrik Petersen</td>
 <td style="width: 33.3333%;">SV Koblenz</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">34</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Dr.Helmut Pöltelt</td>
+<td style="width: 33.3333%;">SC Eintracht Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">35</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Vinicius Vaz da Cruz</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong><br/>
@@ -237,7 +247,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
 – Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 13.08.2024</p>
+<p>Stand: 20.08.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
