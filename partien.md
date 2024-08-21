@@ -16,6 +16,20 @@ parent_title: Impressum
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12708 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-12708">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/08/20/partien-lichtenberger-sommer-2024/" rel="bookmark">Geschützt: Partien Lichtenberger Sommer 2024</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/08/20/partien-lichtenberger-sommer-2024/" rel="bookmark" title="13:45"><span class="entry-date">20. August 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-summary">
+<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
+</div><!-- .entry-summary -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
+</div><!-- .entry-utility -->
+</div> #post-12708 
 <div class="post-12671 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-12671">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/08/16/partie-pokal-halbfinale-2024/" rel="bookmark">Geschützt: Partie Pokal Halbfinale 2024</a></h2>
 <div class="entry-meta">
@@ -282,20 +296,6 @@ parent_title: Impressum
 <span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
 </div><!-- .entry-utility -->
 </div> #post-6874 
-<div class="post-6694 post type-post status-publish format-standard post-password-required hentry category-partien" id="post-6694">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2019/12/18/partien-4-runde-bmm-2019-20/" rel="bookmark">Geschützt: Partien 4.Runde BMM 2019/20</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2019/12/18/partien-4-runde-bmm-2019-20/" rel="bookmark" title="18:35"><span class="entry-date">18. Dezember 2019</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-summary">
-<p>Es gibt keinen Textauszug, da dies ein geschützter Beitrag ist.</p>
-</div><!-- .entry-summary -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/partien/" rel="category tag">Partien</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link">Um die Kommentare zu sehen, musst du dein Passwort eingeben.</span>
-</div><!-- .entry-utility -->
-</div> #post-6694 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/category/partien/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
