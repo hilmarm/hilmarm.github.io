@@ -51,14 +51,6 @@ navs:
 </tr>
 <tr>
 <td>3.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>2054</td>
-<td>471</td>
-<td>2041</td>
-</tr>
-<tr>
-<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
 <td>2039</td>
@@ -66,12 +58,20 @@ navs:
 <td>2103</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10096720.html" target="_blank"> Sven Judas</a></td>
 <td></td>
 <td>2030</td>
 <td>65</td>
 <td>2040</td>
+</tr>
+<tr>
+<td>5.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>2020</td>
+<td>472</td>
+<td>2041</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -125,8 +125,8 @@ navs:
 <td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
 <td></td>
-<td>1864</td>
-<td>74</td>
+<td>1869</td>
+<td>75</td>
 <td>1948</td>
 </tr>
 <tr>
@@ -149,8 +149,8 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
 <td></td>
-<td>1759</td>
-<td>9</td>
+<td>1764</td>
+<td>10</td>
 <td>1854</td>
 </tr>
 <tr>
@@ -171,19 +171,19 @@ navs:
 </tr>
 <tr>
 <td>18.</td>
-<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
-<td></td>
-<td>1749</td>
-<td>72</td>
-<td>1894</td>
-</tr>
-<tr>
-<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1731</td>
 <td>50</td>
 <td>1878</td>
+</tr>
+<tr>
+<td>19.</td>
+<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
+<td></td>
+<td>1729</td>
+<td>73</td>
+<td>1894</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -259,6 +259,14 @@ navs:
 </tr>
 <tr>
 <td>29.</td>
+<td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
+<td></td>
+<td>1521</td>
+<td>19</td>
+<td>0</td>
+</tr>
+<tr>
+<td>30.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
 <td>1520</td>
@@ -266,7 +274,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>30.</td>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1487</td>
@@ -274,7 +282,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>31.</td>
+<td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
 <td>1476</td>
@@ -282,7 +290,7 @@ navs:
 <td>1702</td>
 </tr>
 <tr>
-<td>32.</td>
+<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10110847.html" target="_blank"> Ingo König</a></td>
 <td></td>
 <td>1464</td>
@@ -290,20 +298,12 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>33.</td>
+<td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
 <td>1445</td>
 <td>6</td>
 <td>1691</td>
-</tr>
-<tr>
-<td>34.</td>
-<td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
-<td></td>
-<td>1438</td>
-<td>18</td>
-<td>0</td>
 </tr>
 <tr>
 <td>35.</td>
