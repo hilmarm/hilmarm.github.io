@@ -439,7 +439,7 @@ parent_title: Turniere
 <td>7</td>
 <td>Campe,Ulrich</td>
 <td>(2½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -451,7 +451,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Kreisel,Alexande</td>
 <td>(2½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Brinckmann,Klaus</td>
 <td>(1½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -511,7 +511,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Mach,Wolfgang</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ parent_title: Turniere
 <td>26</td>
 <td>Werner,Michael</td>
 <td>(0)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -535,7 +535,7 @@ parent_title: Turniere
 <td>17</td>
 <td>Eichstädt,Torste</td>
 <td>(0)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 </tbody>

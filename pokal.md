@@ -31,9 +31,9 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>Arnold</td>
-<td>Hintze</td>
+<td><strong>Hintze</strong></td>
 <td>½ : ½</td>
-<td>22.08.??</td>
+<td>0 : 1</td>
 </tr>
 <tr>
 <td><strong>Mietzelfeldt</strong></td>

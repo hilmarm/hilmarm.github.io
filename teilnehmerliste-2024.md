@@ -87,153 +87,173 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">6</td>
-<td style="width: 33.3333%;">Ulrich Campe</td>
-<td style="width: 33.3333%;">SG NARVA Berlin</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">7</td>
 <td style="width: 33.3333%;">Peter Thürauf</td>
 <td style="width: 33.3333%;">SW Nürnberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">8</td>
+<td style="width: 33.3333%;">7</td>
 <td style="width: 33.3333%;">Teodora Georgieva</td>
 <td style="width: 33.3333%;">Empor Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">9</td>
+<td style="width: 33.3333%;">8</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Hermann Stuckstedte</td>
 <td style="width: 33.3333%;">SV Königsjäger Süd-West e.V.</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">10</td>
+<td style="width: 33.3333%;">9</td>
 <td style="width: 33.3333%;">Franz Tham</td>
 <td style="width: 33.3333%;">TSG Rot/ Weiß Fredersdorf</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">11</td>
+<td style="width: 33.3333%;">10</td>
 <td style="width: 33.3333%;">Dr. Klaus Kapr</td>
 <td style="width: 33.3333%;">Friesen Lichtenberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">12</td>
+<td style="width: 33.3333%;">11</td>
 <td style="width: 33.3333%;">Alexis Oortmann</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">13</td>
+<td style="width: 33.3333%;">12</td>
 <td style="width: 33.3333%;">Dr. Herbert Mayer</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">14</td>
+<td style="width: 33.3333%;">13</td>
 <td style="width: 33.3333%;">Ulrich Fitzke</td>
 <td style="width: 33.3333%;">DB/BSW Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">15</td>
+<td style="width: 33.3333%;">14</td>
 <td style="width: 33.3333%;">Sibylle Guder</td>
 <td style="width: 33.3333%;">SF Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">16</td>
+<td style="width: 33.3333%;">15</td>
 <td style="width: 33.3333%;">Fredy Reimann</td>
 <td nowrap="nowrap" style="width: 33.3333%;">SV Königsjäger Süd-West e.V.</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">17</td>
+<td style="width: 33.3333%;">16</td>
 <td style="width: 33.3333%;">David Pleschka</td>
 <td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">18</td>
+<td style="width: 33.3333%;">17</td>
 <td style="width: 33.3333%;">Johannes Müller</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">19</td>
+<td style="width: 33.3333%;">18</td>
 <td style="width: 33.3333%;">Benjamin Schweitzer</td>
 <td style="width: 33.3333%;">SF Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">20</td>
+<td style="width: 33.3333%;">19</td>
 <td style="width: 33.3333%;">Oliver Dung Nguyen</td>
 <td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">21</td>
+<td style="width: 33.3333%;">20</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Ismael Martínez Ferrer</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">22</td>
+<td style="width: 33.3333%;">21</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Francois-David Velin-Langlamet</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">23</td>
+<td style="width: 33.3333%;">22</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Olaf Kreuchauf</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">24</td>
+<td style="width: 33.3333%;">23</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Norbert Koriath</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">25</td>
+<td style="width: 33.3333%;">24</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Michel Zimmer</td>
 <td style="width: 33.3333%;">Ludwigsfelder SC 54</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">26</td>
+<td style="width: 33.3333%;">25</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Michael Sennholz</td>
 <td style="width: 33.3333%;">SV Berolina Mitte</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">27</td>
+<td style="width: 33.3333%;">26</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Florian Griebling</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">28</td>
+<td style="width: 33.3333%;">27</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Sergej Krefenstein</td>
 <td style="width: 33.3333%;">TuS Makkabi Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">29</td>
+<td style="width: 33.3333%;">28</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Armin Krawatzki</td>
 <td style="width: 33.3333%;">Läufer Reinickendorf</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">30</td>
+<td style="width: 33.3333%;">29</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jeremy Wadepfuhl</td>
 <td style="width: 33.3333%;">SC Borussia Lichtenberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">31</td>
+<td style="width: 33.3333%;">30</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Boris Dimitrijeski</td>
 <td style="width: 33.3333%;">SK König Tegel</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">32</td>
+<td style="width: 33.3333%;">31</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Ekkehard Krüger</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">33</td>
+<td style="width: 33.3333%;">32</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Henrik Petersen</td>
 <td style="width: 33.3333%;">SV Koblenz</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">34</td>
+<td style="width: 33.3333%;">33</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Dr.Helmut Pöltelt</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">35</td>
+<td style="width: 33.3333%;">34</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Vinicius Vaz da Cruz</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">35</td>
+<td nowrap="nowrap" style="width: 33.3333%;">René Lasschuit</td>
+<td style="width: 33.3333%;">Berolina Mitte</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">36</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Maike Haase</td>
+<td style="width: 33.3333%;">SV Königsjäger Süd-West</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">37</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Manuel Moster</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">38</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Bernd Hubbe</td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">39</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Hanno Kühnert</td>
+<td style="width: 33.3333%;"></td>
 </tr>
 </tbody>
 </table>
@@ -246,8 +266,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Maxime Varazi, Empor Berlin<br/>
 – Mandy Gietz, Rochade Müncheberg<br/>
 – Dr. Frank Garbin, ohne Verein<br/>
-– Ingo Sommer, SC Kreuzberg</p>
-<p>Stand: 20.08.2024</p>
+– Ingo Sommer, SC Kreuzberg<br/>
+– Ramadan Khalifa (ohne Verein)</p>
+<p>Stand: 23.08.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
