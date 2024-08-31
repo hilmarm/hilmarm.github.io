@@ -50,6 +50,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
+<p><span style="color: #ff0000;">Nächste Update erfolgt am 01.09.</span></p>
 <p><strong><em>Angemeldet inkl. Startgeld überwiesen:</em></strong></p>
 <table class="clean swiss footable">
 <thead>
