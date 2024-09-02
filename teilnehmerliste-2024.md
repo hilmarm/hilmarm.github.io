@@ -50,8 +50,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<p><span style="color: #ff0000;">Nächste Update erfolgt am 01.09.</span></p>
-<p><strong><em>Angemeldet inkl. Startgeld überwiesen:</em></strong></p>
+<p>Angemeldet<strong><em> inkl. Startgeld überwiesen:</em></strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -256,20 +255,66 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Hanno Kühnert</td>
 <td style="width: 33.3333%;"></td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">40</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Jörg Nagler</td>
+<td style="width: 33.3333%;">Rochade Müncheberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">41</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Rüdiger Meinicke</td>
+<td style="width: 33.3333%;">Rochade Müncheberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">42</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Dave Schwarz</td>
+<td style="width: 33.3333%;">Rochade Müncheberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">43</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Mandy Gietz</td>
+<td style="width: 33.3333%;">Rochade Müncheberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">44</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Dr. Frank Garbin</td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">45</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Dagobert Kohlmeyer</td>
+<td style="width: 33.3333%;">SG Weißensee</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">46</td>
+<td nowrap="nowrap" style="width: 33.3333%;">André Baumgärtner</td>
+<td style="width: 33.3333%;">SC Friesen Lichtenberg</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">47</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Werner Püschel</td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">48</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Hans-Joachim Kaufhold</td>
+<td style="width: 33.3333%;">SC Weisse Dame Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">49</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Nikolai Jahn</td>
+<td style="width: 33.3333%;">TSG Oberschöneweide</td>
+</tr>
 </tbody>
 </table>
-<p><strong><em>Anmeldung angekommen:</em></strong><br/>
-– Jörg Nagler, Rochade Müncheberg<br/>
-– Rüdiger Meinicke, Rochade Müncheberg<br/>
-– Dagobert Kohlmeyer, SG Weißensee<br/>
-– Fabian Schmidt, Königsjäger Süd-West<br/>
-– Dave Schwarz, Rochade Müncheberg<br/>
+<p><strong><em>Anmeldung angekommen:</em></strong></p>
+<p>– Fabian Schmidt, Königsjäger Süd-West<br/>
 – Maxime Varazi, Empor Berlin<br/>
-– Mandy Gietz, Rochade Müncheberg<br/>
-– Dr. Frank Garbin, ohne Verein<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
-– Ramadan Khalifa (ohne Verein)</p>
-<p>Stand: 23.08.2024</p>
+– Ramadan Khalifa (ohne Verein)<br/>
+– Karsten Roloff, SV Königsjäger Süd-West<br/>
+– Michael Strache, SC Kreuzberg</p>
+<p>Stand: 01.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
