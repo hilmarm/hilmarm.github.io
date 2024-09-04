@@ -8,6 +8,24 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12733 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12733">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/03/august-blitz-geht-nach-schweden/" rel="bookmark">August-Blitz geht nach Schweden</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/09/03/august-blitz-geht-nach-schweden/" rel="bookmark" title="13:15"><span class="entry-date">3. September 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Bei großer Hitze und Ferien kamen erstmals dieses Jahr keine 10 Teilnehmer zum Monatsblitz zusammen, sogar Klaus „musste“ mitmachen. Auch waren keine Gäste am Start.</p>
+<p>An der Spitze gab es wieder ein enges Rennen, die Plätze 1 – 3 trennten sich alle Remis untereinander, so mussten jeweilige Ausrutscher über die Reihenfolge entscheiden.</p>
+<p>Bei <strong>Tomas</strong> blieb es bei den 2 Remis, den Rest konnte er gewinnen und gewann damit das August-Blitz mit 7 aus 8. Sein zweiter Sieg 2024 und damit zumindest wieder etwas näher an <strong>Peter</strong> dran.</p>
+<p>Der gab einen vollen Punkt gegen Ekkehard ab und kam nur auf Platz 3. Dazwischen hat sich noch <strong>Jonatan</strong> geschoben, der noch ein Remis gegen Tom abgegeben hat.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/03/august-blitz-geht-nach-schweden/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12733 
 <div class="post-12725 post type-post status-publish format-standard hentry category-intern" id="post-12725">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/08/30/alles-gute-hilmar-petzold-zum-85/" rel="bookmark">Alles Gute Hilmar Petzold zum 85.!</a></h2>
 <div class="entry-meta">
@@ -427,32 +445,6 @@ Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Frage
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/01/16-teilnehmer-beim-blitz/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12470 
-<div class="post-12455 post type-post status-publish format-standard hentry category-interne-turniere category-nicht-kategorisiert-de" id="post-12455">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/" rel="bookmark">Abteilungsmeisterschaft Runde 3</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/" rel="bookmark" title="19:43"><span class="entry-date">24. Mai 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern gab es <strong>Runde 3</strong> zur <strong>Abteilungsmeisterschaft 2024</strong>. Ein Großteil der Partien wurde auch schon gespielt, einige werden nachgeholt.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12453" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201220-144x144.jpg 144w" width="150"/></a></p>
-<p>Im Spitzenspiel zwischen <strong>Peter</strong> und <strong>Hans-Dieter</strong> gab es ein Remis, Hans-Dieter konnte trotz Minusbauern alle Gewinnversuche von Peter abwehren. <strong>Himar</strong>, der jüngere, gewann gegen <strong>Ulrich</strong> und bleibt damit mit 3 Punkten ungeschlagen. Auch bei 3 Punkten steht nun <strong>Ekkehard</strong>, der beim Jakobsweg Kraft getankt hat und im eigentlich ausgeglichenen Damenendspiel noch <strong>Jonatan</strong> eiskalt überrumpelte.<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237.jpg"><img alt="" class="alignleft size-thumbnail wp-image-12454" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/05/20240523_201237-144x144.jpg 144w" width="150"/></a></p>
-<p>Im Verfolgerfeld konnte <strong>ich</strong> einen schnellen Sieg gegen <strong>Michael H.</strong> erreichen, <strong>Lukas</strong> gewinnt gegen <strong>Jan-Hendrik</strong> und <strong>Alexander</strong> gegen <strong>Manfred</strong>.</p>
-<p>Ein Remis gab es zwischen <strong>Detlef</strong> und <strong>Philipp</strong>, sowie zwischen <strong>Ismaele</strong> und <strong>Klaus</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Ergebnisse</a><br/>
-Peter Hans-Dieter ½:½<br/>
-Ekkehard Jonatan 1:0<br/>
-Hilmar Ulrich 1:0<br/>
-Thomas Michael 1:0<br/>
-Lukas Jan-Hendrik 1:0<br/>
-Ismaele Klaus ½:½<br/>
-Manfred Alexander 0:1<br/>
-Detlef Philipp ½:½</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/nicht-kategorisiert-de/" rel="category tag">Nicht kategorisiert</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/05/24/abteilungsmeisterschaft-runde-3-2/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12455 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
