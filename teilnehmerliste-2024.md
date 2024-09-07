@@ -305,16 +305,29 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Nikolai Jahn</td>
 <td style="width: 33.3333%;">TSG Oberschöneweide</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">50</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Ramadan Khalifa</td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">51</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Karsten Roloff</td>
+<td style="width: 33.3333%;">SV Königsjäger Süd-West</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">52</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Michael Strache</td>
+<td style="width: 33.3333%;">SC Kreuzberg</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong></p>
 <p>– Fabian Schmidt, Königsjäger Süd-West<br/>
 – Maxime Varazi, Empor Berlin<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
-– Ramadan Khalifa (ohne Verein)<br/>
-– Karsten Roloff, SV Königsjäger Süd-West<br/>
-– Michael Strache, SC Kreuzberg</p>
-<p>Stand: 01.09.2024</p>
+– Jörn Manthe, ohne Verein</p>
+<p>Stand: 06.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

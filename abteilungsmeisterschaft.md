@@ -849,7 +849,7 @@ parent_title: Turniere
 <td>24</td>
 <td>Cattaneo,Ismaele</td>
 <td>(½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

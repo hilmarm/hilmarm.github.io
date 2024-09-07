@@ -8,6 +8,29 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12741 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12741">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/06/abteilungsmeisterschaft/" rel="bookmark">Abteilungsmeisterschaft</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/09/06/abteilungsmeisterschaft/" rel="bookmark" title="21:46"><span class="entry-date">6. September 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag und heute wurden noch 3 Partien zur Abteilungsmeisterschaft 2024 nachgeholt.</p>
+<p>Im Spitzenspiel gewinnt <strong>Peter</strong> gegen <strong>Hilmar</strong>. Dann trennten sich <strong>Lukas</strong> und <strong>Philipp</strong> Remis. Heute gewann <strong>Philipp</strong> dann gegen <strong>Ismaele</strong>.</p>
+<p>Damit fehlen aktuell nur noch 2 Partien von Runde 5:<br/>
+<strong>Jerry – Maxim</strong><br/>
+<strong>Juri – Oliver</strong></p>
+<p><strong>Runde 6 ist auch schon ausgelost und der Spieltermin wäre der 19.09.24!!</strong></p>
+<p><strong>Bitte denkt daran, Euch ggf. rechtzeitig mit eurem Gegner abzusprechen und das dann auch dem Spielleiter mitzuteilen!!</strong> Auch sollten natürlich möglichst die Partien vor der nächsten Runde gespielt sein!!</p>
+<p>In der <strong>Gesamtwertung</strong> führen nun <strong>Peter</strong> und <strong>Hans-Dieter</strong> mit jeweils 4,5 Punkten vor <strong>Hilmar</strong> mit 4 Punkten.</p>
+<p>Fotos von Donnerstag:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-scaled.jpg"><img alt="" class="alignleft size-medium wp-image-12740" decoding="async" height="218" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-300x218.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-300x218.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-1024x744.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-768x558.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-1536x1116.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_174325-2048x1488.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-scaled.jpg"><img alt="" class="alignleft size-medium wp-image-12739" decoding="async" height="247" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-300x247.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-300x247.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-1024x843.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-768x632.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-1536x1264.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_185218-2048x1686.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158.jpg"><img alt="" class="alignleft size-medium wp-image-12738" decoding="async" height="245" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158-300x245.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158-300x245.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158-1024x837.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158-768x628.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158-1536x1255.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/20240905_200158.jpg 1843w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/06/abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12741 
 <div class="post-12733 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12733">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/03/august-blitz-geht-nach-schweden/" rel="bookmark">August-Blitz geht nach Schweden</a></h2>
 <div class="entry-meta">
@@ -38,7 +61,7 @@ navs:
 <p><strong>Auf viele weitere Jahre, Herzlichen Glückwunsch und Alles Gute zum Geburtstag!</strong></p>
 <div>
 <dl id="attachment_12726">
-<dt><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/100_7280.jpg"><img alt="" decoding="async" height="300" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/100_7280-225x300.jpg" width="225"/></a></dt>
+<dt><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/100_7280.jpg"><img alt="" decoding="async" height="300" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/100_7280-225x300.jpg" width="225"/></a></dt>
 <dd>Hilmar 2011 bei der BSenEM</dd>
 </dl>
 </div>
@@ -63,7 +86,7 @@ Das persönlich beste Ergebnis hat <strong>Tom</strong> erzielt, er belegte am E
 <p>Ganz an der Spitze spielte die Jugend eine große Rolle, Turniersieger wurde der erst 17-jährige <strong>Felix Reichmann (SV Empor Berlin)</strong> mit 7,5 Punkten!</p>
 <p>Partien von unseren Teilnehmern sind bei uns im Mitgliederbereich.</p>
 <p>Update DWZ Auswertung ist da:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24.jpg"><img alt="" class="aligncenter wp-image-12716 size-full" decoding="async" height="140" sizes="(max-width: 784px) 100vw, 784px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24.jpg 784w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24-300x54.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24-768x137.jpg 768w" width="784"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24.jpg"><img alt="" class="aligncenter wp-image-12716 size-full" decoding="async" height="140" loading="lazy" sizes="(max-width: 784px) 100vw, 784px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24.jpg 784w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24-300x54.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/dwz_liso24-768x137.jpg 768w" width="784"/></a></p>
 <p><a href="https://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_24/lichtenberger_sommer_2024.htm" rel="noopener" target="_blank">Turnierseite mit allen Ergebnissen</a></p>
 <p><a href="https://www.berlinerschachverband.de/entry/felix-reichmann-gewinnt-20-lichtenberger-sommer-uwe-bade-sagt-adieu.html" rel="noopener" target="_blank">Abschlussbericht auf BSV Seite</a></p>
 <p>Fotos von Turnierseite und von Thomas Mothes</p>
@@ -428,23 +451,6 @@ Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Frage
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/01/restplaetze-beim-kleeblatt-turnier/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12464 
-<div class="post-12470 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12470">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/01/16-teilnehmer-beim-blitz/" rel="bookmark">16 Teilnehmer beim Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/01/16-teilnehmer-beim-blitz/" rel="bookmark" title="15:31"><span class="entry-date">1. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag fand das <strong>Monatsblitz Mai</strong> statt und war mit 16 Teilnehmern stark besucht. Monatssieger wurde mit 14,5 Punkten aus 15 Partien <strong>Peter</strong>, der nun auch in der Gesamtwertung vorne liegt.</p>
-<p>Platz 2 ging an <strong>Jonatan</strong> mit 13 Punkten, vor dem besten Gast <strong>Matthias</strong> mit 12,5 Punkten.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg"><img alt="" class="alignleft wp-image-12471 size-full" decoding="async" height="486" loading="lazy" sizes="(max-width: 853px) 100vw, 853px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai.jpg 853w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai-300x171.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Blitz_Mai-768x438.jpg 768w" width="853"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/01/16-teilnehmer-beim-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12470 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
