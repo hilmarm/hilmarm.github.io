@@ -320,6 +320,16 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Michael Strache</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">53</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Rebekka Schuster</td>
+<td style="width: 33.3333%;">SG 1871 Löberitz</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">54</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Tung Le</td>
+<td style="width: 33.3333%;">Queer Springer SSV</td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong></p>
@@ -327,7 +337,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Maxime Varazi, Empor Berlin<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
 – Jörn Manthe, ohne Verein</p>
-<p>Stand: 06.09.2024</p>
+<p>Stand: 09.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

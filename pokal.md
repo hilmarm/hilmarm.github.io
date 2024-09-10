@@ -18,6 +18,28 @@ parent_title: Turniere
 <h1 class="entry-title">Pokal</h1>
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Pokal-2024.pdf">Ausschreibung</a></p>
+<h2>5. Runde – Finale/Spiel um Platz 3 – am 17. Oktober</h2>
+<table class="clean swiss footable" id="runde1" style="width: 100%; height: 66px;">
+<thead>
+<tr style="height: 18px;">
+<th style="height: 18px;">Weiß</th>
+<th style="height: 18px;">Schwarz</th>
+<th style="height: 18px;">Ergeb.</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 24px;">
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+<td style="height: 24px;"></td>
+</tr>
+</tbody>
+</table>
 <h2>4. Runde – Halbfinale – am 15. August</h2>
 <table class="clean swiss footable" id="runde1">
 <thead>
