@@ -23,7 +23,7 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/bbem-2024.html" rel="noopener" target="_blank">BEMM 2024</a></td>
+<td><a href="https://www.berlinerschachverband.de/bbem-2024.html" rel="noopener" target="_blank">BBEM 2024</a></td>
 <td>14.09.2024</td>
 <td>Batu, Mert</td>
 </tr>

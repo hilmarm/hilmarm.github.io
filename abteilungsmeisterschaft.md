@@ -475,7 +475,7 @@ parent_title: Turniere
 <td>14</td>
 <td>von Kraft,Lukas</td>
 <td>(1½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -541,165 +541,165 @@ parent_title: Turniere
 </tbody>
 </table>
 <h2>5. Runde am 22. August</h2>
-<table class="clean swiss footable">
+<table class="clean swiss footable" style="width: 151%;">
 <thead>
 <tr>
-<th style="width: 29.75px;">Tisch</th>
-<th style="width: 20.3px;">TNr</th>
-<th style="width: 137.544px;">Teilnehmer</th>
-<th style="width: 38.1333px;">Punkte</th>
-<th style="width: 4.96111px;">–</th>
-<th style="width: 20.3px;">TNr</th>
-<th style="width: 145.528px;">Teilnehmer</th>
-<th style="width: 38.1333px;">Punkte</th>
-<th style="width: 47.1889px;">Ergebnis</th>
-<th style="width: 12.0278px;">At</th>
+<th style="width: 8.24742%;">Tisch</th>
+<th style="width: 7.1134%;">TNr</th>
+<th style="width: 18.1443%;">Teilnehmer</th>
+<th style="width: 9.07216%;">Punkte</th>
+<th style="width: 5.56701%;">–</th>
+<th style="width: 7.1134%;">TNr</th>
+<th style="width: 19.0722%;">Teilnehmer</th>
+<th style="width: 9.07216%;">Punkte</th>
+<th style="width: 10.2062%;">Ergebnis</th>
+<th style="width: 6.28866%;">At</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="width: 29.75px;">1</td>
-<td style="width: 20.3px;">2</td>
-<td style="width: 137.544px;">Hintze,Peter</td>
-<td style="width: 38.1333px;">(3½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">8</td>
-<td style="width: 145.528px;">Magnusson,Hilmar</td>
-<td style="width: 38.1333px;">(4)</td>
-<td style="width: 47.1889px;">1 – 0</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">1</td>
+<td style="width: 7.1134%;">2</td>
+<td style="width: 18.1443%;">Hintze,Peter</td>
+<td style="width: 9.07216%;">(3½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">8</td>
+<td style="width: 19.0722%;">Magnusson,Hilmar</td>
+<td style="width: 9.07216%;">(4)</td>
+<td style="width: 10.2062%;">1 – 0</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">2</td>
-<td style="width: 20.3px;">6</td>
-<td style="width: 137.544px;">Krüger,Ekkehard</td>
-<td style="width: 38.1333px;">(3)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">4</td>
-<td style="width: 145.528px;">Maetzing,Hans-Di</td>
-<td style="width: 38.1333px;">(3½)</td>
-<td style="width: 47.1889px;">0 – 1</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">2</td>
+<td style="width: 7.1134%;">6</td>
+<td style="width: 18.1443%;">Krüger,Ekkehard</td>
+<td style="width: 9.07216%;">(3)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">4</td>
+<td style="width: 19.0722%;">Maetzing,Hans-Di</td>
+<td style="width: 9.07216%;">(3½)</td>
+<td style="width: 10.2062%;">0 – 1</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">3</td>
-<td style="width: 20.3px;">1</td>
-<td style="width: 137.544px;">Düren,Jerome</td>
-<td style="width: 38.1333px;">(3)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">23</td>
-<td style="width: 145.528px;">Stüve,Maxim</td>
-<td style="width: 38.1333px;">(3)</td>
-<td style="width: 47.1889px;"> –</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">3</td>
+<td style="width: 7.1134%;">1</td>
+<td style="width: 18.1443%;">Düren,Jerome</td>
+<td style="width: 9.07216%;">(3)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">23</td>
+<td style="width: 19.0722%;">Stüve,Maxim</td>
+<td style="width: 9.07216%;">(3)</td>
+<td style="width: 10.2062%;"> –</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">4</td>
-<td style="width: 20.3px;">11</td>
-<td style="width: 137.544px;">Mothes,Thomas</td>
-<td style="width: 38.1333px;">(2½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">7</td>
-<td style="width: 145.528px;">Campe,Ulrich</td>
-<td style="width: 38.1333px;">(2½)</td>
-<td style="width: 47.1889px;">½ – ½</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">4</td>
+<td style="width: 7.1134%;">11</td>
+<td style="width: 18.1443%;">Mothes,Thomas</td>
+<td style="width: 9.07216%;">(2½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">7</td>
+<td style="width: 19.0722%;">Campe,Ulrich</td>
+<td style="width: 9.07216%;">(2½)</td>
+<td style="width: 10.2062%;">½ – ½</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">5</td>
-<td style="width: 20.3px;">12</td>
-<td style="width: 137.544px;">Heinrich,Wesko</td>
-<td style="width: 38.1333px;">(2)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">13</td>
-<td style="width: 145.528px;">Kreisel,Alexande</td>
-<td style="width: 38.1333px;">(2½)</td>
-<td style="width: 47.1889px;">½ – ½</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">5</td>
+<td style="width: 7.1134%;">12</td>
+<td style="width: 18.1443%;">Heinrich,Wesko</td>
+<td style="width: 9.07216%;">(2)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">13</td>
+<td style="width: 19.0722%;">Kreisel,Alexande</td>
+<td style="width: 9.07216%;">(2½)</td>
+<td style="width: 10.2062%;">½ – ½</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">6</td>
-<td style="width: 20.3px;">21</td>
-<td style="width: 137.544px;">Horst,Juri</td>
-<td style="width: 38.1333px;">(1½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">25</td>
-<td style="width: 145.528px;">Wäldrich,Oliver,</td>
-<td style="width: 38.1333px;">(2)</td>
-<td style="width: 47.1889px;"> –</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">6</td>
+<td style="width: 7.1134%;">21</td>
+<td style="width: 18.1443%;">Horst,Juri</td>
+<td style="width: 9.07216%;">(1½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">25</td>
+<td style="width: 19.0722%;">Wäldrich,Oliver,</td>
+<td style="width: 9.07216%;">(2)</td>
+<td style="width: 10.2062%;">0 – 1</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">7</td>
-<td style="width: 20.3px;">22</td>
-<td style="width: 137.544px;">Bahr,Jan-Hendrik</td>
-<td style="width: 38.1333px;">(1½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">3</td>
-<td style="width: 145.528px;">Schenk,Jonatan</td>
-<td style="width: 38.1333px;">(2)</td>
-<td style="width: 47.1889px;">0 – 1</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">7</td>
+<td style="width: 7.1134%;">22</td>
+<td style="width: 18.1443%;">Bahr,Jan-Hendrik</td>
+<td style="width: 9.07216%;">(1½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">3</td>
+<td style="width: 19.0722%;">Schenk,Jonatan</td>
+<td style="width: 9.07216%;">(2)</td>
+<td style="width: 10.2062%;">0 – 1</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">8</td>
-<td style="width: 20.3px;">10</td>
-<td style="width: 137.544px;">Mietzelfeldt,Ger</td>
-<td style="width: 38.1333px;">(1½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">5</td>
-<td style="width: 145.528px;">Brinckmann,Klaus</td>
-<td style="width: 38.1333px;">(1½)</td>
-<td style="width: 47.1889px;">½ – ½</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">8</td>
+<td style="width: 7.1134%;">10</td>
+<td style="width: 18.1443%;">Mietzelfeldt,Ger</td>
+<td style="width: 9.07216%;">(1½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">5</td>
+<td style="width: 19.0722%;">Brinckmann,Klaus</td>
+<td style="width: 9.07216%;">(1½)</td>
+<td style="width: 10.2062%;">½ – ½</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">9</td>
-<td style="width: 20.3px;">14</td>
-<td style="width: 137.544px;">von Kraft,Lukas</td>
-<td style="width: 38.1333px;">(1½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">9</td>
-<td style="width: 145.528px;">Pape,Philipp</td>
-<td style="width: 38.1333px;">(½)</td>
-<td style="width: 47.1889px;">½ – ½</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">9</td>
+<td style="width: 7.1134%;">14</td>
+<td style="width: 18.1443%;">von Kraft,Lukas</td>
+<td style="width: 9.07216%;">(1½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">9</td>
+<td style="width: 19.0722%;">Pape,Philipp</td>
+<td style="width: 9.07216%;">(½)</td>
+<td style="width: 10.2062%;">½ – ½</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">10</td>
-<td style="width: 20.3px;">16</td>
-<td style="width: 137.544px;">Herrscher,Michae</td>
-<td style="width: 38.1333px;">(1)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">20</td>
-<td style="width: 145.528px;">Mach,Wolfgang</td>
-<td style="width: 38.1333px;">(1)</td>
-<td style="width: 47.1889px;">0 – 1</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">10</td>
+<td style="width: 7.1134%;">16</td>
+<td style="width: 18.1443%;">Herrscher,Michae</td>
+<td style="width: 9.07216%;">(1)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">20</td>
+<td style="width: 19.0722%;">Mach,Wolfgang</td>
+<td style="width: 9.07216%;">(1)</td>
+<td style="width: 10.2062%;">0 – 1</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">11</td>
-<td style="width: 20.3px;">24</td>
-<td style="width: 137.544px;">Cattaneo,Ismaele</td>
-<td style="width: 38.1333px;">(½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">26</td>
-<td style="width: 145.528px;">Werner,Michael</td>
-<td style="width: 38.1333px;">(0)</td>
-<td style="width: 47.1889px;">0 – 1</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">11</td>
+<td style="width: 7.1134%;">24</td>
+<td style="width: 18.1443%;">Cattaneo,Ismaele</td>
+<td style="width: 9.07216%;">(½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">26</td>
+<td style="width: 19.0722%;">Werner,Michael</td>
+<td style="width: 9.07216%;">(0)</td>
+<td style="width: 10.2062%;">0 – 1</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 <tr>
-<td style="width: 29.75px;">12</td>
-<td style="width: 20.3px;">18</td>
-<td style="width: 137.544px;">Heinrich,Manfred</td>
-<td style="width: 38.1333px;">(½)</td>
-<td style="width: 4.96111px;">–</td>
-<td style="width: 20.3px;">17</td>
-<td style="width: 145.528px;">Eichstädt,Torste</td>
-<td style="width: 38.1333px;">(0)</td>
-<td style="width: 47.1889px;">0 – 1</td>
-<td style="width: 12.0278px;"></td>
+<td style="width: 8.24742%;">12</td>
+<td style="width: 7.1134%;">18</td>
+<td style="width: 18.1443%;">Heinrich,Manfred</td>
+<td style="width: 9.07216%;">(½)</td>
+<td style="width: 5.56701%;">–</td>
+<td style="width: 7.1134%;">17</td>
+<td style="width: 19.0722%;">Eichstädt,Torste</td>
+<td style="width: 9.07216%;">(0)</td>
+<td style="width: 10.2062%;">0 – 1</td>
+<td style="width: 6.28866%;"></td>
 </tr>
 </tbody>
 </table>
