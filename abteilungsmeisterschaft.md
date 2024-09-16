@@ -541,7 +541,7 @@ parent_title: Turniere
 </tbody>
 </table>
 <h2>5. Runde am 22. August</h2>
-<table class="clean swiss footable" style="width: 151%;">
+<table class="clean swiss footable">
 <thead>
 <tr>
 <th style="width: 8.24742%;">Tisch</th>

@@ -23,21 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/bbem-2024.html" rel="noopener" target="_blank">BBEM 2024</a></td>
-<td>14.09.2024</td>
-<td>Batu, Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202024.pdf" rel="noopener" target="_blank">Spreewaldpokal</a></td>
-<td>14.09.2024</td>
-<td>zwei Mannschaften</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/bbmm-2024.html" rel="noopener" target="_blank">BBMM 2024</a></td>
-<td>15.09.2024</td>
-<td>Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit 2024</a></td>
 <td>30.09.-06.10.2024</td>
 <td>Hans-Dieter, Ulrich</td>
