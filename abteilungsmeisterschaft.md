@@ -590,7 +590,7 @@ parent_title: Turniere
 <td style="width: 7.1134%;">23</td>
 <td style="width: 19.0722%;">Stüve,Maxim</td>
 <td style="width: 9.07216%;">(3)</td>
-<td style="width: 10.2062%;"> –</td>
+<td style="width: 10.2062%;">1 – 0</td>
 <td style="width: 6.28866%;"></td>
 </tr>
 <tr>
