@@ -330,14 +330,105 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Tung Le</td>
 <td style="width: 33.3333%;">Queer Springer SSV</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">55</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Darius Schiwon</td>
+<td style="width: 33.3333%;">SK International</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">56</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Luca Brau</td>
+<td style="width: 33.3333%;">TSG Oberschöneweide</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">57</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">58</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">59</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">60</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">61</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">62</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">63</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">64</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">65</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">66</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">67</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">68</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">69</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">70</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">71</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">72</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
 </tbody>
 </table>
 <p><strong><em>Anmeldung angekommen:</em></strong></p>
 <p>– Fabian Schmidt, Königsjäger Süd-West<br/>
 – Maxime Varazi, Empor Berlin<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
-– Jörn Manthe, ohne Verein</p>
-<p>Stand: 09.09.2024</p>
+– Jörn Manthe, ohne Verein<br/>
+– Felix Paschke, SK König Tegel</p>
+<p>Stand: 17.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
