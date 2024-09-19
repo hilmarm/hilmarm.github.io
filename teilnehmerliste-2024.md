@@ -50,6 +50,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
+<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a></h2>
 <p>Angemeldet<strong><em> inkl. Startgeld überwiesen:</em></strong></p>
 <table class="clean swiss footable">
 <thead>
@@ -342,13 +343,13 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">57</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Felix Paschke</td>
+<td style="width: 33.3333%;">SK König Tegel</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">58</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Bogdan Tomin</td>
+<td style="width: 33.3333%;">Sfr. Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">59</td>
@@ -426,9 +427,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 <p>– Fabian Schmidt, Königsjäger Süd-West<br/>
 – Maxime Varazi, Empor Berlin<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
-– Jörn Manthe, ohne Verein<br/>
-– Felix Paschke, SK König Tegel</p>
-<p>Stand: 17.09.2024</p>
+– Jörn Manthe, ohne Verein</p>
+<p>Stand: 18.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
