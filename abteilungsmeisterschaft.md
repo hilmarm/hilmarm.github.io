@@ -403,7 +403,7 @@ parent_title: Turniere
 <td>8</td>
 <td>Magnusson,Hilmar</td>
 <td>(4)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -415,7 +415,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Düren,Jerome</td>
 <td>(3)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -427,7 +427,7 @@ parent_title: Turniere
 <td>23</td>
 <td>Stüve,Maxim</td>
 <td>(3)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -439,7 +439,7 @@ parent_title: Turniere
 <td>11</td>
 <td>Mothes,Thomas</td>
 <td>(3)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -487,7 +487,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Horst,Juri</td>
 <td>(1½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -499,7 +499,7 @@ parent_title: Turniere
 <td>10</td>
 <td>Mietzelfeldt,Ger</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
