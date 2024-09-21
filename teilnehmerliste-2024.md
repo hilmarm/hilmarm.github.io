@@ -353,8 +353,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">59</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Özgür Besbudak</td>
+<td style="width: 33.3333%;">SC Zugzwang 95</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">60</td>
@@ -428,7 +428,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Maxime Varazi, Empor Berlin<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
 – Jörn Manthe, ohne Verein</p>
-<p>Stand: 18.09.2024</p>
+<p>Stand: 20.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
