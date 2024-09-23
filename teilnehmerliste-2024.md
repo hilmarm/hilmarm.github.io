@@ -427,8 +427,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <p>– Fabian Schmidt, Königsjäger Süd-West<br/>
 – Maxime Varazi, Empor Berlin<br/>
 – Ingo Sommer, SC Kreuzberg<br/>
-– Jörn Manthe, ohne Verein</p>
-<p>Stand: 20.09.2024</p>
+– Jörn Manthe, ohne Verein<br/>
+– Rainer Gehler, TuS Makkabi Berlin<br/>
+– Maxim Gehler, Empor Berlin<br/>
+– Maximilian Mieth, noch ohne<br/>
+– Alisha Lara Wallat, SSV Rotation Berlin</p>
+<p>Stand: 23.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
