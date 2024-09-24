@@ -358,12 +358,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">60</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Alisha Lara Wallat</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">61</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Maximilian Mieth</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
@@ -430,9 +430,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Jörn Manthe, ohne Verein<br/>
 – Rainer Gehler, TuS Makkabi Berlin<br/>
 – Maxim Gehler, Empor Berlin<br/>
-– Maximilian Mieth, noch ohne<br/>
-– Alisha Lara Wallat, SSV Rotation Berlin</p>
-<p>Stand: 23.09.2024</p>
+– Vitaliy Reshetniak, Klub Lech-WSUS Poznań</p>
+<p>Stand: 24.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
