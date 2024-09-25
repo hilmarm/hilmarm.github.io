@@ -368,8 +368,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">62</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Anand Kaplingat</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">63</td>
@@ -430,8 +430,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 – Jörn Manthe, ohne Verein<br/>
 – Rainer Gehler, TuS Makkabi Berlin<br/>
 – Maxim Gehler, Empor Berlin<br/>
-– Vitaliy Reshetniak, Klub Lech-WSUS Poznań</p>
-<p>Stand: 24.09.2024</p>
+– Vitaliy Reshetniak, Klub Lech-WSUS Poznań<br/>
+– Omar Houimel, SVV Rotation Berlin</p>
+<p>Stand: 25.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
