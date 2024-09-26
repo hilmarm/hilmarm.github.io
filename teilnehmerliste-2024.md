@@ -51,7 +51,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
 <h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a></h2>
-<p>Angemeldet<strong><em> inkl. Startgeld überwiesen:</em></strong></p>
+<p>Angemeldet<strong><em> (grau = noch kein Startgeld bezahlt):</em></strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -371,45 +371,45 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Anand Kaplingat</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">63</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Vitaliy Reshetniak</td>
+<td style="width: 33.3333%;">Lech-WSUS Poznań</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">64</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Omar Houimel</td>
+<td style="width: 33.3333%;">SVV Rotation Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">65</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Fabian Schmidt</td>
+<td style="width: 33.3333%;">Königsjäger Süd-West</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">66</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Maxime Varazi</td>
+<td style="width: 33.3333%;">Empor Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">67</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Ingo Sommer</td>
+<td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">68</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Jörn Manthe</td>
 <td style="width: 33.3333%;"></td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">69</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Rainer Gehler</td>
+<td style="width: 33.3333%;">TuS Makkabi Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">70</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Maxim Gehler</td>
+<td style="width: 33.3333%;">Empor Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">71</td>
@@ -421,18 +421,49 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;"></td>
 <td style="width: 33.3333%;"></td>
 </tr>
+<tr>
+<td style="width: 33.3333%;">73</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">74</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">75</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">76</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">77</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">78</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">79</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">80</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
 </tbody>
 </table>
-<p><strong><em>Anmeldung angekommen:</em></strong></p>
-<p>– Fabian Schmidt, Königsjäger Süd-West<br/>
-– Maxime Varazi, Empor Berlin<br/>
-– Ingo Sommer, SC Kreuzberg<br/>
-– Jörn Manthe, ohne Verein<br/>
-– Rainer Gehler, TuS Makkabi Berlin<br/>
-– Maxim Gehler, Empor Berlin<br/>
-– Vitaliy Reshetniak, Klub Lech-WSUS Poznań<br/>
-– Omar Houimel, SVV Rotation Berlin</p>
-<p>Stand: 25.09.2024</p>
+<p>Stand: 26.09.2024</p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

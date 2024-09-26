@@ -8,6 +8,31 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12791 post type-post status-publish format-standard hentry category-bmm" id="post-12791">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/26/bmm-startet-am-sonntag-2/" rel="bookmark">BMM startet am Sonntag!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/09/26/bmm-startet-am-sonntag-2/" rel="bookmark" title="8:20"><span class="entry-date">26. September 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Sonntag geht die neue <strong>BMM Saison 2024/25</strong> los! Wir starten mit 3 Heimspielen in die Saison und das jeweils gegen Rotation Berlin.</p>
+<p><strong>NARVA 1 gegen Rotation 3</strong><br/>
+<strong>NARVA 2 gegen Rotation 2</strong><br/>
+<strong>NARVA 3 gegen Rotation 6</strong></p>
+<p>Alle weiteren <a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Termine findet ihr hier</a></p>
+<p><a href="https://www.berlinerschachverband.de/bmm-24-25.html" rel="noopener" target="_blank">Die BMM Hefte findet ihr hier</a><br/>
+Ich habe aber auch je 5 gedruckt und bringe diese am Sonntag mit, ggf drucke ich noch mehr.</p>
+<p>Die Links zu den einzelnen Staffeln gibt es dieses Jahr bei <strong>chess-result</strong> <span style="font-size: 8pt;"><em>(Links auch oben im Menü bei Mannschaften)</em></span>:<br/>
+<a href="https://chess-results.com/tnr1013935.aspx?lan=0" rel="noopener" target="_blank">1.Mannschaft</a><br/>
+<a href="https://chess-results.com/tnr1013941.aspx?lan=0" rel="noopener" target="_blank">2.Mannschaft</a><br/>
+<a href="https://chess-results.com/tnr1013983.aspx?lan=0" rel="noopener" target="_blank">3.Mannschaft</a></p>
+<p>Die jeweilige Planung der Aufstellung findet ihr wie die letzten Jahre im Mitgliederbereich, siehe Link rechts.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/26/bmm-startet-am-sonntag-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12791 
 <div class="post-12783 post type-post status-publish format-standard hentry category-openberichte" id="post-12783">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/24/blitz-einzelmeisterschaft-3/" rel="bookmark">Blitz Einzelmeisterschaft</a></h2>
 <div class="entry-meta">
@@ -440,22 +465,6 @@ Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Frage
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12513 
-<div class="post-12495 post type-post status-publish format-standard hentry category-allgemein" id="post-12495">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark">BMM Saisonabschluss am 20.06.</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/" rel="bookmark" title="10:12"><span class="entry-date">11. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am <strong>20.06.</strong> wollen wir am Clubabend ab ca. 18 Uhr unseren <strong>BMM/BFL Saisonabschluss</strong> nachholen. Es wird einen kleinen Imbiss geben und vielleicht auch ein paar Preise.</p>
-<p>Eingeladen sind alle Mitglieder der Abteilung Schach.</p>
-<p>Ort: Kadiner Str.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/11/bmm-saisonabschluss-am-20-06/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12495 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

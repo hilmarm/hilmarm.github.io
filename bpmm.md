@@ -3,6 +3,9 @@ title: BPMM
 layout: default
 navs:
   BMM: https://bmm-schach.de/seasons/BMM%202023-24
+  1. Mannschaft: https://chess-results.com/tnr1013935.aspx?lan=0
+  2. Mannschaft: https://chess-results.com/tnr1013941.aspx?lan=0
+  3. Mannschaft: https://chess-results.com/tnr1013983.aspx?lan=0
   Spielberichte BMM: spielberichte-bmm
   BFL: https://bmm-schach.de/seasons/BFL%202023-24
   BPMM: bpmm
