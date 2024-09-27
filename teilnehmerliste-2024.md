@@ -50,8 +50,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a></h2>
-<p>Angemeldet<strong><em> (grau = noch kein Startgeld bezahlt):</em></strong></p>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 20.09.)</span></h2>
+<p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong></p>
+<p><strong>Stand: 27.09.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -413,13 +414,13 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">71</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Peter Lehe</td>
+<td style="width: 33.3333%;">Berolina Mitte</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">72</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Lukas Mieth</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">73</td>
@@ -463,7 +464,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 </tbody>
 </table>
-<p>Stand: 26.09.2024</p>
+<p> </p>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">

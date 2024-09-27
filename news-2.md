@@ -8,6 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12802 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12802">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/" rel="bookmark">Blitz und Abteilungsmeisterschaft</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/" rel="bookmark" title="23:47"><span class="entry-date">26. September 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Das heutige Blitzturnier gewann <strong>Peter</strong> vor Tomas und Thomas. In der Jahreswertung ist Peter damit noch nicht ganz durch, aber Tomas müsste die Turniere in Oktober und November beide gewinnen, um noch mit Peter gleichzuziehen.</p>
+<p>Außerdem fanden heute noch drei Partien der Abteilungsmeisterschaft statt. Dabei gab es drei Schwarzsiege von <strong>Ekkehard</strong> (gegen Ulrich), <strong>Michael H.</strong> (gegen Torsten) und <strong>Manfred</strong> (gegen Ismaele). Anschließend wurde die letzte Runde ausgelost. Die Paarungen sind wie immer auf der Turnierseite zu finden.</p>
+<p>Im Spitzenspiel kämpfen in der letzten Runde Jerry und Dieter (beide 5 Punkte) um den Turniersieg. Bei einem Remis könnten Peter und Hilmar (beide 4,5) noch vorbeiziehen. Für Maxim, Ekkehard (beide 4) und den Sieger der noch nachzuholenden Partie Oliver gegen Alexander (beide momentan 3 Punkte) könnte ebenfalls noch ein Platz auf dem Treppchen drin sein.</p>
+<p>Um den Ratingpreis U1600 geht neben Maxim, Oliver und Alexander auch für Thomas und Wesko (beide 3,5). Theoretische Chancen könnte auch Michael W. (3) noch haben.</p>
+<p>Ansonsten ist Michael wohl momentan der Favorit auf den Ratingpreis U1300. Seine Konkurrenten sind Wolfgang (2) sowie Jan (1,5), falls er das Nachholspiel gegen Philipp nicht verliert.</p>
+<p>Es wird also noch einmal spannend. Denkt bitte daran, eure Partien ggf. <strong>rechtzeitig</strong> zu verlegen und zwar vorzuspielen! Es geht in vielen Partien noch um Preise, und da hätte ich ggf. Bedenken, ein Nachspielen zu genehmigen.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12802 
 <div class="post-12791 post type-post status-publish format-standard hentry category-bmm" id="post-12791">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/26/bmm-startet-am-sonntag-2/" rel="bookmark">BMM startet am Sonntag!</a></h2>
 <div class="entry-meta">
@@ -433,38 +452,6 @@ Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Frage
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12536 
-<div class="post-12513 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12513">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/" rel="bookmark">Spontanes Rundenturnier am Pokal-Abend</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/" rel="bookmark" title="17:58"><span class="entry-date">14. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Da vom angesetzten <strong>Pokal Viertelfinale</strong> nur eine Partie gespielt wurde, <strong>Rouven</strong> gewann gegen <strong>Wolfgang</strong>, sich aber wieder viele Schachfreunde bei uns eingefunden hatten, wurde ein spontanes Rundenturnier gespielt.</p>
-<p>Auf Initiative und dann auch unter der Organisation von <strong>Tom</strong> (Super Idee, Super Einsatz, Danke für selbständiges Handeln!) kamen 12 Teilnehmer zusammen. Zuerst wollten wir mit Bedenkzeit 10+0 spielen, das erwies sich dann aber mit steigender Teilnehmerzahl als zu lang, so wurde es 5+3.</p>
-<p>Die ersten 2 (?) Runden spielten wir im Bornstein-Modus* – das mit dem Uhren stellen muss Tom dann noch üben 😉 – erst im Duell Präsident gegen Vize fiel das auf….</p>
-<p>Turniersieger wurde mit <strong>Igor</strong> ein Gast! Es folgten <strong>Peter</strong> und <strong>Klaus</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg"><img alt="" class="wp-image-12512 size-medium aligncenter" decoding="async" height="217" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-300x217.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-1024x740.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat-768x555.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Screenshot_20240613_225419_Adobe-Acrobat.jpg 1495w" width="300"/></a></p>
-<p>1. Igor 10,5 Punkte<br/>
-2. Peter 9,5 (direkte Duell ging an Igor)<br/>
-3. Klaus 9<br/>
-4. Tom 7,5<br/>
-5. Jonatan 7<br/>
-6. Thomas M. 5<br/>
-7. Alex 4<br/>
-8. Eberhard 4<br/>
-9. Oliver 3 (Remis gegen Peter!)<br/>
-10. Wolfgang 2,5<br/>
-11. Jan-Hendrik 2<br/>
-12. Stefan 1</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg"><img alt="" class="aligncenter wp-image-12511 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/20240613_203013-scaled.jpg 1920w" width="225"/></a></p>
-<p><span style="font-size: 8pt;"><em>* Sobald ein Spieler am Zug ist, fängt die Uhr nicht gleich an zu laufen, sondern erst nach Ablauf der Zugbedenkzeit (sogenanntes „Delay“)</em></span></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/14/spontanes-rundenturnier-am-pokal-abend/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12513 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
