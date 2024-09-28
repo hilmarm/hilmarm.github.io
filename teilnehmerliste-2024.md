@@ -50,7 +50,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 20.09.)</span></h2>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 27.09.)</span></h2>
 <p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong></p>
 <p><strong>Stand: 27.09.2024</strong></p>
 <table class="clean swiss footable">
@@ -379,7 +379,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">64</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Omar Houimel</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Omar Lahouimel</td>
 <td style="width: 33.3333%;">SVV Rotation Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
@@ -424,12 +424,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">73</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Harald Krawczyk</td>
+<td style="width: 33.3333%;">SG Rot-Weiß-Neuenhagen</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">74</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Jacob Meilutat</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
