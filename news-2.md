@@ -8,6 +8,30 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12815 post type-post status-publish format-standard hentry category-bmm" id="post-12815">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/30/bmm-runde-1-narva-vs-rotation/" rel="bookmark">BMM Runde 1 NARVA vs. Rotation</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/09/30/bmm-runde-1-narva-vs-rotation/" rel="bookmark" title="8:43"><span class="entry-date">30. September 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern gab es zum Auftakt der BMM Saison 24/25 ein dreifach Duell gegen Rotation.<br/>
+<strong>NARVA 1</strong> gewinnt dabei deutlich mit <strong>7,5:0,5</strong> gegen <strong>Rotation 3</strong>!<br/>
+<strong>NARVA 2</strong> unterliegt trotz 2 geschenkter Punkte mit <strong>3:5</strong> gegen <strong>Rotation 2</strong>.<br/>
+<strong>NARVA 3</strong> unterliegt ebenfalls mit <strong>3:5</strong> gegen <strong>Rotation 6</strong>.</p>
+<p>Insgesamt gewinnt NARVA also das Duell mit 13,5 : 10,5 😉</p>
+<p>Berichte folgen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg"><img alt="" class="aligncenter wp-image-12818 size-full" decoding="async" height="282" sizes="(max-width: 942px) 100vw, 942px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg 942w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1-300x90.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1-768x230.jpg 768w" width="942"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1.jpg"><img alt="" class="aligncenter wp-image-12817 size-large" decoding="async" height="173" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-1024x276.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-1024x276.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-300x81.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-768x207.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1.jpg 1030w" width="640"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1.jpg"><img alt="" class="aligncenter wp-image-12816" decoding="async" height="173" loading="lazy" sizes="(max-width: 355px) 100vw, 355px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1.jpg 579w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1-300x146.jpg 300w" width="355"/></a></p>
+<p>Fotos:<br/>
+<a class="more-link" href="https://www.narva-schach.de/wordpress/2024/09/30/bmm-runde-1-narva-vs-rotation/#more-12815">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/30/bmm-runde-1-narva-vs-rotation/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12815 
 <div class="post-12802 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12802">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/" rel="bookmark">Blitz und Abteilungsmeisterschaft</a></h2>
 <div class="entry-meta">
@@ -59,8 +83,8 @@ Ich habe aber auch je 5 gedruckt und bringe diese am Sonntag mit, ggf drucke ich
 <div class="entry-content">
 <p>Am Samstag vor der Blitz Mannschaft- war dann auch die <strong>Blitz Einzelmeisterschaft</strong>. Es ging mit 68 Teilnehmern in die Vorrunde. Von NARVA waren die beiden aktuell wohl besten Blitzer im Verein am Start, <strong>Batu</strong> und <strong>Mert</strong>. Gespielt wurden 9 Runden als Vorrunde und die ersten 36 des Feldes konnten sich für die Finalgruppen A,B und C (jeweils 12) qualifizieren.</p>
 <p><strong>Batu</strong> erreichte in der <strong>Vorrunde Platz 15</strong> und kam so ins B-Finale. Er kam auf 5,5 Punkte aus den 9 Runden und spielte eine Leistung von 2153. Im <strong>B-Finale</strong> erreichte er dann auch wieder 5,5 Punkte, aber aus 11 Runden, was <strong>Platz 8</strong> bedeutete.</p>
-<div class="wp-caption aligncenter" id="attachment_12784" style="width: 263px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24.jpg"><img alt="" aria-describedby="caption-attachment-12784" class="wp-image-12784 size-medium" decoding="async" height="300" sizes="(max-width: 253px) 100vw, 253px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24-253x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24-253x300.jpg 253w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24.jpg 502w" width="253"/></a><p class="wp-caption-text" id="caption-attachment-12784">Vorrunde</p></div>
-<div class="wp-caption aligncenter" id="attachment_12786" style="width: 217px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24.jpg"><img alt="" aria-describedby="caption-attachment-12786" class="size-medium wp-image-12786" decoding="async" height="300" sizes="(max-width: 207px) 100vw, 207px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24-207x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24-207x300.jpg 207w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24.jpg 453w" width="207"/></a><p class="wp-caption-text" id="caption-attachment-12786">B-Finale</p></div>
+<div class="wp-caption aligncenter" id="attachment_12784" style="width: 263px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24.jpg"><img alt="" aria-describedby="caption-attachment-12784" class="wp-image-12784 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 253px) 100vw, 253px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24-253x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24-253x300.jpg 253w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_vorrundebbem24.jpg 502w" width="253"/></a><p class="wp-caption-text" id="caption-attachment-12784">Vorrunde</p></div>
+<div class="wp-caption aligncenter" id="attachment_12786" style="width: 217px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24.jpg"><img alt="" aria-describedby="caption-attachment-12786" class="size-medium wp-image-12786" decoding="async" height="300" loading="lazy" sizes="(max-width: 207px) 100vw, 207px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24-207x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24-207x300.jpg 207w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/batu_bfinalebbem24.jpg 453w" width="207"/></a><p class="wp-caption-text" id="caption-attachment-12786">B-Finale</p></div>
 <p><strong>Mert</strong> kam in der Vorrunde auf <strong>Platz 42</strong> mit 4 Punkten. Erreichte also kein Finale.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/mert_vorrundebbem24.jpg"><img alt="" class="aligncenter size-medium wp-image-12785" decoding="async" height="300" loading="lazy" sizes="(max-width: 266px) 100vw, 266px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/mert_vorrundebbem24-266x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/mert_vorrundebbem24-266x300.jpg 266w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/mert_vorrundebbem24.jpg 530w" width="266"/></a></p>
 <p><a href="https://chess-results.com/tnr978323.aspx?lan=0&amp;art=1&amp;fed=GER&amp;turdet=YES" rel="noopener" target="_blank">Ergebnisse Vorrunde</a><br/>
@@ -421,37 +445,6 @@ Gespielt wurden 5 Runden Schweizer System in Krauschwitz, organisiert von Glask�
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12542 
-<div class="post-12536 post type-post status-publish format-standard hentry category-termine" id="post-12536">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/" rel="bookmark">Termine, Termine, Termine</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/" rel="bookmark" title="12:58"><span class="entry-date">26. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Wer möchte noch an den <strong>Berliner Schnellschach-Meisterschaften</strong> teilnehmen?<br/>
-Am <strong>Samstag 13.07.24</strong> ist die <a href="https://www.berlinerschachverband.de/berliner-schnellschach-einzelmeisterschaft-2024.html" rel="noopener" target="_blank">Einzelmeisterschaft</a> – aktuell sind Batu und Mert angemeldet.<br/>
-Am <strong>Sonntag 14.07.24</strong> dann die <a href="https://www.berlinerschachverband.de/berliner-schnellschach-mannschaftsmeisterschaft-2024.html" rel="noopener" target="_blank">Mannschaftsmeisterschaft</a> – aktuell ist eine Mannschaft gemeldet.<br/>
-Gespielt wird jeweils im <strong>Modus 15+10</strong><br/>
-Wer noch dabei sein möchte, Bitte Mail an mich. Bei einer weiteren Mannschaft benötige ich die komplette Aufstellung inkl. ML!</p>
-<p>Wie ihr rechts schon sehen könnt, ist nun die Ausschreibung zum <strong>Kurt-Richter-Gedenkturnier 2024</strong> raus! Termin ist das 1. November Wochenende –<strong> 01.11.24 – 03.11.24</strong>!<br/>
-Anmeldungen sind ab jetzt möglich. Turnierablauf wie im letzten Jahr. Helfer sind wieder gern gesehen!<br/>
-<a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/">Ausschreibung</a></p>
-<p>Den Termin für die <strong>Mitgliederversammlung zur BMM</strong> mussten wir eine Woche vorziehen und mit dem Pokal tauschen. Grund ist der Meldetermin zur BMM.<br/>
-Die Versammlung ist nun am <strong>08.08.28,</strong> bis dahin Bitte die Fragebögen wieder ausfüllen!! </p>
-<p>Den Fragebogen findet ihr <a href="https://www.narva-schach.de/wordpress/2024/07/03/fragebogen-2024/">im Mitgliederbereich</a>.</p>
-<p>Die Ausschreibung zur <a href="https://www.berlinerschachverband.de/bmm-24-25.html" rel="noopener" target="_blank">BMM findet ihr hier</a> – es gibt ein paar kleine Änderungen über die wir letzte Woche schon diskutiert hatten:</p>
-<ul>
-<li>1.Klasse jetzt auch die Bedenkzeit wie Stadtliga – also 90 min / 40 Züge + 30 min / Rest der Partie zzgl. einem Inkrement von 30 Sekunden ab dem 1. Zug</li>
-<li>3.Klasse soll mit 8er Mannschaften spielen, nur 4.Klasse mit 6er</li>
-<li>Anfangszeit 9 Uhr kann wenn beide Mannschaften das möchten auf 10 Uhr verlegt werden…..</li>
-</ul>
-<p>Der Termin für das Training mit <strong>GM Michael Richter</strong> steht fest: Es ist der <strong>10.10.2024</strong>!</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/26/termine-termine-termine/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12536 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
