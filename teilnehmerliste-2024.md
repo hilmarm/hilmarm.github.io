@@ -432,12 +432,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Jacob Meilutat</td>
 <td style="width: 33.3333%;"></td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">75</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Thomas Meyer</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">76</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Werner Becker</td>
 <td style="width: 33.3333%;">SC Rochade</td>
@@ -447,7 +447,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">André David Paul</td>
 <td style="width: 33.3333%;">SK Dessau</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">78</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Nico Majewski</td>
 <td style="width: 33.3333%;">ESV Lok Falkenberg</td>
@@ -462,15 +462,15 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Andrey Tyukavin</td>
 <td style="width: 33.3333%;"></td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">81</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Torsten Eichstädt</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">82</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Peter Schulz</td>
+<td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">83</td>
