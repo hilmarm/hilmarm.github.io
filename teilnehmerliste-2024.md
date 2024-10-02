@@ -52,7 +52,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="entry-content">
 <h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 27.09.)</span></h2>
 <p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong></p>
-<p><strong>Stand: 30.09.2024</strong></p>
+<p><strong>Stand: 02.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -472,28 +472,68 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Peter Schulz</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">83</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Orkun Sakalli</td>
+<td style="width: 33.3333%;">SC Zugzwang 95</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">84</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Onno Zhang</td>
+<td style="width: 33.3333%;">SSV Rotation</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">85</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Noah Schömann</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">86</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Arthur Fieger</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">87</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Detlef Steppuhn</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">88</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">89</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">90</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">91</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">92</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">93</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">94</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">95</td>
 <td nowrap="nowrap" style="width: 33.3333%;"></td>
 <td style="width: 33.3333%;"></td>
 </tr>

@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12838 post type-post status-publish format-standard hentry category-training" id="post-12838">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/02/training-mit-gm-michael-richter-2/" rel="bookmark">Training mit GM Michael Richter!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/02/training-mit-gm-michael-richter-2/" rel="bookmark" title="10:00"><span class="entry-date">2. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am 10.10.24 ist es wieder soweit, Training mit Großmeister Michael Richter!</strong></p>
+<p><strong>Start ist um 18:30 Uhr! Gäste sind natürlich herzlich willkommen!</strong></p>
+<p><strong>Thema wird wieder das große Feld der „Planfindung“</strong> sein. Ein Thema mit dem jeder was anfangen kann, denn wer stand noch nicht vor dem Problem, ich stehe besser (tatsächlich oder gefühlt) und brauche jetzt einen Plan.</p>
+<div class="wp-caption aligncenter" id="attachment_1120" style="width: 410px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550.jpg"><img alt="" aria-describedby="caption-attachment-1120" class="wp-image-1120" decoding="async" height="225" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-1024x576.jpg 1024w" width="400"/></a><p class="wp-caption-text" id="caption-attachment-1120">Michael 2017 beim Training</p></div>
+<div class="wp-caption aligncenter" id="attachment_1123" style="width: 410px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400.jpg"><img alt="" aria-describedby="caption-attachment-1123" class="wp-image-1123" decoding="async" height="225" sizes="(max-width: 400px) 100vw, 400px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-1024x576.jpg 1024w" width="400"/></a><p class="wp-caption-text" id="caption-attachment-1123">beim Simultan nach dem Training</p></div>
+<p>GM Michael Richter kommt (wie ich) aus der NARVA Jugend Ende der 80er Jahre, bei der Jugendleiter Ronald Hübner von 1986 bis 1991 sein Trainer war. Um sich schachlich weiterzuentwickeln, wechselte er 1991 zu den Schachfreunden Neukölln. Spielte später für diverse Berliner Vereine Bundesliga und erreichte 2015 seinen Großmeister. Seit 2011 ist Michael Mitglied des SK König Tegel. In diesem Jahr war er z.B. Sieger der Berliner Schnellschach Einzelmeisterschaft.</p>
+<p>Weitere Infos:<br/>
+<a href="https://de.m.wikipedia.org/wiki/Michael_Richter_(Schachspieler)" rel="noopener" target="_blank">https://de.m.wikipedia.org/wiki/Michael_Richter_(Schachspieler)</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/02/training-mit-gm-michael-richter-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12838 
 <div class="post-12815 post type-post status-publish format-standard hentry category-bmm" id="post-12815">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/30/bmm-runde-1-narva-vs-rotation/" rel="bookmark">BMM Runde 1 NARVA vs. Rotation</a></h2>
 <div class="entry-meta">
@@ -19,8 +40,8 @@ navs:
 <strong>NARVA 3</strong> unterliegt ebenfalls mit <strong>3:5</strong> gegen <strong>Rotation 6</strong>.</p>
 <p>Insgesamt gewinnt NARVA also das Duell mit 13,5 : 10,5 😉</p>
 <p>Berichte unten.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg"><img alt="" class="aligncenter wp-image-12818 size-full" decoding="async" height="282" sizes="(max-width: 942px) 100vw, 942px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg 942w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1-300x90.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1-768x230.jpg 768w" width="942"/></a><br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1.jpg"><img alt="" class="aligncenter wp-image-12817 size-large" decoding="async" height="173" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-1024x276.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-1024x276.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-300x81.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-768x207.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1.jpg 1030w" width="640"/></a><br/>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg"><img alt="" class="aligncenter wp-image-12818 size-full" decoding="async" height="282" loading="lazy" sizes="(max-width: 942px) 100vw, 942px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1.jpg 942w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1-300x90.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M1R1-768x230.jpg 768w" width="942"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1.jpg"><img alt="" class="aligncenter wp-image-12817 size-large" decoding="async" height="173" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-1024x276.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-1024x276.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-300x81.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1-768x207.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M2R1.jpg 1030w" width="640"/></a><br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1.jpg"><img alt="" class="aligncenter wp-image-12816" decoding="async" height="173" loading="lazy" sizes="(max-width: 355px) 100vw, 355px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1.jpg 579w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/09/BMM2425M3R1-300x146.jpg 300w" width="355"/></a></p>
 <p><strong>Bericht NARVA 2</strong></p>
 <p>NARVA 2 gegen <strong>Rotation 2</strong>. Schon vorher war klar, dass die Zweite Mannschaft die schwerste Aufgabe am Sonntag bekommen würde. Kurz vor 9 mussten wir dann noch Wesko durch Klaus ersetzen, der dann neben der Küche auch noch sein Brett bedienen musste.<br/>
@@ -442,23 +463,6 @@ Gespielt wurden 5 Runden Schweizer System in Krauschwitz, organisiert von Glask�
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/09/miedzyzdroje-misdroy-2024/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12571 
-<div class="post-12542 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12542">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/" rel="bookmark">Enges Rennen im Juni-Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/" rel="bookmark" title="14:18"><span class="entry-date">30. Juni 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Das <strong>Monatsblitz</strong> am Donnerstag war wieder gut besucht, 14 Teilnehmer fanden trotz schweißtreibender Temperaturen den Weg zu uns. An der Spitze gab es ein sehr enges Rennen, alle Sieganwärter gaben hier und da Punkte ab. Am Ende lag dann trotzdem wieder <strong>Peter auf Platz 1</strong>, wenn auch nur durch einen Punkt in der Zweitwertung!</p>
-<p>Er kam am Ende mit <strong>Tomas</strong> zusammen auf 10,5 Punkte. Platz 3 ging an den besten Gast, <strong>Matthias</strong> erreichte 10 Punkte. Auch <strong>Philipp</strong> und <strong>Tom</strong> waren mit 9,5 und 8,5 bis zum Schluss nah drann.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg"><img alt="" class="aligncenter wp-image-12543 size-full" decoding="async" height="434" loading="lazy" sizes="(max-width: 666px) 100vw, 666px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24.jpg 666w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/blitz_juni24-300x195.jpg 300w" width="666"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/06/30/enges-rennen-im-juni-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12542 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
