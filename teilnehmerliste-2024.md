@@ -50,9 +50,9 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 27.09.)</span></h2>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 03.10.)</span></h2>
 <p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong></p>
-<p><strong>Stand: 02.10.2024</strong></p>
+<p><strong>Stand: 03.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -452,7 +452,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Nico Majewski</td>
 <td style="width: 33.3333%;">ESV Lok Falkenberg</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">79</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Andreas Kinski</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
@@ -497,15 +497,15 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Detlef Steppuhn</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">88</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Gerhard Grob</td>
+<td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">89</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Piotr Klisz</td>
+<td style="width: 33.3333%;">SF Friedrichshagen</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">90</td>
