@@ -540,7 +540,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <tr>
 <td style="width: 33.3333%;">96</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Nikolai Biriukov</td>
-<td style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail melden!</span></strong></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">97</td>
