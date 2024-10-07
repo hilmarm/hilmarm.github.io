@@ -50,9 +50,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 03.10.)</span></h2>
-<p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong></p>
-<p><strong>Stand: 04.10.2024</strong></p>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 06.10.)</span></h2>
+<p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong><br/>
+<em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
+krt@narva-schach.de</span></em><br/>
+<em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
+<p><strong>Stand: 06.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -314,236 +317,236 @@ parent_title: Kurt-Richter-Gedenkturnier
 </tr>
 <tr>
 <td style="width: 33.3333%;">51</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Karsten Roloff</td>
-<td style="width: 33.3333%;">SV Königsjäger Süd-West</td>
-</tr>
-<tr>
-<td style="width: 33.3333%;">52</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Michael Strache</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">53</td>
+<td style="width: 33.3333%;">52</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Rebekka Schuster</td>
 <td style="width: 33.3333%;">SG 1871 Löberitz</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">54</td>
+<td style="width: 33.3333%;">53</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Tung Le</td>
 <td style="width: 33.3333%;">Queer Springer SSV</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">55</td>
+<td style="width: 33.3333%;">54</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Darius Schiwon</td>
 <td style="width: 33.3333%;">SK International</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">56</td>
+<td style="width: 33.3333%;">55</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Luca Brau</td>
 <td style="width: 33.3333%;">TSG Oberschöneweide</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">57</td>
+<td style="width: 33.3333%;">56</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Felix Paschke</td>
 <td style="width: 33.3333%;">SK König Tegel</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">58</td>
+<td style="width: 33.3333%;">57</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Bogdan Tomin</td>
 <td style="width: 33.3333%;">Sfr. Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">59</td>
+<td style="width: 33.3333%;">58</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Özgür Besbudak</td>
 <td style="width: 33.3333%;">SC Zugzwang 95</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">60</td>
+<td style="width: 33.3333%;">59</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Alisha Lara Wallat</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">61</td>
+<td style="width: 33.3333%;">60</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Maximilian Mieth</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">62</td>
+<td style="width: 33.3333%;">61</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Anand Kaplingat</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">63</td>
+<td style="width: 33.3333%;">62</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Vitaliy Reshetniak</td>
 <td style="width: 33.3333%;">Lech-WSUS Poznań</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">64</td>
+<td style="width: 33.3333%;">63</td>
 <td nowrap="nowrap" style="width: 33.3333%;">FM Omar Lahouimel</td>
 <td style="width: 33.3333%;">SVV Rotation Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">65</td>
+<td style="width: 33.3333%;">64</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Fabian Schmidt</td>
 <td style="width: 33.3333%;">Königsjäger Süd-West</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">66</td>
+<td style="width: 33.3333%;">65</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Maxime Varazi</td>
 <td style="width: 33.3333%;">Empor Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">67</td>
+<td style="width: 33.3333%;">66</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Ingo Sommer</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">68</td>
+<td style="width: 33.3333%;">67</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jörn Manthe</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">69</td>
+<td style="width: 33.3333%;">68</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Rainer Gehler</td>
 <td style="width: 33.3333%;">TuS Makkabi Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">70</td>
+<td style="width: 33.3333%;">69</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Maxim Gehler</td>
 <td style="width: 33.3333%;">Empor Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">71</td>
+<td style="width: 33.3333%;">70</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Peter Lehe</td>
 <td style="width: 33.3333%;">Berolina Mitte</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">72</td>
+<td style="width: 33.3333%;">71</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Lukas Mieth</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">73</td>
+<td style="width: 33.3333%;">72</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Harald Krawczyk</td>
 <td style="width: 33.3333%;">SG Rot-Weiß-Neuenhagen</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">74</td>
+<td style="width: 33.3333%;">73</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jacob Meilutat</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">75</td>
+<td style="width: 33.3333%;">74</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Thomas Meyer</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">76</td>
+<td style="width: 33.3333%;">75</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Werner Becker</td>
 <td style="width: 33.3333%;">SC Rochade</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">77</td>
+<td style="width: 33.3333%;">76</td>
 <td nowrap="nowrap" style="width: 33.3333%;">André David Paul</td>
 <td style="width: 33.3333%;">SK Dessau</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">78</td>
+<td style="width: 33.3333%;">77</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Nico Majewski</td>
 <td style="width: 33.3333%;">ESV Lok Falkenberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">79</td>
+<td style="width: 33.3333%;">78</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Andreas Kinski</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">80</td>
+<td style="width: 33.3333%;">79</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Andrey Tyukavin</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">81</td>
+<td style="width: 33.3333%;">80</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Torsten Eichstädt</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">82</td>
+<td style="width: 33.3333%;">81</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Peter Schulz</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">83</td>
+<td style="width: 33.3333%;">82</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Orkun Sakalli</td>
 <td style="width: 33.3333%;">SC Zugzwang 95</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">84</td>
+<td style="width: 33.3333%;">83</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Onno Zhang</td>
 <td style="width: 33.3333%;">SSV Rotation</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">85</td>
+<td style="width: 33.3333%;">84</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Noah Schömann</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">86</td>
+<td style="width: 33.3333%;">85</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Arthur Fieger</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">87</td>
+<td style="width: 33.3333%;">86</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Detlef Steppuhn</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">88</td>
+<td style="width: 33.3333%;">87</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Gerhard Grob</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">89</td>
+<td style="width: 33.3333%;">88</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Piotr Klisz</td>
 <td style="width: 33.3333%;">SF Friedrichshagen</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">90</td>
+<td style="width: 33.3333%;">89</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Simon Saglamoglu</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">91</td>
+<td style="width: 33.3333%;">90</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Daniel Iachanou</td>
 <td style="width: 33.3333%;">HSK</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">92</td>
+<td style="width: 33.3333%;">91</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Kirill Zuev</td>
 <td style="width: 33.3333%;">SF Friedrichshagen</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">93</td>
+<td style="width: 33.3333%;">92</td>
 <td nowrap="nowrap" style="width: 33.3333%;">FM Jürgen Brustkern</td>
 <td style="width: 33.3333%;">SK Zehlendorf</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">94</td>
+<td style="width: 33.3333%;">93</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Mert Özates</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">95</td>
+<td style="width: 33.3333%;">94</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Frank Laskowski</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">96</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Nikolai Biriukov</td>
-<td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail melden!</span></strong></td>
+<td style="width: 33.3333%;">95</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Nikolai Biriukov ?</td>
+<td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">97</td>
+<td style="width: 33.3333%;">96</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Jörn Manthe ?</td>
+<td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">98</td>
 <td nowrap="nowrap" style="width: 33.3333%;"></td>
 <td style="width: 33.3333%;"></td>
 </tr>
