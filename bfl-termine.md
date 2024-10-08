@@ -29,52 +29,52 @@ parent_title: Termine
 <tbody>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">1</td>
-<td nowrap="nowrap" style="height: 24px;">Zita (A)</td>
-<td style="text-align: center; height: 24px;">2025</td>
-<td nowrap="nowrap" style="height: 24px; text-align: right;"><em>spielfrei</em></td>
-<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;">Zitadelle Spandau (A)</td>
+<td style="height: 24px; text-align: center;">07.03.25!</td>
+<td nowrap="nowrap" style="height: 24px; text-align: right;"></td>
+<td style="height: 24px; text-align: center;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">2</td>
 <td style="height: 24px; text-align: right;"><em>spielfrei</em></td>
-<td style="text-align: center; height: 24px;"></td>
-<td style="height: 24px;">SFB 1903 6 (A)</td>
-<td style="text-align: center; height: 24px;">19.10.24</td>
+<td style="height: 24px; text-align: center;"></td>
+<td nowrap="nowrap" style="height: 24px;">SFr Berlin 1903 6 (A)</td>
+<td style="height: 24px; text-align: center;">16.10.24</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">3</td>
-<td nowrap="nowrap" style="height: 24px;">SFB 1903 4 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
-<td style="height: 24px;">SCK 4 (H)</td>
-<td style="height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;">SFr Berlin 1903 4 (A)</td>
+<td style="height: 24px; text-align: center;">20.11.24</td>
+<td style="height: 24px;">SC Kreuzberg 4 (H)</td>
+<td style="height: 24px; text-align: center;">19.11.24</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">4</td>
-<td nowrap="nowrap" style="height: 24px;">TSG (H)</td>
-<td style="height: 24px;"></td>
-<td nowrap="nowrap" style="height: 24px;">SFB 1903 7 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;">TSG O´weide (H)</td>
+<td style="height: 24px; text-align: center;">25.01.25</td>
+<td nowrap="nowrap" style="height: 24px;">SFr Berlin 1903 7 (A)</td>
+<td style="height: 24px; text-align: center;">22.01.25</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">5</td>
 <td nowrap="nowrap" style="height: 24px;">TSV Ma’dorf 1 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px; text-align: center;">19.02.25</td>
 <td nowrap="nowrap" style="height: 24px;">SK International (H)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px; text-align: center;">18.02.25</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">6</td>
-<td style="height: 24px;">Caïssa (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td nowrap="nowrap" style="height: 24px;">Caïssa Hermsdorf (A)</td>
+<td style="height: 24px; text-align: center;">20.03.25</td>
 <td nowrap="nowrap" style="height: 24px;">TSV Ma’dorf 2 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px; text-align: center;">19.03.25</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">7</td>
-<td style="height: 24px;">SCK 3 (A)</td>
-<td style="text-align: center; height: 24px;"></td>
-<td style="height: 24px; text-align: right;"><em>spielfrei</em></td>
-<td style="text-align: center; height: 24px;"></td>
+<td style="height: 24px;">SC Kreuzberg 3 (A)</td>
+<td style="height: 24px; text-align: center;">02.04.25</td>
+<td style="height: 24px; text-align: right;"></td>
+<td style="height: 24px; text-align: center;"></td>
 </tr>
 </tbody>
 </table>

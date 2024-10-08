@@ -219,14 +219,6 @@ navs:
 </tr>
 <tr>
 <td>24.</td>
-<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
-<td></td>
-<td>1622</td>
-<td>84</td>
-<td>1843</td>
-</tr>
-<tr>
-<td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
 <td>1610</td>
@@ -234,7 +226,7 @@ navs:
 <td>1829</td>
 </tr>
 <tr>
-<td>26.</td>
+<td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
 <td>1603</td>
@@ -242,12 +234,20 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>27.</td>
+<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
 <td>1597</td>
 <td>76</td>
 <td>1755</td>
+</tr>
+<tr>
+<td>27.</td>
+<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
+<td></td>
+<td>1583</td>
+<td>85</td>
+<td>1843</td>
 </tr>
 <tr>
 <td>28.</td>

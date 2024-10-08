@@ -50,6 +50,7 @@ navs:
 <div class="entry-content">
 <h1 style="text-align: center;"><a href="https://www.azquotes.com/quote/601506" title="Kurt Richter quote"><img alt="What would Chess be without silly mistakes? - Kurt Richter" class="aligncenter" decoding="async" src="//www.azquotes.com/picture-quotes/quote-what-would-chess-be-without-silly-mistakes-kurt-richter-60-15-06.jpg" width="600"/></a><br/>
 Kurt-Richter-Gedenkturniere</h1>
+<p style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><span style="font-size: 36pt;">2024</span></a></p>
 <table border="2" width="464">
 <tbody>
 <tr class="xl6717289" style="height: 14.25pt;">
