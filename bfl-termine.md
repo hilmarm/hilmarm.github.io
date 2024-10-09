@@ -13,7 +13,7 @@ parent_title: Termine
 <div class="post-4987 page type-page status-publish hentry" id="post-4987">
 <h1 class="entry-title">BFL Termine</h1>
 <div class="entry-content">
-<style>
+<style><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start">﻿</span><br />
  .t_container { position:relative;left:-50px; }<br /> .smartphone .t_container { left:0px; }<br /> .t_container .td,<br /> .t_container .th {<br />  padding-left:5px;<br />  padding-right:5px;<br /> }<br /></style>
 <div class="t_container" style="overflow: visible;">
 <table class="clean footable" style="height: 186px;">
@@ -64,7 +64,7 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">6</td>
-<td nowrap="nowrap" style="height: 24px;">Caïssa Hermsdorf (A)</td>
+<td nowrap="nowrap" style="height: 24px;">Caïssa Hermsdorf (H)</td>
 <td style="height: 24px; text-align: center;">20.03.25</td>
 <td nowrap="nowrap" style="height: 24px;">TSV Ma’dorf 2 (A)</td>
 <td style="height: 24px; text-align: center;">19.03.25</td>

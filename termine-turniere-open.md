@@ -23,19 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit 2024</a></td>
-<td>30.09.-06.10.2024</td>
-<td>Hans-Dieter, Ulrich</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">17. Wildauer Dahmelandpokal 2024</a></td>
-<td>03.10.-06.10.2024</td>
-<td>Oliver</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://bsg-eckbauer.de/berichte/open2024/open2024.php" rel="noopener" target="_blank">Eckbauer Open 2024</a></td>
 <td>07.10.-18.11.2024</td>
-<td></td>
+<td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/28-ueberbezirkliches-seniorenturnier-am-9-oktober-2024/" rel="noopener" target="_blank">28. überbezirkliches Seniorenturnier</a></td>
@@ -45,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><strong>Kurt-Richter-Gedenkturnier 2024</strong></a></td>
 <td>01.11.-03.11.2024</td>
-<td>mehere</td>
+<td>mehrere</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">XV. Falkenseer Open</a></td>
@@ -55,7 +45,22 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-erftstadt.de/turniere/broetchenturnier" rel="noopener" target="_blank">Brötchenturnier 2024</a></td>
 <td>08.11.2024</td>
-<td>eine Mannschaft</td>
+<td>Günter, Lasko, Rouven, Thomas</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.zitaschach.de/weihnachts-festival-2024/" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a></td>
+<td>27.12.-30.12.2024</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
+<td>03.01.-05.01.2025</td>
+<td>Michael W.</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
+<td>04.04.-06.04.2025</td>
+<td>Rudolf, Thomas</td>
 </tr>
 </tbody>
 </table>

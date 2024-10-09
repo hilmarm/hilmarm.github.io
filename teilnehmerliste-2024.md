@@ -395,7 +395,7 @@ krt@narva-schach.de</span></em><br/>
 <td nowrap="nowrap" style="width: 33.3333%;">Ingo Sommer</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">67</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jörn Manthe</td>
 <td style="width: 33.3333%;"></td>
@@ -510,7 +510,7 @@ krt@narva-schach.de</span></em><br/>
 <td nowrap="nowrap" style="width: 33.3333%;">Simon Saglamoglu</td>
 <td style="width: 33.3333%;"></td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">90</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Daniel Iachanou</td>
 <td style="width: 33.3333%;">HSK</td>
@@ -540,20 +540,20 @@ krt@narva-schach.de</span></em><br/>
 <td nowrap="nowrap" style="width: 33.3333%;">Nikolai Biriukov ?</td>
 <td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
 </tr>
-<tr>
-<td style="width: 33.3333%;">96</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Jörn Manthe ?</td>
-<td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
-</tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">98</td>
+<td style="width: 33.3333%;">96</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Phuc Nhat Nguyen</td>
 <td style="width: 33.3333%;">TSG Oberschöneweide</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">98</td>
+<td style="width: 33.3333%;">97</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Anke Schönfeld</td>
 <td style="width: 33.3333%;">SV-Grün-W. Niederwiesa</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">98</td>
+<td nowrap="nowrap" style="width: 33.3333%;"></td>
+<td style="width: 33.3333%;"></td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">99</td>
