@@ -51,11 +51,12 @@ parent_title: Kurt-Richter-Gedenkturnier
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
 <h2 style="text-align: center;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 06.10.)</span></h2>
+<p><strong><span style="color: #ff0000;">Teilnehmerliste ist bei 100!! Bitte nicht mehr vorab überweisen!! Bitte immer erst per Mail anmelden!!</span></strong></p>
 <p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong><br/>
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
 krt@narva-schach.de</span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 08.10.2024</strong></p>
+<p><strong>Stand: 10.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -550,23 +551,35 @@ krt@narva-schach.de</span></em><br/>
 <td nowrap="nowrap" style="width: 33.3333%;">Anke Schönfeld</td>
 <td style="width: 33.3333%;">SV-Grün-W. Niederwiesa</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">98</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Joshua Röber</td>
+<td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
-<tr>
+<tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">99</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Valentin Köhler</td>
+<td style="width: 33.3333%;">SV Empor Berlin</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">100</td>
-<td nowrap="nowrap" style="width: 33.3333%;"></td>
-<td style="width: 33.3333%;"></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Bernd Krambeer</td>
+<td style="width: 33.3333%;">SV Berlin Friedrichstadt</td>
 </tr>
 </tbody>
 </table>
+<p><strong>Warteliste:</strong></p>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Frank Hertel Mach? (bezahlt) <span style="color: #ff0000;">bitte per Mail anmelden!</span></li>
+<li>Joshua Carl David Rober? (bezahlt) <span style="color: #ff0000;">bitte per Mail anmelden!</span></li>
+<li>Daniel Woithe, USC Viadrina Frankfurt (bezahlt)</li>
+<li>Jan-Hendrik Bahr, SG NARVA Berlin</li>
+<li>Oliver Wäldrich, SG NARVA Berlin</li>
+</ul>
+</li>
+</ul>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
