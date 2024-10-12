@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-12903 post type-post status-publish format-standard hentry category-nicht-kategorisiert-de" id="post-12903">
+<div class="post-12903 post type-post status-publish format-standard hentry category-training" id="post-12903">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/" rel="bookmark">Training &amp; Simultan mit GM Michael Richter</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/" rel="bookmark" title="10:25"><span class="entry-date">11. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -73,7 +73,7 @@ Das Simultan gewinnt Michael mit <strong>11:1</strong>. <strong>Katrin</strong> 
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/nicht-kategorisiert-de/" rel="category tag">Nicht kategorisiert</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
 <span class="meta-sep">|</span>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
