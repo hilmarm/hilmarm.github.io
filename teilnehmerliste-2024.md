@@ -56,7 +56,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
 krt@narva-schach.de</span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 12.10.2024</strong></p>
+<p><strong>Stand: 13.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -558,8 +558,8 @@ krt@narva-schach.de</span></em><br/>
 </tr>
 <tr>
 <td style="width: 33.3333%;">99</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Frank Hertel-Mach ??</td>
-<td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
+<td nowrap="nowrap" style="width: 33.3333%;">Frank Hertel-Mach</td>
+<td style="width: 33.3333%;">Blau -Weiß 69 Parchim</td>
 </tr>
 <tr>
 <td style="width: 33.3333%;">100</td>
