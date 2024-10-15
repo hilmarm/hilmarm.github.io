@@ -56,7 +56,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
 krt@narva-schach.de</span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 13.10.2024</strong></p>
+<p><strong>Stand: 15.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -431,7 +431,7 @@ krt@narva-schach.de</span></em><br/>
 <td nowrap="nowrap" style="width: 33.3333%;">Werner Becker</td>
 <td style="width: 33.3333%;">SC Rochade</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">74</td>
 <td nowrap="nowrap" style="width: 33.3333%;">André David Paul</td>
 <td style="width: 33.3333%;">SK Dessau</td>
@@ -521,50 +521,50 @@ krt@narva-schach.de</span></em><br/>
 <td nowrap="nowrap" style="width: 33.3333%;">Mert Özates</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
-<tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">92</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Frank Laskowski</td>
-<td style="width: 33.3333%;">SG NARVA Berlin</td>
-</tr>
 <tr>
-<td style="width: 33.3333%;">93</td>
+<td style="width: 33.3333%;">92</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Nikolai Biriukov ??</td>
 <td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">94</td>
+<td style="width: 33.3333%;">93</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Phuc Nhat Nguyen</td>
 <td style="width: 33.3333%;">TSG Oberschöneweide</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">95</td>
+<td style="width: 33.3333%;">94</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Anke Schönfeld</td>
 <td style="width: 33.3333%;">SV-Grün-W. Niederwiesa</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">96</td>
+<td style="width: 33.3333%;">95</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Joshua Röber</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">97</td>
+<td style="width: 33.3333%;">96</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Valentin Köhler</td>
 <td style="width: 33.3333%;">SV Empor Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">98</td>
+<td style="width: 33.3333%;">97</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Bernd Krambeer</td>
 <td style="width: 33.3333%;">SV Berlin Friedrichstadt</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">99</td>
+<td style="width: 33.3333%;">98</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Frank Hertel-Mach</td>
 <td style="width: 33.3333%;">Blau -Weiß 69 Parchim</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">100</td>
+<td style="width: 33.3333%;">99</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Daniel Woithe</td>
 <td style="width: 33.3333%;">SV Berlin Friedrichstadt</td>
+</tr>
+<tr style="background-color: #a09699;">
+<td style="width: 33.3333%;">100</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Jan-Hendrik Bahr</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 </tbody>
 </table>
@@ -572,10 +572,17 @@ krt@narva-schach.de</span></em><br/>
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li>Jan-Hendrik Bahr, SG NARVA Berlin</li>
+<li style="list-style-type: none;">
+<ul>
 <li>Oliver Wäldrich, SG NARVA Berlin</li>
 <li>Samy Omar</li>
 <li>Michael Ziems, SC Kreuzberg (bezahlt)</li>
+<li>Antoine Boisseau, SV Mattnetz Berlin</li>
+<li>Ashur Lalaev, TuS Makkabi (bezahlt)</li>
+<li>Frank Laskowski, SG NARVA Berlin</li>
+<li></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
