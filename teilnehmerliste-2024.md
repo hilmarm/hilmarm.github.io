@@ -56,7 +56,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
 krt@narva-schach.de</span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 15.10.2024</strong></p>
+<p><strong>Stand: 16.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -388,182 +388,182 @@ krt@narva-schach.de</span></em><br/>
 </tr>
 <tr style="background-color: #a09699;">
 <td style="width: 33.3333%;">65</td>
-<td nowrap="nowrap" style="width: 33.3333%;">Maxime Varazi</td>
-<td style="width: 33.3333%;">Empor Berlin</td>
-</tr>
-<tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">66</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Ingo Sommer</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">67</td>
+<td style="width: 33.3333%;">66</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jörn Manthe</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">68</td>
+<td style="width: 33.3333%;">67</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Peter Lehe</td>
 <td style="width: 33.3333%;">Berolina Mitte</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">69</td>
+<td style="width: 33.3333%;">68</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Lukas Mieth</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">70</td>
+<td style="width: 33.3333%;">69</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Harald Krawczyk</td>
 <td style="width: 33.3333%;">SG Rot-Weiß-Neuenhagen</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">71</td>
+<td style="width: 33.3333%;">70</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jacob Meilutat</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">72</td>
+<td style="width: 33.3333%;">71</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Thomas Meyer</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">73</td>
+<td style="width: 33.3333%;">72</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Werner Becker</td>
 <td style="width: 33.3333%;">SC Rochade</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">74</td>
+<td style="width: 33.3333%;">73</td>
 <td nowrap="nowrap" style="width: 33.3333%;">André David Paul</td>
 <td style="width: 33.3333%;">SK Dessau</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">75</td>
+<td style="width: 33.3333%;">74</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Nico Majewski</td>
 <td style="width: 33.3333%;">ESV Lok Falkenberg</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">76</td>
+<td style="width: 33.3333%;">75</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Andreas Kinski</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">77</td>
+<td style="width: 33.3333%;">76</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Andrey Tyukavin</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">78</td>
+<td style="width: 33.3333%;">77</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Torsten Eichstädt</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">79</td>
+<td style="width: 33.3333%;">78</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Peter Schulz</td>
 <td style="width: 33.3333%;">SC Eintracht Berlin</td>
 </tr>
-<tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">80</td>
+<tr>
+<td style="width: 33.3333%;">79</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Orkun Sakalli</td>
 <td style="width: 33.3333%;">SC Zugzwang 95</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">81</td>
+<td style="width: 33.3333%;">80</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Onno Zhang</td>
 <td style="width: 33.3333%;">SSV Rotation</td>
 </tr>
-<tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">82</td>
+<tr>
+<td style="width: 33.3333%;">81</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Noah Schömann</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">83</td>
+<td style="width: 33.3333%;">82</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Arthur Fieger</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">84</td>
+<td style="width: 33.3333%;">83</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Detlef Steppuhn</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">85</td>
+<td style="width: 33.3333%;">84</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Gerhard Grob</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">86</td>
+<td style="width: 33.3333%;">85</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Piotr Klisz</td>
 <td style="width: 33.3333%;">SF Friedrichshagen</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">87</td>
+<td style="width: 33.3333%;">86</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Simon Saglamoglu</td>
 <td style="width: 33.3333%;"></td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">88</td>
+<td style="width: 33.3333%;">87</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Daniel Iachanou</td>
 <td style="width: 33.3333%;">HSK</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">89</td>
+<td style="width: 33.3333%;">88</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Kirill Zuev</td>
 <td style="width: 33.3333%;">SF Friedrichshagen</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">90</td>
+<td style="width: 33.3333%;">89</td>
 <td nowrap="nowrap" style="width: 33.3333%;">FM Jürgen Brustkern</td>
 <td style="width: 33.3333%;">SK Zehlendorf</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">91</td>
+<td style="width: 33.3333%;">90</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Mert Özates</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">92</td>
+<td style="width: 33.3333%;">91</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Nikolai Biriukov ??</td>
 <td style="width: 33.3333%;"><strong><span style="color: #ff0000;">bitte per Mail anmelden!</span></strong></td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">93</td>
+<td style="width: 33.3333%;">92</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Phuc Nhat Nguyen</td>
 <td style="width: 33.3333%;">TSG Oberschöneweide</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">94</td>
+<td style="width: 33.3333%;">93</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Anke Schönfeld</td>
 <td style="width: 33.3333%;">SV-Grün-W. Niederwiesa</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">95</td>
+<td style="width: 33.3333%;">94</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Joshua Röber</td>
 <td style="width: 33.3333%;">SSV Rotation Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">96</td>
+<td style="width: 33.3333%;">95</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Valentin Köhler</td>
 <td style="width: 33.3333%;">SV Empor Berlin</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">97</td>
+<td style="width: 33.3333%;">96</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Bernd Krambeer</td>
 <td style="width: 33.3333%;">SV Berlin Friedrichstadt</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">98</td>
+<td style="width: 33.3333%;">97</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Frank Hertel-Mach</td>
 <td style="width: 33.3333%;">Blau -Weiß 69 Parchim</td>
 </tr>
 <tr>
-<td style="width: 33.3333%;">99</td>
+<td style="width: 33.3333%;">98</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Daniel Woithe</td>
 <td style="width: 33.3333%;">SV Berlin Friedrichstadt</td>
 </tr>
 <tr style="background-color: #a09699;">
-<td style="width: 33.3333%;">100</td>
+<td style="width: 33.3333%;">99</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Jan-Hendrik Bahr</td>
+<td style="width: 33.3333%;">SG NARVA Berlin</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">100</td>
+<td nowrap="nowrap" style="width: 33.3333%;">Dr. Oliver Wäldrich</td>
 <td style="width: 33.3333%;">SG NARVA Berlin</td>
 </tr>
 </tbody>
@@ -574,11 +574,13 @@ krt@narva-schach.de</span></em><br/>
 <ul>
 <li style="list-style-type: none;">
 <ul>
-<li>Oliver Wäldrich, SG NARVA Berlin</li>
 <li>Samy Omar</li>
 <li>Michael Ziems, SC Kreuzberg (bezahlt)</li>
 <li>Antoine Boisseau, SV Mattnetz Berlin</li>
 <li>Ashur Lalaev, TuS Makkabi (bezahlt)</li>
+<li>Carmen Tauchnitz, ohne Verein (bezahlt)</li>
+<li>Franz-Simon Malur, SC Zugzwang (bezahlt)</li>
+<li>Andreas Sauermann (bezahlt)</li>
 <li>Frank Laskowski, SG NARVA Berlin</li>
 <li></li>
 </ul>
