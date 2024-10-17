@@ -8,6 +8,7 @@ navs:
   3. Mannschaft: https://chess-results.com/tnr1013983.aspx?lan=0
   Spielberichte BMM: spielberichte-bmm
   BFL: https://bmm-schach.de/seasons/BFL%202023-24
+  1.Mannschaft: https://chess-results.com/tnr1034689.aspx?lan=0
   BPMM: bpmm
 navbar: false
 parent_title: Mannschaften
