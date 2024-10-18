@@ -487,7 +487,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Brinckmann,Klaus</td>
 <td>(2½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -499,7 +499,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Mach,Wolfgang</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -523,7 +523,7 @@ parent_title: Turniere
 <td>18</td>
 <td>Heinrich,Manfred</td>
 <td>(1½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -626,7 +626,7 @@ parent_title: Turniere
 <td>25</td>
 <td>Wäldrich,Oliver,</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
