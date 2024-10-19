@@ -50,13 +50,13 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<h2 style="text-align: center; padding-left: 40px;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 16.10.)</span></h2>
+<h2 style="text-align: center; padding-left: 40px;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 18.10.)</span></h2>
 <p><strong><span style="color: #ff0000;">Teilnehmerliste ist bei 100!! Bitte nicht mehr vorab überweisen!! Bitte immer erst per Mail anmelden!!</span></strong></p>
 <p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong><br/>
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
-krt@narva-schach.de</span></em><br/>
+</span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 17.10.2024</strong></p>
+<p><strong>Stand: 18.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -579,7 +579,7 @@ krt@narva-schach.de</span></em><br/>
 <li>Carmen Tauchnitz, ohne Verein (bezahlt)</li>
 <li>Franz-Simon Malur, SC Zugzwang (bezahlt)</li>
 <li>Andreas Sauermann (bezahlt)</li>
-<li>Christian Timm, Königsspringer Herzberg/E.</li>
+<li>Christian Timm, Königsspringer Herzberg</li>
 </ul>
 </li>
 </ul>

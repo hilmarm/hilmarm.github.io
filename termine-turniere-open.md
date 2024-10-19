@@ -28,11 +28,6 @@ parent_title: Termine
 <td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.schachclubkreuzberg.de/28-ueberbezirkliches-seniorenturnier-am-9-oktober-2024/" rel="noopener" target="_blank">28. überbezirkliches Seniorenturnier</a></td>
-<td>09.10.2024</td>
-<td>Peter</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><strong>Kurt-Richter-Gedenkturnier 2024</strong></a></td>
 <td>01.11.-03.11.2024</td>
 <td>mehrere</td>
@@ -55,7 +50,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>03.01.-05.01.2025</td>
-<td>Michael W.</td>
+<td>Michael W.,  Jan-Hendrik</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>

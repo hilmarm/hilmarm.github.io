@@ -30,12 +30,12 @@ parent_title: Turniere
 <tbody>
 <tr style="height: 24px;">
 <td style="height: 24px;">Mietzelfeldt</td>
-<td style="height: 24px;">Hintze</td>
+<td style="height: 24px;"><strong>Hintze</strong></td>
 <td style="height: 24px;">0 : 1</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;">Arnold</td>
-<td style="height: 24px;">Dr. Maetzing</td>
+<td style="height: 24px;"><strong>Dr. Maetzing</strong></td>
 <td style="height: 24px;">– : +</td>
 </tr>
 </tbody>
