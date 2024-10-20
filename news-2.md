@@ -46,7 +46,7 @@ Die Zweite gegen die Erste von Zugzwang. Und die Dritte gegen die starken Senior
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/13/bmm-runde-2-4/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/13/bmm-runde-2-4/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12918 
 <div class="post-12914 post type-post status-publish format-standard hentry category-openberichte" id="post-12914">

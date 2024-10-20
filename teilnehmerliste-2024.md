@@ -56,7 +56,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
 </span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 18.10.2024</strong></p>
+<p><strong>Stand: 20.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -580,6 +580,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <li>Franz-Simon Malur, SC Zugzwang (bezahlt)</li>
 <li>Andreas Sauermann (bezahlt)</li>
 <li>Christian Timm, Königsspringer Herzberg</li>
+<li>Kumar Amod, TSV Mariendorf 1897 (bezahlt)</li>
 </ul>
 </li>
 </ul>
