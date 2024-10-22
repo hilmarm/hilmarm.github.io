@@ -56,7 +56,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
 </span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 20.10.2024</strong></p>
+<p><strong>Stand: 21.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -381,7 +381,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">FM Omar Lahouimel</td>
 <td style="width: 33.3333%;">SVV Rotation Berlin</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">64</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Fabian Schmidt</td>
 <td style="width: 33.3333%;">Königsjäger Süd-West</td>
