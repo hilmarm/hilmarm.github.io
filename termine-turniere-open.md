@@ -43,6 +43,11 @@ parent_title: Termine
 <td>Günter, Lasko, Rouven, Thomas</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://schachinfredersdorf.de/?page_id=3168" rel="noopener" target="_blank">Fredersdorfer Weihnachtsblitzschachturnier</a></td>
+<td>14.12.2024</td>
+<td>aktuell mit: Günter, Rudolf, Bernd</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.zitaschach.de/weihnachts-festival-2024/" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a></td>
 <td>27.12.-30.12.2024</td>
 <td></td>
