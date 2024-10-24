@@ -471,7 +471,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Gerhard Grob</td>
 <td style="width: 33.3333%;">SC Kreuzberg</td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%;">82</td>
 <td nowrap="nowrap" style="width: 33.3333%;">Piotr Klisz</td>
 <td style="width: 33.3333%;">SF Friedrichshagen</td>
