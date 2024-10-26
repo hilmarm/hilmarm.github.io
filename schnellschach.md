@@ -167,7 +167,7 @@ parent_title: Turniere
 <td style="width: 13.5938%;">5</td>
 </tr>
 <tr>
-<td style="width: 20.9375%;">Walker</td>
+<td style="width: 20.9375%;">Walker (G)</td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;"></td>
