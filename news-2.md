@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12982 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-12982">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/" rel="bookmark">Ausbildung zum Verbandsschiedsrichter</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/" rel="bookmark" title="10:00"><span class="entry-date">28. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Wochenende <strong>30.11./01.12.2024</strong> findet wieder ein <strong>Schiedsrichterlehrgang</strong> statt. Dort kann man sich an 2 Tagen zum Verbandsschiedsrichter ausbilden lassen. Der Lehrgangsort ist an der Jungfernheide.</p>
+<p>Aktuell ist von uns Klaus angemeldet, es dürfen aber gerne weitere dabei sein, Schiedsrichter benötigen wir immer.</p>
+<p><strong>Die Kosten für den Lehrgang (50,-€) übernimmt der Verein!</strong></p>
+<p><a href="https://www.berlinerschachverband.de/schiedsrichterausbildung-2024.html" rel="noopener" target="_blank">Link zu allen weiteren Informationen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12982 
 <div class="post-12974 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12974">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/25/hans-dieter-ist-abteilungsmeister-2024/" rel="bookmark">Hans-Dieter ist Abteilungsmeister 2024</a></h2>
 <div class="entry-meta">
@@ -505,23 +522,6 @@ Das persönlich beste Ergebnis hat <strong>Tom</strong> erzielt, er belegte am E
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/08/14/mitgliederversammlung-zur-bmm-bfl/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12654 
-<div class="post-12631 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12631">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/" rel="bookmark">Juli Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/" rel="bookmark" title="19:47"><span class="entry-date">28. Juli 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auch beim Juli-Blitz gab es ein enges Rennen um den Tagessieg. 11 Teilnehmer, darunter 4 starke Gäste, ergaben ein gutes Teilnehmerfeld.</p>
-<p><strong>Peter</strong> gab gegen Ekkehard ab und spielte Remis gegen Gast Walker, <strong>Ekkehard</strong> verlor gegen Matthias und Gast Steinmann, <strong>Matthias</strong> gab sogar 3 Punkte ab.</p>
-<p>Am Ende gewinnt also wieder Peter mit 8,5 aus 10, vor Ekkehard und Matthias.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/07/28/juli-blitz-2/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12631 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

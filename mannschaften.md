@@ -9,6 +9,7 @@ navs:
   Spielberichte BMM: spielberichte-bmm
   BFL: https://bmm-schach.de/seasons/BFL%202023-24
   1.Mannschaft: https://chess-results.com/tnr1034689.aspx?lan=0
+  2.Mannschaft: https://chess-results.com/tnr1042181.aspx?lan=0
   BPMM: bpmm
 ---
 <div class="post-54 page type-page status-publish hentry" id="post-54">

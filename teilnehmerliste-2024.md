@@ -51,12 +51,13 @@ parent_title: Kurt-Richter-Gedenkturnier
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
 <h2 style="text-align: center; padding-left: 40px;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 18.10.)</span></h2>
-<p><strong><span style="color: #ff0000;">Teilnehmerliste ist bei 100!! Bitte nicht mehr vorab überweisen!! Bitte immer erst per Mail anmelden!!</span></strong></p>
-<p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong><br/>
-<em><span style="color: #ff0000;">Bitte nicht nur Startgeld überweisen, sondern auch per Mail anmelden!<br/>
+<p style="text-align: center;"><span style="font-size: 24pt;"><strong><span style="color: #ff0000;">A N M E L D E S T O P P</span></strong></span></p>
+<p><strong><span style="color: #ff0000;">Teilnehmerliste ist bei 100!! Alle die jetzt in der Liste stehen (108), können auch spielen!</span></strong></p>
+<p><strong><span style="color: #ff0000;">Bitte nicht mehr vorab überweisen!! Bitte immer erst per Mail melden!!</span></strong></p>
+<p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong><em><span style="color: #ff0000;"><br/>
 </span></em><br/>
 <em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
-<p><strong>Stand: 23.10.2024</strong></p>
+<p><strong>Stand: 28.10.2024</strong></p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -566,21 +567,48 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%;">Antoine Boisseau</td>
 <td style="width: 33.3333%;">SV Mattnetz Berlin</td>
 </tr>
+<tr>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">101</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Ashur Lalaev</span></td>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">TuS Makkabi</span></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">102</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Carmen Tauchnitz</span></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">103</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Franz-Simon Malur</span></td>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">SC Zugzwang</span></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">104</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Andreas Sauermann</span></td>
+<td style="width: 33.3333%;"></td>
+</tr>
+<tr style="background-color: #a09699;">
+<td style="width: 33.3333%;"><span style="color: #ff0000;">105</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Christian Timm</span></td>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">Königsspringer Herzberg</span></td>
+</tr>
+<tr>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">106</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Kumar Amod</span></td>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">TSV Mariendorf 1897</span></td>
+</tr>
+<tr style="background-color: #a09699;">
+<td style="width: 33.3333%;"><span style="color: #ff0000;">107</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Gerrit Geldner</span></td>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">SC Kreuzberg</span></td>
+</tr>
+<tr style="background-color: #a09699;">
+<td style="width: 33.3333%;"><span style="color: #ff0000;">108</span></td>
+<td nowrap="nowrap" style="width: 33.3333%;"><span style="color: #ff0000;">Johannes Markmann</span></td>
+<td style="width: 33.3333%;"><span style="color: #ff0000;">SG NARVA Berlin</span></td>
+</tr>
 </tbody>
 </table>
-<p><strong>Warteliste:</strong></p>
-<ul>
-<li style="list-style-type: none;">
-<ul>
-<li>Ashur Lalaev, TuS Makkabi (bezahlt)</li>
-<li>Carmen Tauchnitz, ohne Verein (bezahlt)</li>
-<li>Franz-Simon Malur, SC Zugzwang (bezahlt)</li>
-<li>Andreas Sauermann (bezahlt)</li>
-<li>Christian Timm, Königsspringer Herzberg</li>
-<li>Kumar Amod, TSV Mariendorf 1897 (bezahlt)</li>
-</ul>
-</li>
-</ul>
 </div><!-- .entry-content -->
 </div> #post-12528 
 <div id="comments">
