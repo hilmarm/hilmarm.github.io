@@ -47,8 +47,8 @@ parent_title: Turniere
 <td>2</td>
 <td>0</td>
 <td>6.0</td>
-<td>27.5</td>
-<td>22.50</td>
+<td>28.5</td>
+<td>23.50</td>
 </tr>
 <tr>
 <td>2</td>
@@ -125,8 +125,8 @@ parent_title: Turniere
 <td>0</td>
 <td>0</td>
 <td>4.0</td>
-<td>25.5</td>
-<td>13.00</td>
+<td>24.5</td>
+<td>12.00</td>
 </tr>
 <tr>
 <td>8</td>
@@ -138,8 +138,8 @@ parent_title: Turniere
 <td>2</td>
 <td>2</td>
 <td>4.0</td>
-<td>23.5</td>
-<td>10.75</td>
+<td>22.5</td>
+<td>9.75</td>
 </tr>
 <tr>
 <td>9</td>
@@ -156,6 +156,19 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>10</td>
+<td>Mothes,Thomas</td>
+<td>1558</td>
+<td>1591</td>
+<td>7</td>
+<td>2</td>
+<td>4</td>
+<td>1</td>
+<td>4.0</td>
+<td>22.0</td>
+<td>12.25</td>
+</tr>
+<tr>
+<td>11</td>
 <td>Heinrich,Wesko</td>
 <td>1548</td>
 <td></td>
@@ -168,19 +181,6 @@ parent_title: Turniere
 <td>10.25</td>
 </tr>
 <tr>
-<td>11</td>
-<td>Mothes,Thomas</td>
-<td>1558</td>
-<td>1591</td>
-<td>7</td>
-<td>2</td>
-<td>4</td>
-<td>1</td>
-<td>4.0</td>
-<td>21.0</td>
-<td>12.25</td>
-</tr>
-<tr>
 <td>12</td>
 <td>Pape,Philipp</td>
 <td>1629</td>
@@ -190,8 +190,8 @@ parent_title: Turniere
 <td>2</td>
 <td>2</td>
 <td>4.0</td>
-<td>17.0</td>
-<td>8.50</td>
+<td>18.0</td>
+<td>9.50</td>
 </tr>
 <tr>
 <td>13</td>
@@ -203,8 +203,8 @@ parent_title: Turniere
 <td>1</td>
 <td>2</td>
 <td>3.5</td>
-<td>24.0</td>
-<td>8.25</td>
+<td>25.0</td>
+<td>9.25</td>
 </tr>
 <tr>
 <td>14</td>
@@ -221,19 +221,6 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>15</td>
-<td>Kreisel,Alexander</td>
-<td>1503</td>
-<td></td>
-<td>7</td>
-<td>2</td>
-<td>2</td>
-<td>3</td>
-<td>3.0</td>
-<td>25.5</td>
-<td>7.50</td>
-</tr>
-<tr>
-<td>16</td>
 <td>von Kraft,Lukas</td>
 <td>1435</td>
 <td>1434</td>
@@ -242,21 +229,34 @@ parent_title: Turniere
 <td>2</td>
 <td>3</td>
 <td>3.0</td>
-<td>24.0</td>
-<td>6.75</td>
+<td>25.0</td>
+<td>7.75</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Kreisel,Alexander</td>
+<td>1503</td>
+<td></td>
+<td>7</td>
+<td>2</td>
+<td>2</td>
+<td>3</td>
+<td>3.0</td>
+<td>24.5</td>
+<td>6.50</td>
 </tr>
 <tr>
 <td>17</td>
-<td>Heinrich,Manfred,</td>
-<td>1253</td>
+<td>Bahr,Jan-Hendrik</td>
 <td></td>
+<td>1050</td>
 <td>7</td>
 <td>2</td>
 <td>1</td>
 <td>4</td>
 <td>2.5</td>
-<td>20.0</td>
-<td>4.25</td>
+<td>24.5</td>
+<td>6.25</td>
 </tr>
 <tr>
 <td>18</td>
@@ -268,8 +268,8 @@ parent_title: Turniere
 <td>5</td>
 <td>2</td>
 <td>2.5</td>
-<td>18.0</td>
-<td>5.75</td>
+<td>19.0</td>
+<td>6.25</td>
 </tr>
 <tr>
 <td>19</td>
@@ -286,19 +286,6 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>20</td>
-<td>Horst,Juri</td>
-<td></td>
-<td>1350</td>
-<td>6</td>
-<td>1</td>
-<td>2</td>
-<td>3</td>
-<td>2.0</td>
-<td>22.0</td>
-<td>4.50</td>
-</tr>
-<tr>
-<td>21</td>
 <td>Herrscher,Michael</td>
 <td>1347</td>
 <td></td>
@@ -311,17 +298,30 @@ parent_title: Turniere
 <td>4.50</td>
 </tr>
 <tr>
-<td>22</td>
-<td>Bahr,Jan-Hendrik</td>
+<td>21</td>
+<td>Horst,Juri</td>
 <td></td>
-<td>1050</td>
+<td>1350</td>
+<td>6</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>2.0</td>
+<td>21.0</td>
+<td>4.00</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Heinrich,Manfred,</td>
+<td>1253</td>
+<td></td>
 <td>7</td>
 <td>1</td>
 <td>1</td>
 <td>5</td>
 <td>1.5</td>
-<td>25.5</td>
-<td>4.75</td>
+<td>21.0</td>
+<td>2.75</td>
 </tr>
 <tr>
 <td>23</td>
@@ -333,7 +333,7 @@ parent_title: Turniere
 <td>1</td>
 <td>4</td>
 <td>1.5</td>
-<td>21.5</td>
+<td>20.5</td>
 <td>1.75</td>
 </tr>
 <tr>
@@ -359,8 +359,8 @@ parent_title: Turniere
 <td>0</td>
 <td>6</td>
 <td>1.0</td>
-<td>22.5</td>
-<td>2.50</td>
+<td>21.5</td>
+<td>1.50</td>
 </tr>
 <tr>
 <td>26</td>
@@ -523,7 +523,7 @@ parent_title: Turniere
 <td>18</td>
 <td>Heinrich,Manfred</td>
 <td>(1½)</td>
-<td>0 – 1</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -1540,7 +1540,6 @@ parent_title: Turniere
 <th>NWZ</th>
 <th>A</th>
 <th>Verein/Ort</th>
-<th>TlnKe</th>
 </tr>
 </thead>
 <tbody>
@@ -1551,7 +1550,6 @@ parent_title: Turniere
 <td>2050</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>277</td>
 </tr>
 <tr>
 <td>2</td>
@@ -1560,7 +1558,6 @@ parent_title: Turniere
 <td>1887</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>220</td>
 </tr>
 <tr>
 <td>3</td>
@@ -1569,7 +1566,6 @@ parent_title: Turniere
 <td>1788</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>179</td>
 </tr>
 <tr>
 <td>4</td>
@@ -1578,7 +1574,6 @@ parent_title: Turniere
 <td>1779</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>19</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1587,7 +1582,6 @@ parent_title: Turniere
 <td>1726</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>216</td>
 </tr>
 <tr>
 <td>6</td>
@@ -1596,7 +1590,6 @@ parent_title: Turniere
 <td>1668</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>103</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1605,7 +1598,6 @@ parent_title: Turniere
 <td>1630</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>130</td>
 </tr>
 <tr>
 <td>8</td>
@@ -1614,7 +1606,6 @@ parent_title: Turniere
 <td>1629</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>246</td>
 </tr>
 <tr>
 <td>9</td>
@@ -1623,7 +1614,6 @@ parent_title: Turniere
 <td>1629</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>271</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1632,7 +1622,6 @@ parent_title: Turniere
 <td>1608</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>157</td>
 </tr>
 <tr>
 <td>11</td>
@@ -1641,7 +1630,6 @@ parent_title: Turniere
 <td>1558</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>23</td>
 </tr>
 <tr>
 <td>12</td>
@@ -1650,7 +1638,6 @@ parent_title: Turniere
 <td>1548</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>48</td>
 </tr>
 <tr>
 <td>13</td>
@@ -1659,7 +1646,6 @@ parent_title: Turniere
 <td>1503</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>60</td>
 </tr>
 <tr>
 <td>14</td>
@@ -1668,7 +1654,6 @@ parent_title: Turniere
 <td>1435</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>218</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1677,7 +1662,6 @@ parent_title: Turniere
 <td>1357</td>
 <td>*</td>
 <td>SG NARVA Berlin e.V.</td>
-<td>224</td>
 </tr>
 <tr>
 <td>16</td>
@@ -1686,7 +1670,6 @@ parent_title: Turniere
 <td>1347</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>1030</td>
 </tr>
 <tr>
 <td>17</td>
@@ -1695,7 +1678,6 @@ parent_title: Turniere
 <td>1262</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>236</td>
 </tr>
 <tr>
 <td>18</td>
@@ -1704,7 +1686,6 @@ parent_title: Turniere
 <td>1253</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>105</td>
 </tr>
 <tr>
 <td>19</td>
@@ -1713,7 +1694,6 @@ parent_title: Turniere
 <td>1226</td>
 <td>*</td>
 <td>SG NARVA Berlin e.V.</td>
-<td>149</td>
 </tr>
 <tr>
 <td>20</td>
@@ -1722,43 +1702,38 @@ parent_title: Turniere
 <td>1208</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>270</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Horst,Juri</td>
-<td></td>
+<td>1350</td>
 <td></td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>269</td>
 </tr>
 <tr>
 <td>22</td>
 <td>Bahr,Jan-Hendrik</td>
-<td></td>
+<td>1050</td>
 <td></td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>273</td>
 </tr>
 <tr>
 <td>23</td>
 <td>Stüve,Maxim</td>
-<td></td>
+<td>1550</td>
 <td></td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>276</td>
 </tr>
 <tr>
 <td>24</td>
 <td>Cattaneo,Ismaele</td>
-<td></td>
+<td>950</td>
 <td></td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td></td>
 </tr>
 <tr>
 <td>25</td>
@@ -1767,7 +1742,6 @@ parent_title: Turniere
 <td>1386</td>
 <td></td>
 <td>SG NARVA Berlin e.V.</td>
-<td>272</td>
 </tr>
 <tr>
 <td>26</td>
@@ -1776,7 +1750,6 @@ parent_title: Turniere
 <td>1026</td>
 <td></td>
 <td>SG Caissa Hamm 1</td>
-<td>1043</td>
 </tr>
 </tbody>
 </table>
