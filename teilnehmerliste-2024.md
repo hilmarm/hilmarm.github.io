@@ -567,7 +567,7 @@ parent_title: Kurt-Richter-Gedenkturnier
 <td nowrap="nowrap" style="width: 33.3333%; height: 24px;"><span style="color: #000000;">Andreas Sauermann</span></td>
 <td style="width: 33.3333%; height: 24px;"></td>
 </tr>
-<tr style="background-color: #a09699;">
+<tr>
 <td style="width: 33.3333%; height: 24px;"><span style="color: #000000;">101</span></td>
 <td nowrap="nowrap" style="width: 33.3333%; height: 24px;"><span style="color: #000000;">Christian Timm</span></td>
 <td style="width: 33.3333%; height: 24px;"><span style="color: #000000;">Königsspringer Herzberg</span></td>

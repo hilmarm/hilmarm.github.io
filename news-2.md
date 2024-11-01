@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-12996 post type-post status-publish format-standard hentry category-krt" id="post-12996">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/11/01/kurt-richter-gedenkturnier-startet/" rel="bookmark">Kurt-Richter-Gedenkturnier startet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/11/01/kurt-richter-gedenkturnier-startet/" rel="bookmark" title="10:35"><span class="entry-date">1. November 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Heute ist es wieder soweit, nach über 6 Monaten Vorbereitung startet heute unser Kurt-Richter-Gedenkturnier 2024!</p>
+<p>Nach aktuellem Stand knacken wir dieses Jahr die 100 Teilnehmer Grenze!</p>
+<p>Wer mitspielt, sollte bis 17:45 Uhr zur Anmeldung da sein! Ab 18 Uhr geht es mit der Eröffnung los!</p>
+<p>Helfer sind zum Aufbau, aber dann am Sonntag auch beim Abbau, gern gesehen! Wir sind heute ab ca. 12:30 Uhr vor Ort.</p>
+<p>Auch Besucher sind natürlich herzlich willkommen!</p>
+<p>Spielort ist das Rathaus Mitte, direkt am U-Bahnhof Schillingstraße.</p>
+<blockquote class="wp-embedded-content" data-secret="naS9S70gNU"><p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/">2024</a></p></blockquote>
+<p><iframe class="wp-embedded-content" data-secret="naS9S70gNU" frameborder="0" height="338" marginheight="0" marginwidth="0" sandbox="allow-scripts" scrolling="no" security="restricted" src="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/embed/#?secret=GxinW9iOrD#?secret=naS9S70gNU" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="„2024“ — " width="600"></iframe></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/01/kurt-richter-gedenkturnier-startet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-12996 
 <div class="post-12982 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-12982">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/" rel="bookmark">Ausbildung zum Verbandsschiedsrichter</a></h2>
 <div class="entry-meta">
@@ -486,42 +507,6 @@ Das persönlich beste Ergebnis hat <strong>Tom</strong> erzielt, er belegte am E
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/08/16/spannende-pokal-halbfinale/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12683 
-<div class="post-12654 post type-post status-publish format-standard hentry category-bfl category-bmm category-intern" id="post-12654">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/08/14/mitgliederversammlung-zur-bmm-bfl/" rel="bookmark">Mitgliederversammlung zur BMM/BFL</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/08/14/mitgliederversammlung-zur-bmm-bfl/" rel="bookmark" title="9:01"><span class="entry-date">14. August 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>– <strong>BMM 24/25</strong> mit 3 Mannschaften je 8 Spieler/in<br/>
-– Spielort wieder das RuDi und wenn möglich gemeinsame Heimspiele<br/>
-– NARVA 1 und 2 in Klasse 1<br/>
-– NARVA 3 in Klasse 3<br/>
-– Ergebnis Umfrage zu Startzeit BMM</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025.jpg"><img alt="" class="size-medium wp-image-12666 alignnone" decoding="async" height="180" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025-300x180.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025-1024x615.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025-768x461.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025-1536x923.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BMM_Startzeit2025.jpg 1653w" width="300"/></a></p>
-<p>– BMM Aufstellungsplanung und alles weitere im Mitgliederbereich<br/>
-<a href="https://www.narva-schach.de/wordpress/2024/08/10/aufstellungsplanung-bmm-2024-25/">Link (nur mit Passwort)</a></p>
-<p>– <strong>BFL 24/25</strong> stand jetzt nur 2 Teams<br/>
-– Spielort Kadiner Str. – Dienstag und Donnerstag<br/>
-– Wahrscheinlich eine Mannschaft Liga B und eine Liga C<br/>
-– auch das demnächst im Mitgliederbereich</p>
-<p><strong>Sonstiges:</strong><br/>
-– Foto und Genesungswünsche an Gunar<br/>
-– Termine für BBMM, BBEM, Spreewaldcup usw.<br/>
-– bis jetzt eine Mannschaft für BBMM, 2 Spieler für BBEM, 2 Mannschaften für Spreewald</p>
-<p>– Auswertung Umfrage zu Bedenkzeit und Startzeit für <strong>Schnellschach</strong> und <strong>Blitz</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025.jpg"><img alt="" class="size-medium wp-image-12663 alignnone" decoding="async" height="180" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025-300x180.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025-1024x615.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025-768x461.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025-1536x923.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Schnellschach_Bedenkzeit2025.jpg 1653w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025.jpg"><img alt="" class="size-medium wp-image-12664 alignnone" decoding="async" height="180" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025-300x180.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025-1024x615.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025-768x461.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025-1536x923.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_Blitz_Bedenkzeit2025.jpg 1653w" width="300"/></a></p>
-<ul>
-<li>bzgl. Bedenkzeit bleibt damit alles wie bisher</li>
-<li><strong>die Startzeit für Blitz und Schnellschach ist dann ab 2025 um 19 Uhr!</strong></li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025.jpg"><img alt="" class="size-medium wp-image-12665 alignnone" decoding="async" height="180" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025-300x180.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025-300x180.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025-1024x615.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025-768x461.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025-1536x923.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/08/Umfrage_BlitzSchnellschach_Startzeit2025.jpg 1653w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/08/14/mitgliederversammlung-zur-bmm-bfl/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12654 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
