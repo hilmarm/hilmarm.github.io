@@ -50,13 +50,8 @@ parent_title: Kurt-Richter-Gedenkturnier
 <div class="post-12528 page type-page status-publish hentry" id="post-12528">
 <h1 class="entry-title">Teilnehmerliste 2024</h1>
 <div class="entry-content">
-<h2 style="text-align: center; padding-left: 40px;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 30.10.)</span></h2>
-<p style="text-align: center;"><span style="text-decoration: underline;"><span style="font-size: 24pt;"><strong><span style="color: #ff0000; text-decoration: underline;">A N M E L D E S T O P P</span></strong></span></span></p>
-<p><strong><span style="color: #ff0000;">Teilnehmerliste ist bei 100!! Alle die jetzt in der Liste stehen (108), können auch spielen!</span></strong></p>
-<p style="text-align: center;"><span style="text-decoration: underline; font-size: 14pt;"><strong><span style="color: #ff0000; text-decoration: underline;">Bitte nicht vorab überweisen!! Bitte immer erst per Mail melden!!</span></strong></span></p>
-<p><strong>Aktuell angemeldet</strong><em> (grau = noch kein Startgeld bezahlt)</em><strong><em>:</em></strong><em><span style="color: #ff0000;"><br/>
-</span></em><br/>
-<em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
+<h2 style="text-align: center; padding-left: 40px;"><span style="font-size: 18pt;">bei</span> <a href="https://chess-results.com/tnr966814.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a> <span style="font-size: 10pt;">– (Stand 01.11.)</span></h2>
+<p><em>Rückzahlung von Startgeld bei Abmeldung <span style="text-decoration: underline;"><strong>vor</strong></span> Turnierbeginn erfolgt in der Woche nach dem Turnier. Bitte Bankverbindung mitteilen.</em></p>
 <p><strong>Stand: 30.10.2024</strong></p>
 <table class="clean swiss footable" style="width: 100%; height: 2610px;">
 <thead>
