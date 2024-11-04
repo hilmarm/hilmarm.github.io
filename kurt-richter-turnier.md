@@ -49,8 +49,7 @@ navs:
 <h1 class="entry-title">Kurt-Richter-Gedenkturnier</h1>
 <div class="entry-content">
 <h1 style="text-align: center;"><a href="https://www.azquotes.com/quote/601506" title="Kurt Richter quote"><img alt="What would Chess be without silly mistakes? - Kurt Richter" class="aligncenter" decoding="async" src="//www.azquotes.com/picture-quotes/quote-what-would-chess-be-without-silly-mistakes-kurt-richter-60-15-06.jpg" width="600"/></a><br/>
-Kurt-Richter-Gedenkturniere</h1>
-<p style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><span style="font-size: 36pt;">2024</span></a></p>
+Kurt-Richter-Gedenkturnier</h1>
 <table border="2" width="464">
 <tbody>
 <tr class="xl6717289" style="height: 14.25pt;">
@@ -249,6 +248,13 @@ Kurt-Richter-Gedenkturniere</h1>
 <td class="xl1517289"><span style="font-size: 10pt;">Bogdan Tomin</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">Schachfreunde Berlin</span></td>
 </tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">22</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/">2024</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">100</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">FM Jürgen Brustkern</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SK Zehlendorf</span></td>
+</tr>
 </tbody>
 </table>
 <h1 style="text-align: center;">Kurt-Richter-Kinderturniere</h1>
@@ -277,9 +283,9 @@ Kurt-Richter-Gedenkturniere</h1>
 </tr>
 </tbody>
 </table>
-<h2><strong>Häufigste Teilnehmer von 1981 bis 2023:</strong></h2>
-<p>1. Fitzke, Ulrich — 20 Teilnahmen<br/>
-1. Kohlmeyer, Dagobert — 20 Teilnahmen<br/>
+<h2><strong>Häufigste Teilnehmer von 1981 bis 2024:</strong></h2>
+<p>1. Fitzke, Ulrich — 21 Teilnahmen<br/>
+1. Kohlmeyer, Dagobert — 21 Teilnahmen<br/>
 3. Noak, Uwe — 14 Teilnahmen</p>
 <h2><strong>Wer war Kurt Richter?</strong></h2>
 <p><img alt="dscf0939_kurt_richter" class="alignnone wp-image-736 size-full" decoding="async" height="202" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0939_kurt_richter.jpg" width="200"/></p>

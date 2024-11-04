@@ -107,6 +107,14 @@ navs:
 </tr>
 <tr>
 <td>10.</td>
+<td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
+<td></td>
+<td>1876</td>
+<td>76</td>
+<td>1937</td>
+</tr>
+<tr>
+<td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10084564.html" target="_blank"> Peter Hintze</a></td>
 <td></td>
 <td>1872</td>
@@ -114,20 +122,12 @@ navs:
 <td>2081</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10124735.html" target="_blank"> Frank Laskowski</a></td>
 <td></td>
 <td>1870</td>
 <td>41</td>
 <td></td>
-</tr>
-<tr>
-<td>12.</td>
-<td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
-<td></td>
-<td>1869</td>
-<td>75</td>
-<td>1937</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -149,17 +149,17 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
 <td></td>
-<td>1764</td>
-<td>10</td>
+<td>1788</td>
+<td>11</td>
 <td>1842</td>
 </tr>
 <tr>
 <td>16.</td>
-<td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
+<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1753</td>
-<td>62</td>
-<td>1769</td>
+<td>1758</td>
+<td>74</td>
+<td>1838</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -171,19 +171,19 @@ navs:
 </tr>
 <tr>
 <td>18.</td>
+<td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
+<td></td>
+<td>1752</td>
+<td>63</td>
+<td>1769</td>
+</tr>
+<tr>
+<td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
 <td>1731</td>
 <td>50</td>
 <td>1878</td>
-</tr>
-<tr>
-<td>19.</td>
-<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
-<td></td>
-<td>1729</td>
-<td>73</td>
-<td>1838</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -213,8 +213,8 @@ navs:
 <td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10083814.html" target="_blank"> Katrin Hildebrand</a></td>
 <td></td>
-<td>1649</td>
-<td>64</td>
+<td>1654</td>
+<td>65</td>
 <td>0</td>
 </tr>
 <tr>
@@ -275,6 +275,14 @@ navs:
 </tr>
 <tr>
 <td>31.</td>
+<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
+<td></td>
+<td>1499</td>
+<td>22</td>
+<td>1702</td>
+</tr>
+<tr>
+<td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1487</td>
@@ -282,28 +290,20 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>32.</td>
-<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
+<td>33.</td>
+<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
-<td>1476</td>
-<td>21</td>
-<td>1702</td>
+<td>1468</td>
+<td>8</td>
+<td>1691</td>
 </tr>
 <tr>
-<td>33.</td>
+<td>34.</td>
 <td><a href="http://www.schachbund.de/spieler/10110847.html" target="_blank"> Ingo König</a></td>
 <td></td>
 <td>1464</td>
 <td>5</td>
 <td></td>
-</tr>
-<tr>
-<td>34.</td>
-<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
-<td></td>
-<td>1442</td>
-<td>7</td>
-<td>1691</td>
 </tr>
 <tr>
 <td>35.</td>
@@ -357,8 +357,8 @@ navs:
 <td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
-<td>1247</td>
-<td>14</td>
+<td>1257</td>
+<td>15</td>
 <td></td>
 </tr>
 <tr>
