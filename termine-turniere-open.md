@@ -28,16 +28,6 @@ parent_title: Termine
 <td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2024-2/"><strong>Kurt-Richter-Gedenkturnier 2024</strong></a></td>
-<td>01.11.-03.11.2024</td>
-<td>mehrere</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="http://www.falkenseer-open.de/" rel="noopener" target="_blank">XV. Falkenseer Open</a></td>
-<td>01.11.-03.11.2024</td>
-<td>Jens</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.schachverein-erftstadt.de/turniere/broetchenturnier" rel="noopener" target="_blank">Brötchenturnier 2024</a></td>
 <td>08.11.2024</td>
 <td>Günter, Lasko, Rouven, Thomas</td>
@@ -45,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://schachinfredersdorf.de/?page_id=3168" rel="noopener" target="_blank">Fredersdorfer Weihnachtsblitzschachturnier</a></td>
 <td>14.12.2024</td>
-<td>aktuell mit: Günter, Rudolf, Bernd</td>
+<td>aktuell mit: Günter, Rudolf, Bernd, Peter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.zitaschach.de/weihnachts-festival-2024/" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a></td>
@@ -56,6 +46,22 @@ parent_title: Termine
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>03.01.-05.01.2025</td>
 <td>Michael W.,  Jan-Hendrik</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://neujahr.berlinschach.de/" rel="noopener" target="_blank">5. Berlin Mitte Neujahrs – Schachfestival</a><br/>
+Neujahrs-Open<br/>
+Schnellschach-Open<br/>
+Blitzschach-Open</td>
+<td>03.01.-12.01.2025<br/>
+03.01.-10.01.25<br/>
+11.01.25<br/>
+12.01.25</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/10/OBSenEM_2025_Ausschreibung.pdf" rel="noopener" target="_blank">41. offene Berliner Senioren-Einzelmeisterschaft</a></td>
+<td>04.02.-13.02.2025</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
