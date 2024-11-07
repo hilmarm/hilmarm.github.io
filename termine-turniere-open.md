@@ -59,14 +59,14 @@ Blitzschach-Open</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/files/bsv/images/2024/10/OBSenEM_2025_Ausschreibung.pdf" rel="noopener" target="_blank">41. offene Berliner Senioren-Einzelmeisterschaft</a></td>
+<td><a href="https://www.berlinerschachverband.de/entry/41-offene-berliner-senioren-einzelmeisterschaft.html" rel="noopener" target="_blank">41. offene Berliner Senioren-Einzelmeisterschaft</a></td>
 <td>04.02.-13.02.2025</td>
-<td></td>
+<td>Hans-Dieter, Ekkehard, Gerhard, Ulrich</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>04.04.-06.04.2025</td>
-<td>Rudolf, Thomas</td>
+<td>Rudolf, Thomas, Ekkehard, Lukas</td>
 </tr>
 </tbody>
 </table>
