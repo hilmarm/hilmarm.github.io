@@ -109,7 +109,7 @@ navs:
 <td>10.</td>
 <td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
 <td></td>
-<td>1876</td>
+<td>1883</td>
 <td>76</td>
 <td>1937</td>
 </tr>

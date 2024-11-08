@@ -49,7 +49,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/05/kurt-richter-gedenkturnier-2024/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/05/kurt-richter-gedenkturnier-2024/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13053 
 <div class="post-13045 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13045">
