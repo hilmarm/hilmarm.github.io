@@ -28,11 +28,6 @@ parent_title: Termine
 <td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.schachverein-erftstadt.de/turniere/broetchenturnier" rel="noopener" target="_blank">Brötchenturnier 2024</a></td>
-<td>08.11.2024</td>
-<td>Günter, Lasko, Rouven, Thomas</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://schachinfredersdorf.de/?page_id=3168" rel="noopener" target="_blank">Fredersdorfer Weihnachtsblitzschachturnier</a></td>
 <td>14.12.2024</td>
 <td>aktuell mit: Günter, Rudolf, Bernd, Peter</td>
