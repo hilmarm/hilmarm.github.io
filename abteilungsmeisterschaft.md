@@ -415,7 +415,7 @@ parent_title: Turniere
 <td>2</td>
 <td>Hintze,Peter</td>
 <td>(4½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -439,7 +439,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Schenk,Jonatan</td>
 <td>(3½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
