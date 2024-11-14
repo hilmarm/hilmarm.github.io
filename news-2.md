@@ -47,7 +47,7 @@ Lasko: 9 aus 14</p>
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/12/broetchenblitz-erftstadt/#comments">Ein Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/12/broetchenblitz-erftstadt/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13122 
 <div class="post-13053 post type-post status-publish format-standard hentry category-krt" id="post-13053">

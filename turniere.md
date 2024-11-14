@@ -6,8 +6,9 @@ navs:
   Pokal: pokal
   Blitz: blitz
   Schnellschach: schnellschach
-  Kleeblatt-Turnier: kleeblatt-turnier-2024
+  Kleeblatt-Turnier 2024: kleeblatt-turnier-2024
   Kleeblatt-Turnier 2022: kleeblatt-turnier-2022
+  Kleeblatt-Turnier 2024: kleeblatt-turnier-2024
   Training: training
   Ergebnisse melden: ergebnisse-melden
   Online Schach: online-chessmail-de
@@ -23,8 +24,7 @@ navs:
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/12/Schnellschachmeisterschaft-2024.pdf">Schnellschachmeisterschaft 2024</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h1>Beitragsordnung / Beitrittsformular / Satzung / FIDE Regeln</h1>
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/02/Beitragsordnung-2019.pdf" rel="noopener" target="_blank">Beitragsordnung</a> als PDF</p>
-<p>ab 01.01.2025 gilt dann die neue Beitragsordnung: <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Beitragsordnung-2025.pdf" rel="noopener" target="_blank">Beitragsordnung_2025</a></p>
+<p>ab 01.01.2025 gilt die neue Beitragsordnung: <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Beitragsordnung-2025.pdf" rel="noopener" target="_blank">Beitragsordnung_2025</a></p>
 <p><strong>Beitragssätze ab 01.01.2025:</strong><br/>
 Stufe I Erwachsene 9,00 € / Monat = 108,00 € / Jahr<br/>
 Stufe II Ermäßigt 5,50 € / Monat = 66,00 € / Jahr</p>
