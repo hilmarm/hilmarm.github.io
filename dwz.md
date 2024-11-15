@@ -93,8 +93,8 @@ navs:
 <td>8.</td>
 <td><a href="http://www.schachbund.de/spieler/10163013.html" target="_blank"> Hilmar Petzold</a></td>
 <td></td>
-<td>1924</td>
-<td>129</td>
+<td>1903</td>
+<td>130</td>
 <td>2084</td>
 </tr>
 <tr>
@@ -221,8 +221,8 @@ navs:
 <td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1610</td>
-<td>109</td>
+<td>1621</td>
+<td>110</td>
 <td>1829</td>
 </tr>
 <tr>
@@ -285,8 +285,8 @@ navs:
 <td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
-<td>1487</td>
-<td>43</td>
+<td>1480</td>
+<td>44</td>
 <td></td>
 </tr>
 <tr>
