@@ -261,7 +261,7 @@ navs:
 <td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
 <td></td>
-<td>1521</td>
+<td>1526</td>
 <td>19</td>
 <td>1843</td>
 </tr>
