@@ -512,7 +512,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Horst,Juri</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://bsg-eckbauer.de/berichte/open2024/open2024.php" rel="noopener" target="_blank">Eckbauer Open 2024</a></td>
-<td>07.10.-18.11.2024</td>
-<td>Torsten</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://schachinfredersdorf.de/?page_id=3168" rel="noopener" target="_blank">Fredersdorfer Weihnachtsblitzschachturnier</a></td>
 <td>14.12.2024</td>
 <td>aktuell mit: Günter, Rudolf, Bernd, Peter, Tomas, Rouven, Klaus? Jonatan?</td>
