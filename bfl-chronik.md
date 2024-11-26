@@ -67,6 +67,15 @@ parent_title: Chronik
 </thead>
 <tbody>
 <tr>
+<td>2025</td>
+<td>Staffel B</td>
+<td></td>
+<td>Staffel D</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>2024</td>
 <td>Staffel A</td>
 <td>7.</td>
