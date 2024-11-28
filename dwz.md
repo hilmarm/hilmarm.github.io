@@ -67,19 +67,19 @@ navs:
 </tr>
 <tr>
 <td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1968</td>
-<td>479</td>
-<td>2006</td>
-</tr>
-<tr>
-<td>6.</td>
 <td><a href="http://www.schachbund.de/spieler/10611609.html" target="_blank"> Norbert Harmanus</a></td>
 <td></td>
 <td>1962</td>
 <td>14</td>
 <td>1938</td>
+</tr>
+<tr>
+<td>6.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1956</td>
+<td>480</td>
+<td>2006</td>
 </tr>
 <tr>
 <td>7.</td>
