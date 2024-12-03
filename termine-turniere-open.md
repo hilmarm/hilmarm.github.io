@@ -48,7 +48,7 @@ Blitzschach-Open</td>
 12.01.25</td>
 <td>_<br/>
 Torsten<br/>
-Bernd<br/>
+Bernd, Klaus<br/>
 _</td>
 </tr>
 <tr style="height: 24px;">

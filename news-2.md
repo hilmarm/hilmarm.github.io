@@ -29,6 +29,25 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/22/einladung-zur-weihnachtsfeier-4/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13174 
+<div class="post-13197 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13197">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/12/03/finale-im-monatsblitz-2/" rel="bookmark">Finale im Monatsblitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/12/03/finale-im-monatsblitz-2/" rel="bookmark" title="8:08"><span class="entry-date">3. Dezember 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag gab es die finale Runde im <strong>Monatsblitz 2024</strong>. Dabei ging es nur noch um Platz 3 der Gesamtwertung, aber auch das wurde sehr spannend. Die beiden Spitzenreiter glänzten durch Abwesenheit, dafür war mit Sven ein Favorit aus dem Norden zu Besuch.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193025.jpg"><img alt="" class="alignright size-thumbnail wp-image-13196" decoding="async" height="150" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193025-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193025-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193025-144x144.jpg 144w" width="150"/></a></p>
+<p><strong>Sven</strong> machte an der Spitze die Sache dann auch deutlich und gewann mit 100% und 13 Punkten aus 13 Partien. Dahinter liefen die Kandidaten für Gesamt-Platz 3 ein. <strong>Philipp</strong> wurde starker Zweiter mit 10,5 Punkten, <strong>Ekkehard</strong> Dritter mit 10 Punkten, <strong>Jonatan</strong> kam auf Platz 4 mit 9 Punkten und <strong>ich</strong> auf Platz 5 mit 8 Punkten.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193015-scaled.jpg"><img alt="" class="alignleft size-thumbnail wp-image-13195" decoding="async" height="150" loading="lazy" sizes="(max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193015-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193015-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241128_193015-144x144.jpg 144w" width="150"/></a>So wurde Jonatan noch von 3.Platz verdrängt, Ekkehard und Philipp zogen um je einen Punkt vorbei und kommen beide auf 36 Punkte. Damit zählen (wie auch schon beim Schnellschach) die Partien gegeneinander und hier liegt Ekkehard knapp mit 3:2 vorne.</p>
+<p>Nächstes Jahr dann Blitz und Schnellschach immer ab 19 Uhr.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/12/03/finale-im-monatsblitz-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13197 
 <div class="post-13182 post type-post status-publish format-standard hentry category-bfl" id="post-13182">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/11/29/bfl-laeuft-auch/" rel="bookmark">BFL läuft auch…</a></h2>
 <div class="entry-meta">
@@ -37,7 +56,7 @@ navs:
 <p>Letzte Woche gab es auch die Fortsetzung der <strong>BFL</strong>.<br/>
 Für NARVA 1 war es Runde 3 (Runde 1 wird nachgeholt, Runde 2 war spielfrei) gegen die SF Berlin 1903 4. Für NARVA 2 war es Runde 2 gegen SC Kreuzberg 4.</p>
 <p><strong>NARVA 1</strong> gewinnt <strong>2½:1½</strong>!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024.jpg"><img alt="" class="aligncenter size-full wp-image-13184" decoding="async" height="163" sizes="(max-width: 626px) 100vw, 626px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024.jpg 626w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024-300x78.jpg 300w" width="626"/></a><br/>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024.jpg"><img alt="" class="aligncenter size-full wp-image-13184" decoding="async" height="163" loading="lazy" sizes="(max-width: 626px) 100vw, 626px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024.jpg 626w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024-300x78.jpg 300w" width="626"/></a><br/>
 <strong>NARVA 2</strong> verliert auch das zweite Spiel, dieses mal mit <strong>1½:2½</strong>.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024m2.jpg"><img alt="" class="aligncenter size-full wp-image-13183" decoding="async" height="162" loading="lazy" sizes="(max-width: 598px) 100vw, 598px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024m2.jpg 598w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/11/bflr32024m2-300x81.jpg 300w" width="598"/></a></p>
 </div><!-- .entry-content -->
@@ -518,25 +537,6 @@ Leider war der Springer bei der Verteidigung gebunden, als Angriffsfigur wäre e
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/30/bmm-runde-1-narva-vs-rotation/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12815 
-<div class="post-12802 post type-post status-publish format-standard hentry category-interne-turniere" id="post-12802">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/" rel="bookmark">Blitz und Abteilungsmeisterschaft</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/" rel="bookmark" title="23:47"><span class="entry-date">26. September 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Das heutige Blitzturnier gewann <strong>Peter</strong> vor Tomas und Thomas. In der Jahreswertung ist Peter damit noch nicht ganz durch, aber Tomas müsste die Turniere in Oktober und November beide gewinnen, um noch mit Peter gleichzuziehen.</p>
-<p>Außerdem fanden heute noch drei Partien der Abteilungsmeisterschaft statt. Dabei gab es drei Schwarzsiege von <strong>Ekkehard</strong> (gegen Ulrich), <strong>Michael H.</strong> (gegen Torsten) und <strong>Manfred</strong> (gegen Ismaele). Anschließend wurde die letzte Runde ausgelost. Die Paarungen sind wie immer auf der Turnierseite zu finden.</p>
-<p>Im Spitzenspiel kämpfen in der letzten Runde Jerry und Dieter (beide 5 Punkte) um den Turniersieg. Bei einem Remis könnten Peter und Hilmar (beide 4,5) noch vorbeiziehen. Für Maxim, Ekkehard (beide 4) und den Sieger der noch nachzuholenden Partie Oliver gegen Alexander (beide momentan 3 Punkte) könnte ebenfalls noch ein Platz auf dem Treppchen drin sein.</p>
-<p>Um den Ratingpreis U1600 geht neben Maxim, Oliver und Alexander auch für Thomas und Wesko (beide 3,5). Theoretische Chancen könnte auch Michael W. (3) noch haben.</p>
-<p>Ansonsten ist Michael wohl momentan der Favorit auf den Ratingpreis U1300. Seine Konkurrenten sind Wolfgang (2) sowie Jan (1,5), falls er das Nachholspiel gegen Philipp nicht verliert.</p>
-<p>Es wird also noch einmal spannend. Denkt bitte daran, eure Partien ggf. <strong>rechtzeitig</strong> zu verlegen und zwar vorzuspielen! Es geht in vielen Partien noch um Preise, und da hätte ich ggf. Bedenken, ein Nachspielen zu genehmigen.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/09/26/blitz-und-abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12802 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
