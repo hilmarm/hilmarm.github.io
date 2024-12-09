@@ -25,7 +25,12 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://schachinfredersdorf.de/?page_id=3168" rel="noopener" target="_blank">Fredersdorfer Weihnachtsblitzschachturnier</a></td>
 <td>14.12.2024</td>
-<td>aktuell mit: Günter, Rudolf, Bernd, Peter, Tomas, Rouven, Klaus? Jonatan?</td>
+<td>aktuell mit: Günter, Rudolf, Bernd, Peter, Tomas</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
+<td>20.12.-22.12.2024</td>
+<td>Jonatan</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.zitaschach.de/weihnachts-festival-2024/" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a></td>
@@ -48,8 +53,8 @@ Blitzschach-Open</td>
 12.01.25</td>
 <td>_<br/>
 Torsten<br/>
-Bernd, Klaus<br/>
-_</td>
+Bernd, Mert, Klaus<br/>
+Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/41-offene-berliner-senioren-einzelmeisterschaft.html" rel="noopener" target="_blank">41. offene Berliner Senioren-Einzelmeisterschaft</a></td>
