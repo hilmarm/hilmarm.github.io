@@ -51,6 +51,7 @@ navs:
 <div class="post-177 page type-page status-publish hentry" id="post-177">
 <h1 class="entry-title">Chronik</h1>
 <div class="entry-content">
+<p> </p>
 <table border="2" class="clean bmmarchiv">
 <thead>
 <tr>
@@ -456,7 +457,7 @@ navs:
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
-<td nowrap="nowrap"></td>
+<td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
 </tr>
 </thead>
 </table>
