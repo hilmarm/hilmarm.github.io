@@ -7,7 +7,7 @@ navs:
 <h2 class="entry-title">Willkommen!</h2>
 <div class="entry-content">
 <p> </p>
-<div class="wp-caption aligncenter" id="attachment_13187" style="width: 510px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241205_aufgabe.jpg"><img alt="" aria-describedby="caption-attachment-13187" class="wp-image-13187" decoding="async" height="500" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/20241205_aufgabe.jpg" width="500"/></a><p class="wp-caption-text" id="caption-attachment-13187"><strong>2. Advent:</strong><br/><strong>Weiß am Zug – Matt in 2!</strong></p></div>
+<div class="wp-caption aligncenter" id="attachment_13187" style="width: 510px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Screenshot_20241215_105524_Chrome.jpg"><img alt="" aria-describedby="caption-attachment-13187" class="wp-image-13187" decoding="async" height="500" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Screenshot_20241215_105524_Chrome.jpg" width="500"/></a><p class="wp-caption-text" id="caption-attachment-13187"><strong>3. Advent:</strong><br/><strong>Weiß am Zug – Matt in 1! – es gibt nur einen letzten Zug den Schwarz gemacht haben kann</strong></p></div>
 <p><span style="color: #000000;"><span style="font-family: AR ESSENCE,serif;"><span style="font-size: x-large;">Du suchst einen Verein?<br/>
 Oder du hast Lust unsere Jugend zu trainieren?<br/>
 Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend setzt!</span></span></span></p>
