@@ -80,6 +80,26 @@ Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/12/13/jahresabschluss-2024/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13212 
+<div class="post-13263 post type-post status-publish format-standard hentry category-dwz category-interne-turniere" id="post-13263">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/12/12/abteilungsmeisterschaft-ausgewertet/" rel="bookmark">Abteilungsmeisterschaft ausgewertet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/12/12/abteilungsmeisterschaft-ausgewertet/" rel="bookmark" title="7:23"><span class="entry-date">12. Dezember 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Inzwischen ist die <strong>Abteilungsmeisterschaft</strong> nicht nur beendet, sondern auch <strong>DWZ</strong>-ausgewertet! Dabei haben wir 3 Spieler die ihre erste DWZ bekommen haben und einige mit größeren Steigerungen.</p>
+<p><strong>Maxim</strong> hat nicht nur den Rating U1600 Preis gewonnen (er wurde mit 1500 im Turnier eingestuft), er hat auch damit eine Erst-DWZ von <strong>1545</strong> bekommen!</p>
+<p><strong>Juri</strong> hat nun auch genug Partien für eine DWZ zusammen und steigt mit <strong>1333</strong> ein!</p>
+<p>Für <strong>Ismaele</strong> war es insgesamt sein erstes Turnier und er hat nun <strong>1142</strong>.</p>
+<p>Größter Gewinner ist <strong>Jan-Hendrik</strong> mit einem Plus von 144 Punkten auf jetzt <strong>1199</strong>! Der andere Ratingpreis Gewinner (U1300) war <strong>Michael W.</strong> und auch er legt stark zu. Mit einer DWZ-Leistung von 1807 macht er + 89 und hat nun <strong>1354</strong>! <strong>Wolfgang</strong> legt bei seiner zweiten Auswertung auch gut zu und gewinnt 83 Punkte! Auch <strong>Oliver</strong> mit +71 macht einen großen Sprung über die 1500 auf jetzt <strong>1539</strong>! <strong>Hans-Dieter</strong> als Abteilungsmeister knackt die 1800er Marke und hat nun <strong>1803</strong>!</p>
+<p>Über die Verluste schweigen wir mal….</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/DWZ_Abt24.jpg"><img alt="" class="aligncenter size-full wp-image-13242" decoding="async" height="855" loading="lazy" sizes="(max-width: 709px) 100vw, 709px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/DWZ_Abt24.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/DWZ_Abt24.jpg 709w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/DWZ_Abt24-249x300.jpg 249w" width="709"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a>, <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/12/12/abteilungsmeisterschaft-ausgewertet/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13263 
 <div class="post-13197 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13197">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/12/03/finale-im-monatsblitz-2/" rel="bookmark">Finale im Monatsblitz</a></h2>
 <div class="entry-meta">
@@ -531,25 +551,6 @@ Das Simultan gewinnt Michael mit <strong>11:1</strong>. <strong>Katrin</strong> 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12903 
-<div class="post-12853 post type-post status-publish format-standard hentry category-bfl" id="post-12853">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/04/auch-bfl-startet-in-die-neue-saison/" rel="bookmark">Auch BFL startet in die neue Saison</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/04/auch-bfl-startet-in-die-neue-saison/" rel="bookmark" title="14:32"><span class="entry-date">4. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auch die <strong>BFL</strong> ist nun in die neue Saison 24/25 gestartet. Nach einigen hin und her bei der Auslosung, gibt es nun sogar 4 Gruppen – A, B, C und D.</p>
-<p>Die beiden NARVA Teams sind verteilt auf <strong>Staffel B</strong> und <strong>D</strong>.</p>
-<p>Die 1. Runde läuft eigentlich schon diese Woche. Aufgrund von Terminproblemen wurde aber der Kampf <strong>Zitadelle 1</strong> vs. <strong>NARVA 1</strong> verschoben. <strong>NARVA 2</strong> muss am Mittwoch 16.10. auswärts bei den <strong>Schachfreunden 6</strong> ran.</p>
-<p>Die <a href="https://www.narva-schach.de/wordpress/termine/bfl-termine/">Terminseite</a> mit den genauen Ansetzung werde ich noch aktualisieren, ihr findet aber auch alles <a href="https://www.berlinerschachverband.de/berliner-feierabendliga-2024-2025.html" rel="noopener" target="_blank">hier auf der Turnierseite</a>.</p>
-<div class="wp-caption alignleft" id="attachment_12855" style="width: 300px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva1.jpg"><img alt="" aria-describedby="caption-attachment-12855" class="wp-image-12855" decoding="async" height="437" loading="lazy" sizes="(max-width: 290px) 100vw, 290px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva1-199x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva1-199x300.jpg 199w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva1.jpg 547w" width="290"/></a><p class="wp-caption-text" id="caption-attachment-12855">Staffel B mit NARVA 1</p></div>
-<div class="wp-caption alignright" id="attachment_12854" style="width: 260px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva2.jpg"><img alt="" aria-describedby="caption-attachment-12854" class="wp-image-12854" decoding="async" height="258" loading="lazy" sizes="(max-width: 250px) 100vw, 250px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva2-290x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva2-290x300.jpg 290w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/bfl2425narva2.jpg 607w" width="250"/></a><p class="wp-caption-text" id="caption-attachment-12854">Staffel D mit NARVA 2</p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/04/auch-bfl-startet-in-die-neue-saison/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12853 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
