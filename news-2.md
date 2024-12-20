@@ -8,6 +8,54 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-13274 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13274">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/12/19/interne-turniere-2025/" rel="bookmark">Interne Turniere 2025</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/12/19/interne-turniere-2025/" rel="bookmark" title="13:31"><span class="entry-date">19. Dezember 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Die Ausschreibungen der internen Turniere 2025 sind nun online:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Abteilungsmeisterschaft-2025.pdf">Abteilungsmeisterschaft 2025</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Blitzschach-2025.pdf">Blitzschach 2025</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Schnellschachmeisterschaft-2025.pdf">Schnellschachmeisterschaft 2025</a></p>
+<p>Für <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a> und <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a> gibt es auch schon Turnierseiten. Dort findet ihr den aktuellen Anmeldestand.</p>
+<p>Anmeldungen sind noch bis zum 9. Januar möglich und zwar per Mail, über das untenstehende Formular oder persönlich bei Klaus, Thomas oder mir.</p>
+<p>Bei der Abteilungsmeisterschaft können theoretisch auch Nichtmitglieder zugelassen werden, aufgrund der zuletzt gestiegenen Teilnehmerzahlen und dem begrenzten Platz im Spiellokal ist aber davon auszugehen, dass maximal ein Nichtmitglied (bei ansonsten ungerader Teilnehmerzahl) mitspielen kann. Interessierte Nichtmitglieder melden sich am besten persönlich im Club, alternativ per Mail.</p>
+<p>Der Pokal ist auch weiterhin ausschließlich Mitgliedern vorbehalten.</p>
+<p>Für Schnellschach und Blitz ist wie gehabt keine Voranmeldung erforderlich. Es reicht die (rechtzeitige!) Anmeldung am jeweiligen Spieltag.</p>
+<h3>Anmeldeformular</h3>
+<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f9811-p13274-o1" lang="de-DE">
+<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
+<form action="/wordpress/news-2/#wpcf7-f9811-p13274-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
+<div style="display: none;">
+<input name="_wpcf7" type="hidden" value="9811"/>
+<input name="_wpcf7_version" type="hidden" value="5.9.8"/>
+<input name="_wpcf7_locale" type="hidden" value="de_DE"/>
+<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p13274-o1"/>
+<input name="_wpcf7_container_post" type="hidden" value="13274"/>
+<input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+</div>
+<p><label> Dein Name<br/>
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" maxlength="400" name="your-name" size="40" type="text" value=""/></span> </label>
+</p>
+<p>Abteilungsmeisterschaft: <span class="wpcf7-form-control-wrap" data-name="Abteilung"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input name="Abteilung" type="radio" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Abteilung" type="radio" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
+Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input name="Pokal" type="radio" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Pokal" type="radio" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span>
+</p>
+<p><label> Kommentar<br/>
+<span class="wpcf7-form-control-wrap" data-name="Kommentar"><input aria-invalid="false" class="wpcf7-form-control wpcf7-text" maxlength="400" name="Kommentar" size="40" type="text" value=""/></span> </label>
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden"/>
+</p><div aria-hidden="true" class="wpcf7-response-output"></div>
+</form>
+</div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/12/19/interne-turniere-2025/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13274 
 <div class="post-13255 post type-post status-publish format-standard hentry category-openberichte" id="post-13255">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/12/17/weihnachtsblitz-in-fredersdorf-2/" rel="bookmark">Weihnachtsblitz in Fredersdorf</a></h2>
 <div class="entry-meta">
@@ -48,22 +96,25 @@ navs:
 <p>Alle Tabellen folgen.</p>
 <p>Die Anmeldung zu den internen Turnieren 2025 ist auch schon gestartet, bei Jonatan direkt, oder hier</p>
 <p>
-<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f9811-p13212-o1" lang="de-DE">
+<div class="wpcf7 no-js" dir="ltr" id="wpcf7-f9811-p13212-o2" lang="de-DE">
 <div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
-<form action="/wordpress/news-2/#wpcf7-f9811-p13212-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
+<form action="/wordpress/news-2/#wpcf7-f9811-p13212-o2" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
 <div style="display: none;">
 <input name="_wpcf7" type="hidden" value="9811"/>
 <input name="_wpcf7_version" type="hidden" value="5.9.8"/>
 <input name="_wpcf7_locale" type="hidden" value="de_DE"/>
-<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p13212-o1"/>
+<input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p13212-o2"/>
 <input name="_wpcf7_container_post" type="hidden" value="13212"/>
 <input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
 </div>
 <p><label> Dein Name<br/>
 <span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" maxlength="400" name="your-name" size="40" type="text" value=""/></span> </label>
 </p>
-<p>Abteilungsmeisterschaft: <span class="wpcf7-form-control-wrap" data-name="Abteilung"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><label><input name="Abteilung[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Abteilung[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
-Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required"><span class="wpcf7-list-item first"><label><input name="Pokal[]" type="checkbox" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Pokal[]" type="checkbox" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span>
+<p>Abteilungsmeisterschaft: <span class="wpcf7-form-control-wrap" data-name="Abteilung"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input name="Abteilung" type="radio" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Abteilung" type="radio" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
+Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input name="Pokal" type="radio" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Pokal" type="radio" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span>
+</p>
+<p><label> Kommentar<br/>
+<span class="wpcf7-form-control-wrap" data-name="Kommentar"><input aria-invalid="false" class="wpcf7-form-control wpcf7-text" maxlength="400" name="Kommentar" size="40" type="text" value=""/></span> </label>
 </p>
 <p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden"/>
 </p><div aria-hidden="true" class="wpcf7-response-output"></div>
@@ -481,76 +532,6 @@ Schon Ende September war Peter beim Event „Frank Hoppe wurde 60 Jahre alt – 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/12/peter-gut-unterwegs/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12914 
-<div class="post-12903 post type-post status-publish format-standard hentry category-training" id="post-12903">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/" rel="bookmark">Training &amp; Simultan mit GM Michael Richter</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/" rel="bookmark" title="10:25"><span class="entry-date">11. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern gab es erst das jährliche Training mit <strong>GM Michael Richter</strong><br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-12885" decoding="async" height="300" loading="lazy" sizes="(max-width: 282px) 100vw, 282px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-282x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-282x300.jpg 282w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-962x1024.jpg 962w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-768x817.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-1443x1536.jpg 1443w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_195309-1924x2048.jpg 1924w" width="282"/></a></p>
-<p>Danach gab es auf Wunsch von Michael ein Simultan Turnier. Bedenkzeit 30min, freie Farbwahl.<br/>
-Das Simultan gewinnt Michael mit <strong>11:1</strong>. <strong>Katrin</strong> und <strong>Tom</strong> erreichen zumindest jeweils ein Remis!</p>
-<table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr>
-<td style="width: 50%;">Oliver</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Michael W</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Johannes</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Katrin</td>
-<td style="width: 50%;">½</td>
-</tr>
-<tr>
-<td style="width: 50%;">Alexander</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Jonatan</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Jan-Hendrik</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Tom</td>
-<td style="width: 50%;">½</td>
-</tr>
-<tr>
-<td style="width: 50%;">Jens</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Wolfgang</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Philipp</td>
-<td style="width: 50%;">0</td>
-</tr>
-<tr>
-<td style="width: 50%;">Gerhard</td>
-<td style="width: 50%;">0</td>
-</tr>
-</tbody>
-</table>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-scaled.jpg"><img alt="" class="size-medium wp-image-12886 alignnone" decoding="async" height="286" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-300x286.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-300x286.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-1024x976.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-768x732.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-1536x1464.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202453-2048x1952.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-scaled.jpg"><img alt="" class="size-medium wp-image-12887 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202458-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-scaled.jpg"><img alt="" class="size-medium wp-image-12888 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202529-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-scaled.jpg"><img alt="" class="size-medium wp-image-12889 alignright" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202642-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-scaled.jpg"><img alt="" class="size-medium wp-image-12890 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202715-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-scaled.jpg"><img alt="" class="size-medium wp-image-12891 alignright" decoding="async" height="261" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-300x261.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-300x261.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-1024x892.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-768x669.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-1536x1338.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_202720-2048x1784.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-scaled.jpg"><img alt="" class="size-medium wp-image-12892 alignnone" decoding="async" height="300" loading="lazy" sizes="(max-width: 280px) 100vw, 280px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-280x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-280x300.jpg 280w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-957x1024.jpg 957w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-768x822.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-1435x1536.jpg 1435w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203056-1914x2048.jpg 1914w" width="280"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-scaled.jpg"><img alt="" class="size-medium wp-image-12893 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203100-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-scaled.jpg"><img alt="" class="size-medium wp-image-12894 alignright" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203146-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-scaled.jpg"><img alt="" class="size-medium wp-image-12895 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204236-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-scaled.jpg"><img alt="" class="size-medium wp-image-12896 alignright" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_203326-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-scaled.jpg"><img alt="" class="size-medium wp-image-12897 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204241-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-scaled.jpg"><img alt="" class="size-medium wp-image-12898 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204255-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-scaled.jpg"><img alt="" class="size-medium wp-image-12899 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204248-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-scaled.jpg"><img alt="" class="size-medium wp-image-12900 alignright" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_204511-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-scaled.jpg"><img alt="" class="size-medium wp-image-12901 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_205242-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-scaled.jpg"><img alt="" class="size-medium wp-image-12902 alignright" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/20241010_210948-2048x1536.jpg 2048w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/11/training-simultan-mit-gm-michael-richter/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12903 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
