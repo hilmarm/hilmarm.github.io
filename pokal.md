@@ -38,6 +38,8 @@ parent_title: Turniere
 <li>Pape</li>
 <li>Dr. Heinrich</li>
 <li>Kinski</li>
+<li>W. Heinrich</li>
+<li>Özates</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
