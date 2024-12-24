@@ -48,8 +48,8 @@ Blitzschach-Open</td>
 12.01.25</td>
 <td>_<br/>
 Torsten<br/>
-Bernd, Mert, Klaus<br/>
-Mert</td>
+Bernd, Batu, Mert, Klaus<br/>
+Batu, Mert, Günter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/41-offene-berliner-senioren-einzelmeisterschaft.html" rel="noopener" target="_blank">41. offene Berliner Senioren-Einzelmeisterschaft</a></td>
