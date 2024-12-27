@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-13274 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13274">
+<div class="post-13274 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-13274">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/12/19/interne-turniere-2025/" rel="bookmark">Interne Turniere 2025</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/12/19/interne-turniere-2025/" rel="bookmark" title="13:31"><span class="entry-date">19. Dezember 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
