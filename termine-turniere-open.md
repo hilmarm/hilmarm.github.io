@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
-<td>20.12.-22.12.2024</td>
-<td>Jonatan</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.zitaschach.de/weihnachts-festival-2024/" rel="noopener" target="_blank">Spandauer Weihnachtsopen</a></td>
-<td>27.12.-30.12.2024</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>03.01.-05.01.2025</td>
 <td>Oliver, Mert, Michael W.,  Jan-Hendrik</td>

@@ -481,6 +481,14 @@ navs:
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>57.</td>
+<td><a href="http://www.schachbund.de/spieler/10889223.html" target="_blank"> Konstiantyn Honcharov</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>0</td>
+</tr>
 </table>
 </div><!-- .entry-content -->
 </div> #post-42 
