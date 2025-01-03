@@ -20,268 +20,266 @@ navs:
 <th style="height: 18px;">Bemerkung</th>
 </tr>
 </thead>
-<tbody>
-<tr style="height: 48px;">
-<td style="height: 48px;">04.01.24</td>
-<td style="height: 48px;"></td>
-<td style="height: 48px;">DSAM Potsdam, Berlin-Mitte-Open</td>
+<tr>
+<td>02.01.25</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">11.01.24</td>
-<td class="schnell" style="height: 24px;">Schnellschach</td>
-<td style="height: 24px;">Meldeschluss int. Turniere</td>
+<tr>
+<td>09.01.25</td>
+<td class="schnell">Schnellschach</td>
+<td>Meldeschluss int. Turniere</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">18.01.24</td>
-<td style="height: 24px;"></td>
-<td style="height: 24px;"></td>
+<tr>
+<td>16.01.25</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">25.01.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>23.01.25</td>
+<td class="bfl">BFL</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">01.02.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>30.01.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">08.02.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>06.02.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">15.02.24</td>
-<td class="pokal" style="height: 24px;">Pokal</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>13.02.25</td>
+<td class="pokal">Pokal</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">22.02.24</td>
-<td class="bfl" style="height: 24px;">BFL</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>20.02.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">29.02.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;">DSAM Magdeburg</td>
+<tr>
+<td>27.02.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">07.03.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>06.03.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">14.03.24</td>
-<td class="schnell" style="height: 24px;">Schnellschach</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>13.03.25</td>
+<td class="schnell">Schnellschach</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">21.03.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>20.03.25</td>
+<td class="bfl">BFL</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">28.03.24</td>
-<td class="versammlung" style="height: 24px;">Skat</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>27.03.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">04.04.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;">QT?</td>
+<tr>
+<td>03.04.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td>DSAM Magdeburg</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">11.04.24</td>
-<td class="versammlung" style="height: 24px;">Jahreshauptversammlung</td>
-<td style="height: 24px;">mit Wahl</td>
+<tr>
+<td>10.04.25</td>
+<td class="versammlung">Jahreshauptversammlung</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">18.04.24</td>
-<td class="pokal" style="height: 24px;">Pokal</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>17.04.25</td>
+<td class="versammlung">Skat</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">25.04.24</td>
-<td class="bfl" style="height: 24px;">BFL</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>24.04.25</td>
+<td class="blitz">Blitz</td>
+<td>QT</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">02.05.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>01.05.25</td>
+<td>geschlossen</td>
+<td>Erster Mai</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">09.05.24</td>
-<td style="height: 24px;">geschlossen</td>
-<td style="height: 24px;">Himmelfahrt</td>
+<tr>
+<td>08.05.25</td>
+<td class="schnell">Schnellschach</td>
+<td>Tag der Befreiung</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">16.05.24</td>
-<td class="schnell" style="height: 24px;">Schnellschach</td>
-<td style="height: 24px;">ausnahmsweise am 3. Donnerstag</td>
+<tr>
+<td>15.05.25</td>
+<td class="pokal">Pokal</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">23.05.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>22.05.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">30.05.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>29.05.25</td>
+<td>geschlossen</td>
+<td>Himmelfahrt</td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">06.06.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>05.06.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">13.06.24</td>
-<td class="pokal" style="height: 24px;">Pokal</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>12.06.25</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">20.06.24</td>
-<td style="height: 24px;"><span style="color: #ff0000;">BMM Saisonabschluss!!</span></td>
-<td style="height: 24px;"><span style="color: #ff0000;">im Club Kadiner Str.</span></td>
+<tr>
+<td>19.06.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">27.06.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>26.06.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">04.07.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>03.07.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">11.07.24</td>
-<td class="schnell" style="height: 24px;">Schnellschach</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>10.07.25</td>
+<td class="schnell">Schnellschach</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">18.07.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>17.07.25</td>
+<td class="pokal">Pokal</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">25.07.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>24.07.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">01.08.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>31.07.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">08.08.24</td>
-<td class="versammlung" style="height: 24px;">Mitgliederversammlung</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>07.08.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">15.08.24</td>
-<td class="pokal" style="height: 24px;">Pokal</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>14.08.25</td>
+<td class="versammlung">Mitgliederversammlung BMM/BFL</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">22.08.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>21.08.25</td>
+<td class="pokal">Pokal</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">29.08.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>28.08.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">05.09.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>04.09.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">12.09.24</td>
-<td class="schnell" style="height: 24px;">Schnellschach</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>11.09.25</td>
+<td class="schnell">Schnellschach</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">19.09.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>18.09.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">26.09.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>25.09.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">03.10.24</td>
-<td style="height: 24px;">geschlossen</td>
-<td style="height: 24px;">Tag der deutschen Einheit</td>
+<tr>
+<td>02.10.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">10.10.24</td>
-<td style="height: 24px;">Training mit GM Richter!</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>09.10.25</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">17.10.24</td>
-<td class="pokal" style="height: 24px;">Pokal</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>16.10.25</td>
+<td class="pokal">Pokal</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">24.10.24</td>
-<td class="abtm" style="height: 24px;">Abteilungsmeisterschaft</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>23.10.25</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">31.10.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>30.10.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">07.11.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>06.11.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">14.11.24</td>
-<td class="schnell" style="height: 24px;">Schnellschach</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>13.11.25</td>
+<td class="schnell">Schnellschach</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">21.11.24</td>
-<td style="height: 24px;"></td>
-<td style="height: 24px;"></td>
+<tr>
+<td>20.11.25</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">28.11.24</td>
-<td class="blitz" style="height: 24px;">Blitz</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>27.11.25</td>
+<td class="blitz">Blitz</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">05.12.24</td>
-<td class="training" style="height: 24px;">Training</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>04.12.25</td>
+<td class="training">Training</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">12.12.24</td>
-<td class="versammlung" style="height: 24px;">Weihnachtsfeier</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>11.12.25</td>
+<td class="versammlung">Weihnachtsfeier</td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">19.12.24</td>
-<td style="height: 24px;"></td>
-<td style="height: 24px;">DSAM Düsseldorf?</td>
+<tr>
+<td>18.12.25</td>
+<td> </td>
+<td> </td>
 </tr>
-<tr style="height: 24px;">
-<td style="height: 24px;">26.12.24</td>
-<td style="height: 24px;">geschlossen</td>
-<td style="height: 24px;"></td>
+<tr>
+<td>25.12.25</td>
+<td>geschlossen</td>
+<td>Weihnachten</td>
 </tr>
-</tbody>
 </table>
 </div><!-- .entry-content -->
 </div> #post-174 

@@ -38,6 +38,9 @@ parent_title: Turniere
 <li>Pape</li>
 <li>Dr. Heinrich</li>
 <li>W. Heinrich</li>
+<li>Magnusson</li>
+<li>Stüve</li>
+<li>Schenk</li>
 </ol>
 <p><script>/*<!--*/ jQuery('th:contains("Teilnehmer")').attr("data-hide","none"); jQuery('th:contains("Ergebnis")').attr("data-hide","none"); jQuery('th:contains("Tisch")').attr("data-hide","tablet,phone"); jQuery('th:contains("TNr")').attr("data-hide","tablet,phone"); jQuery('th:contains("Tite")').attr("data-hide","tablet,phone"); jQuery('th:contains("Punkte")').attr("data-hide","tablet,phone"); //--></script></p>
 </div><!-- .entry-content -->

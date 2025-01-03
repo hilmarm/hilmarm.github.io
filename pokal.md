@@ -40,6 +40,8 @@ parent_title: Turniere
 <li>Kinski</li>
 <li>W. Heinrich</li>
 <li>Özates</li>
+<li>Magnusson</li>
+<li>Stüve</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
