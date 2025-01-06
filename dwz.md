@@ -131,6 +131,14 @@ navs:
 </tr>
 <tr>
 <td>13.</td>
+<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
+<td></td>
+<td>1827</td>
+<td>12</td>
+<td>1842</td>
+</tr>
+<tr>
+<td>14.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
 <td>1813</td>
@@ -138,20 +146,12 @@ navs:
 <td>1885</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
 <td>1803</td>
 <td>104</td>
 <td>1899</td>
-</tr>
-<tr>
-<td>15.</td>
-<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
-<td></td>
-<td>1788</td>
-<td>11</td>
-<td>1842</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -243,6 +243,14 @@ navs:
 </tr>
 <tr>
 <td>27.</td>
+<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
+<td></td>
+<td>1552</td>
+<td>10</td>
+<td>1691</td>
+</tr>
+<tr>
+<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1551</td>
@@ -250,20 +258,12 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>28.</td>
+<td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td>1545</td>
 <td>1</td>
 <td></td>
-</tr>
-<tr>
-<td>29.</td>
-<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
-<td></td>
-<td>1539</td>
-<td>9</td>
-<td>1691</td>
 </tr>
 <tr>
 <td>30.</td>
@@ -331,18 +331,18 @@ navs:
 </tr>
 <tr>
 <td>38.</td>
-<td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
-<td></td>
-<td>1354</td>
-<td>11</td>
-<td>0</td>
-</tr>
-<tr>
-<td>39.</td>
 <td><a href="http://www.schachbund.de/spieler/10830173.html" target="_blank"> Juri Horst</a></td>
 <td></td>
 <td>1333</td>
 <td>1</td>
+<td>0</td>
+</tr>
+<tr>
+<td>39.</td>
+<td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
+<td></td>
+<td>1309</td>
+<td>12</td>
 <td>0</td>
 </tr>
 <tr>
@@ -387,19 +387,19 @@ navs:
 </tr>
 <tr>
 <td>45.</td>
-<td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
-<td></td>
-<td>1199</td>
-<td>3</td>
-<td>0</td>
-</tr>
-<tr>
-<td>46.</td>
 <td><a href="http://www.schachbund.de/spieler/10858491.html" target="_blank"> Ismaele Cattaneo</a></td>
 <td></td>
 <td>1142</td>
 <td>1</td>
 <td></td>
+</tr>
+<tr>
+<td>46.</td>
+<td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
+<td></td>
+<td>1140</td>
+<td>4</td>
+<td>0</td>
 </tr>
 <tr>
 <td>47.</td>

@@ -6,8 +6,7 @@ navs:
 <div class="post-38 page type-page status-publish hentry" id="post-38">
 <h2 class="entry-title">Willkommen!</h2>
 <div class="entry-content">
-<p> </p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Photo_talks_1734892070667.jpg"><img alt="" decoding="async" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Photo_talks_1734892070667.jpg" width="500"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-scaled.jpg"><img alt="" class="aligncenter wp-image-13316" decoding="async" height="500" sizes="(max-width: 375px) 100vw, 375px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-768x1024.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20240801_205140-scaled.jpg 1920w" width="375"/></a></p>
 <p><span style="color: #000000;"><span style="font-family: AR ESSENCE,serif;"><span style="font-size: x-large;">Du suchst einen Verein?<br/>
 Oder du hast Lust unsere Jugend zu trainieren?<br/>
 Wir sind ein lebendiger Verein, der viel Spaß am Schach hat und auf die Jugend setzt!</span></span></span></p>
