@@ -8,6 +8,30 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-13319 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13319">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/01/09/heute-schnellschach-um-19-uhr/" rel="bookmark">Heute Schnellschach um 19 Uhr</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/01/09/heute-schnellschach-um-19-uhr/" rel="bookmark" title="9:37"><span class="entry-date">9. Januar 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Heute findet die 1. Runde im NARVA Schnellschach GP 2025 statt!</strong> Und wie im letzten Jahr beschlossen ist der Start jetzt immer um <strong>19 Uhr</strong><em> (bis spätestens 18:55 bei der Turnierleitung vor Ort)</em>!!</p>
+<p>Alles andere bleibt wie gehabt:</p>
+<ul style="list-style-type: circle;">
+<li>Bedenkzeit 12+3</li>
+<li>5 Runden Schweizer System (ab 9 Teilnehmer)</li>
+<li>kein Startgeld</li>
+<li>GP Punkte 12, 10, 8, 6, 5, 4, 3, 2 und 1</li>
+<li>Gäste sind herzlich willkommen <em>(Der beste Gast mit drei oder mehr Teilnahmen erhält einen Sonderpreis)</em></li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Schnellschachmeisterschaft-2025.pdf" rel="noopener" target="_blank">Ausschreibung</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/01/09/heute-schnellschach-um-19-uhr/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13319 
 <div class="post-13301 post type-post status-publish format-standard hentry category-allgemein" id="post-13301">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/01/01/jubilaeumsjahr/" rel="bookmark">Jubiläumsjahr</a></h2>
 <div class="entry-meta">
@@ -518,28 +542,6 @@ Torsten Ismaele – +</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/18/pokalfinale-2024/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12952 
-<div class="post-12918 post type-post status-publish format-standard hentry category-bmm" id="post-12918">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/13/bmm-runde-2-4/" rel="bookmark">BMM Runde 2</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/13/bmm-runde-2-4/" rel="bookmark" title="17:13"><span class="entry-date">13. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>3 schwere Spiele standen uns am 2. Spieltag bevor. Die 1. Mannschaft gegen den Mitt-Staffelfavoriten Makkabi 1.<br/>
-Die Zweite gegen die Erste von Zugzwang. Und die Dritte gegen die starken Senioren von Nord-Ost 5 (die Runde 1 mit 8:0 gewonnen hatten).</p>
-<p>Alle 3 Duelle waren dann sehr spannend und gerade in der letzten Stunde änderte sich die Richtung noch.</p>
-<p>So gewinnt <strong>NARVA 1</strong> hinten raus sogar noch mit <strong>4,5:3,5</strong> gegen <strong>Makkabi 1</strong>.<br/>
-<strong>NARVA 2</strong> kommt gegen <strong>Zugzwang 1</strong> zu einem <strong>4:4</strong>, vielleicht wäre sogar noch mehr drin gewesen, aber wie heißt es im Fußball gerne: Punkt ist Punkt ist Punkt.<br/>
-<strong>NARVA 3</strong> muss kurzfristig noch umstellen und verliert knapp mit <strong>3,5:4,5</strong> gegen <strong>Nord-Ost 5</strong>.</p>
-<div class="wp-caption aligncenter" id="attachment_12920" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164447_Chrome.jpg"><img alt="" aria-describedby="caption-attachment-12920" class="wp-image-12920 size-large" decoding="async" height="234" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164447_Chrome-1024x374.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164447_Chrome-1024x374.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164447_Chrome-300x110.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164447_Chrome-768x281.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164447_Chrome.jpg 1040w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-12920">NARVA 1 – Makkabi 1</p></div>
-<div class="wp-caption aligncenter" id="attachment_12919" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164520_Chrome.jpg"><img alt="" aria-describedby="caption-attachment-12919" class="wp-image-12919 size-large" decoding="async" height="229" loading="lazy" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164520_Chrome-1024x367.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164520_Chrome-1024x367.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164520_Chrome-300x108.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164520_Chrome-768x275.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_164520_Chrome.jpg 1040w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-12919">NARVA 2 – Zugzwang 1</p></div>
-<div class="wp-caption aligncenter" id="attachment_12921" style="width: 610px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_163203_Chrome.jpg"><img alt="" aria-describedby="caption-attachment-12921" class="wp-image-12921" decoding="async" height="234" loading="lazy" sizes="(max-width: 600px) 100vw, 600px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_163203_Chrome-300x117.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_163203_Chrome-300x117.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_163203_Chrome-768x299.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/10/Screenshot_20241013_163203_Chrome.jpg 1013w" width="600"/></a><p class="wp-caption-text" id="caption-attachment-12921">NARVA 3 – Nord-Ost 5</p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/13/bmm-runde-2-4/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12918 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

@@ -435,14 +435,6 @@ navs:
 </tr>
 <tr>
 <td>51.</td>
-<td><a href="http://www.schachbund.de/spieler/10858405.html" target="_blank"> Juri Deicke</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>52.</td>
 <td><a href="http://www.schachbund.de/spieler/10868673.html" target="_blank"> Amer Mukran</a></td>
 <td></td>
 <td></td>
@@ -450,7 +442,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>53.</td>
+<td>52.</td>
 <td><a href="http://www.schachbund.de/spieler/10880419.html" target="_blank"> Johannes Markmann</a></td>
 <td></td>
 <td></td>
@@ -458,7 +450,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>54.</td>
+<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10889223.html" target="_blank"> Konstiantyn Honcharov</a></td>
 <td></td>
 <td></td>
