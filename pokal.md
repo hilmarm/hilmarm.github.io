@@ -20,29 +20,157 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
-<h2>Anmeldestand</h2>
-<ol>
-<li>Lange</li>
-<li>Dr. Maetzing</li>
-<li>Krüger</li>
-<li>Campe</li>
-<li>Herrscher</li>
-<li>Werner</li>
-<li>Mietzelfeldt</li>
-<li>Bahr</li>
-<li>Hintze</li>
-<li>Arnold</li>
-<li>Mothes</li>
-<li>Kreisel</li>
-<li>Brinckmann</li>
-<li>Pape</li>
-<li>Dr. Heinrich</li>
-<li>Kinski</li>
-<li>W. Heinrich</li>
-<li>Özates</li>
-<li>Magnusson</li>
-<li>Stüve</li>
-</ol>
+<h2>Runde 1 am 13. Februar</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+<th>At</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>Bahr,Jan-Hendrik</td>
+<td>()</td>
+<td>–</td>
+<td>1</td>
+<td>Arnold,Rouven</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>3</td>
+<td>Brinckmann,Klaus</td>
+<td>()</td>
+<td>–</td>
+<td>9</td>
+<td>Kinski,Andreas</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>4</td>
+<td>Campe,Ulrich</td>
+<td>()</td>
+<td>–</td>
+<td>8</td>
+<td>Hintze,Peter</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>22</td>
+<td>Werner,Michael</td>
+<td>()</td>
+<td>–</td>
+<td>5</td>
+<td>Heinrich,Manfred</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>11</td>
+<td>Krüger,Ekkehard</td>
+<td>()</td>
+<td>–</td>
+<td>6</td>
+<td>Heinrich,Wesko</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>12</td>
+<td>Lange,Rudolf</td>
+<td>()</td>
+<td>–</td>
+<td>7</td>
+<td>Herrscher,Michae</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>10</td>
+<td>Kreisel,Alexande</td>
+<td>()</td>
+<td>–</td>
+<td>13</td>
+<td>Mach,Wolfgang</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>14</td>
+<td>Magnusson,Hilmar</td>
+<td>()</td>
+<td>–</td>
+<td>17</td>
+<td>Mothes,Thomas</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>15</td>
+<td>Maetzing,Hans-Di</td>
+<td>()</td>
+<td>–</td>
+<td>20</td>
+<td>Schenk,Jonatan</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>16</td>
+<td>Mietzelfeldt,Ger</td>
+<td>()</td>
+<td>–</td>
+<td>21</td>
+<td>Stüve,Maxim</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>19</td>
+<td>Pape,Philipp</td>
+<td>()</td>
+<td>–</td>
+<td>18</td>
+<td>Özates,Mert</td>
+<td>()</td>
+<td> –</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 </div><!-- .entry-content -->
 </div> #post-110 
 <div id="comments">
