@@ -63,7 +63,7 @@ navs:
 <td>P</td>
 <td>1994</td>
 <td>483</td>
-<td>2001</td>
+<td>2023</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1926</td>
 <td>62</td>
-<td>1995</td>
+<td>1983</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -191,7 +191,7 @@ navs:
 <td></td>
 <td>1685</td>
 <td>72</td>
-<td>1770</td>
+<td>1764</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -199,7 +199,7 @@ navs:
 <td></td>
 <td>1654</td>
 <td>65</td>
-<td>0</td>
+<td></td>
 </tr>
 <tr>
 <td>22.</td>
@@ -263,7 +263,7 @@ navs:
 <td></td>
 <td>1545</td>
 <td>1</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>30.</td>
