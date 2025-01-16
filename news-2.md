@@ -15,7 +15,7 @@ navs:
 <div class="entry-content">
 <p>Gestern gab es den Start in die internen Turniere 2025. Los ging es mit der 1. Runde im NARVA Schnellschach GP.<br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/Screenshot_20250110_195402_Chrome.jpg"><img alt="" class="aligncenter wp-image-13325 size-large" decoding="async" height="419" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/Screenshot_20250110_195402_Chrome-1024x670.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/Screenshot_20250110_195402_Chrome-1024x670.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/Screenshot_20250110_195402_Chrome-300x196.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/Screenshot_20250110_195402_Chrome-768x503.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/Screenshot_20250110_195402_Chrome.jpg 1079w" width="640"/></a></p>
-<p>Und es wurde die <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Abteilungsmeisterschaft</a> Runde 1 ausgelost.</p>
+<p>Und es wurde die <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a> Runde 1 ausgelost.</p>
 <p>Und auch beim <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a> stehen die Paarungen für Runde 1 fest. Losfee Bernd hat gezogen.</p>
 <p>Beachtet die Termine und spielt ggf. vor, z.B. direkt nächste Woche.</p>
 </div><!-- .entry-content -->
