@@ -82,7 +82,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Krüger,Ekkehard</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>

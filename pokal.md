@@ -33,7 +33,7 @@ parent_title: Turniere
 <th>Teilnehmer</th>
 <th>Punkte</th>
 <th>Ergebnis</th>
-<th>At</th>
+<th>Blitz</th>
 </tr>
 </thead>
 <tbody>
@@ -140,10 +140,10 @@ parent_title: Turniere
 <td>()</td>
 <td>–</td>
 <td>20</td>
-<td>Schenk,Jonatan</td>
+<td><strong>Schenk,Jonatan</strong></td>
 <td>()</td>
-<td> –</td>
-<td></td>
+<td>½ – ½</td>
+<td>1½:2½</td>
 </tr>
 <tr>
 <td>10</td>
