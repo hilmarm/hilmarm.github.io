@@ -8,6 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-13348 post type-post status-publish format-standard hentry category-bfl" id="post-13348">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/01/24/zwei-siege-in-der-bfl/" rel="bookmark">Zwei Siege in der BFL</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/01/24/zwei-siege-in-der-bfl/" rel="bookmark" title="0:34"><span class="entry-date">24. Januar 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>In der BFL gab es für NARVA in dieser Woche zwei Siege.</p>
+<p>Bereits am Mittwoch gewann die Zweite mit <strong>Mert</strong>, <strong>Hilmar</strong>, <strong>Juri</strong> und <strong>Jan</strong> auswärts gegen die 7. Mannschaft der SF Berlin 1903 (Norouzian, Gerlach, Spurny und Unger) mit 4:0.</p>
+<p>Am Donnerstag spielte dann die Erste zuhause gegen die TSG Oberschöneweide. An Brett 2 hatte <strong>ich</strong> eine schöne Angriffspartie, versäumte aber dann den richtigen Zeitpunkt, um meinen König in Sicherheit zu bringen, und stand plötzlich schlechter. Mein Gegner Klaus-Dieter Gruner spielte aber nicht energisch genug, so dass ich mich ins Remis retten konnte. <strong>Ekkehard</strong> war an Brett 3 gegen Falko Maxin unter Druck geraten, musste zwei Figuren für einen Turm geben, und verlor dann schließlich, als der Turm auch noch verloren ging. Dafür holte <strong>Tom</strong> an Brett 4 gegen Nikolai Jahn den ganzen Punkt. Er spielte lange mit Läufer gegen Turm, hatte aber die stärkeren Bauern. Anstatt die Qualität zurückzugewinnen, was ebenfalls gewonnen gewesen wäre, entschied er sich für die schönere Abwicklung, wandelte einen Bauern um und setzte zwei Züge später matt. Beim Stand von 1,5:1,5 spielte nun noch <strong>Manfred</strong>, der mit IM Olaf Heinzel an Brett 1 auch den stärksten Gegner hatte. Manfreds Turmendspiel schien etwas schlechter, aber noch im Remisbereich zu sein. Bei beiderseitig knapper Zeit sah er dann seine Gewinnchance und generierte am Königsflügel zwei verbundene Freibauern, die sich gegen die beiden isolierten Freibauern seines Gegners am Damenflügel durchsetzten! Somit holte die Erste mit 2,5:1,5 erneut einen knappen Sieg und ist als einzige Mannschaft in der BFL B noch ohne Punktverlust (hat allerdings auch erst zwei Spiele bestritten).</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/01/24/zwei-siege-in-der-bfl/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13348 
 <div class="post-13337 post type-post status-publish format-standard hentry category-bmm" id="post-13337">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/01/19/2-siege-1-niederlage/" rel="bookmark">2 Siege – 1 Niederlage</a></h2>
 <div class="entry-meta">
@@ -516,23 +532,6 @@ Platz 98 Katrin Hildebrand 1 Punkt (eine Runde als „Gerademacherin“)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/11/01/kurt-richter-gedenkturnier-startet/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-12996 
-<div class="post-12982 post type-post status-publish format-standard hentry category-schiedsrichter" id="post-12982">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/" rel="bookmark">Ausbildung zum Verbandsschiedsrichter</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/" rel="bookmark" title="10:00"><span class="entry-date">28. Oktober 2024</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Wochenende <strong>30.11./01.12.2024</strong> findet wieder ein <strong>Schiedsrichterlehrgang</strong> statt. Dort kann man sich an 2 Tagen zum Verbandsschiedsrichter ausbilden lassen. Der Lehrgangsort ist an der Jungfernheide.</p>
-<p>Aktuell ist von uns Klaus angemeldet, es dürfen aber gerne weitere dabei sein, Schiedsrichter benötigen wir immer.</p>
-<p><strong>Die Kosten für den Lehrgang (50,-€) übernimmt der Verein!</strong></p>
-<p><a href="https://www.berlinerschachverband.de/schiedsrichterausbildung-2024.html" rel="noopener" target="_blank">Link zu allen weiteren Informationen</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/schiedsrichter/" rel="category tag">Schiedsrichter</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2024/10/28/ausbildung-zum-verbandsschiedsrichter/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-12982 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

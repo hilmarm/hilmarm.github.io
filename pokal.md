@@ -68,10 +68,10 @@ parent_title: Turniere
 <td>()</td>
 <td>–</td>
 <td>8</td>
-<td>Hintze,Peter</td>
+<td><strong>Hintze,Peter</strong></td>
 <td>()</td>
-<td> –</td>
-<td></td>
+<td>½ – ½</td>
+<td style="text-align: center;">0 – 2</td>
 </tr>
 <tr>
 <td>4</td>
@@ -83,7 +83,7 @@ parent_title: Turniere
 <td>Heinrich,Manfred</td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td>5</td>
@@ -95,7 +95,7 @@ parent_title: Turniere
 <td>Heinrich,Wesko</td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td>6</td>
@@ -107,7 +107,7 @@ parent_title: Turniere
 <td>Herrscher,Michae</td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td>7</td>
@@ -119,19 +119,19 @@ parent_title: Turniere
 <td>Mach,Wolfgang</td>
 <td>()</td>
 <td> –</td>
-<td></td>
+<td style="text-align: center;"></td>
 </tr>
 <tr>
 <td>8</td>
 <td>14</td>
-<td>Magnusson,Hilmar</td>
+<td><strong>Magnusson,Hilmar</strong></td>
 <td>()</td>
 <td>–</td>
 <td>17</td>
 <td>Mothes,Thomas</td>
 <td>()</td>
-<td> –</td>
-<td></td>
+<td>½ – ½</td>
+<td style="text-align: center;">2 – 0</td>
 </tr>
 <tr>
 <td>9</td>
@@ -143,7 +143,7 @@ parent_title: Turniere
 <td><strong>Schenk,Jonatan</strong></td>
 <td>()</td>
 <td>½ – ½</td>
-<td>1½:2½</td>
+<td style="text-align: center;">1½ – 2½</td>
 </tr>
 <tr>
 <td>10</td>
