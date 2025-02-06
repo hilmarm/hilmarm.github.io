@@ -63,7 +63,7 @@ navs:
 <td>P</td>
 <td>2008</td>
 <td>484</td>
-<td>2023</td>
+<td>2040</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1926</td>
 <td>62</td>
-<td>1983</td>
+<td>1993</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -135,7 +135,7 @@ navs:
 <td></td>
 <td>1827</td>
 <td>12</td>
-<td>1842</td>
+<td>1883</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -199,7 +199,7 @@ navs:
 <td></td>
 <td>1654</td>
 <td>65</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>22.</td>
@@ -247,7 +247,7 @@ navs:
 <td></td>
 <td>1552</td>
 <td>10</td>
-<td>1691</td>
+<td>1687</td>
 </tr>
 <tr>
 <td>28.</td>
@@ -343,7 +343,7 @@ navs:
 <td></td>
 <td>1310</td>
 <td>12</td>
-<td>0</td>
+<td>1598</td>
 </tr>
 <tr>
 <td>40.</td>
