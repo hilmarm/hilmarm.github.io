@@ -164,9 +164,9 @@ parent_title: Turniere
 <td>()</td>
 <td>–</td>
 <td>18</td>
-<td>Özates,Mert</td>
+<td><strong>Özates,Mert</strong></td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 </tbody>
