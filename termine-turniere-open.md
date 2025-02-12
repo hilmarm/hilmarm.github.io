@@ -37,6 +37,11 @@ parent_title: Termine
 <td>04.04.-06.04.2025</td>
 <td>Rudolf, Thomas, Ekkehard, Lukas, Jan-Hendrik, Jonatan?</td>
 </tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2025.html" rel="noopener" target="_blank">BEM Qualifikationsturnier</a></td>
+<td>19.04.-27.04.2025</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 </div><!-- .entry-content -->
