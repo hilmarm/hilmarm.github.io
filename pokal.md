@@ -44,9 +44,9 @@ parent_title: Turniere
 <td>()</td>
 <td>–</td>
 <td>1</td>
-<td>Arnold,Rouven</td>
+<td><strong>Arnold,Rouven</strong></td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -100,13 +100,13 @@ parent_title: Turniere
 <tr>
 <td>6</td>
 <td>12</td>
-<td>Lange,Rudolf</td>
+<td><strong>Lange,Rudolf</strong></td>
 <td>()</td>
 <td>–</td>
 <td>7</td>
 <td>Herrscher,Michae</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
