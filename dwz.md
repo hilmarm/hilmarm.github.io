@@ -147,19 +147,19 @@ navs:
 </tr>
 <tr>
 <td>15.</td>
-<td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
-<td></td>
-<td>1803</td>
-<td>104</td>
-<td>1899</td>
-</tr>
-<tr>
-<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
 <td>1781</td>
 <td>75</td>
 <td>1838</td>
+</tr>
+<tr>
+<td>16.</td>
+<td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
+<td></td>
+<td>1778</td>
+<td>105</td>
+<td>1899</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -195,19 +195,19 @@ navs:
 </tr>
 <tr>
 <td>21.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1657</td>
+<td>112</td>
+<td>1829</td>
+</tr>
+<tr>
+<td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10083814.html" target="_blank"> Katrin Hildebrand</a></td>
 <td></td>
 <td>1654</td>
 <td>65</td>
 <td>0</td>
-</tr>
-<tr>
-<td>22.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1613</td>
-<td>111</td>
-<td>1829</td>
 </tr>
 <tr>
 <td>23.</td>
@@ -221,8 +221,8 @@ navs:
 <td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
-<td>1586</td>
-<td>86</td>
+<td>1587</td>
+<td>87</td>
 <td>1843</td>
 </tr>
 <tr>
