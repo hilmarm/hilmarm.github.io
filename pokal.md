@@ -20,6 +20,61 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>Runde 2 am 15. Mai</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+<th>Blitz</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>Arnold,Rouven</td>
+<td>()</td>
+<td>–</td>
+<td>20</td>
+<td>Schenk,Jonatan</td>
+<td>()</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>10</td>
+<td>Kreisel,Alexander</td>
+<td>()</td>
+<td>–</td>
+<td>12</td>
+<td>Lange,Rudolf</td>
+<td>()</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>3</td>
+<td>Brinckmann,Klaus</td>
+<td>()</td>
+<td>–</td>
+<td>14</td>
+<td>Magnusson,Hilmar</td>
+<td>()</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>Runde 1 am 13. Februar</h2>
 <table class="clean swiss footable">
 <thead>
@@ -52,13 +107,13 @@ parent_title: Turniere
 <tr>
 <td>2</td>
 <td>3</td>
-<td>Brinckmann,Klaus</td>
+<td><strong>Brinckmann,Klaus</strong></td>
 <td>()</td>
 <td>–</td>
 <td>9</td>
 <td>Kinski,Andreas</td>
 <td>()</td>
-<td> –</td>
+<td>+ – –</td>
 <td></td>
 </tr>
 <tr>
@@ -76,13 +131,13 @@ parent_title: Turniere
 <tr>
 <td>4</td>
 <td>22</td>
-<td>Werner,Michael</td>
+<td><strong>Werner,Michael</strong></td>
 <td>()</td>
 <td>–</td>
 <td>5</td>
 <td>Heinrich,Manfred</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
@@ -112,13 +167,13 @@ parent_title: Turniere
 <tr>
 <td>7</td>
 <td>10</td>
-<td>Kreisel,Alexande</td>
+<td><strong>Kreisel,Alexande</strong></td>
 <td>()</td>
 <td>–</td>
 <td>13</td>
 <td>Mach,Wolfgang</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
