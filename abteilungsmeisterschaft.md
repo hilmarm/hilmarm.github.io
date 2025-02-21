@@ -46,7 +46,7 @@ parent_title: Turniere
 <td>12</td>
 <td>Wäldrich,Oliver,</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Kreisel,Alexande</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ parent_title: Turniere
 <td>6</td>
 <td>Schenk,Jonatan</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ parent_title: Turniere
 <td>18</td>
 <td>Herrscher,Michae</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -130,7 +130,7 @@ parent_title: Turniere
 <td>8</td>
 <td>Brinckmann,Klaus</td>
 <td>()</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -142,7 +142,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Werner,Michael</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ parent_title: Turniere
 <td>10</td>
 <td>Mothes,Thomas</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ parent_title: Turniere
 <td>22</td>
 <td>Heinrich,Manfred</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
