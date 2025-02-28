@@ -143,13 +143,13 @@ parent_title: Turniere
 <tr>
 <td>5</td>
 <td>11</td>
-<td>Krüger,Ekkehard</td>
+<td><strong>Krüger,Ekkehard</strong></td>
 <td>()</td>
 <td>–</td>
 <td>6</td>
 <td>Heinrich,Wesko</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td style="text-align: center;"></td>
 </tr>
 <tr>
