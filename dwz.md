@@ -243,14 +243,6 @@ navs:
 </tr>
 <tr>
 <td>27.</td>
-<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
-<td></td>
-<td>1552</td>
-<td>10</td>
-<td>1687</td>
-</tr>
-<tr>
-<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1551</td>
@@ -258,7 +250,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>29.</td>
+<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td>1545</td>
@@ -266,12 +258,20 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>30.</td>
+<td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
 <td></td>
 <td>1526</td>
 <td>19</td>
 <td>1843</td>
+</tr>
+<tr>
+<td>30.</td>
+<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
+<td></td>
+<td>1517</td>
+<td>11</td>
+<td>1687</td>
 </tr>
 <tr>
 <td>31.</td>
