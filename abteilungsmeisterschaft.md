@@ -233,7 +233,7 @@ parent_title: Turniere
 <td>14</td>
 <td>Stüve,Maxim</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
