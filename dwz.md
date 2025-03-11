@@ -45,8 +45,8 @@ navs:
 <td>2.</td>
 <td><a href="http://www.schachbund.de/spieler/10033664.html" target="_blank"> Bernd Daverkausen</a></td>
 <td></td>
-<td>2095</td>
-<td>181</td>
+<td>2098</td>
+<td>182</td>
 <td>2121</td>
 </tr>
 <tr>
