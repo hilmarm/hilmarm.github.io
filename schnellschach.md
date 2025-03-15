@@ -119,8 +119,8 @@ parent_title: Turniere
 </tr>
 <tr>
 <td style="width: 20.9375%;">von Kraft</td>
-<td style="width: 10.9375%;">5</td>
 <td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">5</td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;"></td>
