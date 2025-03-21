@@ -166,7 +166,7 @@ parent_title: Turniere
 <td>17</td>
 <td>von Kraft,Lukas</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
