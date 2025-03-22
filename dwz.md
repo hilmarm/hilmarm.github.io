@@ -53,8 +53,8 @@ navs:
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2021</td>
-<td>486</td>
+<td>2028</td>
+<td>487</td>
 <td>2054</td>
 </tr>
 <tr>
@@ -189,7 +189,7 @@ navs:
 <td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1657</td>
+<td>1658</td>
 <td>112</td>
 <td>1841</td>
 </tr>
