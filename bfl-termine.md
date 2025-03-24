@@ -66,7 +66,7 @@ parent_title: Termine
 <td nowrap="nowrap" style="height: 24px;">Caïssa Hermsdorf (H)</td>
 <td style="height: 24px; text-align: center;">20.03.25</td>
 <td nowrap="nowrap" style="height: 24px;">TSV Ma’dorf 2 (A)</td>
-<td style="height: 24px; text-align: center;">19.03.25</td>
+<td style="height: 24px; text-align: center;">02.04.25</td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px;">7</td>
