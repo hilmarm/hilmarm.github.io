@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.schachbund.de/index.php/seniorenschach-termin/Nest_Undeloh.html" rel="noopener" target="_blank">3. Nestoren-Turnier 2025</a></td>
-<td>19.03.-25.03.2025</td>
-<td>Hans-Dieter, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>04.04.-06.04.2025</td>
 <td>Ekkehard, Lukas, Jan-Hendrik, Oliver</td>
@@ -46,6 +41,11 @@ parent_title: Termine
 <td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>23.05.-25.05.2025</td>
 <td>Rudolf, Thomas</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_25/lichtenberger_sommer_2025.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
+<td>23.08.-31.08.2025</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
