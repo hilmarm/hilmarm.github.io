@@ -181,7 +181,7 @@ navs:
 <td>19.</td>
 <td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
 <td></td>
-<td>1686</td>
+<td>1685</td>
 <td>72</td>
 <td>1764</td>
 </tr>
