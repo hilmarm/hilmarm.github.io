@@ -3,6 +3,7 @@ title: Chronik
 layout: default
 navs:
   Verein: verein
+  Nachruf: nachruf
   Erfolge: erfolge
   „Zeitzeugen“: zeitzeugen
   Turnier Archiv: turnier-archiv
