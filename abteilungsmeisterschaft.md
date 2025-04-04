@@ -46,7 +46,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Düren,Jerome</td>
 <td>(1)</td>
-<td> –</td>
+<td>15.5.</td>
 <td></td>
 </tr>
 <tr>
@@ -94,7 +94,7 @@ parent_title: Turniere
 <td>11</td>
 <td>Pape,Philipp</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -106,7 +106,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Maetzing,Hans-Di</td>
 <td>(0)</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Heinrich,Wesko</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

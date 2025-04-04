@@ -63,6 +63,11 @@ parent_title: Termine
 <td>Günter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/werner-ott-open-kreuzberger-sommer-2025-vom-26-juli-bis-3-august-2025.html" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer</a></td>
+<td>26.07.-03.08.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_25/lichtenberger_sommer_2025.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
 <td>23.08.-31.08.2025</td>
 <td></td>
