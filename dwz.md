@@ -51,19 +51,19 @@ navs:
 </tr>
 <tr>
 <td>3.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>2025</td>
-<td>488</td>
-<td>2054</td>
-</tr>
-<tr>
-<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
 <td>2020</td>
 <td>46</td>
 <td>2103</td>
+</tr>
+<tr>
+<td>4.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>2020</td>
+<td>489</td>
+<td>2054</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -147,19 +147,19 @@ navs:
 </tr>
 <tr>
 <td>15.</td>
-<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
-<td></td>
-<td>1781</td>
-<td>75</td>
-<td>1838</td>
-</tr>
-<tr>
-<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
 <td></td>
 <td>1752</td>
 <td>63</td>
 <td>1769</td>
+</tr>
+<tr>
+<td>16.</td>
+<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
+<td></td>
+<td>1750</td>
+<td>76</td>
+<td>1838</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -251,19 +251,19 @@ navs:
 </tr>
 <tr>
 <td>28.</td>
+<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
+<td></td>
+<td>1531</td>
+<td>12</td>
+<td>1687</td>
+</tr>
+<tr>
+<td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
 <td></td>
 <td>1526</td>
 <td>19</td>
 <td>1843</td>
-</tr>
-<tr>
-<td>29.</td>
-<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
-<td></td>
-<td>1517</td>
-<td>11</td>
-<td>1687</td>
 </tr>
 <tr>
 <td>30.</td>
@@ -277,8 +277,8 @@ navs:
 <td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
-<td>1513</td>
-<td>23</td>
+<td>1507</td>
+<td>24</td>
 <td>1702</td>
 </tr>
 <tr>
@@ -379,19 +379,19 @@ navs:
 </tr>
 <tr>
 <td>44.</td>
+<td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
+<td></td>
+<td>1203</td>
+<td>5</td>
+<td>0</td>
+</tr>
+<tr>
+<td>45.</td>
 <td><a href="http://www.schachbund.de/spieler/10858491.html" target="_blank"> Ismaele Cattaneo</a></td>
 <td></td>
 <td>1142</td>
 <td>1</td>
 <td></td>
-</tr>
-<tr>
-<td>45.</td>
-<td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
-<td></td>
-<td>1140</td>
-<td>4</td>
-<td>0</td>
 </tr>
 <tr>
 <td>46.</td>
