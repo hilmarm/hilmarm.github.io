@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
-<td>04.04.-06.04.2025</td>
-<td>Ekkehard, Lukas, Jan-Hendrik, Oliver</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://grenkechessopen.de/de/" rel="noopener" target="_blank">Grenke Chess Open</a></td>
 <td>17.04.-21.04.2025</td>
 <td>Mert</td>
