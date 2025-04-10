@@ -207,9 +207,9 @@ parent_title: Turniere
 <td>()</td>
 <td>–</td>
 <td>21</td>
-<td>Stüve,Maxim</td>
+<td><strong>Stüve,Maxim</strong></td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
