@@ -20,6 +20,157 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Abteilungsmeisterschaft-2025.pdf">Abteilungsmeisterschaft 2025</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>3. Runde am 22. Mai</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+<th>At</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>11</td>
+<td>Pape,Philipp</td>
+<td>(2)</td>
+<td>–</td>
+<td>3</td>
+<td>Maetzing,Hans-Di</td>
+<td>(2)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>5</td>
+<td>Magnusson,Hilmar</td>
+<td>(2)</td>
+<td>–</td>
+<td>6</td>
+<td>Schenk,Jonatan</td>
+<td>(2)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>1</td>
+<td>Düren,Jerome</td>
+<td>(1)</td>
+<td>–</td>
+<td>4</td>
+<td>Krüger,Ekkehard</td>
+<td>(1)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>7</td>
+<td>Mietzelfeldt,Ger</td>
+<td>(1)</td>
+<td>–</td>
+<td>10</td>
+<td>Mothes,Thomas</td>
+<td>(1)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>9</td>
+<td>Campe,Ulrich</td>
+<td>(1)</td>
+<td>–</td>
+<td>23</td>
+<td>Bahr,Jan-Hendrik</td>
+<td>(1)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>19</td>
+<td>Horst,Juri</td>
+<td>(1)</td>
+<td>–</td>
+<td>14</td>
+<td>Stüve,Maxim</td>
+<td>(1)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>22</td>
+<td>Heinrich,Manfred</td>
+<td>(1)</td>
+<td>–</td>
+<td>15</td>
+<td>Bradschetl,Tom</td>
+<td>(1)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>8</td>
+<td>Brinckmann,Klaus</td>
+<td>(½)</td>
+<td>–</td>
+<td>20</td>
+<td>Werner,Michael</td>
+<td>(1)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>21</td>
+<td>Mach,Wolfgang</td>
+<td>(0)</td>
+<td>–</td>
+<td>12</td>
+<td>Wäldrich,Oliver,</td>
+<td>(½)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>13</td>
+<td>Heinrich,Wesko</td>
+<td>(0)</td>
+<td>–</td>
+<td>16</td>
+<td>Kreisel,Alexande</td>
+<td>(0)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>18</td>
+<td>Herrscher,Michae</td>
+<td>(0)</td>
+<td>–</td>
+<td>17</td>
+<td>von Kraft,Lukas</td>
+<td>(0)</td>
+<td> –</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>2. Runde am 3. April</h2>
 <table class="clean swiss footable">
 <thead>
@@ -130,7 +281,7 @@ parent_title: Turniere
 <td>19</td>
 <td>Horst,Juri</td>
 <td>(½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -142,7 +293,7 @@ parent_title: Turniere
 <td>15</td>
 <td>Bradschetl,Tom</td>
 <td>(0)</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
