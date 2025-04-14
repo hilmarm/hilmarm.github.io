@@ -51,19 +51,19 @@ navs:
 </tr>
 <tr>
 <td>3.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>2033</td>
+<td>490</td>
+<td></td>
+</tr>
+<tr>
+<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
 <td>2020</td>
 <td>46</td>
 <td>2103</td>
-</tr>
-<tr>
-<td>4.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>2020</td>
-<td>489</td>
-<td></td>
 </tr>
 <tr>
 <td>5.</td>

@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://grenkechessopen.de/de/" rel="noopener" target="_blank">Grenke Chess Open</a></td>
 <td>17.04.-21.04.2025</td>
-<td>Mert</td>
+<td>Batu, Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2025.html" rel="noopener" target="_blank">BEM Qualifikationsturnier</a></td>
