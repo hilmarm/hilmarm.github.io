@@ -381,7 +381,7 @@ navs:
 <td>44.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
-<td>1206</td>
+<td>1207</td>
 <td>5</td>
 <td>0</td>
 </tr>
