@@ -237,7 +237,7 @@ navs:
 <td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
-<td>1551</td>
+<td>1550</td>
 <td>40</td>
 <td>0</td>
 </tr>
@@ -349,7 +349,7 @@ navs:
 <td>40.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
-<td>1289</td>
+<td>1288</td>
 <td>41</td>
 <td>1635</td>
 </tr>
@@ -397,7 +397,7 @@ navs:
 <td>46.</td>
 <td><a href="http://www.schachbund.de/spieler/10273928.html" target="_blank"> Thomas Totz</a></td>
 <td></td>
-<td>1120</td>
+<td>1109</td>
 <td>24</td>
 <td></td>
 </tr>
