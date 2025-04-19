@@ -54,7 +54,7 @@ parent_title: Chronik
 <h1 class="page-title">
 				Archiv der Kategorie: <span>Nachruf</span> </h1>
 <div class="post-13439 post type-post status-publish format-standard hentry category-allgemein category-nachruf" id="post-13439">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark">Hilmar Petzold verstorben</a></h2>
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark">Hilmar Petzold verstorben – Beisetzung</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark" title="13:33"><span class="entry-date">4. März 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-summary">

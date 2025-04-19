@@ -8,6 +8,141 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-13439 post type-post status-publish format-standard sticky hentry category-allgemein category-nachruf" id="post-13439">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark">Hilmar Petzold verstorben – Beisetzung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark" title="13:33"><span class="entry-date">4. März 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am 25.02.2025 hat uns Hilmar Petzold im Alter von 85 Jahren für immer verlassen.</strong></p>
+<p><em><span style="color: #ff0000;">Die Beisetzung findet am 16.04. um 11 Uhr auf dem St. Hedwig-Friedhof Pankow-Weißensee (Smetanastraße 36-54, 13088 Berlin) statt.</span></em></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-13537" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/DSCN4928-scaled.jpg 1920w" width="225"/></a></p>
+<p>Hilmar kämpfte zuletzt immer wieder mit Rückschlägen, war aber wie ein Steh-Auf-Männchen immer wieder aktiv, auch im Club bei unserer Backgammon Gruppe. Klaus hatte regelmäßig Kontakt zu ihm, auch am Wahlsonntag noch. Am Dienstag ging es dann aber wohl ganz schnell.</p>
+<div class="wp-caption alignleft" id="attachment_13437" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-scaled.jpg"><img alt="" aria-describedby="caption-attachment-13437" class="wp-image-13437 size-medium" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-scaled.jpg 1920w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-13437"><strong>* 30.08.1939 – † 25.02.2025</strong></p></div>
+<p>Mit Hilmar verlässt ein Großer des Berliner Schachs die Bühne. Bei NARVA war er seit 2008, davor bei Empor Berlin und der TSG Oberschöneweide, passiv war er bis zuletzt auch beim SK Tempelhof. Als Berliner Pokalsieger 1994 hat er sich auch in die Ehrentafel beim BSV eingetragen. Mit TSG spielte Hilmar auch in der Oberliga. Außerdem war er sehr aktiv im Betriebsschach bei der Deutschen Bahn und spielte auch zuletzt noch aktiv bei Turnieren vom BSW (Bahn Sozialwerk) mit. Als Hilmar 2008 zu NARVA kam, war er auch direkt die Nummer 1 der 1.Mannschaft und über viele Jahre ein verlässliches und starkes Spitzenbrett.</p>
+<p>Zuletzt wurden seine Einsätze seltener, nicht nur das er über viele Jahre bereits seine Frau begleiten und pflegen musste, auch er selbst konnte nach einer Erkrankung 2022, wo wir ihn schon vermisst hatten und uns durch diverse Krankenhäuser gefragt hatten, nicht mehr so wie er gerne gewollt hätte. Seine Begeisterung fürs Schach war aber weiterhin ungebrochen, er wollte auch immer über alles auf dem Laufenden sein und alle Aufstellungen und Ergebnisse wissen. Auch die Aufstellungen der Gegner waren ihn immer wichtig, kannte er doch fast jeden im Berliner Schach.</p>
+<p>NARVA, das Berliner Schach, natürlich seine Familie und alle seine Freunde und Weggefährten, verlieren mit Hilmar einen großartigen Menschen! Wir Danken für die Zeit die wir mit Dir verbringen durften!</p>
+<div class="wp-caption alignright" id="attachment_13436" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-scaled.jpg"><img alt="" aria-describedby="caption-attachment-13436" class="wp-image-13436 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-scaled.jpg 1920w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-13436">Bei der Senioreneinzelmeisterschaft 2010</p></div>
+<p><span style="text-decoration: underline;">Rudolf Lange:</span><em> „Hilmar war eine Bank in der ersten Mannschaft! Das lag nicht nur an den vielen erkämpften Punkten, sondern auch an seinen präzisen Analysen und Tipps. Von denen durften im Lauf der Jahre viele NARVA-Spieler profitieren.</em><br/>
+<em>Am Brett, insbesondere im Blitz führte Hilmar eine scharfe Klinge. Sein Positionsspiel brachte mich des Öfteren zur Verzweiflung…</em><br/>
+<em>Vor allem aber war Hilmar ein Gentleman – elegant und besonnen, verlässlich und höflich. Wenn es mal laut wurde – das kommt auch beim Schach vor – dann sorgte das Spitzenbrett mit ruhiger Stimme für Abkühlung.</em><br/>
+<em>Danke Hilmar. Für alles.“</em></p>
+<p><span style="text-decoration: underline;">Günter Idaczek:</span> <em>„R.I.P. Hilmar. Ich habe seine Ideen in seinen Partien oder auch in den einigen gemeinsamen Analysen bewundert!“</em></p>
+<p><span style="text-decoration: underline;">Ekkehard Krüger:</span> <em>„Ein unruhiger kluger Kopf, der unvergessen bleibt!“</em></p>
+<p><span style="text-decoration: underline;">Katrin Hildebrand:</span> <em>„Du hast uns würdevoll verlassen – es bleibt eine helle Stelle, die<br/>
+vielen Erinnerungen Platz gibt. Gemeinschaftssinn prägte Dein Tun und<br/>
+Auftreten; ein wichtiger Faktor Deiner angenehmen Persönlichkeit. Ich habe Dich vor acht Jahren bei einem Schachturnier kennengelernt, als Du mir als Mannschaftsmitglied die Analyse meiner Schachpartie angeboten hast. Dein fairer Umgang mit den Mitgliedern unseres<br/>
+Schachvereins war von hoher sozialer Kompetenz geprägt. Ruhe in Frieden…“</em></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/DSCN4926-scaled.jpg"><img alt="" decoding="async" height="300" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/DSCN4926-225x300.jpg" width="225"/></a></p>
+<p><span style="text-decoration: underline;">Johannes Markmann:</span> <em>„Lieber Hilmar, ich habe Dich leider nicht mehr als Schachspieler kennengelernt, sondern als hervorragenden Backgammon-Spieler. Manchmal verblüffte mich der Fakt, wie Du von Fortuna beschenkt wurdest. Deine<br/>
+Bereitschaft mir praktisch zu helfen war mir sehr angenehm. Deine Liebenswürdigkeit wird mir angenehm in Erinnerung bleiben.“</em></p>
+<p><a href="https://www.empor-schach.de/2025/03/hilmar-petzold-verstorben/" rel="noopener" target="_blank">Nachruf bei Empor</a><br/>
+<a href="https://schachklub-tempelhof.de/abschied-in-trauer-von-schachfreund-hilmar-petzold-30-08-1939-%e2%80%a0-25-02-2025/#more-10319" rel="noopener" target="_blank">Nachruf bei SK Tempelhof</a></p>
+<h3>Partiebeispiele</h3>
+<p>Hier noch eine kleine Auswahl von Hilmars Partien.</p>
+<p><script>
+function showItem(prefix,val) {
+  var opts = document.getElementsByClassName(prefix+"_opt");
+  console.log(opts);
+  for (var i = 0;i<opts.length;i++) {
+    opts.item(i).style="display:none;";
+  }
+  opts.namedItem(prefix+"_opt_"+val).style="";
+}
+</script></p>
+<p><select><option selected="selected" value="a">Hoppe - Petzold</option><option value="b">Itkins - Petzold</option><option value="c">Maetzing - Petzold</option><option value="d">Petzold - Moingt</option><option value="e">Schurade - Petzold</option></select></p>
+<div class="hilmargames_opt" id="hilmargames_opt_a">
+<p class="rpbchessboard-spacerBefore"></p>
+<div class="rpbchessboard-chessgame" id="rpbchessboard-68037ffe76a82-1">
+<noscript>
+<div class="rpbchessboard-javascriptWarning">
+            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
+</noscript>
+<div class="rpbchessboard-chessgameAnchor"></div>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+            var selector = '#' + "rpbchessboard-68037ffe76a82-1" + ' .rpbchessboard-chessgameAnchor';
+            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"BMM 2019\/20\"]\r\n[Site \"Berlin\"]\r\n[Date \"2019.11.10\"]\r\n[Round \"2.5\"]\r\n[White \"Hoppe, Frank\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"C44\"]\r\n[WhiteElo \"1908\"]\r\n[BlackElo \"1912\"]\r\n[Annotator \"Thomas Mothes\"]\r\n[PlyCount \"80\"]\r\n[TimeControl \"60\/120:0\"]{Auch im hohen Alter war Hilmar ein wichtiger Leistungstr\u00e4ger in unserer ersten BMM-Mannschaft. Hier eine Partie aus seiner vorletzten BMM-Saison.} 1. e4 e5 2. d4 exd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 d6 6. Bf4\r\nBe7 7. Nbd2 Nf6 8. h3 O-O 9. Qc2 h6 10. g4 Nd7 11. O-O-O Nde5 12. Be2 Be6 13.\r\nKb1 Bf6 14. Be3 a6 15. Nd4 Bd7 16. f4 Ng6 17. N4f3 b5 18. g5 hxg5 19. fxg5 Be5\r\n20. h4 Nf4 21. Bxf4 Bxf4 22. Rdg1 Ne5 23. Nd4 c5 24. Nf5 d5 25. Nf3 dxe4 26.\r\nQxe4 Ng6 27. h5 $2 {etwas zu forsch} (27. Rd1 {z.B.} Re8) 27... Re8 28. Qd5 Ne5\r\n29. Nh6+ {Wei\u00df -2,3, aber weiter im Plan\u2026.} gxh6 30. gxh6+ Kh8 {\r\nbester. Nun geht es f\u00fcr Wei\u00df nicht so richtig weiter} 31. Ka1 Bc6 32. Qxc5 Nxf3\r\n33. Qxc6 Nxg1 34. Rxg1 Rxe2 35. Qf3 Qe8 36. a3 Re1+ 37. Rxe1 Qxe1+ 38. Ka2 Qe6+\r\n39. Kb1 Qf5+ 40. Ka2 Rd8 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
+        });
+    </script>
+</div>
+<p class="rpbchessboard-spacerAfter"></p>
+</div>
+<div class="hilmargames_opt" id="hilmargames_opt_b" style="display: none;">
+<p class="rpbchessboard-spacerBefore"></p>
+<div class="rpbchessboard-chessgame" id="rpbchessboard-68037ffe76a82-2">
+<noscript>
+<div class="rpbchessboard-javascriptWarning">
+            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
+</noscript>
+<div class="rpbchessboard-chessgameAnchor"></div>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+            var selector = '#' + "rpbchessboard-68037ffe76a82-2" + ' .rpbchessboard-chessgameAnchor';
+            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"26. Berliner Senioreneinzelmeisterschaft\"]\r\n[Site \"Berlin\"]\r\n[Date \"2010.02.14\"]\r\n[Round \"6.16\"]\r\n[White \"Itkins, Boriss\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"1747\"]\r\n[BlackElo \"1947\"]\r\n[ECO \"C89\"]\r\n[EventDate \"2010.??.??\"]\r\n[Annotator \"Jonatan Schenk\"]\r\n[PlyCount \"80\"]\r\n[WhiteTeam \"SV Berolina Mitte e.V.\"]\r\n[BlackTeam \"SG Narva Berlin e.V.\"]{Kleine Ungenauigkeiten bestrafte Hilmar sofort, wie in dieser Partie von der Senioreneinzelmeisterschaft 2010.} 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5\r\n9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4\r\nBd7 16.Qf1 Qxf1+ 17.Kxf1 f5 18.Rh4 $6\r\n{So eine Spielweise durfte man sich gegen Hilmar nicht erlauben!}\r\n( 18.Re1 $14 )\r\n18...Be7 19.Rh3 Rae8 20.Bxd5+ $6\r\n( 20.f4 $15 {w\u00e4re hier m\u00f6glich gewesen. Ohne den wei\u00dffeldrigen L\u00e4ufer kann Wei\u00df die Platzierung des Turms auf h3 nicht mehr rechtfertigen.} )\r\n20...cxd5 21.f4 $2\r\n( 21.Bf4 $17 {w\u00e4re notwendig, aber auch danach ist Hilmars Stellung eindeutig zu bevorzugen.} )\r\n21...b4 22.Be3 Bd8 23.Kf2 Rf6 24.Nd2 Rfe6 25.Re1 bxc3 26.bxc3 Ba5 27.Nb1\r\nRb6 28.Rc1 Rb2+ 29.Nd2 Rxa2 30.g4 g6 31.gxf5 Bxf5 32.Rg3 Rc8 33.Kg1 Rxc3\r\n34.Rxc3 Bxc3 35.Rg2 a5 36.Nb3 Rxg2+ 37.Kxg2 a4 38.Bd2 Bb2 39.Bc1 a3 40.Kf2\r\nBc2 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
+        });
+    </script>
+</div>
+<p class="rpbchessboard-spacerAfter"></p>
+</div>
+<div class="hilmargames_opt" id="hilmargames_opt_c" style="display: none;">
+<p class="rpbchessboard-spacerBefore"></p>
+<div class="rpbchessboard-chessgame" id="rpbchessboard-68037ffe76a82-3">
+<noscript>
+<div class="rpbchessboard-javascriptWarning">
+            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
+</noscript>
+<div class="rpbchessboard-chessgameAnchor"></div>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+            var selector = '#' + "rpbchessboard-68037ffe76a82-3" + ' .rpbchessboard-chessgameAnchor';
+            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"NARVA Schnellschach 2010\"]\r\n[Site \"?\"]\r\n[Date \"2010.11.18\"]\r\n[Round \"?\"]\r\n[White \"Maetzing, Hans-Dieter\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"D00\"]\r\n[Annotator \"Dr. Hans-Dieter Maetzing\"]\r\n[PlyCount \"74\"]\r\n[EventDate \"2010.??.??\"]{Die Spitzenpartie aus unserer Schnellschachmeisterschaft 2010 mit Dieters Originalkommentar:} 1. Nc3 Nf6 2. d4 d5 3. Nf3 Bg4 4. Ne5 Bh5 5. Bf4 c6 6. f3 Nbd7 7. Qd3 (7. g4 {\r\nBesser ist} Bg6 {, z.B.} 8. e4 Qb6 9. Nxg6 hxg6 10. e5 Qxb2 11. Bd2) 7... e6 8.\r\ng4 Nxe5 9. dxe5 ({Das ist bereits ein Fehler, denn der Bauer e5 wird schwach,\r\nbesser ist} 9. Bxe5 Bg6 10. Qd2 Nd7) 9... Bg6 10. Qd2 Nd7 11. h4 {Dieser und\r\nauch mein n\u00e4chster Zug st\u00e4rkt nur die schwarze Stellung. Vielleicht ist 0-0-0\r\nbesser.} h5 12. g5 Bb4 13. a3 Qa5 {Da haben wir den Salat &#8230;} 14. e3 O-O 15.\r\nKf2 {Auch hier sieht 0-0-0 besser aus &#8230;} Bxc3 16. bxc3 Nc5 {Jetzt beginnt\r\nHilmars Tanz mit dem Teufel, \u00e4h mit dem Springer &#8230;} 17. Be2 Na4 18. Bd3 Bxd3\r\n19. cxd3 Qxc3 {In gewonnener Stellung darf man schon mal das noch bessere Sxc3\r\nauslassen.} 20. Qxc3 Nxc3 21. Rhc1 Na4 22. d4 $2 ({Eindeutig besser ist} 22.\r\nRab1 Nb6 {mit gewissen Schwindelchancen!}) 22... Nb2 {Nun tanzt er wieder!} 23.\r\nRc3 Nc4 24. e4 b5 25. exd5 cxd5 26. Rb1 a6 27. Bc1 Rab8 28. Rcb3 Na5 29. R3b2\r\nRfc8 30. a4 b4 31. Bd2 Nc6 32. Ke3 a5 33. Rc1 Ne7 34. Rh1 Rc4 35. Kd3 Rbc8 36.\r\nRb3 Nf5 37. Rbb1 Rxd4+ 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
+        });
+    </script>
+</div>
+<p class="rpbchessboard-spacerAfter"></p>
+</div>
+<div class="hilmargames_opt" id="hilmargames_opt_d" style="display: none;">
+<p class="rpbchessboard-spacerBefore"></p>
+<div class="rpbchessboard-chessgame" id="rpbchessboard-68037ffe76a82-4">
+<noscript>
+<div class="rpbchessboard-javascriptWarning">
+            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
+</noscript>
+<div class="rpbchessboard-chessgameAnchor"></div>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+            var selector = '#' + "rpbchessboard-68037ffe76a82-4" + ' .rpbchessboard-chessgameAnchor';
+            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Cappelle op 06th\"]\r\n[White \"Petzold,Hilmar\"]\r\n[Black \"Moingt,Jean Claude\"]\r\n[Site \"Cappelle la Grande\"]\r\n[Round \"5\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1990.02.21\"]\r\n[WhiteElo \"2160\"]\r\n[BlackElo \"2265\"]\r\n[PlyCount \"37\"]{Ein Remis gegen einen (Bald-?)FM &#8211; der Titel wurde Hilmars Gegner im selben Jahr verliehen.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. O-O Nc6 9. Nb3 a5 10. a4 Be6 11. Nd4 Nxd4 12. Bxd4 Rc8 13. f3 Bc4 14. Qd2 e5 15. Be3 Bxe2 16. Qxe2 d5 17. exd5 Nxd5 18. Nxd5 Qxd5 19. Rfd1 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
+        });
+    </script>
+</div>
+<p class="rpbchessboard-spacerAfter"></p>
+</div>
+<div class="hilmargames_opt" id="hilmargames_opt_e" style="display: none;">
+<p class="rpbchessboard-spacerBefore"></p>
+<div class="rpbchessboard-chessgame" id="rpbchessboard-68037ffe76a82-5">
+<noscript>
+<div class="rpbchessboard-javascriptWarning">
+            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
+</noscript>
+<div class="rpbchessboard-chessgameAnchor"></div>
+<script type="text/javascript">
+        jQuery(document).ready(function($) {
+            var selector = '#' + "rpbchessboard-68037ffe76a82-5" + ' .rpbchessboard-chessgameAnchor';
+            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Rostock-04 IM Group\"]\r\n[White \"Schurade,Matthias\"]\r\n[Black \"Petzold,Hilmar\"]\r\n[Site \"Rostock\"]\r\n[Round \"4\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1978.08.30\"]\r\n[WhiteElo \"2350\"]\r\n[PlyCount \"44\"]{Noch ein Remis gegen einen sehr starken Gegner.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4 d6 9. c3 Nd7 10. Nbd2 Bf6 11. Nf1 Re8 12. Ng3 g6 13. Bd5 Bb7 14. dxe5 dxe5 15. Be3 Na5 16. Bxb7 Nxb7 17. Qc2 Qe7 18. c4 b4 19. Nf1 Ndc5 20. Bxc5 Nxc5 21. Ne3 c6 22. Red1 Red8 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
+        });
+    </script>
+</div>
+<p class="rpbchessboard-spacerAfter"></p>
+</div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/nachruf/" rel="category tag">Nachruf</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/#comments">3 Kommentare</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13439 
 <div class="post-13532 post type-post status-publish format-standard hentry category-skat" id="post-13532">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/04/13/skat-am-gruendonnerstag-17-04-25/" rel="bookmark">Skat am Gründonnerstag 17.04.25</a></h2>
 <div class="entry-meta">
@@ -20,7 +155,7 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <p>Wir spielen nach der internationalen Skatordnung: <a href="https://dskv.de/app/uploads/sites/43/2022/11/ISkO-2022.pdf" rel="noopener" target="_blank">Link</a></p>
 <p>Gut Blatt !</p>
 <p><a href="http://www.narva-schach.de/wordpress/chronik/skat/">Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" decoding="async" height="247" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920.jpg"><img alt="" decoding="async" height="247" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2019/04/playing-cards-262057_1920-300x247.jpg" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -44,7 +179,7 @@ Jan-Hendrik in Gruppe G</p>
 <p><strong>Oliver</strong> hat sich der Herausforderung D-Gruppe gestellt, auf den ersten Blick „nur“ 2 Punkte geholt, macht aber trotzdem einige DWZ-Punkte Plus.</p>
 <p><strong>Ekkehard</strong> wird nicht ganz zufrieden sein, die C-Gruppe ist ein hartes Brot, er kam auf 2 Punkte.</p>
 <p><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome.jpg"><img alt="" class="aligncenter wp-image-13521" decoding="async" height="146" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome.jpg 923w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome-300x88.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome-768x225.jpg 768w" width="500"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome.jpg"><img alt="" class="aligncenter wp-image-13521" decoding="async" height="146" loading="lazy" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome.jpg 923w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome-300x88.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/04/Screenshot_20250406_215057_Chrome-768x225.jpg 768w" width="500"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -156,134 +291,6 @@ Gerhard erreichte Platz 17 mit 4 Punkten und kam dahinter auf Platz 2 der U1900 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/03/16/runde-7-wichtige-siege/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13466 
-<div class="post-13439 post type-post status-publish format-standard hentry category-allgemein category-nachruf" id="post-13439">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark">Hilmar Petzold verstorben</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark" title="13:33"><span class="entry-date">4. März 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Am 25.02.2025 hat uns Hilmar Petzold im Alter von 85 Jahren für immer verlassen.</strong></p>
-<p><em><span style="color: #ff0000;">Die Beisetzung findet am 16.04. um 11 Uhr auf dem St. Hedwig-Friedhof Pankow-Weißensee (Smetanastraße 36-54, 13088 Berlin) statt.</span></em></p>
-<p>Hilmar kämpfte zuletzt immer wieder mit Rückschlägen, war aber wie ein Steh-Auf-Männchen immer wieder aktiv, auch im Club bei unserer Backgammon Gruppe. Klaus hatte regelmäßig Kontakt zu ihm, auch am Wahlsonntag noch. Am Dienstag ging es dann aber wohl ganz schnell.</p>
-<div class="wp-caption alignleft" id="attachment_13437" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-scaled.jpg"><img alt="" aria-describedby="caption-attachment-13437" class="wp-image-13437 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_3243-scaled.jpg 1920w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-13437"><strong>* 30.08.1939 – † 25.02.2025</strong></p></div>
-<p>Mit Hilmar verlässt ein Großer des Berliner Schachs die Bühne. Bei NARVA war er seit 2008, davor bei Empor Berlin und der TSG Oberschöneweide, passiv war er bis zuletzt auch beim SK Tempelhof. Als Berliner Pokalsieger 1994 hat er sich auch in die Ehrentafel beim BSV eingetragen. Mit TSG spielte Hilmar auch in der Oberliga. Außerdem war er sehr aktiv im Betriebsschach bei der Deutschen Bahn und spielte auch zuletzt noch aktiv bei Turnieren vom BSW (Bahn Sozialwerk) mit. Als Hilmar 2008 zu NARVA kam, war er auch direkt die Nummer 1 der 1.Mannschaft und über viele Jahre ein verlässliches und starkes Spitzenbrett.</p>
-<p>Zuletzt wurden seine Einsätze seltener, nicht nur das er über viele Jahre bereits seine Frau begleiten und pflegen musste, auch er selbst konnte nach einer Erkrankung 2022, wo wir ihn schon vermisst hatten und uns durch diverse Krankenhäuser gefragt hatten, nicht mehr so wie er gerne gewollt hätte. Seine Begeisterung fürs Schach war aber weiterhin ungebrochen, er wollte auch immer über alles auf dem Laufenden sein und alle Aufstellungen und Ergebnisse wissen. Auch die Aufstellungen der Gegner waren ihn immer wichtig, kannte er doch fast jeden im Berliner Schach.</p>
-<p>NARVA, das Berliner Schach, natürlich seine Familie und alle seine Freunde und Weggefährten, verlieren mit Hilmar einen großartigen Menschen! Wir Danken für die Zeit die wir mit Dir verbringen durften!</p>
-<div class="wp-caption alignright" id="attachment_13436" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-scaled.jpg"><img alt="" aria-describedby="caption-attachment-13436" class="wp-image-13436 size-medium" decoding="async" height="300" loading="lazy" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/03/100_7271-scaled.jpg 1920w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-13436">Bei der Senioreneinzelmeisterschaft 2010</p></div>
-<p><span style="text-decoration: underline;">Rudolf Lange:</span><em> „Hilmar war eine Bank in der ersten Mannschaft! Das lag nicht nur an den vielen erkämpften Punkten, sondern auch an seinen präzisen Analysen und Tipps. Von denen durften im Lauf der Jahre viele NARVA-Spieler profitieren.</em><br/>
-<em>Am Brett, insbesondere im Blitz führte Hilmar eine scharfe Klinge. Sein Positionsspiel brachte mich des Öfteren zur Verzweiflung…</em><br/>
-<em>Vor allem aber war Hilmar ein Gentleman – elegant und besonnen, verlässlich und höflich. Wenn es mal laut wurde – das kommt auch beim Schach vor – dann sorgte das Spitzenbrett mit ruhiger Stimme für Abkühlung.</em><br/>
-<em>Danke Hilmar. Für alles.“</em></p>
-<p><span style="text-decoration: underline;">Günter Idaczek:</span> <em>„R.I.P. Hilmar. Ich habe seine Ideen in seinen Partien oder auch in den einigen gemeinsamen Analysen bewundert!“</em></p>
-<p><span style="text-decoration: underline;">Ekkehard Krüger:</span> <em>„Ein unruhiger kluger Kopf, der unvergessen bleibt!“</em></p>
-<p>Wenn der Termin zur Beisetzung bekannt ist, informieren wir.</p>
-<p><a href="https://www.empor-schach.de/2025/03/hilmar-petzold-verstorben/" rel="noopener" target="_blank">Nachruf bei Empor</a><br/>
-<a href="https://schachklub-tempelhof.de/abschied-in-trauer-von-schachfreund-hilmar-petzold-30-08-1939-%e2%80%a0-25-02-2025/#more-10319" rel="noopener" target="_blank">Nachruf bei SK Tempelhof</a></p>
-<h3>Partiebeispiele</h3>
-<p>Hier noch eine kleine Auswahl von Hilmars Partien.</p>
-<p><script>
-function showItem(prefix,val) {
-  var opts = document.getElementsByClassName(prefix+"_opt");
-  console.log(opts);
-  for (var i = 0;i<opts.length;i++) {
-    opts.item(i).style="display:none;";
-  }
-  opts.namedItem(prefix+"_opt_"+val).style="";
-}
-</script></p>
-<p><select><option selected="selected" value="a">Hoppe - Petzold</option><option value="b">Itkins - Petzold</option><option value="c">Maetzing - Petzold</option><option value="d">Petzold - Moingt</option><option value="e">Schurade - Petzold</option></select></p>
-<div class="hilmargames_opt" id="hilmargames_opt_a">
-<p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68022e9fda610-1">
-<noscript>
-<div class="rpbchessboard-javascriptWarning">
-            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
-</noscript>
-<div class="rpbchessboard-chessgameAnchor"></div>
-<script type="text/javascript">
-        jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68022e9fda610-1" + ' .rpbchessboard-chessgameAnchor';
-            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"BMM 2019\/20\"]\r\n[Site \"Berlin\"]\r\n[Date \"2019.11.10\"]\r\n[Round \"2.5\"]\r\n[White \"Hoppe, Frank\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"C44\"]\r\n[WhiteElo \"1908\"]\r\n[BlackElo \"1912\"]\r\n[Annotator \"Thomas Mothes\"]\r\n[PlyCount \"80\"]\r\n[TimeControl \"60\/120:0\"]{Auch im hohen Alter war Hilmar ein wichtiger Leistungstr\u00e4ger in unserer ersten BMM-Mannschaft. Hier eine Partie aus seiner vorletzten BMM-Saison.} 1. e4 e5 2. d4 exd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 d6 6. Bf4\r\nBe7 7. Nbd2 Nf6 8. h3 O-O 9. Qc2 h6 10. g4 Nd7 11. O-O-O Nde5 12. Be2 Be6 13.\r\nKb1 Bf6 14. Be3 a6 15. Nd4 Bd7 16. f4 Ng6 17. N4f3 b5 18. g5 hxg5 19. fxg5 Be5\r\n20. h4 Nf4 21. Bxf4 Bxf4 22. Rdg1 Ne5 23. Nd4 c5 24. Nf5 d5 25. Nf3 dxe4 26.\r\nQxe4 Ng6 27. h5 $2 {etwas zu forsch} (27. Rd1 {z.B.} Re8) 27... Re8 28. Qd5 Ne5\r\n29. Nh6+ {Wei\u00df -2,3, aber weiter im Plan\u2026.} gxh6 30. gxh6+ Kh8 {\r\nbester. Nun geht es f\u00fcr Wei\u00df nicht so richtig weiter} 31. Ka1 Bc6 32. Qxc5 Nxf3\r\n33. Qxc6 Nxg1 34. Rxg1 Rxe2 35. Qf3 Qe8 36. a3 Re1+ 37. Rxe1 Qxe1+ 38. Ka2 Qe6+\r\n39. Kb1 Qf5+ 40. Ka2 Rd8 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
-        });
-    </script>
-</div>
-<p class="rpbchessboard-spacerAfter"></p>
-</div>
-<div class="hilmargames_opt" id="hilmargames_opt_b" style="display: none;">
-<p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68022e9fda610-2">
-<noscript>
-<div class="rpbchessboard-javascriptWarning">
-            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
-</noscript>
-<div class="rpbchessboard-chessgameAnchor"></div>
-<script type="text/javascript">
-        jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68022e9fda610-2" + ' .rpbchessboard-chessgameAnchor';
-            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"26. Berliner Senioreneinzelmeisterschaft\"]\r\n[Site \"Berlin\"]\r\n[Date \"2010.02.14\"]\r\n[Round \"6.16\"]\r\n[White \"Itkins, Boriss\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"1747\"]\r\n[BlackElo \"1947\"]\r\n[ECO \"C89\"]\r\n[EventDate \"2010.??.??\"]\r\n[Annotator \"Jonatan Schenk\"]\r\n[PlyCount \"80\"]\r\n[WhiteTeam \"SV Berolina Mitte e.V.\"]\r\n[BlackTeam \"SG Narva Berlin e.V.\"]{Kleine Ungenauigkeiten bestrafte Hilmar sofort, wie in dieser Partie von der Senioreneinzelmeisterschaft 2010.} 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5\r\n9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4\r\nBd7 16.Qf1 Qxf1+ 17.Kxf1 f5 18.Rh4 $6\r\n{So eine Spielweise durfte man sich gegen Hilmar nicht erlauben!}\r\n( 18.Re1 $14 )\r\n18...Be7 19.Rh3 Rae8 20.Bxd5+ $6\r\n( 20.f4 $15 {w\u00e4re hier m\u00f6glich gewesen. Ohne den wei\u00dffeldrigen L\u00e4ufer kann Wei\u00df die Platzierung des Turms auf h3 nicht mehr rechtfertigen.} )\r\n20...cxd5 21.f4 $2\r\n( 21.Bf4 $17 {w\u00e4re notwendig, aber auch danach ist Hilmars Stellung eindeutig zu bevorzugen.} )\r\n21...b4 22.Be3 Bd8 23.Kf2 Rf6 24.Nd2 Rfe6 25.Re1 bxc3 26.bxc3 Ba5 27.Nb1\r\nRb6 28.Rc1 Rb2+ 29.Nd2 Rxa2 30.g4 g6 31.gxf5 Bxf5 32.Rg3 Rc8 33.Kg1 Rxc3\r\n34.Rxc3 Bxc3 35.Rg2 a5 36.Nb3 Rxg2+ 37.Kxg2 a4 38.Bd2 Bb2 39.Bc1 a3 40.Kf2\r\nBc2 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
-        });
-    </script>
-</div>
-<p class="rpbchessboard-spacerAfter"></p>
-</div>
-<div class="hilmargames_opt" id="hilmargames_opt_c" style="display: none;">
-<p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68022e9fda610-3">
-<noscript>
-<div class="rpbchessboard-javascriptWarning">
-            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
-</noscript>
-<div class="rpbchessboard-chessgameAnchor"></div>
-<script type="text/javascript">
-        jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68022e9fda610-3" + ' .rpbchessboard-chessgameAnchor';
-            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"NARVA Schnellschach 2010\"]\r\n[Site \"?\"]\r\n[Date \"2010.11.18\"]\r\n[Round \"?\"]\r\n[White \"Maetzing, Hans-Dieter\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"D00\"]\r\n[Annotator \"Dr. Hans-Dieter Maetzing\"]\r\n[PlyCount \"74\"]\r\n[EventDate \"2010.??.??\"]{Die Spitzenpartie aus unserer Schnellschachmeisterschaft 2010 mit Dieters Originalkommentar:} 1. Nc3 Nf6 2. d4 d5 3. Nf3 Bg4 4. Ne5 Bh5 5. Bf4 c6 6. f3 Nbd7 7. Qd3 (7. g4 {\r\nBesser ist} Bg6 {, z.B.} 8. e4 Qb6 9. Nxg6 hxg6 10. e5 Qxb2 11. Bd2) 7... e6 8.\r\ng4 Nxe5 9. dxe5 ({Das ist bereits ein Fehler, denn der Bauer e5 wird schwach,\r\nbesser ist} 9. Bxe5 Bg6 10. Qd2 Nd7) 9... Bg6 10. Qd2 Nd7 11. h4 {Dieser und\r\nauch mein n\u00e4chster Zug st\u00e4rkt nur die schwarze Stellung. Vielleicht ist 0-0-0\r\nbesser.} h5 12. g5 Bb4 13. a3 Qa5 {Da haben wir den Salat &#8230;} 14. e3 O-O 15.\r\nKf2 {Auch hier sieht 0-0-0 besser aus &#8230;} Bxc3 16. bxc3 Nc5 {Jetzt beginnt\r\nHilmars Tanz mit dem Teufel, \u00e4h mit dem Springer &#8230;} 17. Be2 Na4 18. Bd3 Bxd3\r\n19. cxd3 Qxc3 {In gewonnener Stellung darf man schon mal das noch bessere Sxc3\r\nauslassen.} 20. Qxc3 Nxc3 21. Rhc1 Na4 22. d4 $2 ({Eindeutig besser ist} 22.\r\nRab1 Nb6 {mit gewissen Schwindelchancen!}) 22... Nb2 {Nun tanzt er wieder!} 23.\r\nRc3 Nc4 24. e4 b5 25. exd5 cxd5 26. Rb1 a6 27. Bc1 Rab8 28. Rcb3 Na5 29. R3b2\r\nRfc8 30. a4 b4 31. Bd2 Nc6 32. Ke3 a5 33. Rc1 Ne7 34. Rh1 Rc4 35. Kd3 Rbc8 36.\r\nRb3 Nf5 37. Rbb1 Rxd4+ 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
-        });
-    </script>
-</div>
-<p class="rpbchessboard-spacerAfter"></p>
-</div>
-<div class="hilmargames_opt" id="hilmargames_opt_d" style="display: none;">
-<p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68022e9fda610-4">
-<noscript>
-<div class="rpbchessboard-javascriptWarning">
-            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
-</noscript>
-<div class="rpbchessboard-chessgameAnchor"></div>
-<script type="text/javascript">
-        jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68022e9fda610-4" + ' .rpbchessboard-chessgameAnchor';
-            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Cappelle op 06th\"]\r\n[White \"Petzold,Hilmar\"]\r\n[Black \"Moingt,Jean Claude\"]\r\n[Site \"Cappelle la Grande\"]\r\n[Round \"5\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1990.02.21\"]\r\n[WhiteElo \"2160\"]\r\n[BlackElo \"2265\"]\r\n[PlyCount \"37\"]{Ein Remis gegen einen (Bald-?)FM &#8211; der Titel wurde Hilmars Gegner im selben Jahr verliehen.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. O-O Nc6 9. Nb3 a5 10. a4 Be6 11. Nd4 Nxd4 12. Bxd4 Rc8 13. f3 Bc4 14. Qd2 e5 15. Be3 Bxe2 16. Qxe2 d5 17. exd5 Nxd5 18. Nxd5 Qxd5 19. Rfd1 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
-        });
-    </script>
-</div>
-<p class="rpbchessboard-spacerAfter"></p>
-</div>
-<div class="hilmargames_opt" id="hilmargames_opt_e" style="display: none;">
-<p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68022e9fda610-5">
-<noscript>
-<div class="rpbchessboard-javascriptWarning">
-            Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
-</noscript>
-<div class="rpbchessboard-chessgameAnchor"></div>
-<script type="text/javascript">
-        jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68022e9fda610-5" + ' .rpbchessboard-chessgameAnchor';
-            RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Rostock-04 IM Group\"]\r\n[White \"Schurade,Matthias\"]\r\n[Black \"Petzold,Hilmar\"]\r\n[Site \"Rostock\"]\r\n[Round \"4\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1978.08.30\"]\r\n[WhiteElo \"2350\"]\r\n[PlyCount \"44\"]{Noch ein Remis gegen einen sehr starken Gegner.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4 d6 9. c3 Nd7 10. Nbd2 Bf6 11. Nf1 Re8 12. Ng3 g6 13. Bd5 Bb7 14. dxe5 dxe5 15. Be3 Na5 16. Bxb7 Nxb7 17. Qc2 Qe7 18. c4 b4 19. Nf1 Ndc5 20. Bxc5 Nxc5 21. Ne3 c6 22. Red1 Red8 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
-        });
-    </script>
-</div>
-<p class="rpbchessboard-spacerAfter"></p>
-</div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/nachruf/" rel="category tag">Nachruf</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/#comments">3 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13439 
 <div class="post-13452 post type-post status-publish format-standard hentry category-sg-narva" id="post-13452">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/03/04/hauptversammlung-hauptverein/" rel="bookmark">Hauptversammlung Hauptverein</a></h2>
 <div class="entry-meta">
