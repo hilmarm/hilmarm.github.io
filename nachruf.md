@@ -58,7 +58,7 @@ parent_title: Chronik
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/" rel="bookmark" title="13:33"><span class="entry-date">4. März 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-summary">
-<p>Am 25.02.2025 hat uns Hilmar Petzold im Alter von 85 Jahren für immer verlassen. Die Beisetzung findet am 16.04. um 11 Uhr auf dem St. Hedwig-Friedhof Pankow-Weißensee (Smetanastraße 36-54, 13088 Berlin) statt. Hilmar kämpfte zuletzt immer wieder mit Rückschlägen, war … <a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/">Weiterlesen <span class="meta-nav">→</span></a></p>
+<p>Am 25.02.2025 hat uns Hilmar Petzold im Alter von 85 Jahren für immer verlassen. Die Beisetzung fand am 16.04. um 11 Uhr auf dem St. Hedwig-Friedhof Pankow-Weißensee (Smetanastraße 36-54, 13088 Berlin) statt. Hilmar kämpfte zuletzt immer wieder mit Rückschlägen, war … <a href="https://www.narva-schach.de/wordpress/2025/03/04/hilmar-petzold-verstorben/">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-summary -->
 <div class="entry-utility">
 <span class="cat-links">
