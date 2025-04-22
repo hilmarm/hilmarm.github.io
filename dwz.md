@@ -147,19 +147,19 @@ navs:
 </tr>
 <tr>
 <td>15.</td>
+<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
+<td></td>
+<td>1755</td>
+<td>76</td>
+<td>1838</td>
+</tr>
+<tr>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10101963.html" target="_blank"> Magnus Keller</a></td>
 <td></td>
 <td>1752</td>
 <td>63</td>
 <td>1769</td>
-</tr>
-<tr>
-<td>16.</td>
-<td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
-<td></td>
-<td>1750</td>
-<td>76</td>
-<td>1838</td>
 </tr>
 <tr>
 <td>17.</td>
