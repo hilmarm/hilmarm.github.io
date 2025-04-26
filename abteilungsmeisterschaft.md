@@ -46,7 +46,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Maetzing,Hans-Di</td>
 <td>(2)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ parent_title: Turniere
 <td>7</td>
 <td>Mietzelfeldt,Ger</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>

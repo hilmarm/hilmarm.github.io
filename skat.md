@@ -217,6 +217,10 @@ parent_title: Chronik
 <td align="left">2024</td>
 <td align="left">Peter Hintze</td>
 </tr>
+<tr>
+<td align="left">2025</td>
+<td align="left">Wolfgang Mach</td>
+</tr>
 </tbody>
 </table>
 <h2 align="center"><span style="text-decoration: underline;"><b>!! Grand Ouvert !! </b>von Torsten Behrendt am 17.01.1991</span></h2>
@@ -224,6 +228,17 @@ parent_title: Chronik
 <h1 align="center"><strong><u>Einzelergebnisse</u></strong></h1>
 </div>
 <hr/>
+<h3>2025</h3>
+<p>1. Wolfgang Mach 1338<br/>
+2. Dr. Hans-Dieter Maetzing 1085<br/>
+3. Peter Hintze 1050<br/>
+4. Jonatan Schenk 1044<br/>
+5. Klaus Brinckmann 960<br/>
+6. Ekkehard Krüger 906<br/>
+7. Tom Bradschetl 725<br/>
+8. Wesko Heinrich 694<br/>
+9. Eberhard Herrmann (G) 684<br/>
+10. Jan-Hendrik Bahr 155</p>
 <h3>2024</h3>
 <h4>04. April 2024</h4>
 <table>
