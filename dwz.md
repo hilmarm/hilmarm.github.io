@@ -115,27 +115,27 @@ navs:
 </tr>
 <tr>
 <td>11.</td>
+<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
+<td></td>
+<td>1861</td>
+<td>13</td>
+<td>1883</td>
+</tr>
+<tr>
+<td>12.</td>
+<td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
+<td></td>
+<td>1847</td>
+<td>9</td>
+<td>1885</td>
+</tr>
+<tr>
+<td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
 <td>1830</td>
 <td>65</td>
 <td>1921</td>
-</tr>
-<tr>
-<td>12.</td>
-<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
-<td></td>
-<td>1827</td>
-<td>12</td>
-<td>1883</td>
-</tr>
-<tr>
-<td>13.</td>
-<td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
-<td></td>
-<td>1813</td>
-<td>8</td>
-<td>1885</td>
 </tr>
 <tr>
 <td>14.</td>
