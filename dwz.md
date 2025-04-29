@@ -117,7 +117,7 @@ navs:
 <td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
 <td></td>
-<td>1861</td>
+<td>1857</td>
 <td>13</td>
 <td>1883</td>
 </tr>
@@ -125,7 +125,7 @@ navs:
 <td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
-<td>1847</td>
+<td>1841</td>
 <td>9</td>
 <td>1885</td>
 </tr>
