@@ -70,7 +70,7 @@ parent_title: Turniere
 <td>14</td>
 <td>Magnusson,Hilmar</td>
 <td>()</td>
-<td></td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>

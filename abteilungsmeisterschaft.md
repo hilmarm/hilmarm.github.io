@@ -305,7 +305,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Mach,Wolfgang</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

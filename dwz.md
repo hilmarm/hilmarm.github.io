@@ -53,8 +53,8 @@ navs:
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2067</td>
-<td>491</td>
+<td>2069</td>
+<td>492</td>
 <td></td>
 </tr>
 <tr>
