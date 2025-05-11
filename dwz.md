@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2229</td>
 <td>63</td>
-<td>2180</td>
+<td>2182</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -47,15 +47,15 @@ navs:
 <td></td>
 <td>2098</td>
 <td>182</td>
-<td>2123</td>
+<td>2121</td>
 </tr>
 <tr>
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2069</td>
-<td>492</td>
-<td></td>
+<td>2075</td>
+<td>493</td>
+<td>2023</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1934</td>
 <td>63</td>
-<td>2000</td>
+<td>1983</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -119,7 +119,7 @@ navs:
 <td></td>
 <td>1867</td>
 <td>14</td>
-<td>1883</td>
+<td>1842</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -143,7 +143,7 @@ navs:
 <td></td>
 <td>1799</td>
 <td>106</td>
-<td>1906</td>
+<td>1899</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -191,7 +191,7 @@ navs:
 <td></td>
 <td>1669</td>
 <td>113</td>
-<td>1855</td>
+<td>1829</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -199,7 +199,7 @@ navs:
 <td></td>
 <td>1654</td>
 <td>65</td>
-<td>0</td>
+<td></td>
 </tr>
 <tr>
 <td>22.</td>
@@ -215,7 +215,7 @@ navs:
 <td></td>
 <td>1587</td>
 <td>87</td>
-<td>1840</td>
+<td>1843</td>
 </tr>
 <tr>
 <td>24.</td>
@@ -255,7 +255,7 @@ navs:
 <td></td>
 <td>1531</td>
 <td>12</td>
-<td>1637</td>
+<td>1691</td>
 </tr>
 <tr>
 <td>29.</td>
@@ -335,7 +335,7 @@ navs:
 <td></td>
 <td>1310</td>
 <td>12</td>
-<td>1598</td>
+<td>0</td>
 </tr>
 <tr>
 <td>39.</td>
