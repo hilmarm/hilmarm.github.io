@@ -20,6 +20,11 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>Runde 3 am 17. Juli</h2>
+<p>Hintze – Brinckmann<br/>
+Özates – Krüger<br/>
+Stüve – Schenk/Arnold<br/>
+Lange – Werner</p>
 <h2>Runde 2 am 15. Mai</h2>
 <table class="clean swiss footable">
 <thead>
@@ -58,7 +63,7 @@ parent_title: Turniere
 <td>12</td>
 <td>Lange,Rudolf</td>
 <td>()</td>
-<td></td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
