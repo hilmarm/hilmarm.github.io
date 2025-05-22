@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://grenkechessopen.de/de/" rel="noopener" target="_blank">Grenke Chess Open</a></td>
-<td>17.04.-21.04.2025</td>
-<td>Batu, Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2025.html" rel="noopener" target="_blank">BEM Qualifikationsturnier</a></td>
-<td>19.04.-27.04.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>23.05.-25.05.2025</td>
 <td>Rudolf, Thomas</td>
@@ -40,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-24-mai-2025.html" rel="noopener" target="_blank">Schachturnier in Karlshorst</a></td>
 <td>24.05.2025</td>
-<td></td>
+<td>Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.sglasker.de/teschner.html" rel="noopener" target="_blank">Teschner Gedenkturnier 2025</a></td>
@@ -50,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://stickchess.com/delft25/participants" rel="noopener" target="_blank">Kroeglopen Delft 2025</a></td>
 <td>07.06.2025</td>
-<td>Lasko, Thomas, Schaakhuis</td>
+<td>Bernd, Norbert, Lasko, Thomas, (Sven)</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://bughouse-berlin.de/" rel="noopener" target="_blank">Bughouse Open</a></td>
@@ -65,7 +55,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.friesen-lichtenberg.de/Lichtenberger_Sommer/LS_25/lichtenberger_sommer_2025.htm" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
 <td>23.08.-31.08.2025</td>
-<td></td>
+<td>Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
