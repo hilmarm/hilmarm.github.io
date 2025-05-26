@@ -53,8 +53,8 @@ navs:
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2075</td>
-<td>493</td>
+<td>2039</td>
+<td>494</td>
 <td>2023</td>
 </tr>
 <tr>
@@ -123,19 +123,19 @@ navs:
 </tr>
 <tr>
 <td>12.</td>
+<td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
+<td></td>
+<td>1857</td>
+<td>66</td>
+<td>1921</td>
+</tr>
+<tr>
+<td>13.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
 <td>1841</td>
 <td>9</td>
 <td>1885</td>
-</tr>
-<tr>
-<td>13.</td>
-<td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
-<td></td>
-<td>1830</td>
-<td>65</td>
-<td>1921</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -203,6 +203,14 @@ navs:
 </tr>
 <tr>
 <td>22.</td>
+<td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
+<td></td>
+<td>1636</td>
+<td>78</td>
+<td>1755</td>
+</tr>
+<tr>
+<td>23.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1604</td>
@@ -210,20 +218,12 @@ navs:
 <td>1801</td>
 </tr>
 <tr>
-<td>23.</td>
+<td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
 <td>1587</td>
 <td>87</td>
 <td>1843</td>
-</tr>
-<tr>
-<td>24.</td>
-<td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
-<td></td>
-<td>1585</td>
-<td>77</td>
-<td>1755</td>
 </tr>
 <tr>
 <td>25.</td>
