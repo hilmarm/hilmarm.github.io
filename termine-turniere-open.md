@@ -39,7 +39,7 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://stickchess.com/delft25/participants" rel="noopener" target="_blank">Kroeglopen Delft 2025</a></td>
-<td>07.06.2025</td>
+<td>08.06.2025</td>
 <td>Bernd, Norbert, Lasko, Thomas, (Sven)</td>
 </tr>
 <tr style="height: 24px;">
