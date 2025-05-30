@@ -229,16 +229,69 @@ parent_title: Chronik
 </div>
 <hr/>
 <h3>2025</h3>
-<p>1. Wolfgang Mach 1338<br/>
-2. Dr. Hans-Dieter Maetzing 1085<br/>
-3. Peter Hintze 1050<br/>
-4. Jonatan Schenk 1044<br/>
-5. Klaus Brinckmann 960<br/>
-6. Ekkehard Krüger 906<br/>
-7. Tom Bradschetl 725<br/>
-8. Wesko Heinrich 694<br/>
-9. Eberhard Herrmann (G) 684<br/>
-10. Jan-Hendrik Bahr 155</p>
+<h4>17. April 2024</h4>
+<table>
+<thead>
+<tr>
+<th>Platz</th>
+<th>Name</th>
+<th>Punkte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Wolfgang Mach</td>
+<td>1338</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Dr. Hans-Dieter Maetzing</td>
+<td>1085</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Peter Hintze</td>
+<td>1050</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Jonatan Schenk</td>
+<td>1044</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Klaus Brinckmann</td>
+<td>960</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Ekkehard Krüger</td>
+<td>906</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Tom Bradschetl</td>
+<td>725</td>
+</tr>
+<tr>
+<td>8.</td>
+<td>Wesko Heinrich</td>
+<td>694</td>
+</tr>
+<tr>
+<td>9.</td>
+<td>Eberhard Herrmann (G)</td>
+<td>684</td>
+</tr>
+<tr>
+<td>10.</td>
+<td>Jan-Hendrik Bahr</td>
+<td>155</td>
+</tr>
+</tbody>
+</table>
+<hr/>
 <h3>2024</h3>
 <h4>04. April 2024</h4>
 <table>
