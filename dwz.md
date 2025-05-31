@@ -449,14 +449,6 @@ navs:
 <td></td>
 <td>0</td>
 </tr>
-<tr>
-<td>53.</td>
-<td><a href="http://www.schachbund.de/spieler/10895201.html" target="_blank"> Ivan Velhush</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 </table>
 </div><!-- .entry-content -->
 </div> #post-42 
