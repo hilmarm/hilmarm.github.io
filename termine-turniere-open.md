@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.sglasker.de/teschner.html" rel="noopener" target="_blank">Teschner Gedenkturnier 2025</a></td>
-<td>29.05.-01.06.2025</td>
-<td>Michael W.</td>
-</tr>
-<tr style="height: 24px;">
 <td nowrap="nowrap"><a href="https://skzehlendorf.de/turniere/harald-lieb-gedenkturnier/" rel="noopener" target="_blank">9. Harald-Lieb-Gedenkturnier 2025 (23.SKZ Open)</a></td>
 <td>05.06.-17.07.2025</td>
 <td></td>
@@ -46,6 +41,11 @@ parent_title: Termine
 <td><a href="https://schachfreunde.berlin/offenes-schnellturnier/" rel="noopener" target="_blank">24. Offenes Schnellturnier der Sfr.Berlin</a></td>
 <td>08.06.2025</td>
 <td></td>
+</tr>
+<tr style="height: 24px;">
+<td nowrap="nowrap"><a href="https://seniorenopen-brb.de/32-brandenburgisches-seniorenopen-2025/" rel="noopener" target="_blank">32. brandenburgische Seniorenopen 2025</a></td>
+<td>20.06.-30.06.2025</td>
+<td>Hans-Dieter, Ulrich, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://bughouse-berlin.de/" rel="noopener" target="_blank">Bughouse Open</a></td>
