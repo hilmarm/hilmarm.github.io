@@ -600,7 +600,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Werner,Michael</td>
 <td>(1)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
