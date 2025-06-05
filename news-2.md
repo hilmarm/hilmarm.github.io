@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-13640 post type-post status-publish format-standard hentry category-offene-turniere" id="post-13640">
+<div class="post-13640 post type-post status-publish format-standard sticky hentry category-offene-turniere" id="post-13640">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/02/termin-fuer-das-kleeblatt-turnier/" rel="bookmark">Termin für das Kleeblatt-Turnier</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/02/termin-fuer-das-kleeblatt-turnier/" rel="bookmark" title="16:58"><span class="entry-date">2. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
@@ -23,13 +23,41 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/02/termin-fuer-das-kleeblatt-turnier/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13640 
+<div class="post-13645 post type-post status-publish format-standard hentry category-bmm category-dwz" id="post-13645">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/04/bmm-auswertung/" rel="bookmark">BMM Auswertung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/04/bmm-auswertung/" rel="bookmark" title="14:16"><span class="entry-date">4. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Jetzt wo auch die <a href="https://www.berlinerschachverband.de/entry/bmm-24-25-ausgewertet.html" rel="noopener" target="_blank">DWZ Auswertung für die BMM</a> durch ist, möchte ich mal eine kleine Zusammenfassung der <strong>BMM Saison 24/25</strong> machen.</p>
+<p>Insgesamt eine gute Saison für NARVA, die 1. und 2.Mannschaft haben jeweils ihr bestmögliches Saisonziel erreicht, NARVA mit der <a href="https://www.narva-schach.de/wordpress/2025/05/18/narva-ist-zurueck-in-der-stadtliga/">Rückkehr in die Stadtliga</a> und NARVA 2 mit dem erneuten Klassenerhalt! Nur NARVA 3 hatte eine nicht ganz so rund laufende Saison.</p>
+<p>Auch bei den Aufstellungen und damit verbundenen freien Brettern ergibt sich das gleiche Bild. Die Erste hatte nie ein freies Brett, die Zweite einmal (und da gab es 4 Ausfälle am Samstag Abend), in der Dritten waren es 3. Zwei davon in der letzten Runde…..die aber trotzdem gewonnen wurde…. Da kommt uns dann vielleicht entgegen, dass nächste Saison wahrscheinlich wieder 6er Mannschaften unten spielen. Denn wenn man mit einbezieht, dass vor der Saison noch ein Festspielen von einigen Spielern geplant war, dann hätte die Dritte wohl noch größere Sorgen gehabt. Vor allem die beiden Nachmeldungen von Batu und Mert in der Ersten haben hier viel geholfen!<br/>
+Ganze 13 Brettpunkte bekamen wir von den Gegnern geschenkt!</p>
+<p>Nun etwas Statistik:<br/>
+Ein Spieler von uns war bei Allen 9 Runden im Einsatz – kommt aber nur auf 8 Partien, einmal gab es keinen Gegner, <strong>Michael Werner</strong>!<br/>
+<strong>Günter</strong>, <strong>Jonatan</strong>, <strong>Ekkehard</strong>, <strong>Alexander</strong>, <strong>Jan-Hendrik</strong> und <strong>Detlef</strong> kommen auf 8 Einsätze.<br/>
+<strong>Günter</strong> hatte dabei 7x Schwarz und erst in der letzten Runde Weiß!<br/>
+Am stärksten waren <strong>Rouven</strong>, mit 4 aus 5 (nur die letzte Runde versaut es) und eine DWZ Leistung von 2081, bei NARVA 1!<br/>
+<strong>Alexander</strong> mit 4½ aus 8 und einem DWZ-Plus von 62 bei NARVA 2!<br/>
+Und <strong>Maxim</strong> mit 6 aus 7 und DWZ-Plus 37 in der Dritten!</p>
+<p>Beim Minus stehen vor allem Spieler aus der Dritten Mannschaft, Torsten (-27), Lukas (-41), Jan (-55) und Thomas T. (-66).</p>
+<p>Die Zahlen unten sind nur die BMM Auswertung, bei einigen (Rudolf, Mert, Michael und ich) sind inzwischen weitere Turnierauswertungen dazu gekommen, die BMM wurde davor einsortiert.</p>
+<p><strong>Ein Danke an Alle, die für Team NARVA am Start waren, egal ob 9 Runden oder nur eine!</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM.jpg"><img alt="" class="aligncenter size-full wp-image-13646" decoding="async" height="835" sizes="(max-width: 589px) 100vw, 589px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM.jpg 589w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM-212x300.jpg 212w" width="589"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/04/bmm-auswertung/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-13645 
 <div class="post-13612 post type-post status-publish format-standard hentry category-openberichte" id="post-13612">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/" rel="bookmark">Zwischen Fianchetto und Fischbrötchen</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/" rel="bookmark" title="19:02"><span class="entry-date">26. Mai 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Nach diverse Absagen und Verschiebungen ist es nun Rudolf und mir gelungen wieder ein DSAM-Männerwochenende zu absolvieren. Der erste Versuch <strong>Travemünde</strong> im letzten Jahr scheiterte aus Termingründen kurzfristig und Magdeburg dann dieses Jahr auch, aber dort wurde sofort umgebucht und wir rutschten als letzte Teilnehmer auf die Liste.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-scaled.jpg"><img alt="" class="size-medium wp-image-13598 alignnone" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-scaled.jpg"><img alt="" class="size-medium wp-image-13607 alignnone" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-2048x1536.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-scaled.jpg"><img alt="" class="size-medium wp-image-13598 alignnone" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-scaled.jpg"><img alt="" class="size-medium wp-image-13607 alignnone" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-2048x1536.jpg 2048w" width="300"/></a></p>
 <p><strong>Rudolf</strong> war wieder in seiner Stamm-<strong>Gruppe C</strong> am Start, <strong>Ich</strong> hatte mich für die <strong>Gruppe D</strong> entschieden, also einer höher als sonst. Rudolf ging als Nummer 24 (von 91) an den Start und hatte den Blick natürlich Richtung Qualli, Ich als Nummer 65 (von 88) hatte als Ziel mindestens 50% zu holen, gerne mehr….</p>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/#more-13612">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
@@ -159,7 +187,7 @@ function showItem(prefix,val) {
 <p><select oninput="showItem('hilmargames',this.value);"><option selected="selected" value="a">Hoppe - Petzold</option><option value="b">Itkins - Petzold</option><option value="c">Maetzing - Petzold</option><option value="d">Petzold - Moingt</option><option value="e">Schurade - Petzold</option></select></p>
 <div class="hilmargames_opt" id="hilmargames_opt_a">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-684025b83c7ea-1">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6841773e14ef2-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -167,7 +195,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-684025b83c7ea-1" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6841773e14ef2-1" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"BMM 2019\/20\"]\r\n[Site \"Berlin\"]\r\n[Date \"2019.11.10\"]\r\n[Round \"2.5\"]\r\n[White \"Hoppe, Frank\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"C44\"]\r\n[WhiteElo \"1908\"]\r\n[BlackElo \"1912\"]\r\n[Annotator \"Thomas Mothes\"]\r\n[PlyCount \"80\"]\r\n[TimeControl \"60\/120:0\"]{Auch im hohen Alter war Hilmar ein wichtiger Leistungstr\u00e4ger in unserer ersten BMM-Mannschaft. Hier eine Partie aus seiner vorletzten BMM-Saison.} 1. e4 e5 2. d4 exd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 d6 6. Bf4\r\nBe7 7. Nbd2 Nf6 8. h3 O-O 9. Qc2 h6 10. g4 Nd7 11. O-O-O Nde5 12. Be2 Be6 13.\r\nKb1 Bf6 14. Be3 a6 15. Nd4 Bd7 16. f4 Ng6 17. N4f3 b5 18. g5 hxg5 19. fxg5 Be5\r\n20. h4 Nf4 21. Bxf4 Bxf4 22. Rdg1 Ne5 23. Nd4 c5 24. Nf5 d5 25. Nf3 dxe4 26.\r\nQxe4 Ng6 27. h5 $2 {etwas zu forsch} (27. Rd1 {z.B.} Re8) 27... Re8 28. Qd5 Ne5\r\n29. Nh6+ {Wei\u00df -2,3, aber weiter im Plan\u2026.} gxh6 30. gxh6+ Kh8 {\r\nbester. Nun geht es f\u00fcr Wei\u00df nicht so richtig weiter} 31. Ka1 Bc6 32. Qxc5 Nxf3\r\n33. Qxc6 Nxg1 34. Rxg1 Rxe2 35. Qf3 Qe8 36. a3 Re1+ 37. Rxe1 Qxe1+ 38. Ka2 Qe6+\r\n39. Kb1 Qf5+ 40. Ka2 Rd8 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -176,7 +204,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_b" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-684025b83c7ea-2">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6841773e14ef2-2">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -184,7 +212,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-684025b83c7ea-2" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6841773e14ef2-2" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"26. Berliner Senioreneinzelmeisterschaft\"]\r\n[Site \"Berlin\"]\r\n[Date \"2010.02.14\"]\r\n[Round \"6.16\"]\r\n[White \"Itkins, Boriss\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"1747\"]\r\n[BlackElo \"1947\"]\r\n[ECO \"C89\"]\r\n[EventDate \"2010.??.??\"]\r\n[Annotator \"Jonatan Schenk\"]\r\n[PlyCount \"80\"]\r\n[WhiteTeam \"SV Berolina Mitte e.V.\"]\r\n[BlackTeam \"SG Narva Berlin e.V.\"]{Kleine Ungenauigkeiten bestrafte Hilmar sofort, wie in dieser Partie von der Senioreneinzelmeisterschaft 2010.} 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5\r\n9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4\r\nBd7 16.Qf1 Qxf1+ 17.Kxf1 f5 18.Rh4 $6\r\n{So eine Spielweise durfte man sich gegen Hilmar nicht erlauben!}\r\n( 18.Re1 $14 )\r\n18...Be7 19.Rh3 Rae8 20.Bxd5+ $6\r\n( 20.f4 $15 {w\u00e4re hier m\u00f6glich gewesen. Ohne den wei\u00dffeldrigen L\u00e4ufer kann Wei\u00df die Platzierung des Turms auf h3 nicht mehr rechtfertigen.} )\r\n20...cxd5 21.f4 $2\r\n( 21.Bf4 $17 {w\u00e4re notwendig, aber auch danach ist Hilmars Stellung eindeutig zu bevorzugen.} )\r\n21...b4 22.Be3 Bd8 23.Kf2 Rf6 24.Nd2 Rfe6 25.Re1 bxc3 26.bxc3 Ba5 27.Nb1\r\nRb6 28.Rc1 Rb2+ 29.Nd2 Rxa2 30.g4 g6 31.gxf5 Bxf5 32.Rg3 Rc8 33.Kg1 Rxc3\r\n34.Rxc3 Bxc3 35.Rg2 a5 36.Nb3 Rxg2+ 37.Kxg2 a4 38.Bd2 Bb2 39.Bc1 a3 40.Kf2\r\nBc2 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -193,7 +221,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_c" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-684025b83c7ea-3">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6841773e14ef2-3">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -201,7 +229,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-684025b83c7ea-3" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6841773e14ef2-3" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"NARVA Schnellschach 2010\"]\r\n[Site \"?\"]\r\n[Date \"2010.11.18\"]\r\n[Round \"?\"]\r\n[White \"Maetzing, Hans-Dieter\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"D00\"]\r\n[Annotator \"Dr. Hans-Dieter Maetzing\"]\r\n[PlyCount \"74\"]\r\n[EventDate \"2010.??.??\"]{Die Spitzenpartie aus unserer Schnellschachmeisterschaft 2010 mit Dieters Originalkommentar:} 1. Nc3 Nf6 2. d4 d5 3. Nf3 Bg4 4. Ne5 Bh5 5. Bf4 c6 6. f3 Nbd7 7. Qd3 (7. g4 {\r\nBesser ist} Bg6 {, z.B.} 8. e4 Qb6 9. Nxg6 hxg6 10. e5 Qxb2 11. Bd2) 7... e6 8.\r\ng4 Nxe5 9. dxe5 ({Das ist bereits ein Fehler, denn der Bauer e5 wird schwach,\r\nbesser ist} 9. Bxe5 Bg6 10. Qd2 Nd7) 9... Bg6 10. Qd2 Nd7 11. h4 {Dieser und\r\nauch mein n\u00e4chster Zug st\u00e4rkt nur die schwarze Stellung. Vielleicht ist 0-0-0\r\nbesser.} h5 12. g5 Bb4 13. a3 Qa5 {Da haben wir den Salat &#8230;} 14. e3 O-O 15.\r\nKf2 {Auch hier sieht 0-0-0 besser aus &#8230;} Bxc3 16. bxc3 Nc5 {Jetzt beginnt\r\nHilmars Tanz mit dem Teufel, \u00e4h mit dem Springer &#8230;} 17. Be2 Na4 18. Bd3 Bxd3\r\n19. cxd3 Qxc3 {In gewonnener Stellung darf man schon mal das noch bessere Sxc3\r\nauslassen.} 20. Qxc3 Nxc3 21. Rhc1 Na4 22. d4 $2 ({Eindeutig besser ist} 22.\r\nRab1 Nb6 {mit gewissen Schwindelchancen!}) 22... Nb2 {Nun tanzt er wieder!} 23.\r\nRc3 Nc4 24. e4 b5 25. exd5 cxd5 26. Rb1 a6 27. Bc1 Rab8 28. Rcb3 Na5 29. R3b2\r\nRfc8 30. a4 b4 31. Bd2 Nc6 32. Ke3 a5 33. Rc1 Ne7 34. Rh1 Rc4 35. Kd3 Rbc8 36.\r\nRb3 Nf5 37. Rbb1 Rxd4+ 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -210,7 +238,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_d" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-684025b83c7ea-4">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6841773e14ef2-4">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -218,7 +246,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-684025b83c7ea-4" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6841773e14ef2-4" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Cappelle op 06th\"]\r\n[White \"Petzold,Hilmar\"]\r\n[Black \"Moingt,Jean Claude\"]\r\n[Site \"Cappelle la Grande\"]\r\n[Round \"5\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1990.02.21\"]\r\n[WhiteElo \"2160\"]\r\n[BlackElo \"2265\"]\r\n[PlyCount \"37\"]{Ein Remis gegen einen (Bald-?)FM &#8211; der Titel wurde Hilmars Gegner im selben Jahr verliehen.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. O-O Nc6 9. Nb3 a5 10. a4 Be6 11. Nd4 Nxd4 12. Bxd4 Rc8 13. f3 Bc4 14. Qd2 e5 15. Be3 Bxe2 16. Qxe2 d5 17. exd5 Nxd5 18. Nxd5 Qxd5 19. Rfd1 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -227,7 +255,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_e" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-684025b83c7ea-5">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6841773e14ef2-5">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -235,7 +263,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-684025b83c7ea-5" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6841773e14ef2-5" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Rostock-04 IM Group\"]\r\n[White \"Schurade,Matthias\"]\r\n[Black \"Petzold,Hilmar\"]\r\n[Site \"Rostock\"]\r\n[Round \"4\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1978.08.30\"]\r\n[WhiteElo \"2350\"]\r\n[PlyCount \"44\"]{Noch ein Remis gegen einen sehr starken Gegner.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4 d6 9. c3 Nd7 10. Nbd2 Bf6 11. Nf1 Re8 12. Ng3 g6 13. Bd5 Bb7 14. dxe5 dxe5 15. Be3 Na5 16. Bxb7 Nxb7 17. Qc2 Qe7 18. c4 b4 19. Nf1 Ndc5 20. Bxc5 Nxc5 21. Ne3 c6 22. Red1 Red8 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -498,23 +526,6 @@ Brinckmann – Magnusson</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/02/02/19-teilnehmer-um-19-uhr/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13369 
-<div class="post-13348 post type-post status-publish format-standard hentry category-bfl" id="post-13348">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/01/24/zwei-siege-in-der-bfl/" rel="bookmark">Zwei Siege in der BFL</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/01/24/zwei-siege-in-der-bfl/" rel="bookmark" title="0:34"><span class="entry-date">24. Januar 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>In der BFL gab es für NARVA in dieser Woche zwei Siege.</p>
-<p>Bereits am Mittwoch gewann die Zweite mit <strong>Mert</strong>, <strong>Hilmar</strong>, <strong>Juri</strong> und <strong>Jan</strong> auswärts gegen die 7. Mannschaft der SF Berlin 1903 (Norouzian, Gerlach, Spurny und Unger) mit 4:0.</p>
-<p>Am Donnerstag spielte dann die Erste zuhause gegen die TSG Oberschöneweide. An Brett 2 hatte <strong>ich</strong> eine schöne Angriffspartie, versäumte aber dann den richtigen Zeitpunkt, um meinen König in Sicherheit zu bringen, und stand plötzlich schlechter. Mein Gegner Klaus-Dieter Gruner spielte aber nicht energisch genug, so dass ich mich ins Remis retten konnte. <strong>Ekkehard</strong> war an Brett 3 gegen Falko Maxin unter Druck geraten, musste zwei Figuren für einen Turm geben, und verlor dann schließlich, als der Turm auch noch verloren ging. Dafür holte <strong>Tom</strong> an Brett 4 gegen Nikolai Jahn den ganzen Punkt. Er spielte lange mit Läufer gegen Turm, hatte aber die stärkeren Bauern. Anstatt die Qualität zurückzugewinnen, was ebenfalls gewonnen gewesen wäre, entschied er sich für die schönere Abwicklung, wandelte einen Bauern um und setzte zwei Züge später matt. Beim Stand von 1,5:1,5 spielte nun noch <strong>Manfred</strong>, der mit IM Olaf Heinzel an Brett 1 auch den stärksten Gegner hatte. Manfreds Turmendspiel schien etwas schlechter, aber noch im Remisbereich zu sein. Bei beiderseitig knapper Zeit sah er dann seine Gewinnchance und generierte am Königsflügel zwei verbundene Freibauern, die sich gegen die beiden isolierten Freibauern seines Gegners am Damenflügel durchsetzten! Somit holte die Erste mit 2,5:1,5 erneut einen knappen Sieg und ist als einzige Mannschaft in der BFL B noch ohne Punktverlust (hat allerdings auch erst zwei Spiele bestritten).</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-13357" decoding="async" height="225" loading="lazy" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/01/20250123_201049-2048x1536.jpg 2048w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/01/24/zwei-siege-in-der-bfl/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13348 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

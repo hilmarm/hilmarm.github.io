@@ -197,7 +197,7 @@ navs:
 <td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10146805.html" target="_blank"> Thomas Mothes</a></td>
 <td></td>
-<td>1655</td>
+<td>1657</td>
 <td>79</td>
 <td>1755</td>
 </tr>
@@ -333,8 +333,8 @@ navs:
 <td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
 <td></td>
-<td>1302</td>
-<td>13</td>
+<td>1340</td>
+<td>14</td>
 <td>0</td>
 </tr>
 <tr>
