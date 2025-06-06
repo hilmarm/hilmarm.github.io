@@ -107,19 +107,19 @@ navs:
 </tr>
 <tr>
 <td>10.</td>
-<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
-<td></td>
-<td>1880</td>
-<td>15</td>
-<td>1842</td>
-</tr>
-<tr>
-<td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10084564.html" target="_blank"> Peter Hintze</a></td>
 <td></td>
 <td>1875</td>
 <td>130</td>
 <td>2081</td>
+</tr>
+<tr>
+<td>11.</td>
+<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
+<td></td>
+<td>1872</td>
+<td>16</td>
+<td>1842</td>
 </tr>
 <tr>
 <td>12.</td>

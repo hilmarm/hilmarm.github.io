@@ -552,7 +552,7 @@ parent_title: Turniere
 <td>10</td>
 <td>Mothes,Thomas</td>
 <td>(1½)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
