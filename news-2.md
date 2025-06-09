@@ -187,7 +187,7 @@ function showItem(prefix,val) {
 <p><select oninput="showItem('hilmargames',this.value);"><option selected="selected" value="a">Hoppe - Petzold</option><option value="b">Itkins - Petzold</option><option value="c">Maetzing - Petzold</option><option value="d">Petzold - Moingt</option><option value="e">Schurade - Petzold</option></select></p>
 <div class="hilmargames_opt" id="hilmargames_opt_a">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68456b1628405-1">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6846bd257c020-1">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -195,7 +195,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68456b1628405-1" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6846bd257c020-1" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"BMM 2019\/20\"]\r\n[Site \"Berlin\"]\r\n[Date \"2019.11.10\"]\r\n[Round \"2.5\"]\r\n[White \"Hoppe, Frank\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"C44\"]\r\n[WhiteElo \"1908\"]\r\n[BlackElo \"1912\"]\r\n[Annotator \"Thomas Mothes\"]\r\n[PlyCount \"80\"]\r\n[TimeControl \"60\/120:0\"]{Auch im hohen Alter war Hilmar ein wichtiger Leistungstr\u00e4ger in unserer ersten BMM-Mannschaft. Hier eine Partie aus seiner vorletzten BMM-Saison.} 1. e4 e5 2. d4 exd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 d6 6. Bf4\r\nBe7 7. Nbd2 Nf6 8. h3 O-O 9. Qc2 h6 10. g4 Nd7 11. O-O-O Nde5 12. Be2 Be6 13.\r\nKb1 Bf6 14. Be3 a6 15. Nd4 Bd7 16. f4 Ng6 17. N4f3 b5 18. g5 hxg5 19. fxg5 Be5\r\n20. h4 Nf4 21. Bxf4 Bxf4 22. Rdg1 Ne5 23. Nd4 c5 24. Nf5 d5 25. Nf3 dxe4 26.\r\nQxe4 Ng6 27. h5 $2 {etwas zu forsch} (27. Rd1 {z.B.} Re8) 27... Re8 28. Qd5 Ne5\r\n29. Nh6+ {Wei\u00df -2,3, aber weiter im Plan\u2026.} gxh6 30. gxh6+ Kh8 {\r\nbester. Nun geht es f\u00fcr Wei\u00df nicht so richtig weiter} 31. Ka1 Bc6 32. Qxc5 Nxf3\r\n33. Qxc6 Nxg1 34. Rxg1 Rxe2 35. Qf3 Qe8 36. a3 Re1+ 37. Rxe1 Qxe1+ 38. Ka2 Qe6+\r\n39. Kb1 Qf5+ 40. Ka2 Rd8 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -204,7 +204,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_b" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68456b1628405-2">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6846bd257c020-2">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -212,7 +212,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68456b1628405-2" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6846bd257c020-2" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"26. Berliner Senioreneinzelmeisterschaft\"]\r\n[Site \"Berlin\"]\r\n[Date \"2010.02.14\"]\r\n[Round \"6.16\"]\r\n[White \"Itkins, Boriss\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[WhiteElo \"1747\"]\r\n[BlackElo \"1947\"]\r\n[ECO \"C89\"]\r\n[EventDate \"2010.??.??\"]\r\n[Annotator \"Jonatan Schenk\"]\r\n[PlyCount \"80\"]\r\n[WhiteTeam \"SV Berolina Mitte e.V.\"]\r\n[BlackTeam \"SG Narva Berlin e.V.\"]{Kleine Ungenauigkeiten bestrafte Hilmar sofort, wie in dieser Partie von der Senioreneinzelmeisterschaft 2010.} 1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d5\r\n9.exd5 Nxd5 10.Nxe5 Nxe5 11.Rxe5 c6 12.d4 Bd6 13.Re1 Qh4 14.g3 Qh3 15.Re4\r\nBd7 16.Qf1 Qxf1+ 17.Kxf1 f5 18.Rh4 $6\r\n{So eine Spielweise durfte man sich gegen Hilmar nicht erlauben!}\r\n( 18.Re1 $14 )\r\n18...Be7 19.Rh3 Rae8 20.Bxd5+ $6\r\n( 20.f4 $15 {w\u00e4re hier m\u00f6glich gewesen. Ohne den wei\u00dffeldrigen L\u00e4ufer kann Wei\u00df die Platzierung des Turms auf h3 nicht mehr rechtfertigen.} )\r\n20...cxd5 21.f4 $2\r\n( 21.Bf4 $17 {w\u00e4re notwendig, aber auch danach ist Hilmars Stellung eindeutig zu bevorzugen.} )\r\n21...b4 22.Be3 Bd8 23.Kf2 Rf6 24.Nd2 Rfe6 25.Re1 bxc3 26.bxc3 Ba5 27.Nb1\r\nRb6 28.Rc1 Rb2+ 29.Nd2 Rxa2 30.g4 g6 31.gxf5 Bxf5 32.Rg3 Rc8 33.Kg1 Rxc3\r\n34.Rxc3 Bxc3 35.Rg2 a5 36.Nb3 Rxg2+ 37.Kxg2 a4 38.Bd2 Bb2 39.Bc1 a3 40.Kf2\r\nBc2 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -221,7 +221,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_c" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68456b1628405-3">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6846bd257c020-3">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -229,7 +229,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68456b1628405-3" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6846bd257c020-3" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"NARVA Schnellschach 2010\"]\r\n[Site \"?\"]\r\n[Date \"2010.11.18\"]\r\n[Round \"?\"]\r\n[White \"Maetzing, Hans-Dieter\"]\r\n[Black \"Petzold, Hilmar\"]\r\n[Result \"0-1\"]\r\n[ECO \"D00\"]\r\n[Annotator \"Dr. Hans-Dieter Maetzing\"]\r\n[PlyCount \"74\"]\r\n[EventDate \"2010.??.??\"]{Die Spitzenpartie aus unserer Schnellschachmeisterschaft 2010 mit Dieters Originalkommentar:} 1. Nc3 Nf6 2. d4 d5 3. Nf3 Bg4 4. Ne5 Bh5 5. Bf4 c6 6. f3 Nbd7 7. Qd3 (7. g4 {\r\nBesser ist} Bg6 {, z.B.} 8. e4 Qb6 9. Nxg6 hxg6 10. e5 Qxb2 11. Bd2) 7... e6 8.\r\ng4 Nxe5 9. dxe5 ({Das ist bereits ein Fehler, denn der Bauer e5 wird schwach,\r\nbesser ist} 9. Bxe5 Bg6 10. Qd2 Nd7) 9... Bg6 10. Qd2 Nd7 11. h4 {Dieser und\r\nauch mein n\u00e4chster Zug st\u00e4rkt nur die schwarze Stellung. Vielleicht ist 0-0-0\r\nbesser.} h5 12. g5 Bb4 13. a3 Qa5 {Da haben wir den Salat &#8230;} 14. e3 O-O 15.\r\nKf2 {Auch hier sieht 0-0-0 besser aus &#8230;} Bxc3 16. bxc3 Nc5 {Jetzt beginnt\r\nHilmars Tanz mit dem Teufel, \u00e4h mit dem Springer &#8230;} 17. Be2 Na4 18. Bd3 Bxd3\r\n19. cxd3 Qxc3 {In gewonnener Stellung darf man schon mal das noch bessere Sxc3\r\nauslassen.} 20. Qxc3 Nxc3 21. Rhc1 Na4 22. d4 $2 ({Eindeutig besser ist} 22.\r\nRab1 Nb6 {mit gewissen Schwindelchancen!}) 22... Nb2 {Nun tanzt er wieder!} 23.\r\nRc3 Nc4 24. e4 b5 25. exd5 cxd5 26. Rb1 a6 27. Bc1 Rab8 28. Rcb3 Na5 29. R3b2\r\nRfc8 30. a4 b4 31. Bd2 Nc6 32. Ke3 a5 33. Rc1 Ne7 34. Rh1 Rc4 35. Kd3 Rbc8 36.\r\nRb3 Nf5 37. Rbb1 Rxd4+ 0-1","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -238,7 +238,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_d" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68456b1628405-4">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6846bd257c020-4">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -246,7 +246,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68456b1628405-4" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6846bd257c020-4" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Cappelle op 06th\"]\r\n[White \"Petzold,Hilmar\"]\r\n[Black \"Moingt,Jean Claude\"]\r\n[Site \"Cappelle la Grande\"]\r\n[Round \"5\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1990.02.21\"]\r\n[WhiteElo \"2160\"]\r\n[BlackElo \"2265\"]\r\n[PlyCount \"37\"]{Ein Remis gegen einen (Bald-?)FM &#8211; der Titel wurde Hilmars Gegner im selben Jahr verliehen.} 1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. Be3 O-O 8. O-O Nc6 9. Nb3 a5 10. a4 Be6 11. Nd4 Nxd4 12. Bxd4 Rc8 13. f3 Bc4 14. Qd2 e5 15. Be3 Bxe2 16. Qxe2 d5 17. exd5 Nxd5 18. Nxd5 Qxd5 19. Rfd1 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
@@ -255,7 +255,7 @@ function showItem(prefix,val) {
 </div>
 <div class="hilmargames_opt" id="hilmargames_opt_e" style="display: none;">
 <p class="rpbchessboard-spacerBefore"></p>
-<div class="rpbchessboard-chessgame" id="rpbchessboard-68456b1628405-5">
+<div class="rpbchessboard-chessgame" id="rpbchessboard-6846bd257c020-5">
 <noscript>
 <div class="rpbchessboard-javascriptWarning">
             Sie müssen JavaScript aktivieren, um die Notation zu verbessern.        </div>
@@ -263,7 +263,7 @@ function showItem(prefix,val) {
 <div class="rpbchessboard-chessgameAnchor"></div>
 <script type="text/javascript">
         jQuery(document).ready(function($) {
-            var selector = '#' + "rpbchessboard-68456b1628405-5" + ' .rpbchessboard-chessgameAnchor';
+            var selector = '#' + "rpbchessboard-6846bd257c020-5" + ' .rpbchessboard-chessgameAnchor';
             RPBChessboard.renderPGN($(selector), {"pgn":"[Event \"Rostock-04 IM Group\"]\r\n[White \"Schurade,Matthias\"]\r\n[Black \"Petzold,Hilmar\"]\r\n[Site \"Rostock\"]\r\n[Round \"4\"]\r\n[Result \"1\/2-1\/2\"]\r\n[Date \"1978.08.30\"]\r\n[WhiteElo \"2350\"]\r\n[PlyCount \"44\"]{Noch ein Remis gegen einen sehr starken Gegner.} 1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4 d6 9. c3 Nd7 10. Nbd2 Bf6 11. Nf1 Re8 12. Ng3 g6 13. Bd5 Bb7 14. dxe5 dxe5 15. Be3 Na5 16. Bxb7 Nxb7 17. Qc2 Qe7 18. c4 b4 19. Nf1 Ndc5 20. Bxc5 Nxc5 21. Ne3 c6 22. Red1 Red8 1\/2-1\/2","pieceSymbols":"localized","navigationBoard":"above","withPlayButton":true,"withFlipButton":true,"withDownloadButton":true,"nboSquareSize":32,"nboCoordinateVisible":true,"nboTurnVisible":true,"nboColorset":"original","nboPieceset":"cburnett","nboAnimated":true,"nboMoveArrowVisible":true,"nboMoveArrowColor":"b","idoSquareSize":32,"idoCoordinateVisible":true,"idoTurnVisible":true,"idoColorset":"original","idoPieceset":"cburnett"});
         });
     </script>
