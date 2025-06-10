@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2222</td>
 <td>64</td>
-<td>2182</td>
+<td>2188</td>
 </tr>
 <tr>
 <td>2.</td>
@@ -47,7 +47,7 @@ navs:
 <td></td>
 <td>2094</td>
 <td>183</td>
-<td>2121</td>
+<td>2123</td>
 </tr>
 <tr>
 <td>3.</td>
@@ -55,7 +55,7 @@ navs:
 <td>P</td>
 <td>2066</td>
 <td>498</td>
-<td>2023</td>
+<td>2026</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -71,7 +71,7 @@ navs:
 <td></td>
 <td>1960</td>
 <td>64</td>
-<td>1983</td>
+<td>1997</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1943</td>
 <td>15</td>
-<td>1938</td>
+<td>1930</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -103,7 +103,7 @@ navs:
 <td></td>
 <td>1881</td>
 <td>67</td>
-<td>1921</td>
+<td>1941</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -119,7 +119,7 @@ navs:
 <td></td>
 <td>1872</td>
 <td>16</td>
-<td>1842</td>
+<td>1893</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -135,7 +135,7 @@ navs:
 <td></td>
 <td>1866</td>
 <td>10</td>
-<td>1885</td>
+<td>1906</td>
 </tr>
 <tr>
 <td>14.</td>
@@ -143,7 +143,7 @@ navs:
 <td></td>
 <td>1774</td>
 <td>107</td>
-<td>1899</td>
+<td>1906</td>
 </tr>
 <tr>
 <td>15.</td>
@@ -151,7 +151,7 @@ navs:
 <td></td>
 <td>1739</td>
 <td>78</td>
-<td>1838</td>
+<td>1830</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -191,7 +191,7 @@ navs:
 <td></td>
 <td>1691</td>
 <td>114</td>
-<td>1829</td>
+<td>1855</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -199,7 +199,7 @@ navs:
 <td></td>
 <td>1657</td>
 <td>79</td>
-<td>1755</td>
+<td>1819</td>
 </tr>
 <tr>
 <td>22.</td>
@@ -239,7 +239,7 @@ navs:
 <td></td>
 <td>1575</td>
 <td>88</td>
-<td>1843</td>
+<td>1840</td>
 </tr>
 <tr>
 <td>27.</td>
@@ -247,7 +247,7 @@ navs:
 <td></td>
 <td>1534</td>
 <td>13</td>
-<td>1691</td>
+<td>1657</td>
 </tr>
 <tr>
 <td>28.</td>
@@ -287,7 +287,7 @@ navs:
 <td></td>
 <td>1466</td>
 <td>25</td>
-<td>1702</td>
+<td>1729</td>
 </tr>
 <tr>
 <td>33.</td>
@@ -335,7 +335,7 @@ navs:
 <td></td>
 <td>1340</td>
 <td>14</td>
-<td>0</td>
+<td>1598</td>
 </tr>
 <tr>
 <td>39.</td>
