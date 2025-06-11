@@ -6,7 +6,7 @@ navs:
   Pokal: pokal
   Blitz: blitz
   Schnellschach: schnellschach
-  Kleeblatt-Turnier 2024: kleeblatt-turnier-2024
+  Kleeblatt-Turnier 2025: kleeblatt-turnier-2025
   Kleeblatt-Turnier 2022: kleeblatt-turnier-2022
   Kleeblatt-Turnier 2024: kleeblatt-turnier-2024
   Training: training
@@ -365,7 +365,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Magnusson,Hilmar</td>
 <td>(2½)</td>
-<td> –</td>
+<td>3.7.</td>
 <td></td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ parent_title: Turniere
 <td>9</td>
 <td>Campe,Ulrich</td>
 <td>(1)</td>
-<td> –</td>
+<td>3.7.</td>
 <td></td>
 </tr>
 <tr>
