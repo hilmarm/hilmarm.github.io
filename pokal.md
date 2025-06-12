@@ -67,9 +67,9 @@ parent_title: Turniere
 <td>Stüve,Maxim</td>
 <td>(1)</td>
 <td>–</td>
-<td>20/1</td>
-<td>Schenk/Arnold</td>
-<td>()</td>
+<td>20</td>
+<td>Schenk,Jonatan</td>
+<td>(1½)</td>
 <td></td>
 <td></td>
 </tr>
@@ -113,7 +113,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Schenk,Jonatan</td>
 <td>(½)</td>
-<td></td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
