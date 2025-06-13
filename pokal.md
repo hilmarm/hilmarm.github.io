@@ -52,14 +52,14 @@ parent_title: Turniere
 <tr>
 <td>2</td>
 <td>18</td>
-<td>Özates,Mert</td>
+<td><strong>Özates,Mert</strong></td>
 <td>(1)</td>
 <td>–</td>
 <td>11</td>
 <td>Krüger,Ekkehard</td>
 <td>(1)</td>
-<td></td>
-<td></td>
+<td>½ – ½</td>
+<td>1½ – ½</td>
 </tr>
 <tr>
 <td>3</td>
@@ -111,7 +111,7 @@ parent_title: Turniere
 <td>(1)</td>
 <td>–</td>
 <td>20</td>
-<td>Schenk,Jonatan</td>
+<td><strong>Schenk,Jonatan</strong></td>
 <td>(½)</td>
 <td>– – +</td>
 <td></td>
