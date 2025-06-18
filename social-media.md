@@ -5,8 +5,6 @@ navs:
   Datenschutzerklärung: datenschutzerklaerung
   Links: links
   Social Media: social-media
-  Partien: partien
-  Forum: forum
 navbar: false
 parent_title: Impressum
 ---

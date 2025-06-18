@@ -48,6 +48,11 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td>Kleeblattturnier</td>
+<td>09.08.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/1acb67f6-0f38-4256-b9e8-bfb5eeaf69c9/BerlinerHalbmarathonBlitzschach%202025.pdf" rel="noopener" target="_blank">Berliner Elo – Halbmarathon Blitzschach</a></td>
 <td>16.08.2025</td>
 <td></td>
@@ -71,6 +76,11 @@ parent_title: Termine
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
 <td>Mannschaft</td>
+</tr>
+<tr style="height: 24px;">
+<td>DSAM Bonn?</td>
+<td>18.-21.12.2025</td>
+<td>Lukas, Jonatan</td>
 </tr>
 </tbody>
 </table>

@@ -5,8 +5,6 @@ navs:
   Datenschutzerklärung: datenschutzerklaerung
   Links: links
   Social Media: social-media
-  Partien: partien
-  Forum: forum
 ---
 <div class="post-34 page type-page status-publish hentry" id="post-34">
 <h1 class="entry-title">Impressum</h1>

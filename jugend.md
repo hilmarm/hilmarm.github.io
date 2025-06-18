@@ -1,5 +1,5 @@
 ---
-title: Kinder/Jugend 
+title: Jugend 
 layout: default
 navs:
 ---

@@ -69,7 +69,7 @@ navs:
 <td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
-<td>1960</td>
+<td>1961</td>
 <td>64</td>
 <td>1997</td>
 </tr>
