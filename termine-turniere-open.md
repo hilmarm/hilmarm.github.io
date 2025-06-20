@@ -33,9 +33,14 @@ parent_title: Termine
 <td>Günter</td>
 </tr>
 <tr style="height: 24px;">
+<td nowrap="nowrap"><a href="https://www.lsbb.de/archiv-pdf/3.%20Lausitzer%20Schachturnier.pdf" rel="noopener" target="_blank">3. Lausitzer Schachturnier</a></td>
+<td>04.07.-06.07.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-EM 2025</a></td>
 <td>19.07.2025</td>
-<td></td>
+<td>Lukas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-mm-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-MM 2025</a></td>

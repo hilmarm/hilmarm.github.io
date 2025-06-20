@@ -389,7 +389,7 @@ parent_title: Turniere
 <td>11</td>
 <td>Pape,Philipp</td>
 <td>(2½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ parent_title: Turniere
 <td>19</td>
 <td>Horst,Juri</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -449,7 +449,7 @@ parent_title: Turniere
 <td>8</td>
 <td>Brinckmann,Klaus</td>
 <td>(½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -461,7 +461,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Heinrich,Wesko</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Mach,Wolfgang</td>
 <td>(½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>
