@@ -73,6 +73,11 @@ parent_title: Termine
 <td>Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.schachclub-oranienburg.de/wordpress/2025/06/4-oranienburger-chess-open-2025/" rel="noopener" target="_blank">4. Oranienburger Chess-Open 2025</a></td>
+<td>12.09.-14.09.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">3. Berlin U25 Open</a></td>
 <td>14.11.-16.11.2025</td>
 <td></td>
