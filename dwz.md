@@ -441,6 +441,14 @@ navs:
 <td></td>
 <td>0</td>
 </tr>
+<tr>
+<td>52.</td>
+<td><a href="http://www.schachbund.de/spieler/10906383.html" target="_blank"> Felix Hamacher</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 </div><!-- .entry-content -->
 </div> #post-42 
