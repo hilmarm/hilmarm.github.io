@@ -53,7 +53,7 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td>Kleeblattturnier</td>
+<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblattturnier</a></td>
 <td>09.08.2025</td>
 <td></td>
 </tr>
