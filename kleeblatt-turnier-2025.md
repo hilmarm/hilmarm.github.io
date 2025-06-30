@@ -118,6 +118,14 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>3</td>
+<td>Mayer,​Herbert</td>
+<td>1657</td>
+<td>1785</td>
+<td>SSV Rotation Berlin e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -125,9 +133,17 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
+<td>0</td>
+<td>TSV Mariendorf 1897</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Bordihn,​Frank</td>
+<td>0</td>
 <td>0</td>
 <td>TSV Mariendorf 1897</td>
 <td></td>
