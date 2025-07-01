@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td nowrap="nowrap"><a href="https://seniorenopen-brb.de/32-brandenburgisches-seniorenopen-2025/" rel="noopener" target="_blank">32. brandenburgische Seniorenopen 2025</a></td>
-<td>20.06.-30.06.2025</td>
-<td>Hans-Dieter, Ulrich, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://bughouse-berlin.de/" rel="noopener" target="_blank">Bughouse Open</a></td>
-<td>28.06.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td nowrap="nowrap"><a href="https://www.lsbb.de/archiv-pdf/3.%20Lausitzer%20Schachturnier.pdf" rel="noopener" target="_blank">3. Lausitzer Schachturnier</a></td>
 <td>04.07.-06.07.2025</td>
 <td>Ekkehard</td>
