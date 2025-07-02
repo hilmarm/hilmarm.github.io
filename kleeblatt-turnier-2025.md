@@ -21,6 +21,7 @@ parent_title: Turniere
 <p>Am 9. August 2025 tragen wir in der <strong>Mensa der Albrecht von Graefe Schule</strong> (Haus A), Graefestr. 85, 10967 Berlin (U8 Schönleinstraße), wieder ein <b>Kleeblatt-Turnier</b> aus.</p>
 <p>Das (<i>vier</i>blättrige) Kleeblatt steht dabei für die <i>Vierergruppen</i>, in denen jeweils ein DWZ-gewertetes Rundenturnier gespielt wird. Das Turnier richtet sich ausdrücklich an Spieler <i>aller</i> Spielstärken und Altersgruppen, eine Mitgliedschaft in einem Schachverein ist nicht erforderlich.</p>
 <p>Alle weiteren Informationen findet ihr in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/Kleeblatt-Turnier-2025.pdf">Ausschreibung</a>.</p>
+<p>Hinweis: die Wertungszahlen in der vorläufigen Teilnehmerliste sind vom 26. Juni. Bei der Registrierung am Turniertag werden sie aktualisiert, so dass für die Gruppeneinteilung die dann gültige DWZ herangezogen wird.</p>
 <div class="grtTournament">
 <style><!--.grtTournament div.grtTab.grtTabInactive {
     display:none;
@@ -126,6 +127,14 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>4</td>
+<td>Heinrich,​Wesko</td>
+<td>1579</td>
+<td>0</td>
+<td>SG NARVA Berlin e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -133,7 +142,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
 <td>0</td>
@@ -141,7 +150,23 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
+<td>Preissner,​Annette</td>
+<td>1191</td>
+<td>1575</td>
+<td>SC Kreuzberg e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ziepa,​Andreas</td>
+<td>986</td>
+<td>1452</td>
+<td>SC Kreuzberg e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
 <td>Bordihn,​Frank</td>
 <td>0</td>
 <td>0</td>
