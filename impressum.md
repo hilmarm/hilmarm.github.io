@@ -28,7 +28,7 @@ Moissistr. 16<br/>
 Thomas Mothes<br/>
 Vorsitzender der Abteilung Schach</h4>
 <h4>Kontakt:<br/>
-Telefon: +49 (0)30 – 914 30 634<br/>
+Telefon: +49<br/>
 E-Mail: info@narva-schach.de</h4>
 <h4><u>Hauptverein:</u><br/>
 SG NARVA Berlin e.V.<br/>

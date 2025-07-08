@@ -135,6 +135,14 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>5</td>
+<td>Bradschetl,​Tom</td>
+<td>1532</td>
+<td>1843</td>
+<td>SG NARVA Berlin e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -142,7 +150,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
 <td>0</td>
@@ -150,7 +158,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td>Preissner,​Annette</td>
 <td>1191</td>
 <td>1575</td>
@@ -158,7 +166,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td>Ziepa,​Andreas</td>
 <td>986</td>
 <td>1452</td>
@@ -166,7 +174,15 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
+<td>Würzburger,​Aaron</td>
+<td>813</td>
+<td>0</td>
+<td>SC Kreuzberg e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
 <td>Bordihn,​Frank</td>
 <td>0</td>
 <td>0</td>

@@ -23,19 +23,14 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td nowrap="nowrap"><a href="https://www.lsbb.de/archiv-pdf/3.%20Lausitzer%20Schachturnier.pdf" rel="noopener" target="_blank">3. Lausitzer Schachturnier</a></td>
-<td>04.07.-06.07.2025</td>
-<td>Ekkehard</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-EM 2025</a></td>
 <td>19.07.2025</td>
-<td>Lukas</td>
+<td>Lukas, Jan-Hendrik</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-mm-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-MM 2025</a></td>
 <td>20.07.2025</td>
-<td>Mannschaft?</td>
+<td>eine Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/werner-ott-open-kreuzberger-sommer-2025-vom-26-juli-bis-3-august-2025.html" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer</a></td>
@@ -45,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblattturnier</a></td>
 <td>09.08.2025</td>
-<td></td>
+<td>Wesko</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/1acb67f6-0f38-4256-b9e8-bfb5eeaf69c9/BerlinerHalbmarathonBlitzschach%202025.pdf" rel="noopener" target="_blank">Berliner Elo – Halbmarathon Blitzschach</a></td>
