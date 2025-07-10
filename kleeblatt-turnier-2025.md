@@ -189,6 +189,14 @@ parent_title: Turniere
 <td>TSV Mariendorf 1897</td>
 <td></td>
 </tr>
+<tr>
+<td>12</td>
+<td>Choubardas,​Georgios</td>
+<td>0</td>
+<td>0</td>
+<td>ohne Verein</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 </div>
