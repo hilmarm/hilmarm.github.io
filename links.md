@@ -21,6 +21,7 @@ Für Probleme oder Schäden in jeglicher Form, die durch Existenz, Kenntnis, Bes
 <li><a href="http://www.schachbundesliga.de" rel="noopener noreferrer" target="_blank">Schach Bundesliga</a> Die Seite der Schach Bundesliga</li>
 <li><a href="http://senioren.schachbund.de/" rel="noopener noreferrer" target="_blank">Senioren im Deutschen Schachbund e.V.</a> Alles über die Seniorenturniere</li>
 <li><a href="http://www.chessbase.de/" rel="noopener noreferrer" target="_blank">Chessbase</a> Schach aus aller Welt</li>
+<li><a href="https://perlenvombodensee.de/" rel="noopener" target="_blank">Perlen vom Bodensee</a> Die neuesten Nachrichten vom Schach</li>
 <li><a href="http://www.fide.com/" rel="noopener noreferrer" target="_blank">FIDE</a> World Chess Federation, mit <a href="http://ratings.fide.com/" rel="noopener noreferrer" target="_blank">ELO</a> Listen</li>
 <li><a href="http://www.fvschach.de" rel="noopener noreferrer" target="_blank">FV Schach e.V.</a> Fachvereinigung Schach – der Berliner Betriebsschach-Verband</li>
 <li><a href="http://www.mattzug.de/bmm/" rel="noopener noreferrer" target="_blank">BMM</a> Berliner Mannschaftsmeisterschaft im Schach – Ergebnisse bis 2023</li>
@@ -44,11 +45,12 @@ Für Probleme oder Schäden in jeglicher Form, die durch Existenz, Kenntnis, Bes
 <li><a href="http://schachversand-ullrich.de/" rel="noopener noreferrer" target="_blank">Schachversand Ullrich</a></li>
 <li><a href="https://www.schachversand.de/startneu2.htm" rel="noopener noreferrer" target="_blank">Schach Niggemann</a></li>
 <li><a href="http://www.euroschach.de/" rel="noopener noreferrer" target="_blank">Euro Schach Dresden</a></li>
+<li><a href="https://chess-tigers.de/" rel="noopener" target="_blank">Chess Tigers Shop</a></li>
 </ul>
 <p><span style="font-size: small;"><u>Partner in der Umgebung / Schach AG Schulen:</u></span></p>
 <ul>
 <li><a href="https://www.berlin.de/ba-friedrichshain-kreuzberg/politik-und-verwaltung/aemter/amt-fuer-soziales/stadtteil-und-seniorenangebote/artikel.1039475.php" rel="noopener noreferrer" target="_blank">Seniorenfreizeitstätte „Lebensfreude“</a> unsere Heimat in der Kadiner Str. 1</li>
-<li><a href="http://www.rudizentrum.de/" rel="noopener noreferrer" target="_blank">„RuDi – Nachbarschaftszentrum</a> Spielort der 3.Mannschaft und NARVA Geschäftsstelle in der Modersohnstraße 55</li>
+<li><a href="https://rudi-nachbarschaftshaus.de/" rel="noopener noreferrer" target="_blank">„RuDi – Nachbarschaftszentrum</a> Spielort für BMM und SG NARVA Geschäftsstelle in der Modersohnstraße 55</li>
 </ul>
 <p><span style="font-size: small;"><u>Sonstige:</u></span></p>
 <ul>

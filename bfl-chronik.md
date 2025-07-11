@@ -70,9 +70,9 @@ parent_title: Chronik
 <tr>
 <td>2025</td>
 <td>Staffel B</td>
-<td></td>
+<td>2.</td>
 <td>Staffel D</td>
-<td></td>
+<td>3.</td>
 <td></td>
 <td></td>
 </tr>

@@ -73,11 +73,11 @@ parent_title: Chronik
 <tr>
 <td align="CENTER">2025</td>
 <td align="CENTER">Klasse 1</td>
-<td align="CENTER"></td>
+<td align="CENTER">1.Aufstieg</td>
 <td align="CENTER">Klasse 1</td>
-<td align="CENTER"></td>
+<td align="CENTER">8.</td>
 <td align="CENTER">Klasse 3</td>
-<td align="CENTER"></td>
+<td align="CENTER">8.</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
