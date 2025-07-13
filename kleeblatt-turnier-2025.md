@@ -159,6 +159,14 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>8</td>
+<td>Malyi,​Tymofii</td>
+<td>1201</td>
+<td>1465</td>
+<td>SK Zehlendorf e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
 <td>Preissner,​Annette</td>
 <td>1191</td>
 <td>1575</td>
@@ -166,7 +174,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
 <td>Ziepa,​Andreas</td>
 <td>986</td>
 <td>1452</td>
@@ -174,7 +182,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>11</td>
 <td>Würzburger,​Aaron</td>
 <td>813</td>
 <td>0</td>
@@ -182,7 +190,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>12</td>
 <td>Bordihn,​Frank</td>
 <td>0</td>
 <td>0</td>
@@ -190,7 +198,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>13</td>
 <td>Choubardas,​Georgios</td>
 <td>0</td>
 <td>0</td>
