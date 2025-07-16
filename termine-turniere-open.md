@@ -23,6 +23,11 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/bad_wildungen_finale/" rel="noopener" target="_blank">Finale DSAM</a></td>
+<td>17.07.-19.07.2025</td>
+<td>Mert</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-EM 2025</a></td>
 <td>19.07.2025</td>
 <td>Lukas, Jan-Hendrik</td>
@@ -40,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblattturnier</a></td>
 <td>09.08.2025</td>
-<td>Wesko</td>
+<td>Wesko, Tom</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/1acb67f6-0f38-4256-b9e8-bfb5eeaf69c9/BerlinerHalbmarathonBlitzschach%202025.pdf" rel="noopener" target="_blank">Berliner Elo – Halbmarathon Blitzschach</a></td>
