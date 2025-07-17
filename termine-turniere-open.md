@@ -68,6 +68,11 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">18. Wildauer Dahmelandpokal 2025</a></td>
+<td>03.10.-05.10.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">3. Berlin U25 Open</a></td>
 <td>14.11.-16.11.2025</td>
 <td></td>
