@@ -449,7 +449,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Kreisel,Alexande</td>
 <td>(1½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

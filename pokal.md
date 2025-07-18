@@ -64,25 +64,25 @@ parent_title: Turniere
 <tr>
 <td>3</td>
 <td>21</td>
-<td>Stüve,Maxim</td>
+<td><strong>Stüve,Maxim</strong></td>
 <td>(1)</td>
 <td>–</td>
 <td>20</td>
 <td>Schenk,Jonatan</td>
 <td>(1½)</td>
-<td></td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
 <td>3</td>
 <td>12</td>
-<td>Lange,Rudolf</td>
+<td><strong>Lange,Rudolf</strong></td>
 <td>(2)</td>
 <td>–</td>
 <td>22</td>
 <td>Werner,Michael</td>
 <td>(1)</td>
-<td></td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>
