@@ -23,21 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/bad_wildungen_finale/" rel="noopener" target="_blank">Finale DSAM</a></td>
-<td>17.07.-19.07.2025</td>
-<td>Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-EM 2025</a></td>
-<td>19.07.2025</td>
-<td>Lukas, Jan-Hendrik</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-mm-2025.html" rel="noopener" target="_blank">Berliner Schnellschach-MM 2025</a></td>
-<td>20.07.2025</td>
-<td>eine Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/werner-ott-open-kreuzberger-sommer-2025-vom-26-juli-bis-3-august-2025.html" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer</a></td>
 <td>26.07.-03.08.2025</td>
 <td></td>

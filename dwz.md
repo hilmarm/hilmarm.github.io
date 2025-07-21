@@ -53,8 +53,8 @@ navs:
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2060</td>
-<td>501</td>
+<td>2057</td>
+<td>502</td>
 <td>2026</td>
 </tr>
 <tr>
@@ -99,6 +99,14 @@ navs:
 </tr>
 <tr>
 <td>9.</td>
+<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
+<td></td>
+<td>1907</td>
+<td>17</td>
+<td>1893</td>
+</tr>
+<tr>
+<td>10.</td>
 <td><a href="http://www.schachbund.de/spieler/10091944.html" target="_blank"> Günter Idaczek</a></td>
 <td></td>
 <td>1893</td>
@@ -106,7 +114,7 @@ navs:
 <td>1937</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>11.</td>
 <td><a href="http://www.schachbund.de/spieler/10040868.html" target="_blank"> Rudolf Lange</a></td>
 <td></td>
 <td>1881</td>
@@ -114,20 +122,12 @@ navs:
 <td>1941</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10084564.html" target="_blank"> Peter Hintze</a></td>
 <td></td>
 <td>1875</td>
 <td>130</td>
 <td>2081</td>
-</tr>
-<tr>
-<td>12.</td>
-<td><a href="http://www.schachbund.de/spieler/10851277.html" target="_blank"> Mert Özates</a></td>
-<td></td>
-<td>1872</td>
-<td>16</td>
-<td>1893</td>
 </tr>
 <tr>
 <td>13.</td>
