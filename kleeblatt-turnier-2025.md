@@ -151,6 +151,14 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>7</td>
+<td>Cieslak,​Tim</td>
+<td>1512</td>
+<td>0</td>
+<td>Schach-Club Wittstock e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
 <td>Chupikov,​Oleksii</td>
 <td>1398</td>
 <td>1653</td>
@@ -158,7 +166,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -166,7 +174,15 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
+<td>Wesner,​Andy</td>
+<td>1362</td>
+<td>1531</td>
+<td>ESV Waren</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
 <td>0</td>
@@ -174,7 +190,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>12</td>
 <td>Chupikov,​Mark</td>
 <td>1228</td>
 <td>1409</td>
@@ -182,7 +198,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>13</td>
 <td>Malyi,​Tymofii</td>
 <td>1201</td>
 <td>1465</td>
@@ -190,7 +206,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>14</td>
 <td>Preissner,​Annette</td>
 <td>1191</td>
 <td>1575</td>
@@ -198,7 +214,15 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>15</td>
+<td>Cieslak,​Toni</td>
+<td>1030</td>
+<td>0</td>
+<td>Schach-Club Wittstock e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>16</td>
 <td>Ziepa,​Andreas</td>
 <td>986</td>
 <td>1452</td>
@@ -206,7 +230,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>17</td>
 <td>Würzburger,​Aaron</td>
 <td>813</td>
 <td>0</td>
@@ -214,7 +238,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>18</td>
 <td>Bordihn,​Frank</td>
 <td>0</td>
 <td>0</td>
@@ -222,7 +246,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>19</td>
 <td>Choubardas,​Georgios</td>
 <td>0</td>
 <td>0</td>
@@ -230,7 +254,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>20</td>
 <td>Deibert,​Eliana</td>
 <td>0</td>
 <td>0</td>
