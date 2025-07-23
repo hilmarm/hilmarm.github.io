@@ -71,12 +71,25 @@ parent_title: Chronik
 <td align="CENTER"><b> Platz </b></td>
 </tr>
 <tr>
-<td align="CENTER">2025</td>
+<td align="CENTER">2026</td>
+<td align="CENTER">Stadtliga</td>
+<td align="CENTER"></td>
 <td align="CENTER">Klasse 1</td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER">Klasse 1</td>
-<td align="CENTER">8.</td>
+<td align="CENTER"></td>
 <td align="CENTER">Klasse 3</td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+<td align="CENTER"></td>
+</tr>
+<tr>
+<td align="CENTER">2025</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-1-mannschaft/">Klasse 1</a></td>
+<td align="CENTER">1.Aufstieg</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-2-mannschaft/">Klasse 1</a></td>
+<td align="CENTER">8.</td>
+<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-3-mannschaft/">Klasse 3</a></td>
 <td align="CENTER">8.</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
