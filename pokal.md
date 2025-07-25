@@ -20,6 +20,9 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>Halbfinale am 21. August</h2>
+<p>Stüve – Hintze<br/>
+Lange – Özates</p>
 <h2>Runde 3 am 17. Juli <span style="font-size: 12pt;">(Viertelfinale)</span></h2>
 <table class="clean swiss footable">
 <thead>

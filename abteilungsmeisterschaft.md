@@ -365,7 +365,7 @@ parent_title: Turniere
 <td>6</td>
 <td>Schenk,Jonatan</td>
 <td>(3½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -377,7 +377,7 @@ parent_title: Turniere
 <td>10</td>
 <td>Mothes,Thomas</td>
 <td>(3½)</td>
-<td> –</td>
+<td> 21.8.</td>
 <td></td>
 </tr>
 <tr>
@@ -389,7 +389,7 @@ parent_title: Turniere
 <td>15</td>
 <td>Bradschetl,Tom</td>
 <td>(3)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -401,7 +401,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Maetzing,Hans-Di</td>
 <td>(2½)</td>
-<td> –</td>
+<td>11.9.</td>
 <td></td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Krüger,Ekkehard</td>
 <td>(2)</td>
-<td> –</td>
+<td>28.7.</td>
 <td></td>
 </tr>
 <tr>
@@ -425,7 +425,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Werner,Michael</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ parent_title: Turniere
 <td>23</td>
 <td>Bahr,Jan-Hendrik</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -461,7 +461,7 @@ parent_title: Turniere
 <td>12</td>
 <td>Wäldrich,Oliver,</td>
 <td>(1)</td>
-<td> –</td>
+<td>– : +</td>
 <td></td>
 </tr>
 <tr>
@@ -473,7 +473,7 @@ parent_title: Turniere
 <td>17</td>
 <td>von Kraft,Lukas</td>
 <td>(1)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Mach,Wolfgang</td>
 <td>(½)</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 </tbody>

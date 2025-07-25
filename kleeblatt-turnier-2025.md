@@ -261,6 +261,14 @@ parent_title: Turniere
 <td>ohne Verein</td>
 <td></td>
 </tr>
+<tr>
+<td>21</td>
+<td>Christoph,​Ilja Ronald</td>
+<td>0</td>
+<td>0</td>
+<td>SC Friesen Lichtenberg e.V.</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 </div>
