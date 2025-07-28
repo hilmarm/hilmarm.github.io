@@ -149,8 +149,8 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
-<td>1774</td>
-<td>107</td>
+<td>1798</td>
+<td>108</td>
 <td>1906</td>
 </tr>
 <tr>
@@ -189,8 +189,8 @@ navs:
 <td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1691</td>
-<td>114</td>
+<td>1678</td>
+<td>115</td>
 <td>1855</td>
 </tr>
 <tr>
@@ -211,6 +211,14 @@ navs:
 </tr>
 <tr>
 <td>23.</td>
+<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
+<td></td>
+<td>1614</td>
+<td>89</td>
+<td>1840</td>
+</tr>
+<tr>
+<td>24.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1603</td>
@@ -218,7 +226,7 @@ navs:
 <td>1801</td>
 </tr>
 <tr>
-<td>24.</td>
+<td>25.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1579</td>
@@ -226,20 +234,12 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>25.</td>
+<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
 <td>1577</td>
 <td>52</td>
 <td>0</td>
-</tr>
-<tr>
-<td>26.</td>
-<td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
-<td></td>
-<td>1575</td>
-<td>88</td>
-<td>1840</td>
 </tr>
 <tr>
 <td>27.</td>
