@@ -135,6 +135,22 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>5</td>
+<td>Schulze,​Robert</td>
+<td>1555</td>
+<td>1819</td>
+<td>USV Potsdam e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Döpmann,​Christoph</td>
+<td>1539</td>
+<td>1665</td>
+<td>Schachfreunde Nordost Berlin</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
 <td>Bradschetl,​Tom</td>
 <td>1532</td>
 <td>1843</td>
@@ -142,7 +158,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>8</td>
 <td>Faidun,​Nikita</td>
 <td>1524</td>
 <td>0</td>
@@ -150,7 +166,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>9</td>
 <td>Cieslak,​Tim</td>
 <td>1512</td>
 <td>0</td>
@@ -158,7 +174,23 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>10</td>
+<td>Zavyalov,​Kirill</td>
+<td>1444</td>
+<td>1693</td>
+<td>SSV Rotation Berlin e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Koppe,​Cordelia</td>
+<td>1404</td>
+<td>1661</td>
+<td>SV „Glück auf“ Rüdersdorf e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>12</td>
 <td>Chupikov,​Oleksii</td>
 <td>1398</td>
 <td>1653</td>
@@ -166,7 +198,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>13</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -174,7 +206,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>14</td>
 <td>Wesner,​Andy</td>
 <td>1362</td>
 <td>1531</td>
@@ -182,7 +214,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>15</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
 <td>0</td>
@@ -190,7 +222,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>16</td>
 <td>Chupikov,​Mark</td>
 <td>1228</td>
 <td>1409</td>
@@ -198,7 +230,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>17</td>
 <td>Malyi,​Tymofii</td>
 <td>1201</td>
 <td>1465</td>
@@ -206,7 +238,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>18</td>
 <td>Preissner,​Annette</td>
 <td>1191</td>
 <td>1575</td>
@@ -214,7 +246,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>19</td>
 <td>Cieslak,​Toni</td>
 <td>1030</td>
 <td>0</td>
@@ -222,7 +254,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>20</td>
 <td>Ziepa,​Andreas</td>
 <td>986</td>
 <td>1452</td>
@@ -230,7 +262,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>21</td>
 <td>Würzburger,​Aaron</td>
 <td>813</td>
 <td>0</td>
@@ -238,7 +270,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>22</td>
 <td>Bordihn,​Frank</td>
 <td>0</td>
 <td>0</td>
@@ -246,7 +278,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>23</td>
 <td>Choubardas,​Georgios</td>
 <td>0</td>
 <td>0</td>
@@ -254,7 +286,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>24</td>
 <td>Deibert,​Eliana</td>
 <td>0</td>
 <td>0</td>
@@ -262,7 +294,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>25</td>
 <td>Christoph,​Ilja Ronald</td>
 <td>0</td>
 <td>0</td>
