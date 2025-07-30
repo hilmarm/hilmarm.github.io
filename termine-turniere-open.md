@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/werner-ott-open-kreuzberger-sommer-2025-vom-26-juli-bis-3-august-2025.html" rel="noopener" target="_blank">Werner-Ott-Open – Kreuzberger Sommer</a></td>
-<td>26.07.-03.08.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblattturnier</a></td>
 <td>09.08.2025</td>
 <td>Wesko, Tom</td>
@@ -46,6 +41,11 @@ parent_title: Termine
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
 <td>23.08.-31.08.2025</td>
 <td>Ekkehard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.lsbb.de/archiv-pdf/20250427%20Ausschreibung%20Dennewitz%2030.08.2025doc.pdf">Schlacht bei Dennewitz</a></td>
+<td>30.08.2025</td>
+<td>Peter, Günter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclub-oranienburg.de/wordpress/2025/06/4-oranienburger-chess-open-2025/" rel="noopener" target="_blank">4. Oranienburger Chess-Open 2025</a></td>
