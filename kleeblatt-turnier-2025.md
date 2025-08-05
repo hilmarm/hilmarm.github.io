@@ -119,6 +119,22 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>3</td>
+<td>Richter,​Felix</td>
+<td>1876</td>
+<td>1867</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tornow,​Michael</td>
+<td>1779</td>
+<td>1941</td>
+<td>SV Wusterhausen</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
 <td>Albrecht,​Constantin</td>
 <td>1723</td>
 <td>1761</td>
@@ -126,7 +142,15 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>6</td>
+<td>Popitz,​Paul</td>
+<td>1708</td>
+<td>1759</td>
+<td>SC Viernheim 1934 e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
 <td>Schmidt,​Jossip</td>
 <td>1677</td>
 <td>1647</td>
@@ -134,7 +158,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>8</td>
 <td>Mayer,​Herbert</td>
 <td>1657</td>
 <td>1785</td>
@@ -142,7 +166,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>9</td>
 <td>Heinrich,​Wesko</td>
 <td>1579</td>
 <td>0</td>
@@ -150,7 +174,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>10</td>
 <td>Kreuchauf,​Olaf</td>
 <td>1566</td>
 <td>1759</td>
@@ -158,7 +182,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>11</td>
 <td>Schulze,​Robert</td>
 <td>1555</td>
 <td>1819</td>
@@ -166,7 +190,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>12</td>
 <td>Döpmann,​Christoph</td>
 <td>1539</td>
 <td>1665</td>
@@ -174,7 +198,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>13</td>
 <td>Bradschetl,​Tom</td>
 <td>1532</td>
 <td>1843</td>
@@ -182,7 +206,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>14</td>
 <td>Faidun,​Nikita</td>
 <td>1524</td>
 <td>0</td>
@@ -190,7 +214,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>15</td>
 <td>Cieslak,​Tim</td>
 <td>1512</td>
 <td>0</td>
@@ -198,7 +222,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>16</td>
 <td>Zavyalov,​Kirill</td>
 <td>1444</td>
 <td>1693</td>
@@ -206,7 +230,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>17</td>
 <td>Koppe,​Cordelia</td>
 <td>1404</td>
 <td>1661</td>
@@ -214,7 +238,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>18</td>
 <td>Chupikov,​Oleksii</td>
 <td>1398</td>
 <td>1653</td>
@@ -222,7 +246,15 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>19</td>
+<td>Reichert,​Lutz</td>
+<td>1393</td>
+<td>1661</td>
+<td>SV Königsjäger Süd-West e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>20</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -230,7 +262,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>21</td>
 <td>Wesner,​Andy</td>
 <td>1362</td>
 <td>1531</td>
@@ -238,7 +270,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>22</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
 <td>0</td>
@@ -246,7 +278,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>23</td>
 <td>Chupikov,​Mark</td>
 <td>1228</td>
 <td>1409</td>
@@ -254,7 +286,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>24</td>
 <td>Malyi,​Tymofii</td>
 <td>1201</td>
 <td>1465</td>
@@ -262,7 +294,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>25</td>
 <td>Preissner,​Annette</td>
 <td>1191</td>
 <td>1575</td>
@@ -270,7 +302,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>26</td>
 <td>Wisniewski,​Alexander</td>
 <td>1174</td>
 <td>0</td>
@@ -278,7 +310,15 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>27</td>
+<td>Konatham,​Kundana Sree</td>
+<td>1037</td>
+<td>0</td>
+<td>SC Zitadelle Spandau 1977 e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
 <td>Cieslak,​Toni</td>
 <td>1030</td>
 <td>0</td>
@@ -286,7 +326,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>29</td>
 <td>Ziepa,​Andreas</td>
 <td>986</td>
 <td>1452</td>
@@ -294,7 +334,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>30</td>
 <td>Würzburger,​Aaron</td>
 <td>813</td>
 <td>0</td>
@@ -302,7 +342,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>31</td>
 <td>Bordihn,​Frank</td>
 <td>0</td>
 <td>0</td>
@@ -310,7 +350,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>32</td>
 <td>Choubardas,​Georgios</td>
 <td>0</td>
 <td>0</td>
@@ -318,7 +358,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>33</td>
 <td>Deibert,​Eliana</td>
 <td>0</td>
 <td>0</td>
@@ -326,7 +366,7 @@ parent_title: Turniere
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>34</td>
 <td>Christoph,​Ilja Ronald</td>
 <td>0</td>
 <td>0</td>
