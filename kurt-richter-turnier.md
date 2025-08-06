@@ -1,5 +1,5 @@
 ---
-title: Kurt-Richter-Gedenkturnier 
+title: Kurt-Richter-Turnier 
 layout: default
 navs:
   2024: 2024-2

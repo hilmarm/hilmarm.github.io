@@ -46,7 +46,7 @@ navs:
   1981: 1981-2
   Kinderturnier 1996: kinderturnier-1996
 navbar: false
-parent_title: Kurt-Richter-Gedenkturnier
+parent_title: Kurt-Richter-Turnier
 ---
 <div class="post-11698 page type-page status-publish hentry" id="post-11698">
 <h1 class="entry-title">KRT Ergebnisse 2023</h1>

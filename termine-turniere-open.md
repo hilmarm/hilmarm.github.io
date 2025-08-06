@@ -23,7 +23,7 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblattturnier</a></td>
+<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblatt-Turnier 2025</a></td>
 <td>09.08.2025</td>
 <td>Wesko, Tom</td>
 </tr>
@@ -45,7 +45,12 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/20250427%20Ausschreibung%20Dennewitz%2030.08.2025doc.pdf">Schlacht bei Dennewitz</a></td>
 <td>30.08.2025</td>
-<td>Peter, Günter</td>
+<td>Peter, Günter, Rouven, Bernd</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://schachfreunde.berlin/10-amateur-cup-fuer-spieler-mit-dwz-unter-2000/" rel="noopener" target="_blank">10. Amateur-Cup mit DWZ U2000</a></td>
+<td>07.09.2025</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclub-oranienburg.de/wordpress/2025/06/4-oranienburger-chess-open-2025/" rel="noopener" target="_blank">4. Oranienburger Chess-Open 2025</a></td>

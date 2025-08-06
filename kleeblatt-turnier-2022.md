@@ -1,19 +1,12 @@
 ---
-title: Kleeblatt-Turnier 2022 
+title: 2022 
 layout: default
 navs:
-  Abteilungsmeisterschaft: abteilungsmeisterschaft
-  Pokal: pokal
-  Blitz: blitz
-  Schnellschach: schnellschach
-  Kleeblatt-Turnier 2025: kleeblatt-turnier-2025
-  Kleeblatt-Turnier 2024: kleeblatt-turnier-2024
-  Kleeblatt-Turnier 2022: kleeblatt-turnier-2022
-  Training: training
-  Ergebnisse melden: ergebnisse-melden
-  Online Schach: online-chessmail-de
+  2025: kleeblatt-turnier-2025
+  2024: kleeblatt-turnier-2024
+  2022: kleeblatt-turnier-2022
 navbar: false
-parent_title: Turniere
+parent_title: Kleeblatt
 ---
 <div class="post-10058 page type-page status-publish hentry" id="post-10058">
 <h1 class="entry-title">Kleeblatt-Turnier 2022</h1>

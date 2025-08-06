@@ -33,7 +33,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>2434 (März 2024)</td>
+<td>2379 (Juli 2025)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -62,7 +62,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>2330 (März 2024)</td>
+<td>2304 (Juli 2025)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -131,11 +131,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1975 (März 2024)</td>
+<td>1990 (Juli 2025)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1993</td>
+<td>2030</td>
 </tr>
 <tr>
 <td colspan="2"><span style="font-size: 14pt;"><strong>Minh Tham</strong></span> – <a href="https://players.chessbase.com/de/player/tham_minh/366310" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
@@ -200,11 +200,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1921 (März 2024)</td>
+<td>1941 (Juli 2025)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1921</td>
+<td>1941</td>
 </tr>
 <tr>
 <td>
@@ -258,11 +258,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1755 (März 2024)</td>
+<td>1819 (Juli 2025)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1755</td>
+<td>1819</td>
 </tr>
 <tr>
 <td>
