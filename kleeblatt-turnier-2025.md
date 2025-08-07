@@ -96,6 +96,14 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
+<td>Sohr,​Jim</td>
+<td>1966</td>
+<td>1941</td>
+<td>SV Königsjäger Süd-West e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
 <td>Omar,​Samy</td>
 <td>1930</td>
 <td>0</td>
@@ -103,7 +111,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td>3</td>
 <td>Schenk,​Rafael</td>
 <td>1910</td>
 <td>1900</td>
@@ -111,7 +119,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>3</td>
+<td>4</td>
 <td>Richter,​Felix</td>
 <td>1876</td>
 <td>1867</td>
@@ -119,7 +127,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>4</td>
+<td>5</td>
 <td>Tornow,​Michael</td>
 <td>1779</td>
 <td>1941</td>
@@ -127,7 +135,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>5</td>
+<td>6</td>
 <td>Albrecht,​Constantin</td>
 <td>1723</td>
 <td>1761</td>
@@ -135,7 +143,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>6</td>
+<td>7</td>
 <td>Popitz,​Paul</td>
 <td>1708</td>
 <td>1759</td>
@@ -143,7 +151,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>7</td>
+<td>8</td>
 <td>Schmidt,​Jossip</td>
 <td>1677</td>
 <td>1647</td>
@@ -151,7 +159,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>8</td>
+<td>9</td>
 <td>Mayer,​Herbert</td>
 <td>1657</td>
 <td>1785</td>
@@ -159,7 +167,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>9</td>
+<td>10</td>
 <td>Heinrich,​Wesko</td>
 <td>1579</td>
 <td>0</td>
@@ -167,7 +175,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>10</td>
+<td>11</td>
 <td>Kreuchauf,​Olaf</td>
 <td>1566</td>
 <td>1759</td>
@@ -175,7 +183,15 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>11</td>
+<td>12</td>
+<td>Kopper,​Lucas</td>
+<td>1557</td>
+<td>1758</td>
+<td>SC Kreuzberg e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
 <td>Schulze,​Robert</td>
 <td>1555</td>
 <td>1819</td>
@@ -183,7 +199,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>12</td>
+<td>14</td>
 <td>Döpmann,​Christoph</td>
 <td>1539</td>
 <td>1665</td>
@@ -191,7 +207,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>13</td>
+<td>15</td>
 <td>Bradschetl,​Tom</td>
 <td>1532</td>
 <td>1843</td>
@@ -199,7 +215,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>14</td>
+<td>16</td>
 <td>Faidun,​Nikita</td>
 <td>1524</td>
 <td>0</td>
@@ -207,7 +223,15 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>15</td>
+<td>17</td>
+<td>Geppert,​Finn</td>
+<td>1514</td>
+<td>1583</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>18</td>
 <td>Cieslak,​Tim</td>
 <td>1512</td>
 <td>0</td>
@@ -215,7 +239,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>16</td>
+<td>19</td>
 <td>Zavyalov,​Kirill</td>
 <td>1444</td>
 <td>1693</td>
@@ -223,7 +247,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>17</td>
+<td>20</td>
 <td>Koppe,​Cordelia</td>
 <td>1404</td>
 <td>1661</td>
@@ -231,7 +255,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>18</td>
+<td>21</td>
 <td>Chupikov,​Oleksii</td>
 <td>1398</td>
 <td>1653</td>
@@ -239,7 +263,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>19</td>
+<td>22</td>
 <td>Reichert,​Lutz</td>
 <td>1393</td>
 <td>1661</td>
@@ -247,7 +271,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>20</td>
+<td>23</td>
 <td>Fieger,​Arthur</td>
 <td>1379</td>
 <td>1687</td>
@@ -255,7 +279,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>21</td>
+<td>24</td>
 <td>Wesner,​Andy</td>
 <td>1362</td>
 <td>1531</td>
@@ -263,7 +287,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>22</td>
+<td>25</td>
 <td>Warnest,​Stefan</td>
 <td>1330</td>
 <td>0</td>
@@ -271,7 +295,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>23</td>
+<td>26</td>
 <td>Chupikov,​Mark</td>
 <td>1228</td>
 <td>1409</td>
@@ -279,7 +303,15 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>24</td>
+<td>27</td>
+<td>Piotrowski,​Jaro</td>
+<td>1213</td>
+<td>0</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>28</td>
 <td>Malyi,​Tymofii</td>
 <td>1201</td>
 <td>1465</td>
@@ -287,7 +319,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>25</td>
+<td>29</td>
 <td>Preissner,​Annette</td>
 <td>1191</td>
 <td>1575</td>
@@ -295,7 +327,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>26</td>
+<td>30</td>
 <td>Wisniewski,​Alexander</td>
 <td>1174</td>
 <td>0</td>
@@ -303,7 +335,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>27</td>
+<td>31</td>
 <td>Konatham,​Kundana Sree</td>
 <td>1037</td>
 <td>0</td>
@@ -311,7 +343,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>28</td>
+<td>32</td>
 <td>Cieslak,​Toni</td>
 <td>1030</td>
 <td>0</td>
@@ -319,7 +351,15 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>29</td>
+<td>33</td>
+<td>Frey,​Jarmo</td>
+<td>1016</td>
+<td>1404</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>34</td>
 <td>Ziepa,​Andreas</td>
 <td>986</td>
 <td>1452</td>
@@ -327,7 +367,15 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>30</td>
+<td>35</td>
+<td>Frey,​Torsten</td>
+<td>871</td>
+<td>0</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>36</td>
 <td>Würzburger,​Aaron</td>
 <td>813</td>
 <td>0</td>
@@ -335,15 +383,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>31</td>
-<td>Bordihn,​Frank</td>
-<td>0</td>
-<td>0</td>
-<td>TSV Mariendorf 1897</td>
-<td></td>
-</tr>
-<tr>
-<td>32</td>
+<td>37</td>
 <td>Choubardas,​Georgios</td>
 <td>0</td>
 <td>0</td>
@@ -351,7 +391,7 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>33</td>
+<td>38</td>
 <td>Deibert,​Eliana</td>
 <td>0</td>
 <td>0</td>
@@ -359,11 +399,27 @@ parent_title: Kleeblatt
 <td></td>
 </tr>
 <tr>
-<td>34</td>
+<td>39</td>
+<td>Galushko,​Jakob</td>
+<td>0</td>
+<td>0</td>
+<td>ohne Verein</td>
+<td></td>
+</tr>
+<tr>
+<td>40</td>
 <td>Christoph,​Ilja Ronald</td>
 <td>0</td>
 <td>0</td>
 <td>SC Friesen Lichtenberg e.V.</td>
+<td></td>
+</tr>
+<tr>
+<td>41</td>
+<td>Bordihn,​Frank</td>
+<td>0</td>
+<td>0</td>
+<td>TSV Mariendorf 1897</td>
 <td></td>
 </tr>
 </tbody>
