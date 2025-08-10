@@ -14,7 +14,6 @@ parent_title: Kleeblatt
 <p>Am 9. August 2025 tragen wir in der <strong>Mensa der Albrecht von Graefe Schule</strong> (Haus A), Graefestr. 85, 10967 Berlin (U8 Schönleinstraße), wieder ein <b>Kleeblatt-Turnier</b> aus.</p>
 <p>Das (<i>vier</i>blättrige) Kleeblatt steht dabei für die <i>Vierergruppen</i>, in denen jeweils ein DWZ-gewertetes Rundenturnier gespielt wird. Das Turnier richtet sich ausdrücklich an Spieler <i>aller</i> Spielstärken und Altersgruppen, eine Mitgliedschaft in einem Schachverein ist nicht erforderlich.</p>
 <p>Alle weiteren Informationen findet ihr in der <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/Kleeblatt-Turnier-2025.pdf">Ausschreibung</a>.</p>
-<p>Hinweis: die Wertungszahlen in der vorläufigen Teilnehmerliste sind vom 26. Juni. Bei der Registrierung am Turniertag werden sie aktualisiert, so dass für die Gruppeneinteilung die dann gültige DWZ herangezogen wird.</p>
 <div class="grtTournament">
 <style><!--.grtTournament div.grtTab.grtTabInactive {
     display:none;
@@ -78,7 +77,7 @@ parent_title: Kleeblatt
 }
 --></style>
 <h1>3. Kleeblatt-Turnier</h1>
-<p><span>2025 Aug 9</span></p>
+<p><span>9. August 2025</span></p>
 <div class="grtNav"><button class="grtButtonInitial" id="grtButton_playerList" onclick="grt.activateTab('playerList');">Teilnehmerliste</button><button class="grtButtonInactive" id="grtButton_ca0745fa-d468-494c-b060-5368c20f8c6e" onclick="grt.activateTab('ca0745fa-d468-494c-b060-5368c20f8c6e');">Capablanca</button><button class="grtButtonInactive" id="grtButton_79489a1b-5559-4c2a-b7fc-b583cad3f91d" onclick="grt.activateTab('79489a1b-5559-4c2a-b7fc-b583cad3f91d');">Steinitz</button><button class="grtButtonInactive" id="grtButton_8c116594-c864-4daf-bf81-3490ef7f3327" onclick="grt.activateTab('8c116594-c864-4daf-bf81-3490ef7f3327');">Lasker</button><button class="grtButtonInactive" id="grtButton_b9f77b8d-48c1-4122-b044-b807cdec7e9f" onclick="grt.activateTab('b9f77b8d-48c1-4122-b044-b807cdec7e9f');">Botwinnik</button><button class="grtButtonInactive" id="grtButton_79d79aac-e029-444c-8017-617652228744" onclick="grt.activateTab('79d79aac-e029-444c-8017-617652228744');">Tarrasch</button><button class="grtButtonInactive" id="grtButton_88b63ab9-6aa4-4f05-a385-f468de0a07b4" onclick="grt.activateTab('88b63ab9-6aa4-4f05-a385-f468de0a07b4');">Nimzowitsch</button><button class="grtButtonInactive" id="grtButton_192e453a-9ec0-4e51-a65a-4bfaa062b872" onclick="grt.activateTab('192e453a-9ec0-4e51-a65a-4bfaa062b872');">Smyslow</button><button class="grtButtonInactive" id="grtButton_44df9143-156f-4b19-a3be-22a27aab7a19" onclick="grt.activateTab('44df9143-156f-4b19-a3be-22a27aab7a19');">Najdorf</button><button class="grtButtonInactive" id="grtButton_90bf4e45-d521-44cf-ba51-490fe1b26625" onclick="grt.activateTab('90bf4e45-d521-44cf-ba51-490fe1b26625');">Petrosjan</button><button class="grtButtonInactive" id="grtButton_9005259a-1ee6-4e53-9993-e2169554ed1f" onclick="grt.activateTab('9005259a-1ee6-4e53-9993-e2169554ed1f');">Morphy</button></div>
 <div class="grtTab grtTabActive" id="grtTab_playerList">
 <h2>Teilnehmerliste</h2>
@@ -435,39 +434,39 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Schenk,​Rafael</td>
-<td>Ludwigsfelder Schachclub 54</td>
-<td>1910</td>
-<td>1900</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Sohr,​Jim</td>
-<td>SV Königsjäger Süd-West e.V.</td>
-<td>1944</td>
-<td>1941</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Omar,​Samy</td>
 <td>SC Kreuzberg e.V.</td>
 <td>1965</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
+<td>Sohr,​Jim</td>
+<td>SV Königsjäger Süd-West e.V.</td>
+<td>1944</td>
+<td>1941</td>
+<td>1.5</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>3</td>
 <td>Daum,​Norman</td>
 <td>SC Rotation Pankow e.V.</td>
 <td>2113</td>
 <td>2141</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>0.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Schenk,​Rafael</td>
+<td>Ludwigsfelder Schachclub 54</td>
+<td>1910</td>
+<td>1900</td>
+<td>0.5</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>
@@ -488,14 +487,14 @@ parent_title: Kleeblatt
 <td>Daum,Norman</td>
 <td> – </td>
 <td>Schenk,Rafael</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Sohr,Jim</td>
 <td> – </td>
 <td>Omar,Samy</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -516,14 +515,14 @@ parent_title: Kleeblatt
 <td>Omar,Samy</td>
 <td> – </td>
 <td>Daum,Norman</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Schenk,Rafael</td>
 <td> – </td>
 <td>Sohr,Jim</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -544,14 +543,14 @@ parent_title: Kleeblatt
 <td>Daum,Norman</td>
 <td> – </td>
 <td>Sohr,Jim</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Omar,Samy</td>
 <td> – </td>
 <td>Schenk,Rafael</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -574,39 +573,39 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Richter,​Felix</td>
-<td>TSG Oberschöneweide e.V.</td>
-<td>1860</td>
-<td>1867</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Gerull,​Noah</td>
-<td>SC Borussia Lichtenberg</td>
-<td>1782</td>
-<td>1715</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Tornow,​Michael</td>
-<td>SV Wusterhausen</td>
-<td>1781</td>
-<td>1941</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Schmidt,​Jossip</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
 <td>1753</td>
 <td>1647</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Richter,​Felix</td>
+<td>TSG Oberschöneweide e.V.</td>
+<td>1860</td>
+<td>1867</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Gerull,​Noah</td>
+<td>SC Borussia Lichtenberg</td>
+<td>1782</td>
+<td>1715</td>
+<td>1.5</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tornow,​Michael</td>
+<td>SV Wusterhausen</td>
+<td>1781</td>
+<td>1941</td>
+<td>0.5</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -627,14 +626,14 @@ parent_title: Kleeblatt
 <td>Schmidt,Jossip</td>
 <td> – </td>
 <td>Richter,Felix</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Gerull,Noah</td>
 <td> – </td>
 <td>Tornow,Michael</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -655,14 +654,14 @@ parent_title: Kleeblatt
 <td>Tornow,Michael</td>
 <td> – </td>
 <td>Schmidt,Jossip</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Richter,Felix</td>
 <td> – </td>
 <td>Gerull,Noah</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -683,14 +682,14 @@ parent_title: Kleeblatt
 <td>Schmidt,Jossip</td>
 <td> – </td>
 <td>Gerull,Noah</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Tornow,Michael</td>
 <td> – </td>
 <td>Richter,Felix</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -713,39 +712,39 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Mayer,​Herbert</td>
-<td>SSV Rotation Berlin e.V.</td>
-<td>1644</td>
-<td>1785</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Geppert,​Finn</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
 <td>1690</td>
 <td>1583</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.5</td>
+<td>2.75</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Popitz,​Paul</td>
 <td>SC Viernheim 1934 e.V.</td>
 <td>1762</td>
 <td>1759</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>2.25</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
+<td>Mayer,​Herbert</td>
+<td>SSV Rotation Berlin e.V.</td>
+<td>1644</td>
+<td>1785</td>
+<td>1.5</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>4</td>
 <td>Albrecht,​Constantin</td>
 <td>SV Empor Berlin e.V.</td>
 <td>1708</td>
 <td>1761</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>0.5</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>
@@ -766,14 +765,14 @@ parent_title: Kleeblatt
 <td>Albrecht,Constantin</td>
 <td> – </td>
 <td>Mayer,Herbert</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Geppert,Finn</td>
 <td> – </td>
 <td>Popitz,Paul</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -794,14 +793,14 @@ parent_title: Kleeblatt
 <td>Popitz,Paul</td>
 <td> – </td>
 <td>Albrecht,Constantin</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Mayer,Herbert</td>
 <td> – </td>
 <td>Geppert,Finn</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -822,14 +821,14 @@ parent_title: Kleeblatt
 <td>Albrecht,Constantin</td>
 <td> – </td>
 <td>Geppert,Finn</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Popitz,Paul</td>
 <td> – </td>
 <td>Mayer,Herbert</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -852,39 +851,39 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Holovianko,​Illia</td>
-<td>TuS Makkabi Berlin e.V.</td>
-<td>1621</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Schulze,​Robert</td>
-<td>USV Potsdam e.V.</td>
-<td>1575</td>
-<td>1819</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Heinrich,​Wesko</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>1579</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Kopper,​Lucas</td>
 <td>SC Kreuzberg e.V.</td>
 <td>1608</td>
 <td>1758</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Holovianko,​Illia</td>
+<td>TuS Makkabi Berlin e.V.</td>
+<td>1621</td>
+<td>0</td>
+<td>2.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Schulze,​Robert</td>
+<td>USV Potsdam e.V.</td>
+<td>1575</td>
+<td>1819</td>
+<td>1.0</td>
+<td>2.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Heinrich,​Wesko</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1579</td>
+<td>0</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -905,14 +904,14 @@ parent_title: Kleeblatt
 <td>Kopper,Lucas</td>
 <td> – </td>
 <td>Holovianko,Illia</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Schulze,Robert</td>
 <td> – </td>
 <td>Heinrich,Wesko</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -933,14 +932,14 @@ parent_title: Kleeblatt
 <td>Heinrich,Wesko</td>
 <td> – </td>
 <td>Kopper,Lucas</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Holovianko,Illia</td>
 <td> – </td>
 <td>Schulze,Robert</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -961,14 +960,14 @@ parent_title: Kleeblatt
 <td>Kopper,Lucas</td>
 <td> – </td>
 <td>Schulze,Robert</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Heinrich,Wesko</td>
 <td> – </td>
 <td>Holovianko,Illia</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -991,21 +990,12 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Döpmann,​Christoph</td>
-<td>Schachfreunde Nordost Berlin</td>
-<td>1539</td>
-<td>1665</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Bradschetl,​Tom</td>
-<td>SG NARVA Berlin e.V.</td>
-<td>1532</td>
-<td>1843</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>Mishmari,​Nadav</td>
+<td>ohne Verein</td>
+<td>0</td>
+<td>0</td>
+<td>2.0</td>
+<td>2.25</td>
 </tr>
 <tr>
 <td>1</td>
@@ -1013,17 +1003,26 @@ parent_title: Kleeblatt
 <td>SSV Rotation Berlin e.V.</td>
 <td>1563</td>
 <td>1693</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.25</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Mishmari,​Nadav</td>
-<td>ohne Verein</td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3</td>
+<td>Bradschetl,​Tom</td>
+<td>SG NARVA Berlin e.V.</td>
+<td>1532</td>
+<td>1843</td>
+<td>1.5</td>
+<td>2.25</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Döpmann,​Christoph</td>
+<td>Schachfreunde Nordost Berlin</td>
+<td>1539</td>
+<td>1665</td>
+<td>0.5</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>
@@ -1044,14 +1043,14 @@ parent_title: Kleeblatt
 <td>Mishmari,Nadav</td>
 <td> – </td>
 <td>Döpmann,Christoph</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bradschetl,Tom</td>
 <td> – </td>
 <td>Zavyalov,Kirill</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1072,14 +1071,14 @@ parent_title: Kleeblatt
 <td>Zavyalov,Kirill</td>
 <td> – </td>
 <td>Mishmari,Nadav</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Döpmann,Christoph</td>
 <td> – </td>
 <td>Bradschetl,Tom</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 </tbody>
 </table>
@@ -1100,14 +1099,14 @@ parent_title: Kleeblatt
 <td>Mishmari,Nadav</td>
 <td> – </td>
 <td>Bradschetl,Tom</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Zavyalov,Kirill</td>
 <td> – </td>
 <td>Döpmann,Christoph</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1134,33 +1133,33 @@ parent_title: Kleeblatt
 <td>SK König Tegel 1949 e.V.</td>
 <td>1523</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Cieslak,​Tim</td>
-<td>Schach-Club Wittstock e.V.</td>
-<td>1494</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Koppe,​Cordelia</td>
-<td>SV „Glück auf“ Rüdersdorf e.V.</td>
-<td>1431</td>
-<td>1661</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Chupikov,​Mark</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
 <td>1458</td>
 <td>1409</td>
+<td>2.0</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Cieslak,​Tim</td>
+<td>Schach-Club Wittstock e.V.</td>
+<td>1494</td>
+<td>0</td>
+<td>1.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Koppe,​Cordelia</td>
+<td>SV „Glück auf“ Rüdersdorf e.V.</td>
+<td>1431</td>
+<td>1661</td>
 <td>0.0</td>
 <td>0.0</td>
 </tr>
@@ -1183,14 +1182,14 @@ parent_title: Kleeblatt
 <td>Chupikov,Mark</td>
 <td> – </td>
 <td>Faidun,Nikita</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Cieslak,Tim</td>
 <td> – </td>
 <td>Koppe,Cordelia</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1211,14 +1210,14 @@ parent_title: Kleeblatt
 <td>Koppe,Cordelia</td>
 <td> – </td>
 <td>Chupikov,Mark</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Faidun,Nikita</td>
 <td> – </td>
 <td>Cieslak,Tim</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1239,14 +1238,14 @@ parent_title: Kleeblatt
 <td>Chupikov,Mark</td>
 <td> – </td>
 <td>Cieslak,Tim</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Koppe,Cordelia</td>
 <td> – </td>
 <td>Faidun,Nikita</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1273,35 +1272,35 @@ parent_title: Kleeblatt
 <td>SC Zitadelle Spandau 1977 e.V.</td>
 <td>1393</td>
 <td>1653</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Malyi,​Tymofii</td>
-<td>SK Zehlendorf e.V.</td>
-<td>1375</td>
-<td>1465</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Galushko,​Jakob</td>
-<td>ohne Verein</td>
-<td>0</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
+<td>2</td>
 <td>Wesner,​Andy</td>
 <td>ESV Waren</td>
 <td>1335</td>
 <td>1531</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.0</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Galushko,​Jakob</td>
+<td>ohne Verein</td>
+<td>0</td>
+<td>0</td>
+<td>1.0</td>
+<td>1.0</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Malyi,​Tymofii</td>
+<td>SK Zehlendorf e.V.</td>
+<td>1375</td>
+<td>1465</td>
+<td>1.0</td>
+<td>1.0</td>
 </tr>
 </tbody>
 </table>
@@ -1322,14 +1321,14 @@ parent_title: Kleeblatt
 <td>Wesner,Andy</td>
 <td> – </td>
 <td>Chupikov,Oleksii</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Malyi,Tymofii</td>
 <td> – </td>
 <td>Galushko,Jakob</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1350,14 +1349,14 @@ parent_title: Kleeblatt
 <td>Galushko,Jakob</td>
 <td> – </td>
 <td>Wesner,Andy</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Chupikov,Oleksii</td>
 <td> – </td>
 <td>Malyi,Tymofii</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1378,14 +1377,14 @@ parent_title: Kleeblatt
 <td>Wesner,Andy</td>
 <td> – </td>
 <td>Malyi,Tymofii</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Galushko,Jakob</td>
 <td> – </td>
 <td>Chupikov,Oleksii</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1408,39 +1407,39 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Rauhut,​Max</td>
-<td>FC Deetz e.V.</td>
-<td>1303</td>
-<td>1455</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Choubardas,​Georgios</td>
 <td>ohne Verein</td>
 <td>0</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2.0</td>
+<td>2.5</td>
 </tr>
 <tr>
-<td>1</td>
+<td>2</td>
 <td>Preissner,​Annette</td>
 <td>SC Kreuzberg e.V.</td>
 <td>1151</td>
 <td>1575</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>2.75</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
 <td>Warnest,​Stefan</td>
 <td>TSV Mariendorf 1897</td>
 <td>1330</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>1.5</td>
+<td>1.75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Rauhut,​Max</td>
+<td>FC Deetz e.V.</td>
+<td>1303</td>
+<td>1455</td>
+<td>1.0</td>
+<td>1.5</td>
 </tr>
 </tbody>
 </table>
@@ -1461,14 +1460,14 @@ parent_title: Kleeblatt
 <td>Warnest,Stefan</td>
 <td> – </td>
 <td>Rauhut,Max</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Choubardas,Georgios</td>
 <td> – </td>
 <td>Preissner,Annette</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1489,14 +1488,14 @@ parent_title: Kleeblatt
 <td>Preissner,Annette</td>
 <td> – </td>
 <td>Warnest,Stefan</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Rauhut,Max</td>
 <td> – </td>
 <td>Choubardas,Georgios</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1517,14 +1516,14 @@ parent_title: Kleeblatt
 <td>Warnest,Stefan</td>
 <td> – </td>
 <td>Choubardas,Georgios</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Preissner,Annette</td>
 <td> – </td>
 <td>Rauhut,Max</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1547,37 +1546,37 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Cieslak,​Toni</td>
-<td>Schach-Club Wittstock e.V.</td>
-<td>1030</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Würzburger,​Aaron</td>
-<td>SC Kreuzberg e.V.</td>
-<td>1007</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
-<td>Frey,​Jarmo</td>
-<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
-<td>1075</td>
-<td>1404</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Wisniewski,​Alexander</td>
 <td>SC Zitadelle Spandau 1977 e.V.</td>
 <td>1221</td>
 <td>0</td>
+<td>2.5</td>
+<td>2.75</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Cieslak,​Toni</td>
+<td>Schach-Club Wittstock e.V.</td>
+<td>1030</td>
+<td>0</td>
+<td>2.0</td>
+<td>1.5</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Würzburger,​Aaron</td>
+<td>SC Kreuzberg e.V.</td>
+<td>1007</td>
+<td>0</td>
+<td>1.5</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Frey,​Jarmo</td>
+<td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
+<td>1075</td>
+<td>1404</td>
 <td>0.0</td>
 <td>0.0</td>
 </tr>
@@ -1600,14 +1599,14 @@ parent_title: Kleeblatt
 <td>Wisniewski,Alexander</td>
 <td> – </td>
 <td>Cieslak,Toni</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Würzburger,Aaron</td>
 <td> – </td>
 <td>Frey,Jarmo</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1628,14 +1627,14 @@ parent_title: Kleeblatt
 <td>Frey,Jarmo</td>
 <td> – </td>
 <td>Wisniewski,Alexander</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Cieslak,Toni</td>
 <td> – </td>
 <td>Würzburger,Aaron</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1656,14 +1655,14 @@ parent_title: Kleeblatt
 <td>Wisniewski,Alexander</td>
 <td> – </td>
 <td>Würzburger,Aaron</td>
-<td>?:?</td>
+<td>½:½</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Frey,Jarmo</td>
 <td> – </td>
 <td>Cieslak,Toni</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1686,36 +1685,36 @@ parent_title: Kleeblatt
 <tbody>
 <tr>
 <td>1</td>
-<td>Ziepa,​Andreas</td>
-<td>SC Kreuzberg e.V.</td>
-<td>986</td>
-<td>1452</td>
-<td>0.0</td>
-<td>0.0</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Christoph,​Ilja Ronald</td>
 <td>SC Friesen Lichtenberg e.V.</td>
 <td>964</td>
 <td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>3.0</td>
+<td>3.0</td>
 </tr>
 <tr>
-<td>1</td>
-<td>Bordihn,​Frank</td>
-<td>SC Schwarz-Weiß Lichtenrade e.V.</td>
-<td>1067</td>
-<td>0</td>
-<td>0.0</td>
-<td>0.0</td>
+<td>2</td>
+<td>Ziepa,​Andreas</td>
+<td>SC Kreuzberg e.V.</td>
+<td>986</td>
+<td>1452</td>
+<td>2.0</td>
+<td>1.0</td>
 </tr>
 <tr>
-<td>1</td>
+<td>3</td>
 <td>Frey,​Torsten</td>
 <td>Barnimer Schachfreunde im SV Stahl Finow e.V.</td>
 <td>900</td>
+<td>0</td>
+<td>1.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Bordihn,​Frank</td>
+<td>SC Schwarz-Weiß Lichtenrade e.V.</td>
+<td>1067</td>
 <td>0</td>
 <td>0.0</td>
 <td>0.0</td>
@@ -1739,14 +1738,14 @@ parent_title: Kleeblatt
 <td>Frey,Torsten</td>
 <td> – </td>
 <td>Ziepa,Andreas</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Christoph,Ilja Ronald</td>
 <td> – </td>
 <td>Bordihn,Frank</td>
-<td>?:?</td>
+<td>1:0</td>
 </tr>
 </tbody>
 </table>
@@ -1767,14 +1766,14 @@ parent_title: Kleeblatt
 <td>Bordihn,Frank</td>
 <td> – </td>
 <td>Frey,Torsten</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Ziepa,Andreas</td>
 <td> – </td>
 <td>Christoph,Ilja Ronald</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
@@ -1795,14 +1794,14 @@ parent_title: Kleeblatt
 <td>Frey,Torsten</td>
 <td> – </td>
 <td>Christoph,Ilja Ronald</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 <tr>
 <td>2</td>
 <td>Bordihn,Frank</td>
 <td> – </td>
 <td>Ziepa,Andreas</td>
-<td>?:?</td>
+<td>0:1</td>
 </tr>
 </tbody>
 </table>
