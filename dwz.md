@@ -55,7 +55,7 @@ navs:
 <td>P</td>
 <td>2023</td>
 <td>503</td>
-<td>2026</td>
+<td>2041</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -103,7 +103,7 @@ navs:
 <td></td>
 <td>1907</td>
 <td>17</td>
-<td>1893</td>
+<td>1922</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -151,7 +151,7 @@ navs:
 <td></td>
 <td>1798</td>
 <td>108</td>
-<td>1906</td>
+<td>1911</td>
 </tr>
 <tr>
 <td>16.</td>
@@ -191,7 +191,7 @@ navs:
 <td></td>
 <td>1678</td>
 <td>115</td>
-<td>1855</td>
+<td>1837</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -199,7 +199,7 @@ navs:
 <td></td>
 <td>1657</td>
 <td>79</td>
-<td>1819</td>
+<td></td>
 </tr>
 <tr>
 <td>22.</td>
@@ -207,7 +207,7 @@ navs:
 <td></td>
 <td>1636</td>
 <td>66</td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td>23.</td>
@@ -215,7 +215,7 @@ navs:
 <td></td>
 <td>1614</td>
 <td>89</td>
-<td>1840</td>
+<td>1847</td>
 </tr>
 <tr>
 <td>24.</td>
@@ -227,14 +227,6 @@ navs:
 </tr>
 <tr>
 <td>25.</td>
-<td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
-<td></td>
-<td>1579</td>
-<td>41</td>
-<td>0</td>
-</tr>
-<tr>
-<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
 <td>1577</td>
@@ -242,20 +234,28 @@ navs:
 <td>0</td>
 </tr>
 <tr>
+<td>26.</td>
+<td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
+<td></td>
+<td>1565</td>
+<td>42</td>
+<td>0</td>
+</tr>
+<tr>
 <td>27.</td>
+<td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
+<td></td>
+<td>1535</td>
+<td>22</td>
+<td>1843</td>
+</tr>
+<tr>
+<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
 <td>1534</td>
 <td>13</td>
 <td>1657</td>
-</tr>
-<tr>
-<td>28.</td>
-<td><a href="http://www.schachbund.de/spieler/10022302.html" target="_blank"> Tom Bradschetl</a></td>
-<td></td>
-<td>1532</td>
-<td>21</td>
-<td>1843</td>
 </tr>
 <tr>
 <td>29.</td>
@@ -335,7 +335,7 @@ navs:
 <td></td>
 <td>1340</td>
 <td>14</td>
-<td>1598</td>
+<td>1573</td>
 </tr>
 <tr>
 <td>39.</td>
