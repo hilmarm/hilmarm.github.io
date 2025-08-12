@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Kleeblatt-Turnier 2025</a></td>
-<td>09.08.2025</td>
-<td>Wesko, Tom</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/1acb67f6-0f38-4256-b9e8-bfb5eeaf69c9/BerlinerHalbmarathonBlitzschach%202025.pdf" rel="noopener" target="_blank">Berliner Elo – Halbmarathon Blitzschach</a></td>
 <td>16.08.2025</td>
 <td></td>
@@ -40,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
 <td>23.08.-31.08.2025</td>
-<td>Ekkehard</td>
+<td>Ekkehard, Jan-Hendrik</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/20250427%20Ausschreibung%20Dennewitz%2030.08.2025doc.pdf">Schlacht bei Dennewitz</a></td>
@@ -58,8 +53,28 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202025%20Ausschreib.pdf" rel="noopener" target="_blank">Spreewaldpokal</a></td>
+<td>13.09.2025</td>
+<td>1-2 Mannschaften?</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
+<td>02.10.-07.10.2025</td>
+<td>Ulrich</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">18. Wildauer Dahmelandpokal 2025</a></td>
 <td>03.10.-05.10.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><strong>Kurt-Richter-Gedenkturnier 2025</strong></td>
+<td>31.10.-02.10.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVI. Falkenseer Open</a></td>
+<td>31.10.-02.10.2025</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
