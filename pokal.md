@@ -18,8 +18,48 @@ parent_title: Turniere
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h2>Halbfinale am 21. August</h2>
-<p>Stüve – Hintze<br/>
-Lange – Özates</p>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+<th>Blitz</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>21</td>
+<td>Stüve,Maxim</td>
+<td>(2)</td>
+<td>–</td>
+<td>8</td>
+<td>Hintze,Peter</td>
+<td>(1½)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>12</td>
+<td>Lange,Rudolf</td>
+<td>(3)</td>
+<td>–</td>
+<td>18</td>
+<td>Özates,Mert</td>
+<td>(2)</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>Runde 3 am 17. Juli <span style="font-size: 12pt;">(Viertelfinale)</span></h2>
 <table class="clean swiss footable">
 <thead>
@@ -40,13 +80,13 @@ Lange – Özates</p>
 <tr>
 <td>1</td>
 <td>8</td>
-<td>Hintze,Peter</td>
+<td><strong>Hintze,Peter</strong></td>
 <td>(½)</td>
 <td>–</td>
 <td>3</td>
 <td>Brinckmann,Klaus</td>
 <td>(2)</td>
-<td></td>
+<td>+ : –</td>
 <td></td>
 </tr>
 <tr>

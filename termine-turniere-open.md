@@ -35,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
 <td>23.08.-31.08.2025</td>
-<td>Ekkehard, Jan-Hendrik</td>
+<td>Ekkehard, Michael, Jan-Hendrik</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/20250427%20Ausschreibung%20Dennewitz%2030.08.2025doc.pdf">Schlacht bei Dennewitz</a></td>
@@ -56,6 +56,16 @@ parent_title: Termine
 <td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202025%20Ausschreib.pdf" rel="noopener" target="_blank">Spreewaldpokal</a></td>
 <td>13.09.2025</td>
 <td>1-2 Mannschaften?</td>
+</tr>
+<tr style="height: 24px;">
+<td>BBEM</td>
+<td>20.09.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td>BBMM</td>
+<td>21.09.2025</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>

@@ -2,6 +2,7 @@
 title: Ergebnisse 2018 
 layout: default
 navs:
+  2025: 2025-2
   2024: 2024-2
   Teilnehmerliste 2024: teilnehmerliste-2024
   Ranglisten 2024: krt-ranglisten-2024
