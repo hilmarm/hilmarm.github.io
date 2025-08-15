@@ -17,12 +17,13 @@ Für Probleme oder Schäden in jeglicher Form, die durch Existenz, Kenntnis, Bes
 <h1 class="heading1" id="a1">Linksammlung</h1>
 <ul>
 <li><a href="http://www.berlinerschachverband.de" rel="noopener noreferrer" target="_blank">Berliner Schachverband</a> Aktuelles vom Schach aus Berlin</li>
+<li><a href="https://www.lsbb.de/" rel="noopener" target="_blank">Schachverband Brandenburg</a> Aktuelles vom Schach aus Brandenburg</li>
 <li><a href="http://www.schachbund.de" rel="noopener noreferrer" target="_blank">Deutscher Schachbund</a> Aktuelles vom Schach aus Deutschland und die <a href="http://www.schachbund.de/SchachBL/index.php" rel="noopener noreferrer" target="_blank">Schachbundesliga</a></li>
 <li><a href="http://www.schachbundesliga.de" rel="noopener noreferrer" target="_blank">Schach Bundesliga</a> Die Seite der Schach Bundesliga</li>
 <li><a href="http://senioren.schachbund.de/" rel="noopener noreferrer" target="_blank">Senioren im Deutschen Schachbund e.V.</a> Alles über die Seniorenturniere</li>
 <li><a href="http://www.chessbase.de/" rel="noopener noreferrer" target="_blank">Chessbase</a> Schach aus aller Welt</li>
 <li><a href="https://perlenvombodensee.de/" rel="noopener" target="_blank">Perlen vom Bodensee</a> Die neuesten Nachrichten vom Schach</li>
-<li><a href="http://www.fide.com/" rel="noopener noreferrer" target="_blank">FIDE</a> World Chess Federation, mit <a href="http://ratings.fide.com/" rel="noopener noreferrer" target="_blank">ELO</a> Listen</li>
+<li><a href="http://www.fide.com/" rel="noopener noreferrer" target="_blank">FIDE</a> World Chess Federation</li>
 <li><a href="http://www.fvschach.de" rel="noopener noreferrer" target="_blank">FV Schach e.V.</a> Fachvereinigung Schach – der Berliner Betriebsschach-Verband</li>
 <li><a href="http://www.mattzug.de/bmm/" rel="noopener noreferrer" target="_blank">BMM</a> Berliner Mannschaftsmeisterschaft im Schach – Ergebnisse bis 2023</li>
 <li><a href="http://www.swiss-chess.de/" rel="noopener noreferrer" target="_blank">Swiss-Chess</a> das führenden Windows-Programm zur Verwaltung und Organisation von Schachturnieren</li>
@@ -54,7 +55,6 @@ Für Probleme oder Schäden in jeglicher Form, die durch Existenz, Kenntnis, Bes
 </ul>
 <p><span style="font-size: small;"><u>Sonstige:</u></span></p>
 <ul>
-<li><a href="http://www.segerberg.de/" rel="noopener noreferrer" target="_blank">Segerberg Photography</a> Seite von Tomas Segerberg – und seine Schach Seite <a href="http://www.himbeermousse.de/" rel="noopener" target="_blank">Himbeermousse</a></li>
 <li><a href="http://www.schoenetomaten.de/index.htm" rel="noopener noreferrer" target="_blank">Schöne Tomaten</a> Seite von Jens Prädel</li>
 <li><a href="http://schaakhuis.nl/" rel="noopener" target="_blank">Schaakhuis En Passant</a> befreundeter Schachverein in DenHaag (Bram, Mike, Norbert, Derk, Gerard)</li>
 <li><a href="http://de.wikipedia.org/wiki/SG_NARVA_Berlin" rel="noopener noreferrer" target="_blank">Wikipedia</a> SG NARVA Berlin</li>
