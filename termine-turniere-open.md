@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://storage.e.jimdo.com/file/1acb67f6-0f38-4256-b9e8-bfb5eeaf69c9/BerlinerHalbmarathonBlitzschach%202025.pdf" rel="noopener" target="_blank">Berliner Elo – Halbmarathon Blitzschach</a></td>
-<td>16.08.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://storage.e.jimdo.com/file/7d5f2913-f28f-4a34-81b3-c470f9acd96e/Berliner%20Schach-Triathlon%202025.pdf" rel="noopener" target="_blank">Berliner Schach-Triathlon</a></td>
-<td>17.08.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
 <td>23.08.-31.08.2025</td>
 <td>Ekkehard, Michael, Jan-Hendrik</td>
@@ -58,12 +48,12 @@ parent_title: Termine
 <td>1-2 Mannschaften?</td>
 </tr>
 <tr style="height: 24px;">
-<td>BBEM</td>
+<td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-em-2025.html" rel="noopener" target="_blank">BBEM</a></td>
 <td>20.09.2025</td>
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td>BBMM</td>
+<td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-mm-2025.html" rel="noopener" target="_blank">BBMM</a></td>
 <td>21.09.2025</td>
 <td></td>
 </tr>
@@ -75,7 +65,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">18. Wildauer Dahmelandpokal 2025</a></td>
 <td>03.10.-05.10.2025</td>
-<td></td>
+<td>Peter</td>
 </tr>
 <tr style="height: 24px;">
 <td><strong>Kurt-Richter-Gedenkturnier 2025</strong></td>
