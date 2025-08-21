@@ -45,17 +45,17 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202025%20Ausschreib.pdf" rel="noopener" target="_blank">Spreewaldpokal</a></td>
 <td>13.09.2025</td>
-<td>1-2 Mannschaften?</td>
+<td>1 Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-em-2025.html" rel="noopener" target="_blank">BBEM</a></td>
 <td>20.09.2025</td>
-<td></td>
+<td>Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-mm-2025.html" rel="noopener" target="_blank">BBMM</a></td>
 <td>21.09.2025</td>
-<td></td>
+<td>Mannschaft „Sternburg“</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
