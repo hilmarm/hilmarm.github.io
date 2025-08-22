@@ -513,7 +513,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">10</td>
 <td style="width: 131.067px;">Mothes,Thomas</td>
 <td style="width: 38.1333px;">(3½)</td>
-<td style="width: 47.1889px;"> 21.8.</td>
+<td style="width: 47.1889px;">½ – ½</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>

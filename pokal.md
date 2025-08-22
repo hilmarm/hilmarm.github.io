@@ -41,9 +41,9 @@ parent_title: Turniere
 <td>(2)</td>
 <td>–</td>
 <td>8</td>
-<td>Hintze,Peter</td>
+<td><strong>Hintze,Peter</strong></td>
 <td>(1½)</td>
-<td></td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>

@@ -65,7 +65,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">18. Wildauer Dahmelandpokal 2025</a></td>
 <td>03.10.-05.10.2025</td>
-<td>Peter</td>
+<td>Peter, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><strong>Kurt-Richter-Gedenkturnier 2025</strong></td>
