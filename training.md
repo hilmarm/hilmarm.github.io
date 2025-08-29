@@ -23,34 +23,34 @@ parent_title: Turniere
 <td style="height: 24px; width: 169.117px;">Name</td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">02. Mai 2024</td>
+<td style="height: 24px; width: 149.633px;"></td>
 <td style="height: 24px; width: 175.25px;"></td>
 <td style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">06. Juni 2024</td>
-<td style="height: 24px; width: 175.25px;">Ideen gegen Holländisch!…</td>
-<td style="height: 24px; width: 169.117px;">Rouven Arnold</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">04. Juli 2024</td>
+<td style="height: 24px; width: 149.633px;"></td>
 <td style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;">Rouven?</td>
+<td style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">01. August 2024</td>
+<td style="height: 24px; width: 149.633px;"></td>
+<td style="height: 24px; width: 175.25px;"></td>
+<td style="height: 24px; width: 169.117px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px; width: 149.633px;"></td>
 <td style="height: 24px; width: 175.25px;"></td>
 <td nowrap="nowrap" style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="height: 24px; width: 149.633px;">05. September 2024</td>
+<td nowrap="nowrap" style="height: 24px; width: 149.633px;"></td>
 <td nowrap="nowrap" style="height: 24px; width: 175.25px;"></td>
 <td style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">10. Oktober 2024</td>
+<td style="height: 24px; width: 149.633px;"></td>
 <td style="height: 24px; width: 175.25px;"></td>
-<td style="height: 24px; width: 169.117px;"><strong>GM Michael Richter</strong></td>
+<td style="height: 24px; width: 169.117px;"></td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;"></td>
