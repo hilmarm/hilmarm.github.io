@@ -8,7 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14022 post type-post status-publish format-standard hentry category-training" id="post-14022">
+<div class="post-14032 post type-post status-publish format-standard sticky hentry category-krt" id="post-14032">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark">Kurt-Richter-Gedenkturnier 2025!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark" title="10:44"><span class="entry-date">1. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der Termin steht schon länger, nun gibt es die Ausschreibung für das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!!</p>
+<p>Geändert hat sich nicht viel zum Vorjahr. Größte Änderung ist die Erhöhung des Startgeldes auf 20,- €. Damit wird sich, bei entsprechender Teilnehmerzahl, auch das Preisgeld erhöhen. Außerdem gibt es einen anderen Hauptschiedsrichter.</p>
+<p>Alles andere, vor allem was den Modus betrifft, ist gleich geblieben. Also 7 Runden, Freitag 3x Schnellschach, Samstag und Sonntag je 2x Langpartie.</p>
+<p>Wir hoffen auf zahlreiche Teilnehmer auch von NARVA, aber auch Helfer sind gerne gesehen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14032 
+<div class="post-14022 post type-post status-publish format-standard sticky hentry category-training" id="post-14022">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark">Training mit Gerhard</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark" title="7:31"><span class="entry-date">29. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -25,6 +43,23 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14022 
+<div class="post-14030 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14030">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark">Monatsblitz August</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark" title="15:56"><span class="entry-date">31. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>11 Teilnehmer fanden sich zum August Blitz zusammen, einige Stammteilnehmer waren beim Lichtenberger Sommer im Einsatz oder im Urlaub. Pünktlich um 19 Uhr ging es los.</p>
+<p>Ohne Niederlage blieb am Ende nur <strong>Mert</strong>, bei 3x Remis insgesamt 8,5 Punkte, der sich damit den 3. Turniersieg dieses Jahr holte und wieder ein paar Punkte näher an die Spitze der Gesamtwertung kommt.</p>
+<p>Platz 2 teilten sich <strong>Peter</strong> und der beste Gast <strong>Sam</strong> mit je 7,5 Punkten, Peter mit der besseren Wertung.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14030 
 <div class="post-14017 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14017">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/enges-rennen-in-der-abteilungsmeisterschaft/" rel="bookmark">Enges Rennen in der Abteilungsmeisterschaft</a></h2>
 <div class="entry-meta">
@@ -385,43 +420,6 @@ Und <strong>Maxim</strong> mit 6 aus 7 und DWZ-Plus 37 in der Dritten!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/05/17/saisonabschluss/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13575 
-<div class="post-13551 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13551">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/04/30/monatsblitz-april-2/" rel="bookmark">Monatsblitz April</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/04/30/monatsblitz-april-2/" rel="bookmark" title="21:07"><span class="entry-date">30. April 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Ferien und parallel laufende Turniere bringen „nur“ 10 Teilnehmer zum <strong>Monatsblitz April</strong>, negativ Rekord für 2025. Gewonnen hat <strong>Peter</strong> mit 8,5 Punkten, dahinter sammelten sich gleich 3 Spieler punktgleich, <strong>Günter</strong>, <strong>Jonatan</strong> und <strong>Hendrik</strong> (bester Gast – SV Friedrichstadt) haben je 6 Punkte, die bessere Zweitwertung bringt Günter Platz 2 und weiterhin die Führung in der Gesamtwertung (punktgleich mit Peter). Jonatan und Hendrik sind dann beide Dritter.</p>
-<p>Für den Präsident, der beim letzten Blitz noch Zweiter wurde, reichte es nur zum 8. Platz.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Ergebnisse</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/04/30/monatsblitz-april-2/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13551 
-<div class="post-13556 post type-post status-publish format-standard hentry category-skat" id="post-13556">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/04/25/kein-blaues-wunder-am-gruendonnerstag/" rel="bookmark">Kein Blaues Wunder am Gründonnerstag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/04/25/kein-blaues-wunder-am-gruendonnerstag/" rel="bookmark" title="15:00"><span class="entry-date">25. April 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Trotz vorab bekanntem Fehlens zweier ‚Stammkunden‘ wurden wir zur Freude des Berichterstatters zehn Teilnehmer und es hätte auch noch einer mehr sein können, wenn er nicht ‚verschlafen‘ hätte. Ich hätte ihn noch mit an einen Dreiertisch gesetzt, aber er wollte nichts durcheinander bringen. Nächster Angriff also dann in alter Frische am 2. April ’26, lieber G.☺.</p>
-<p>Überlegener Sieger wurde ein jüngeres Mitglied in unserem Verein☺ mit über 250 Punkten Vorsprung – <strong>Wolfgang</strong>, dem vom Vorjahressieger <strong>Peter</strong> (-&gt; Überschrift) auch gutes Spiel bescheinigt wurde. Dieser musste sich nach zwei verlorenen Spielen in der letzten Serie hinter dem Zweiten <strong>Dieter</strong> diesmal mit dem dritten Platz bescheiden.<br/>
-Die Gesamtpunktzahl Eintausend markierte die ‚Wurstgrenze’☺, über die es als Vierter auch noch <strong>Jonatan</strong> schaffte, gab es doch als Teilpreise zur Auswahl u.a. genau vier Ungarische Salamis, die dann auch wie erwartet abgingen.<br/>
-Da diese vier Skatfreunde nach zwei Serien auch schon 1. bis 4. waren und deshalb in der letzten Serie zusammen an den ‚A-Tisch‘ gesetzt wurden, konnte dieses Jahr auch keiner mehr ‚von hinten‘ in ihre Phalanx einbrechen.<br/>
-Mit der Erfahrung vom letzten Jahr hatte ich die Listen vorher gedruckt, habe aber auch diesmal noch etwas zur Organisation gelernt, dazu dann mehr in einem knappen Jahr,<br/>
-bis dahin wünscht ‚Gut Blatt‘,</p>
-<p>Euer Klaus.</p>
-<p><a href="https://www.narva-schach.de/wordpress/chronik/skat/">Tabelle</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/skat/" rel="category tag">Skat</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/04/25/kein-blaues-wunder-am-gruendonnerstag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13556 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
