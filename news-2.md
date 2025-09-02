@@ -43,6 +43,52 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14022 
+<div class="post-14061 post type-post status-publish format-standard hentry category-openberichte" id="post-14061">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/02/212-jahre-schlacht-bei-dennewitz/" rel="bookmark">212. Jahre Schlacht bei Dennewitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/02/212-jahre-schlacht-bei-dennewitz/" rel="bookmark" title="12:05"><span class="entry-date">2. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Samstag fand die 20. Auflage vom <strong>Schnellschachturnier „Schlacht bei Dennewitz“</strong> statt. Gespielt wurden 9 Runden mit der Bedenkzeit 15+0 im Wirtshaus „Zum Grafen Bülow“ in Dennewitz.<br/>
+Von NARVA waren Bernd, Peter und Günter am Start, insgesamt war das Turnier wieder sehr stark besetzt, 7 Titelträger bei 45 Teilnehmern.</p>
+<p><strong>Bernd</strong> erreichte am Ende einen sehr starken 5. Platz mit 6 Punkten und gewann dabei u.a. gegen IM Langheinrich sowir FM Ralf Schöne und spielte Remis gegen WIM Hrebenshchykova!<strong> Glückwunsch!</strong></p>
+<p><strong>Günter</strong> und <strong>Peter</strong> landeten beide im Mittelfeld, Günter erreichte mit 5 Punkten Platz 20, Peter mit 4,5 Punkten Platz 22. Peter dabei mit Remis gegen FM Karsten Schulz und Sieg gegen WFM Germann!</p>
+<p>Für eine Teilnahme an der Mannschaftswertung fehlte der 4.Mann.</p>
+<p><a href="https://www.lsvmv.de/turniere/schlacht_bei_dennewitz/2025/dennewitz_2025-erg.htm" rel="noopener" target="_blank">Ergebnisse</a><br/>
+<a href="https://www.lsvmv.de/turniere/schlacht_bei_dennewitz/2025/dennewitz_2025-rang.htm" rel="noopener" target="_blank">Tabelle</a></p>
+<p>Fotos von Günter:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082.jpg"><img alt="" class="size-medium wp-image-14046 alignnone" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082.jpg 1536w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083.jpg"><img alt="" class="size-medium wp-image-14047 alignnone" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083.jpg 1536w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087.jpg"><img alt="" class="aligncenter size-medium wp-image-14048" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087.jpg 2048w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/02/212-jahre-schlacht-bei-dennewitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14061 
+<div class="post-14039 post type-post status-publish format-standard hentry category-openberichte" id="post-14039">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/" rel="bookmark">Lichtenberger Sommer 2025</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/" rel="bookmark" title="13:26"><span class="entry-date">1. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Vom 23. bis 31. August 2025 fand auf der Trabrennbahn Karlshorst wieder der <strong>Lichtenberger Sommer</strong> statt. Mit 240 Teilnehmern stellte man fast einen neuen Rekord auf.<br/>
+Von NARVA waren 3 Spieler am Start, <strong>Ekkehard</strong>, <strong>Michael</strong> und <strong>Jan-Hendrik</strong>.<br/>
+Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es für Michael (212) und Jan-Henrik (238) vor allem um Spielerfahrung und DWZ Steigerung.</p>
+<div class="wp-caption aligncenter" id="attachment_14044" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/PANA2571-1024x769-320x240-1.jpg"><img alt="" aria-describedby="caption-attachment-14044" class="wp-image-14044 size-medium" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/PANA2571-1024x769-320x240-1-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/PANA2571-1024x769-320x240-1-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/PANA2571-1024x769-320x240-1.jpg 320w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14044">Spielsaal (© Peter Weiss)</p></div>
+<p>Am Ende können alle 3 mit ihrem Ergebnis zu frieden sein. Es gab gute DWZ Steigerungen.</p>
+<p><strong>Ekkehard</strong> erreichte 4,5 Punkte aus den 9 Partien und belegte Platz 96 (bester mit 4,5), seine DWZ steigerte er um 61 Punkte!</p>
+<p><strong>Michael</strong> und <strong>Jan</strong> erreichten beide 3 Punkte (aus je 8 Partien) und belegten die Plätze 203 und 199, dazu gab es auch gute DWZ Verbesserungen, bei Jan um 147!!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/DWZLiSo2025.jpg"><img alt="" class="aligncenter size-large wp-image-14040" decoding="async" height="88" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/DWZLiSo2025-1024x140.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/DWZLiSo2025-1024x140.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/DWZLiSo2025-300x41.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/DWZLiSo2025-768x105.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/DWZLiSo2025.jpg 1274w" width="640"/></a></p>
+<p><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">Turnierseite</a></p>
+<p>Fotos:</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/#more-14039">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14039 
 <div class="post-14030 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14030">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark">Monatsblitz August</a></h2>
 <div class="entry-meta">
@@ -71,7 +117,7 @@ navs:
 <p><strong>Termin für Runde 6 ist der 18.09.25</strong>, denkt dran ggf. zu verlegen, am besten natürlich nach vorne. Zum Finale hätten wir gerne eine saubere Tabelle, ohne noch fehlende Partien!</p>
 <p>Welche Rating Kategorien es geben wird und wie dort dann der Stand ist, sehen wir nach Runde 6.</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg"><img alt="" class="aligncenter wp-image-14015" decoding="async" height="371" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg 840w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5-300x223.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5-768x570.jpg 768w" width="500"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg"><img alt="" class="aligncenter wp-image-14015" decoding="async" height="371" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg 840w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5-300x223.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5-768x570.jpg 768w" width="500"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -382,44 +428,6 @@ Und <strong>Maxim</strong> mit 6 aus 7 und DWZ-Plus 37 in der Dritten!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13612 
-<div class="post-13577 post type-post status-publish format-standard hentry category-bmm" id="post-13577">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/05/18/narva-ist-zurueck-in-der-stadtliga/" rel="bookmark">NARVA ist zurück in der Stadtliga!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/05/18/narva-ist-zurueck-in-der-stadtliga/" rel="bookmark" title="17:17"><span class="entry-date">18. Mai 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Es ist geschafft, <strong>NARVA 1</strong> steigt in die Stadtliga auf! Unsere letzte Saison dort war die Corona Saison 21/22. Nun ist NARVA zurück!</p>
-<p><strong>Glückwunsch an alle die dazu beigetragen haben!!</strong></p>
-<div class="wp-caption aligncenter" id="attachment_13578" style="width: 1610px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006.jpg"><img alt="" aria-describedby="caption-attachment-13578" class="wp-image-13578 size-full" decoding="async" height="1200" loading="lazy" sizes="auto, (max-width: 1600px) 100vw, 1600px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006.jpg 1600w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/IMG-20250518-WA0006-1536x1152.jpg 1536w" width="1600"/></a><p class="wp-caption-text" id="caption-attachment-13578">Das Team von heute.</p></div>
-<p>In der letzten Runde wurde erwartungsgemäß nicht mehr Vollgas gegeben, so kam Absteiger Kreuzberg 5 noch zu einem Punkt gegen uns. Beim 4:4 gab es einen geschenkten Punkt von Kreuzberg und leider die Niederlage von bis heute 100%-Mann Rouven. Der Rest war friedlich unterwegs.</p>
-<p>Die erfolgreichste Mannschaft war dann heute aber die <strong>Dritte</strong>, die gewinnt mit nur 6 Spielern trotzdem <strong>5:3</strong> gegen Reinickendorf! Etwas Wiedergutmachung für eine etwas verkorkste Saison.</p>
-<p><strong>NARVA 2</strong> hatte nochmal eine schwere Aufgabe, zum Glück war der Klassenerhalt schon Safe. Auch deutlich ersatzgeschwächt kam man nur zu einem <strong>2,5:5,5</strong> gegen Zehlendorf 3. Dabei freuen die Siege von Alex und Felix.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_164114_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-13579" decoding="async" height="350" loading="lazy" sizes="auto, (max-width: 1079px) 100vw, 1079px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_164114_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_164114_Chrome.jpg 1079w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_164114_Chrome-300x97.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_164114_Chrome-1024x332.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_164114_Chrome-768x249.jpg 768w" width="1079"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_165111_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-13580" decoding="async" height="374" loading="lazy" sizes="auto, (max-width: 1009px) 100vw, 1009px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_165111_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_165111_Chrome.jpg 1009w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_165111_Chrome-300x111.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_165111_Chrome-768x285.jpg 768w" width="1009"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_133407_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-13581" decoding="async" height="441" loading="lazy" sizes="auto, (max-width: 1080px) 100vw, 1080px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_133407_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_133407_Chrome.jpg 1080w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_133407_Chrome-300x123.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_133407_Chrome-1024x418.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/Screenshot_20250518_133407_Chrome-768x314.jpg 768w" width="1080"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/05/18/narva-ist-zurueck-in-der-stadtliga/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13577 
-<div class="post-13575 post type-post status-publish format-standard hentry category-bmm" id="post-13575">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/05/17/saisonabschluss/" rel="bookmark">Saisonabschluss!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/05/17/saisonabschluss/" rel="bookmark" title="18:06"><span class="entry-date">17. Mai 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Morgen steht die letzte Runde der BMM Saison 24/25 an.</p>
-<p>NARVA 1 möchte in Kreuzberg den Aufstieg fest machen.</p>
-<p>NARVA 2 lässt es gegen Zehlendorf ausklingen.</p>
-<p>NARVA 3 holt vielleicht noch was gegen Reinickendorf.</p>
-<p><strong>Im Anschluss treffen wir uns dann alle im RuDi zum gemeinsamen Umtrunk und Bratwurst/Fleisch!</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/05/17/saisonabschluss/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13575 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

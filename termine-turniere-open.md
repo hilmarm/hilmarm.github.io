@@ -23,19 +23,14 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">Lichtenberger Sommer 2025</a></td>
-<td>23.08.-31.08.2025</td>
-<td>Ekkehard, Michael, Jan-Hendrik</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.lsbb.de/archiv-pdf/20250427%20Ausschreibung%20Dennewitz%2030.08.2025doc.pdf">Schlacht bei Dennewitz</a></td>
-<td>30.08.2025</td>
-<td>Peter, Günter, Rouven, Bernd</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://schachfreunde.berlin/10-amateur-cup-fuer-spieler-mit-dwz-unter-2000/" rel="noopener" target="_blank">10. Amateur-Cup mit DWZ U2000</a></td>
 <td>07.09.2025</td>
 <td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://bsg-eckbauer.de/berichte/open2025/open2025.php" rel="noopener" target="_blank">Eckbauer Open 2025</a></td>
+<td>08.09.-20.10.2025</td>
+<td>Torsten</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclub-oranienburg.de/wordpress/2025/06/4-oranienburger-chess-open-2025/" rel="noopener" target="_blank">4. Oranienburger Chess-Open 2025</a></td>
@@ -65,10 +60,10 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">18. Wildauer Dahmelandpokal 2025</a></td>
 <td>03.10.-05.10.2025</td>
-<td>Peter, Ekkehard</td>
+<td>Peter, Ekkehard, Oliver</td>
 </tr>
 <tr style="height: 24px;">
-<td><strong>Kurt-Richter-Gedenkturnier 2025</strong></td>
+<td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Kurt-Richter-Gedenkturnier 2025</strong></a></td>
 <td>31.10.-02.10.2025</td>
 <td></td>
 </tr>
