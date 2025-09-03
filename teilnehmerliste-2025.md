@@ -1,5 +1,5 @@
 ---
-title: Ergebnisse 
+title: Teilnehmerliste 2025 
 layout: default
 navs:
   2025: 2025-2
@@ -50,11 +50,42 @@ navs:
 navbar: false
 parent_title: Kurt-Richter-Turnier
 ---
-<div class="post-432 page type-page status-publish hentry" id="post-432">
-<h1 class="entry-title">Ergebnisse</h1>
+<div class="post-14051 page type-page status-publish hentry" id="post-14051">
+<h1 class="entry-title">Teilnehmerliste 2025</h1>
 <div class="entry-content">
-<p><iframe height="4000" src="https://www.narva-schach.de/dateien/krt2011-erg.html" width="730"> /&gt;</iframe></p>
+<table border="1" width="85%">
+<tbody>
+<tr>
+<th align="center">
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Kurt-Richter-Gedenkturnier 2025</strong></span></h2>
+<h2 style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Ausschreibung</strong></a> – – <strong>Rangliste</strong> – – <strong>Bericht</strong></h2>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">Ergebnisse und Ranglisten bei</span> <span style="font-size: 18pt;">chess-results.com</span></h2>
+</th>
+</tr>
+</tbody>
+</table>
+<ul>
+<li style="list-style-type: none;">
+<ul>
+<li>Peter Thürauf</li>
+<li>Maxime Varazi</li>
+<li>Sergej Krefenstein</li>
+<li>Selcuk Orkun Sakalli</li>
+<li>Harald Krawczyk</li>
+<li>Özgür Beşbudak</li>
+<li>Klaus Kapr</li>
+<li>Dr. Herbert Mayer</li>
+<li>Andreas Grosch</li>
+<li>Daniel Iachanou</li>
+<li>Benjamin Schweitzer</li>
+<li>Dagobert Kohlmeyer</li>
+<li>Fabian Schmidt</li>
+<li>Ulrich Fitzke</li>
+<li>Timofei Krasnyi</li>
+</ul>
+</li>
+</ul>
 </div><!-- .entry-content -->
-</div> #post-432 
+</div> #post-14051 
 <div id="comments">
 </div> #comments 

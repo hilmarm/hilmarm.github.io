@@ -8,24 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14032 post type-post status-publish format-standard sticky hentry category-krt" id="post-14032">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark">Kurt-Richter-Gedenkturnier 2025!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark" title="10:44"><span class="entry-date">1. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der Termin steht schon länger, nun gibt es die Ausschreibung für das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!!</p>
-<p>Geändert hat sich nicht viel zum Vorjahr. Größte Änderung ist die Erhöhung des Startgeldes auf 20,- €. Damit wird sich, bei entsprechender Teilnehmerzahl, auch das Preisgeld erhöhen. Außerdem gibt es einen anderen Hauptschiedsrichter.</p>
-<p>Alles andere, vor allem was den Modus betrifft, ist gleich geblieben. Also 7 Runden, Freitag 3x Schnellschach, Samstag und Sonntag je 2x Langpartie.</p>
-<p>Wir hoffen auf zahlreiche Teilnehmer auch von NARVA, aber auch Helfer sind gerne gesehen!</p>
-<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14032 
 <div class="post-14022 post type-post status-publish format-standard sticky hentry category-training" id="post-14022">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark">Training mit Gerhard</a></h2>
 <div class="entry-meta">
@@ -50,9 +32,9 @@ navs:
 <div class="entry-content">
 <p>Am Samstag fand die 20. Auflage vom <strong>Schnellschachturnier „Schlacht bei Dennewitz“</strong> statt. Gespielt wurden 9 Runden mit der Bedenkzeit 15+0 im Wirtshaus „Zum Grafen Bülow“ in Dennewitz.<br/>
 Von NARVA waren Bernd, Peter und Günter am Start, insgesamt war das Turnier wieder sehr stark besetzt, 7 Titelträger bei 45 Teilnehmern.</p>
-<p><strong>Bernd</strong> erreichte am Ende einen sehr starken 5. Platz mit 6 Punkten und gewann dabei u.a. gegen IM Langheinrich sowir FM Ralf Schöne und spielte Remis gegen WIM Hrebenshchykova!<strong> Glückwunsch!</strong></p>
+<p><strong>Bernd</strong> erreichte am Ende einen sehr starken 5. Platz mit 6 Punkten und gewann dabei u.a. gegen IM Langheinrich sowie IM Ralf Schöne und spielte Remis gegen WIM Hrebenshchykova!<strong> Glückwunsch!</strong></p>
 <p><strong>Günter</strong> und <strong>Peter</strong> landeten beide im Mittelfeld, Günter erreichte mit 5 Punkten Platz 20, Peter mit 4,5 Punkten Platz 22. Peter dabei mit Remis gegen FM Karsten Schulz und Sieg gegen WFM Germann!</p>
-<p>Für eine Teilnahme an der Mannschaftswertung fehlte der 4.Mann.</p>
+<p><del>Für eine Teilnahme an der Mannschaftswertung fehlte der 4.Mann.</del> <span style="font-size: 8pt;"><em>(Es gab dieses Jahr keine Mannschaftswertung)</em></span></p>
 <p><a href="https://www.lsvmv.de/turniere/schlacht_bei_dennewitz/2025/dennewitz_2025-erg.htm" rel="noopener" target="_blank">Ergebnisse</a><br/>
 <a href="https://www.lsvmv.de/turniere/schlacht_bei_dennewitz/2025/dennewitz_2025-rang.htm" rel="noopener" target="_blank">Tabelle</a></p>
 <p>Fotos von Günter:</p>
@@ -89,6 +71,24 @@ Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14039 
+<div class="post-14032 post type-post status-publish format-standard hentry category-krt" id="post-14032">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark">Kurt-Richter-Gedenkturnier 2025!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark" title="10:44"><span class="entry-date">1. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der Termin steht schon länger, nun gibt es die Ausschreibung für das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!!</p>
+<p>Geändert hat sich nicht viel zum Vorjahr. Größte Änderung ist die Erhöhung des Startgeldes auf 20,- €. Damit wird sich, bei entsprechender Teilnehmerzahl, auch das Preisgeld erhöhen. Außerdem gibt es einen anderen Hauptschiedsrichter.</p>
+<p>Alles andere, vor allem was den Modus betrifft, ist gleich geblieben. Also 7 Runden, Freitag 3x Schnellschach, Samstag und Sonntag je 2x Langpartie.</p>
+<p>Wir hoffen auf zahlreiche Teilnehmer auch von NARVA, aber auch Helfer sind gerne gesehen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14032 
 <div class="post-14030 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14030">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark">Monatsblitz August</a></h2>
 <div class="entry-meta">
