@@ -82,6 +82,8 @@ parent_title: Kurt-Richter-Turnier
 <li>Fabian Schmidt</li>
 <li>Ulrich Fitzke</li>
 <li>Timofei Krasnyi</li>
+<li>Dr. Helmut Pöltelt</li>
+<li>Ulrich Campe</li>
 </ul>
 </li>
 </ul>
