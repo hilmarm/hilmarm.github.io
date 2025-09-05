@@ -22,7 +22,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14022 
 <div class="post-14061 post type-post status-publish format-standard hentry category-openberichte" id="post-14061">
@@ -44,7 +44,7 @@ Von NARVA waren Bernd, Peter und Günter am Start, insgesamt war das Turnier wie
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/02/212-jahre-schlacht-bei-dennewitz/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/02/212-jahre-schlacht-bei-dennewitz/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14061 
 <div class="post-14039 post type-post status-publish format-standard hentry category-openberichte" id="post-14039">

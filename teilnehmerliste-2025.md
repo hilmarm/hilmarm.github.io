@@ -84,6 +84,11 @@ parent_title: Kurt-Richter-Turnier
 <li>Timofei Krasnyi</li>
 <li>Dr. Helmut Pöltelt</li>
 <li>Ulrich Campe</li>
+<li>Hermann Stuckstedte</li>
+<li>Greta Grunert</li>
+<li>Heinrich Grunert</li>
+<li>Olga Grunert</li>
+<li>Jens Rennspieß</li>
 </ul>
 </li>
 </ul>
