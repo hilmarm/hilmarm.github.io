@@ -89,6 +89,7 @@ parent_title: Kurt-Richter-Turnier
 <li>Heinrich Grunert</li>
 <li>Olga Grunert</li>
 <li>Jens Rennspieß</li>
+<li>Sibylle Guder</li>
 </ul>
 </li>
 </ul>

@@ -8,23 +8,24 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14022 post type-post status-publish format-standard sticky hentry category-training" id="post-14022">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark">Training mit Gerhard</a></h2>
+<div class="post-14032 post type-post status-publish format-standard hentry category-krt" id="post-14032">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/03/kurt-richter-gedenkturnier-2025/" rel="bookmark">Kurt-Richter-Gedenkturnier 2025!</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark" title="7:31"><span class="entry-date">29. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/03/kurt-richter-gedenkturnier-2025/" rel="bookmark" title="10:44"><span class="entry-date">3. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p><strong>Ab sofort gibt es immer am ersten Donnerstag im Monat das Training mit Gerhard!!</strong></p>
-<p>Los geht es direkt am nächsten <strong>Donnerstag</strong>, den <strong>04.09.25 um 18:15 Uhr</strong>!</p>
-<p>Das 1.Thema wird <strong>Stellungsbeurteilung</strong> sein.</p>
-<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="wp-image-8528 size-medium" decoding="async" height="265" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021</p></div>
+<p>Der Termin steht schon länger, nun gibt es die Ausschreibung für das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!!</p>
+<p>Geändert hat sich nicht viel zum Vorjahr. Größte Änderung ist die Erhöhung des Startgeldes auf 20,- €. Damit wird sich, bei entsprechender Teilnehmerzahl, auch das Preisgeld erhöhen. Außerdem gibt es einen anderen Hauptschiedsrichter.</p>
+<p>Alles andere, vor allem was den Modus betrifft, ist gleich geblieben. Also 7 Runden, Freitag 3x Schnellschach, Samstag und Sonntag je 2x Langpartie.</p>
+<p>Wir hoffen auf zahlreiche Teilnehmer auch von NARVA, aber auch Helfer sind gerne gesehen!</p>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Turnierseite</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#comments">Ein Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/03/kurt-richter-gedenkturnier-2025/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-14022 
+</div> #post-14032 
 <div class="post-14061 post type-post status-publish format-standard hentry category-openberichte" id="post-14061">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/02/212-jahre-schlacht-bei-dennewitz/" rel="bookmark">212. Jahre Schlacht bei Dennewitz</a></h2>
 <div class="entry-meta">
@@ -38,7 +39,7 @@ Von NARVA waren Bernd, Peter und Günter am Start, insgesamt war das Turnier wie
 <p><a href="https://www.lsvmv.de/turniere/schlacht_bei_dennewitz/2025/dennewitz_2025-erg.htm" rel="noopener" target="_blank">Ergebnisse</a><br/>
 <a href="https://www.lsvmv.de/turniere/schlacht_bei_dennewitz/2025/dennewitz_2025-rang.htm" rel="noopener" target="_blank">Tabelle</a></p>
 <p>Fotos von Günter:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082.jpg"><img alt="" class="size-medium wp-image-14046 alignnone" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082.jpg 1536w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083.jpg"><img alt="" class="size-medium wp-image-14047 alignnone" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083.jpg 1536w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087.jpg"><img alt="" class="aligncenter size-medium wp-image-14048" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082.jpg"><img alt="" class="size-medium wp-image-14046 alignnone" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0082.jpg 1536w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083.jpg"><img alt="" class="size-medium wp-image-14047 alignnone" decoding="async" height="300" sizes="(max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0083.jpg 1536w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087.jpg"><img alt="" class="aligncenter size-medium wp-image-14048" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250830-WA0087.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -71,24 +72,6 @@ Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14039 
-<div class="post-14032 post type-post status-publish format-standard hentry category-krt" id="post-14032">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark">Kurt-Richter-Gedenkturnier 2025!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/" rel="bookmark" title="10:44"><span class="entry-date">1. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der Termin steht schon länger, nun gibt es die Ausschreibung für das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!!</p>
-<p>Geändert hat sich nicht viel zum Vorjahr. Größte Änderung ist die Erhöhung des Startgeldes auf 20,- €. Damit wird sich, bei entsprechender Teilnehmerzahl, auch das Preisgeld erhöhen. Außerdem gibt es einen anderen Hauptschiedsrichter.</p>
-<p>Alles andere, vor allem was den Modus betrifft, ist gleich geblieben. Also 7 Runden, Freitag 3x Schnellschach, Samstag und Sonntag je 2x Langpartie.</p>
-<p>Wir hoffen auf zahlreiche Teilnehmer auch von NARVA, aber auch Helfer sind gerne gesehen!</p>
-<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/kurt-richter-gedenkturnier-2025/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14032 
 <div class="post-14030 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14030">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark">Monatsblitz August</a></h2>
 <div class="entry-meta">
@@ -106,6 +89,23 @@ Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14030 
+<div class="post-14022 post type-post status-publish format-standard hentry category-training" id="post-14022">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark">Training mit Gerhard</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/" rel="bookmark" title="7:31"><span class="entry-date">29. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Ab sofort gibt es immer am ersten Donnerstag im Monat das Training mit Gerhard!!</strong></p>
+<p>Los geht es direkt am nächsten <strong>Donnerstag</strong>, den <strong>04.09.25 um 18:15 Uhr</strong>!</p>
+<p>Das 1.Thema wird <strong>Stellungsbeurteilung</strong> sein.</p>
+<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="wp-image-8528 size-medium" decoding="async" height="265" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#comments">Ein Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14022 
 <div class="post-14017 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14017">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/enges-rennen-in-der-abteilungsmeisterschaft/" rel="bookmark">Enges Rennen in der Abteilungsmeisterschaft</a></h2>
 <div class="entry-meta">
