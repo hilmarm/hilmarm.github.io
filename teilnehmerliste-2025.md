@@ -67,7 +67,7 @@ parent_title: Kurt-Richter-Turnier
 <table class="clean swiss footable">
 <thead>
 <tr>
-<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>05.09.2025</strong></td>
+<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>08.09.2025</strong></td>
 </tr>
 <tr bgcolor="#00FF00">
 <th style="width: 8.92857%;">TlnNr</th>
@@ -277,7 +277,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1427</td>
 <td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG Rot-Weiß Neuenhag</td>
+<td nowrap="nowrap" style="width: 23.9955%;">SG Rot-Weiß Neuenhagen</td>
 <td style="width: 9.04018%;">GER</td>
 <td style="width: 9.82143%;">1956</td>
 </tr>
@@ -313,6 +313,16 @@ parent_title: Kurt-Richter-Turnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">24</td>
+<td style="width: 22.7679%;">Heinrich,Manfred,Dr.</td>
+<td style="width: 8.03571%;"></td>
+<td style="width: 9.48661%;">1250</td>
+<td style="width: 7.70089%;">M</td>
+<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%;">GER</td>
+<td style="width: 9.82143%;">1956</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td style="width: 8.92857%;">25</td>
 <td style="width: 22.7679%;">Grunert,Olga</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1209</td>

@@ -23,14 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://schachfreunde.berlin/10-amateur-cup-fuer-spieler-mit-dwz-unter-2000/" rel="noopener" target="_blank">10. Amateur-Cup mit DWZ U2000</a></td>
-<td>07.09.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://bsg-eckbauer.de/berichte/open2025/open2025.php" rel="noopener" target="_blank">Eckbauer Open 2025</a></td>
 <td>08.09.-20.10.2025</td>
-<td>Torsten</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclub-oranienburg.de/wordpress/2025/06/4-oranienburger-chess-open-2025/" rel="noopener" target="_blank">4. Oranienburger Chess-Open 2025</a></td>
@@ -65,7 +60,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Kurt-Richter-Gedenkturnier 2025</strong></a></td>
 <td>31.10.-02.10.2025</td>
-<td>Ulrich</td>
+<td>Ulrich, Manfred</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVI. Falkenseer Open</a></td>
