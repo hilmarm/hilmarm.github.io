@@ -59,7 +59,7 @@ parent_title: Kurt-Richter-Turnier
 <th align="center">
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Kurt-Richter-Gedenkturnier 2025</strong></span></h2>
 <h2 style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Ausschreibung</strong></a> – – <strong>Rangliste</strong> – – <strong>Bericht</strong></h2>
-<h2 style="text-align: center;"><span style="font-size: 18pt;">Ergebnisse und Ranglisten bei</span> <a href="https://s2.chess-results.com/tnr1249083.aspx?lan=0&amp;SNode=S0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a></h2>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">Ergebnisse und Ranglisten bei</span> <span style="font-size: 18pt;">chess-results.com</span></h2>
 </th>
 </tr>
 </tbody>
@@ -67,7 +67,7 @@ parent_title: Kurt-Richter-Turnier
 <table class="clean swiss footable">
 <thead>
 <tr>
-<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>09.09.2025</strong></td>
+<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>10.09.2025</strong></td>
 </tr>
 <tr bgcolor="#00FF00">
 <th style="width: 8.92857%;">TlnNr</th>
@@ -269,7 +269,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SV Königsjäger Süd-W</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">20</td>
@@ -323,6 +323,16 @@ parent_title: Kurt-Richter-Turnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">25</td>
+<td style="width: 22.7679%;">Werner,Michael</td>
+<td style="width: 8.03571%;"></td>
+<td style="width: 9.48661%;">1379</td>
+<td style="width: 7.70089%;">M</td>
+<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%;">GER</td>
+<td style="width: 9.82143%;">X</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td style="width: 8.92857%;">26</td>
 <td style="width: 22.7679%;">Krasnyi,Timofei</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1377</td>
@@ -332,7 +342,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">26</td>
+<td style="width: 8.92857%;">27</td>
 <td style="width: 22.7679%;">Heinrich,Manfred,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1250</td>
@@ -342,7 +352,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">27</td>
+<td style="width: 8.92857%;">28</td>
 <td style="width: 22.7679%;">Grunert,Olga</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1209</td>
