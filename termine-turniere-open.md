@@ -45,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-mm-2025.html" rel="noopener" target="_blank">BBMM</a></td>
 <td>21.09.2025</td>
-<td>Mannschaft „Sternburg“</td>
+<td>Mannschaft? Bitte melden!!</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
@@ -75,7 +75,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
-<td>Mannschaft</td>
+<td>Rouven, Lasko, Thomas, Bernd?, Lukas? + Schaakhuis + Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
 <td>DSAM Bonn?</td>
