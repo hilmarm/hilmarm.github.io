@@ -58,6 +58,11 @@ parent_title: Termine
 <td>Peter, Ekkehard, Oliver</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.schachclubkreuzberg.de/29-ueberbezirkliches-seniorenturnier-2025/" rel="noopener" target="_blank">29. überbezirkliches Seniorenturnier 2025</a></td>
+<td>15.10.2025</td>
+<td>Peter</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Kurt-Richter-Gedenkturnier 2025</strong></a></td>
 <td>31.10.-02.10.2025</td>
 <td>Ulrich, Michael, Manfred</td>

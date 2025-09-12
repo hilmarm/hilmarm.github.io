@@ -403,7 +403,7 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">1</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Dima (G)</td>
+<td style="width: 15%; height: 24px;">Uporov (G)</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -592,7 +592,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>9</td>
-<td>Dima,U. (Gast)</td>
+<td>Uporov,Dmitrii (Gast)</td>
 <td></td>
 <td>0</td>
 <td>0</td>

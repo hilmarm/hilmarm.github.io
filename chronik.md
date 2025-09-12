@@ -1,7 +1,8 @@
 ---
-title: Chronik 
+title: Chronik der Meister 
 layout: default
 navs:
+  Chronik der Meister: chronik
   Verein: verein
   Nachruf: nachruf
   Erfolge: erfolge
@@ -48,6 +49,8 @@ navs:
   Rangliste: rangliste
   Ergebnisse Runden: ergebnisse-runden
   Skat: skat
+navbar: false
+parent_title: Chronik
 ---
 <div class="post-177 page type-page status-publish hentry" id="post-177">
 <h1 class="entry-title">Chronik</h1>
@@ -459,6 +462,15 @@ navs:
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
+</tr>
+<tr>
+<th bgcolor="#FFFF00"><span style="font-family: Arial; font-size: xx-small;">2025</span></th>
+<td nowrap="nowrap"></td>
+<td nowrap="nowrap"></td>
+<td nowrap="nowrap"></td>
+<td nowrap="nowrap"></td>
+<td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
+<td nowrap="nowrap"></td>
 </tr>
 </thead>
 </table>

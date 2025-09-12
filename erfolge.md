@@ -2,6 +2,7 @@
 title: Erfolge 
 layout: default
 navs:
+  Chronik der Meister: chronik
   Verein: verein
   Nachruf: nachruf
   Erfolge: erfolge

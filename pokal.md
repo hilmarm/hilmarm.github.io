@@ -30,7 +30,7 @@ parent_title: Turniere
 <th>Teilnehmer</th>
 <th>Punkte</th>
 <th>Ergebnis</th>
-<th>Blitz</th>
+<th>2.Partie</th>
 </tr>
 </thead>
 <tbody>
@@ -55,7 +55,7 @@ parent_title: Turniere
 <td>18</td>
 <td>Özates,Mert</td>
 <td>(2)</td>
-<td></td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 </tbody>

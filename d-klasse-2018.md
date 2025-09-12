@@ -2,6 +2,7 @@
 title: D-Klasse 2018 
 layout: default
 navs:
+  Chronik der Meister: chronik
   Verein: verein
   Nachruf: nachruf
   Erfolge: erfolge

@@ -8,6 +8,24 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14110 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14110">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/12/schnellschach-titel-schon-vergeben/" rel="bookmark">Schnellschach Titel schon vergeben!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/12/schnellschach-titel-schon-vergeben/" rel="bookmark" title="9:41"><span class="entry-date">12. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern Abend fand die 5. Runde im <strong>NARVA Schnellschach GP 2025</strong> statt und wieder konnte <strong>Peter</strong> gewinnen! Er hat damit jetzt schon die maximal erreichbare Punktezahl geholt und steht damit als <strong>Schnellschachmeister 2025</strong> fest! <strong>Glückwunsch!</strong></p>
+<p>Insgesamt gab es gestern einen neuen Rekord mit 20 Teilnehmern! Darunter auch viele Gäste und mit <strong>Max</strong> (Platz 4) gleich ein neues Mitglied!</p>
+<p>Hinter Peter, der mit 5 aus 5 ohne Punktverlust blieb, kamen <strong>Bernd</strong> und <strong>Jonatan</strong> mit je 4 Punkten noch aufs Treppchen.</p>
+<p>Die nächste Runde ist dann am 13.11.25.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Ergebnisse</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/12/schnellschach-titel-schon-vergeben/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14110 
 <div class="post-14032 post type-post status-publish format-standard hentry category-krt" id="post-14032">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/03/kurt-richter-gedenkturnier-2025/" rel="bookmark">Kurt-Richter-Gedenkturnier 2025!</a></h2>
 <div class="entry-meta">
@@ -411,23 +429,6 @@ Und <strong>Maxim</strong> mit 6 aus 7 und DWZ-Plus 37 in der Dritten!</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/02/termin-fuer-das-kleeblatt-turnier/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13640 
-<div class="post-13612 post type-post status-publish format-standard hentry category-openberichte" id="post-13612">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/" rel="bookmark">Zwischen Fianchetto und Fischbrötchen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/" rel="bookmark" title="19:02"><span class="entry-date">26. Mai 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nach diverse Absagen und Verschiebungen ist es nun Rudolf und mir gelungen wieder ein DSAM-Männerwochenende zu absolvieren. Der erste Versuch <strong>Travemünde</strong> im letzten Jahr scheiterte aus Termingründen kurzfristig und Magdeburg dann dieses Jahr auch, aber dort wurde sofort umgebucht und wir rutschten als letzte Teilnehmer auf die Liste.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-scaled.jpg"><img alt="" class="size-medium wp-image-13598 alignnone" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/54540534180_802a01cf95_o-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-scaled.jpg"><img alt="" class="size-medium wp-image-13607 alignnone" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/05/20250523_181216-2048x1536.jpg 2048w" width="300"/></a></p>
-<p><strong>Rudolf</strong> war wieder in seiner Stamm-<strong>Gruppe C</strong> am Start, <strong>Ich</strong> hatte mich für die <strong>Gruppe D</strong> entschieden, also einer höher als sonst. Rudolf ging als Nummer 24 (von 91) an den Start und hatte den Blick natürlich Richtung Qualli, Ich als Nummer 65 (von 88) hatte als Ziel mindestens 50% zu holen, gerne mehr….</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/#more-13612">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/05/26/zwischen-fianchetto-und-fischbroetchen/#comments">3 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13612 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
