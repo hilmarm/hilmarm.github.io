@@ -23,21 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://bsg-eckbauer.de/berichte/open2025/open2025.php" rel="noopener" target="_blank">Eckbauer Open 2025</a></td>
-<td>08.09.-20.10.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.schachclub-oranienburg.de/wordpress/2025/06/4-oranienburger-chess-open-2025/" rel="noopener" target="_blank">4. Oranienburger Chess-Open 2025</a></td>
-<td>12.09.-14.09.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202025%20Ausschreib.pdf" rel="noopener" target="_blank">Spreewaldpokal</a></td>
-<td>13.09.2025</td>
-<td>1 Mannschaft</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-em-2025.html" rel="noopener" target="_blank">BBEM</a></td>
 <td>20.09.2025</td>
 <td>Mert</td>
@@ -45,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-mm-2025.html" rel="noopener" target="_blank">BBMM</a></td>
 <td>21.09.2025</td>
-<td>Mannschaft? Bitte melden!!</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
@@ -80,7 +65,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
-<td>Rouven, Lasko, Thomas, Bernd?, Lukas? + Schaakhuis + Ex&amp;Hopp</td>
+<td>Rouven, Lasko, Günter, Thomas, Bernd?, Lukas? + Schaakhuis + Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
 <td>DSAM Bonn?</td>

@@ -67,7 +67,7 @@ parent_title: Kurt-Richter-Turnier
 <table class="clean swiss footable">
 <thead>
 <tr>
-<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>10.09.2025</strong></td>
+<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>15.09.2025</strong></td>
 </tr>
 <tr bgcolor="#00FF00">
 <th style="width: 8.92857%;">TlnNr</th>
@@ -193,6 +193,16 @@ parent_title: Kurt-Richter-Turnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">12</td>
+<td style="width: 22.7679%;">Le,Tung</td>
+<td style="width: 8.03571%;"></td>
+<td style="width: 9.48661%;">1699</td>
+<td style="width: 7.70089%;">M</td>
+<td style="width: 23.9955%;">Queer-Springer SSV B</td>
+<td style="width: 9.04018%;">GER</td>
+<td style="width: 9.82143%;">X</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td style="width: 8.92857%;">13</td>
 <td style="width: 22.7679%;">Paul,André David</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1661</td>
@@ -202,7 +212,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">13</td>
+<td style="width: 8.92857%;">14</td>
 <td style="width: 22.7679%;">Mayer,Herbert,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1660</td>
@@ -212,7 +222,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">14</td>
+<td style="width: 8.92857%;">15</td>
 <td style="width: 22.7679%;">Oortmann,Alexis Mile</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1658</td>
@@ -222,7 +232,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">15</td>
+<td style="width: 8.92857%;">16</td>
 <td style="width: 22.7679%;">Campe,Ulrich</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1614</td>
@@ -232,7 +242,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">16</td>
+<td style="width: 8.92857%;">17</td>
 <td style="width: 22.7679%;">Kohlmeyer,Dagobert</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1611</td>
@@ -242,7 +252,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">17</td>
+<td style="width: 8.92857%;">18</td>
 <td style="width: 22.7679%;">Rennspieß,Jens</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1601</td>
@@ -252,7 +262,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">18</td>
+<td style="width: 8.92857%;">19</td>
 <td style="width: 22.7679%;">Stuckstedte,Hermann</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1554</td>
@@ -262,7 +272,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">19</td>
+<td style="width: 8.92857%;">20</td>
 <td style="width: 22.7679%;">Reimann,Fredy</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1548</td>
@@ -272,7 +282,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">20</td>
+<td style="width: 8.92857%;">21</td>
 <td style="width: 22.7679%;">Pöltelt,Helmut,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1524</td>
@@ -282,7 +292,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">21</td>
+<td style="width: 8.92857%;">22</td>
 <td style="width: 22.7679%;">Grunert,Heinrich</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1507</td>
@@ -292,7 +302,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">22</td>
+<td style="width: 8.92857%;">23</td>
 <td style="width: 22.7679%;">Krawczyk,Harald</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1427</td>
@@ -302,7 +312,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">23</td>
+<td style="width: 8.92857%;">24</td>
 <td style="width: 22.7679%;">Schweitzer,Benjamin</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1413</td>
@@ -312,7 +322,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">24</td>
+<td style="width: 8.92857%;">25</td>
 <td style="width: 22.7679%;">Grunert,Greta</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1388</td>
@@ -322,7 +332,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">25</td>
+<td style="width: 8.92857%;">26</td>
 <td style="width: 22.7679%;">Werner,Michael</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1379</td>
@@ -332,7 +342,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">26</td>
+<td style="width: 8.92857%;">27</td>
 <td style="width: 22.7679%;">Krasnyi,Timofei</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1377</td>
@@ -342,7 +352,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">27</td>
+<td style="width: 8.92857%;">28</td>
 <td style="width: 22.7679%;">Heinrich,Manfred,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1250</td>
@@ -352,7 +362,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">28</td>
+<td style="width: 8.92857%;">29</td>
 <td style="width: 22.7679%;">Grunert,Olga</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1209</td>
