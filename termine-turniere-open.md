@@ -72,6 +72,11 @@ parent_title: Termine
 <td>18.-21.12.2025</td>
 <td>Lukas, Jonatan</td>
 </tr>
+<tr style="height: 24px;">
+<td><a href="https://www.zitaschach.de/weihnachts-festival-2025/" rel="noopener" target="_blank">8. Spandauer Weihnachtsopen</a></td>
+<td>27.12.-30.12.2025</td>
+<td></td>
+</tr>
 </tbody>
 </table>
 </div><!-- .entry-content -->
