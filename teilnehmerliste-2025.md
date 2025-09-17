@@ -67,7 +67,7 @@ parent_title: Kurt-Richter-Turnier
 <table class="clean swiss footable">
 <thead>
 <tr>
-<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>15.09.2025</strong></td>
+<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>17.09.2025</strong></td>
 </tr>
 <tr bgcolor="#00FF00">
 <th style="width: 8.92857%;">TlnNr</th>
@@ -99,7 +99,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SF Siemensstadt</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">3</td>
@@ -119,7 +119,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SSV Rotation Berlin</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">5</td>
@@ -239,7 +239,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SC Kreuzberg e.V.</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">17</td>
@@ -339,7 +339,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SSV Rotation Berlin</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">27</td>
