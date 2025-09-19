@@ -2,7 +2,8 @@ name: update html files
 
 on:
   schedule:
-  - cron: "45 10 * * *"
+  #  At minute 57 past every 4th hour.
+  - cron: "57 */4 * * *"
 
 jobs:
   job1:
