@@ -17,7 +17,7 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Abteilungsmeisterschaft-2025.pdf">Abteilungsmeisterschaft 2025</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
-<h2>Rangliste nach der 5. Runde</h2>
+<h2>Rangliste nach der 6. Runde</h2>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -37,71 +37,97 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td>1</td>
-<td>Düren,Jerome</td>
-<td>2020</td>
-<td>2103</td>
-<td>5</td>
-<td>3</td>
-<td>2</td>
-<td>0</td>
-<td>4.0</td>
-<td>14.0</td>
-<td>10.00</td>
-</tr>
-<tr>
-<td>1</td>
 <td>Schenk,Jonatan</td>
 <td>1685</td>
 <td>1764</td>
-<td>5</td>
-<td>3</td>
+<td>6</td>
+<td>4</td>
 <td>2</td>
 <td>0</td>
-<td>4.0</td>
-<td>14.0</td>
-<td>10.00</td>
+<td>5.0</td>
+<td>22.0</td>
+<td>17.00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Düren,Jerome</td>
+<td>2020</td>
+<td>2103</td>
+<td>6</td>
+<td>4</td>
+<td>2</td>
+<td>0</td>
+<td>5.0</td>
+<td>19.5</td>
+<td>15.00</td>
 </tr>
 <tr>
 <td>3</td>
-<td>Bradschetl,Tom</td>
-<td>1526</td>
-<td>1843</td>
-<td>5</td>
+<td>Magnusson,Hilmar</td>
+<td>1744</td>
+<td></td>
+<td>6</td>
 <td>4</td>
+<td>2</td>
 <td>0</td>
-<td>1</td>
-<td>4.0</td>
-<td>11.5</td>
-<td>8.50</td>
+<td>5.0</td>
+<td>18.5</td>
+<td>14.00</td>
 </tr>
 <tr>
 <td>4</td>
 <td>Mothes,Thomas</td>
 <td>1585</td>
 <td>1755</td>
-<td>4</td>
+<td>6</td>
 <td>3</td>
+<td>2</td>
 <td>1</td>
-<td>0</td>
-<td>3.5</td>
-<td>15.0</td>
-<td>8.50</td>
+<td>4.0</td>
+<td>22.5</td>
+<td>12.50</td>
 </tr>
 <tr>
 <td>5</td>
-<td>Magnusson,Hilmar</td>
-<td>1744</td>
-<td></td>
+<td>Bradschetl,Tom</td>
+<td>1526</td>
+<td>1843</td>
+<td>6</td>
 <td>4</td>
-<td>3</td>
-<td>1</td>
 <td>0</td>
-<td>3.5</td>
-<td>14.0</td>
-<td>7.50</td>
+<td>2</td>
+<td>4.0</td>
+<td>18.5</td>
+<td>10.50</td>
 </tr>
 <tr>
 <td>6</td>
+<td>Maetzing,Hans-Die</td>
+<td>1803</td>
+<td>1899</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>1</td>
+<td>3.5</td>
+<td>21.5</td>
+<td>10.50</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Krüger,Ekkehard</td>
+<td>1781</td>
+<td>1838</td>
+<td>6</td>
+<td>3</td>
+<td>0</td>
+<td>3</td>
+<td>3.0</td>
+<td>22.5</td>
+<td>9.00</td>
+</tr>
+<tr>
+<td>8</td>
 <td>Mietzelfeldt,Gerh</td>
 <td>1613</td>
 <td>1829</td>
@@ -110,24 +136,24 @@ parent_title: Turniere
 <td>0</td>
 <td>2</td>
 <td>3.0</td>
-<td>15.0</td>
-<td>7.00</td>
+<td>20.5</td>
+<td>7.50</td>
 </tr>
 <tr>
-<td>7</td>
-<td>Krüger,Ekkehard</td>
-<td>1781</td>
-<td>1838</td>
-<td>5</td>
+<td>9</td>
+<td>Stüve,Maxim</td>
+<td>1545</td>
+<td></td>
+<td>6</td>
 <td>3</td>
 <td>0</td>
-<td>2</td>
+<td>3</td>
 <td>3.0</td>
-<td>14.0</td>
-<td>7.00</td>
+<td>16.5</td>
+<td>7.50</td>
 </tr>
 <tr>
-<td>8</td>
+<td>10</td>
 <td>Heinrich,Wesko</td>
 <td>1551</td>
 <td></td>
@@ -136,24 +162,24 @@ parent_title: Turniere
 <td>0</td>
 <td>2</td>
 <td>3.0</td>
-<td>9.0</td>
-<td>4.50</td>
+<td>16.0</td>
+<td>6.00</td>
 </tr>
 <tr>
-<td>9</td>
-<td>Maetzing,Hans-Die</td>
-<td>1803</td>
-<td>1899</td>
-<td>4</td>
+<td>11</td>
+<td>Wäldrich,Oliver,D</td>
+<td>1552</td>
+<td>1691</td>
+<td>6</td>
 <td>2</td>
-<td>1</td>
-<td>1</td>
-<td>2.5</td>
-<td>14.5</td>
-<td>5.75</td>
+<td>2</td>
+<td>2</td>
+<td>3.0</td>
+<td>16.0</td>
+<td>5.50</td>
 </tr>
 <tr>
-<td>9</td>
+<td>12</td>
 <td>Pape,Philipp</td>
 <td>1556</td>
 <td></td>
@@ -162,11 +188,11 @@ parent_title: Turniere
 <td>1</td>
 <td>2</td>
 <td>2.5</td>
-<td>14.5</td>
-<td>5.75</td>
+<td>19.5</td>
+<td>7.00</td>
 </tr>
 <tr>
-<td>11</td>
+<td>13</td>
 <td>Heinrich,Manfred,</td>
 <td>1265</td>
 <td></td>
@@ -175,76 +201,63 @@ parent_title: Turniere
 <td>1</td>
 <td>2</td>
 <td>2.5</td>
-<td>11.0</td>
-<td>4.00</td>
-</tr>
-<tr>
-<td>12</td>
-<td>Bahr,Jan-Hendrik</td>
-<td>1140</td>
-<td></td>
-<td>5</td>
-<td>2</td>
-<td>0</td>
-<td>3</td>
-<td>2.0</td>
-<td>14.5</td>
-<td>3.50</td>
-</tr>
-<tr>
-<td>13</td>
-<td>Stüve,Maxim</td>
-<td>1545</td>
-<td></td>
-<td>5</td>
-<td>2</td>
-<td>0</td>
-<td>3</td>
-<td>2.0</td>
-<td>13.0</td>
+<td>16.0</td>
 <td>5.00</td>
 </tr>
 <tr>
 <td>14</td>
-<td>Horst,Juri</td>
-<td>1333</td>
-<td></td>
-<td>4</td>
-<td>1</td>
+<td>Campe,Ulrich</td>
+<td>1586</td>
+<td>1843</td>
+<td>6</td>
 <td>2</td>
 <td>1</td>
-<td>2.0</td>
-<td>12.5</td>
+<td>3</td>
+<td>2.5</td>
+<td>14.5</td>
 <td>4.00</td>
 </tr>
 <tr>
 <td>15</td>
-<td>Wäldrich,Oliver,D</td>
-<td>1552</td>
-<td>1691</td>
-<td>5</td>
-<td>1</td>
+<td>Bahr,Jan-Hendrik</td>
+<td>1140</td>
+<td></td>
+<td>6</td>
 <td>2</td>
-<td>2</td>
+<td>0</td>
+<td>4</td>
 <td>2.0</td>
-<td>11.5</td>
-<td>2.75</td>
+<td>21.5</td>
+<td>5.00</td>
 </tr>
 <tr>
 <td>16</td>
-<td>Werner,Michael</td>
-<td>1309</td>
+<td>Horst,Juri</td>
+<td>1333</td>
 <td></td>
 <td>5</td>
 <td>1</td>
 <td>2</td>
 <td>2</td>
 <td>2.0</td>
-<td>10.5</td>
-<td>3.75</td>
+<td>18.5</td>
+<td>5.75</td>
 </tr>
 <tr>
 <td>17</td>
+<td>Werner,Michael</td>
+<td>1309</td>
+<td></td>
+<td>6</td>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>2.0</td>
+<td>16.0</td>
+<td>4.75</td>
+</tr>
+<tr>
+<td>18</td>
 <td>Kreisel,Alexander</td>
 <td>1515</td>
 <td></td>
@@ -253,21 +266,8 @@ parent_title: Turniere
 <td>1</td>
 <td>3</td>
 <td>1.5</td>
-<td>12.5</td>
-<td>2.25</td>
-</tr>
-<tr>
-<td>18</td>
-<td>Campe,Ulrich</td>
-<td>1586</td>
-<td>1843</td>
-<td>5</td>
-<td>1</td>
-<td>1</td>
-<td>3</td>
-<td>1.5</td>
-<td>12.0</td>
-<td>2.75</td>
+<td>17.5</td>
+<td>2.50</td>
 </tr>
 <tr>
 <td>19</td>
@@ -279,8 +279,8 @@ parent_title: Turniere
 <td>3</td>
 <td>2</td>
 <td>1.5</td>
-<td>11.5</td>
-<td>3.00</td>
+<td>16.0</td>
+<td>3.50</td>
 </tr>
 <tr>
 <td>20</td>
@@ -292,21 +292,21 @@ parent_title: Turniere
 <td>1</td>
 <td>3</td>
 <td>1.5</td>
-<td>10.5</td>
-<td>1.75</td>
+<td>15.5</td>
+<td>2.25</td>
 </tr>
 <tr>
 <td>21</td>
 <td>Mach,Wolfgang</td>
 <td>1291</td>
 <td></td>
-<td>5</td>
+<td>6</td>
 <td>1</td>
 <td>1</td>
-<td>3</td>
+<td>4</td>
 <td>1.5</td>
-<td>9.0</td>
-<td>1.25</td>
+<td>14.0</td>
+<td>2.25</td>
 </tr>
 <tr>
 <td>22</td>
@@ -318,8 +318,8 @@ parent_title: Turniere
 <td>0</td>
 <td>1</td>
 <td>1.0</td>
-<td>13.0</td>
-<td>3.00</td>
+<td>17.5</td>
+<td>3.50</td>
 </tr>
 <tr>
 <td>23</td>
@@ -331,8 +331,147 @@ parent_title: Turniere
 <td>0</td>
 <td>4</td>
 <td>1.0</td>
-<td>11.0</td>
-<td>1.50</td>
+<td>16.0</td>
+<td>2.00</td>
+</tr>
+</tbody>
+</table>
+<h2>7. Runde am 23. Oktober</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+<th>At</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>1</td>
+<td>Düren,Jerome</td>
+<td>(5)</td>
+<td>–</td>
+<td>5</td>
+<td>Magnusson,Hilmar</td>
+<td>(5)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>6</td>
+<td>Schenk,Jonatan</td>
+<td>(5)</td>
+<td>–</td>
+<td>3</td>
+<td>Maetzing,Hans-Di</td>
+<td>(3½)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>10</td>
+<td>Mothes,Thomas</td>
+<td>(4)</td>
+<td>–</td>
+<td>15</td>
+<td>Bradschetl,Tom</td>
+<td>(4)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>7</td>
+<td>Mietzelfeldt,Ger</td>
+<td>(3)</td>
+<td>–</td>
+<td>13</td>
+<td>Heinrich,Wesko</td>
+<td>(3)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>11</td>
+<td>Pape,Philipp</td>
+<td>(2½)</td>
+<td>–</td>
+<td>4</td>
+<td>Krüger,Ekkehard</td>
+<td>(3)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>12</td>
+<td>Wäldrich,Oliver,</td>
+<td>(3)</td>
+<td>–</td>
+<td>22</td>
+<td>Heinrich,Manfred</td>
+<td>(2½)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>9</td>
+<td>Campe,Ulrich</td>
+<td>(2½)</td>
+<td>–</td>
+<td>14</td>
+<td>Stüve,Maxim</td>
+<td>(3)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>16</td>
+<td>Kreisel,Alexande</td>
+<td>(1½)</td>
+<td>–</td>
+<td>19</td>
+<td>Horst,Juri</td>
+<td>(2)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>17</td>
+<td>von Kraft,Lukas</td>
+<td>(1½)</td>
+<td>–</td>
+<td>23</td>
+<td>Bahr,Jan-Hendrik</td>
+<td>(2)</td>
+<td> –</td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>20</td>
+<td>Werner,Michael</td>
+<td>(2)</td>
+<td>–</td>
+<td>21</td>
+<td>Mach,Wolfgang</td>
+<td>(1½)</td>
+<td> –</td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -362,7 +501,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">1</td>
 <td style="width: 145.528px;">Düren,Jerome</td>
 <td style="width: 38.1333px;">(4)</td>
-<td style="width: 47.1889px;"> –</td>
+<td style="width: 47.1889px;">0 – 1</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>
@@ -374,7 +513,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">10</td>
 <td style="width: 145.528px;">Mothes,Thomas</td>
 <td style="width: 38.1333px;">(3½)</td>
-<td style="width: 47.1889px;"> –</td>
+<td style="width: 47.1889px;">1 – 0</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>
@@ -386,7 +525,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">5</td>
 <td style="width: 145.528px;">Magnusson,Hilmar</td>
 <td style="width: 38.1333px;">(3½)</td>
-<td style="width: 47.1889px;"> –</td>
+<td style="width: 47.1889px;">0 – 1</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>
@@ -458,7 +597,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">9</td>
 <td style="width: 145.528px;">Campe,Ulrich</td>
 <td style="width: 38.1333px;">(1½)</td>
-<td style="width: 47.1889px;"> –</td>
+<td style="width: 47.1889px;">0 – 1</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>
@@ -537,7 +676,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">3</td>
 <td style="width: 131.067px;">Maetzing,Hans-Di</td>
 <td style="width: 38.1333px;">(2½)</td>
-<td style="width: 47.1889px;">11.9.</td>
+<td style="width: 47.1889px;">– – +</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>
