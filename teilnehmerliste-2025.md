@@ -67,7 +67,7 @@ parent_title: Kurt-Richter-Turnier
 <table class="clean swiss footable">
 <thead>
 <tr>
-<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>23.09.2025</strong></td>
+<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>24.09.2025</strong></td>
 </tr>
 <tr bgcolor="#00FF00">
 <th style="width: 8.92857%;">TlnNr</th>
@@ -129,7 +129,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SSV Rotation Berlin</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">6</td>
@@ -209,7 +209,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">Rot-Weiß Neuenhagen</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">14</td>
@@ -253,6 +253,16 @@ parent_title: Kurt-Richter-Turnier
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">18</td>
+<td style="width: 22.7679%;">Weng,Yueyi Elina</td>
+<td style="width: 8.03571%;"></td>
+<td style="width: 9.48661%;">1721</td>
+<td style="width: 7.70089%;">W</td>
+<td style="width: 23.9955%;">TSG Oberschöneweide</td>
+<td style="width: 9.04018%;">GER</td>
+<td style="width: 9.82143%;"></td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td style="width: 8.92857%;">19</td>
 <td style="width: 22.7679%;">Grosch,Andreas</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1716</td>
@@ -262,7 +272,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">19</td>
+<td style="width: 8.92857%;">20</td>
 <td style="width: 22.7679%;">Majewski,Nico</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1712</td>
@@ -272,7 +282,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">20</td>
+<td style="width: 8.92857%;">21</td>
 <td style="width: 22.7679%;">Fitzke,Ulrich</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1709</td>
@@ -282,7 +292,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">21</td>
+<td style="width: 8.92857%;">22</td>
 <td style="width: 22.7679%;">Le,Tung</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1699</td>
@@ -292,7 +302,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">22</td>
+<td style="width: 8.92857%;">23</td>
 <td style="width: 22.7679%;">Schuster,Rebekka</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1693</td>
@@ -302,7 +312,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">23</td>
+<td style="width: 8.92857%;">24</td>
 <td style="width: 22.7679%;">Grob,Gerhard</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1663</td>
@@ -312,7 +322,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">24</td>
+<td style="width: 8.92857%;">25</td>
 <td style="width: 22.7679%;">Paul,André David</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1661</td>
@@ -322,7 +332,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">25</td>
+<td style="width: 8.92857%;">26</td>
 <td style="width: 22.7679%;">Mayer,Herbert,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1660</td>
@@ -332,7 +342,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">26</td>
+<td style="width: 8.92857%;">27</td>
 <td style="width: 22.7679%;">Oortmann,Alexis Mile</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1658</td>
@@ -342,7 +352,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">27</td>
+<td style="width: 8.92857%;">28</td>
 <td style="width: 22.7679%;">Campe,Ulrich</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1614</td>
@@ -352,7 +362,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">28</td>
+<td style="width: 8.92857%;">29</td>
 <td style="width: 22.7679%;">Kohlmeyer,Dagobert</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1611</td>
@@ -362,7 +372,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">29</td>
+<td style="width: 8.92857%;">30</td>
 <td style="width: 22.7679%;">Rennspieß,Jens</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1601</td>
@@ -372,7 +382,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">30</td>
+<td style="width: 8.92857%;">31</td>
 <td style="width: 22.7679%;">Müller,Johannes</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1559</td>
@@ -382,7 +392,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">31</td>
+<td style="width: 8.92857%;">32</td>
 <td style="width: 22.7679%;">Stuckstedte,Hermann</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1554</td>
@@ -392,7 +402,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">32</td>
+<td style="width: 8.92857%;">33</td>
 <td style="width: 22.7679%;">Reimann,Fredy</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1548</td>
@@ -402,7 +412,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">33</td>
+<td style="width: 8.92857%;">34</td>
 <td style="width: 22.7679%;">Pawlowski,Lion</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1532</td>
@@ -412,7 +422,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">34</td>
+<td style="width: 8.92857%;">35</td>
 <td style="width: 22.7679%;">Pöltelt,Helmut,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1524</td>
@@ -422,7 +432,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">35</td>
+<td style="width: 8.92857%;">36</td>
 <td style="width: 22.7679%;">Grunert,Heinrich</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1507</td>
@@ -432,7 +442,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">36</td>
+<td style="width: 8.92857%;">37</td>
 <td style="width: 22.7679%;">Stüve,Maxim</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1489</td>
@@ -442,7 +452,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">37</td>
+<td style="width: 8.92857%;">38</td>
 <td style="width: 22.7679%;">Krawczyk,Harald</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1427</td>
@@ -452,7 +462,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">38</td>
+<td style="width: 8.92857%;">39</td>
 <td style="width: 22.7679%;">Schweitzer,Benjamin</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1413</td>
@@ -462,7 +472,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">39</td>
+<td style="width: 8.92857%;">40</td>
 <td style="width: 22.7679%;">Grunert,Greta</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1388</td>
@@ -472,7 +482,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">40</td>
+<td style="width: 8.92857%;">41</td>
 <td style="width: 22.7679%;">Werner,Michael</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1379</td>
@@ -482,7 +492,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">41</td>
+<td style="width: 8.92857%;">42</td>
 <td style="width: 22.7679%;">Krasnyi,Timofei</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1377</td>
@@ -492,17 +502,17 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">42</td>
+<td style="width: 8.92857%;">43</td>
 <td style="width: 22.7679%;">Mâallem,Mats</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1307</td>
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">BSG Grün-Weiß Leipzig</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">43</td>
+<td style="width: 8.92857%;">44</td>
 <td style="width: 22.7679%;">Feitosa Menezes, Flora</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1263</td>
@@ -512,7 +522,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">44</td>
+<td style="width: 8.92857%;">45</td>
 <td style="width: 22.7679%;">Heinrich,Manfred,Dr.</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1250</td>
@@ -522,7 +532,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">45</td>
+<td style="width: 8.92857%;">46</td>
 <td style="width: 22.7679%;">Grunert,Olga</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;">1209</td>
@@ -532,7 +542,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 9.82143%;"></td>
 </tr>
 <tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">46</td>
+<td style="width: 8.92857%;">47</td>
 <td style="width: 22.7679%;">Honcharov,Konstiantyn</td>
 <td style="width: 8.03571%;"></td>
 <td style="width: 9.48661%;"></td>
