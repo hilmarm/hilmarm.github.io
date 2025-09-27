@@ -421,7 +421,7 @@ navs:
 <td>49.</td>
 <td><a href="http://www.schachbund.de/spieler/10273928.html" target="_blank"> Thomas Totz</a></td>
 <td></td>
-<td>1054</td>
+<td>1055</td>
 <td>25</td>
 <td></td>
 </tr>
