@@ -626,7 +626,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>7</td>
-<td>Honcharov,Konstia</td>
+<td>Honcharov,Konstiatyn</td>
 <td>1462</td>
 <td>0</td>
 <td>0</td>
