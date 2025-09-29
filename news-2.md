@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14151 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14151">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/29/september-blitz-2/" rel="bookmark">September Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/29/september-blitz-2/" rel="bookmark" title="14:43"><span class="entry-date">29. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Beim <strong>Blitz</strong> letzten Donnerstag gelingt <strong>Mert</strong> mit sein 4. Monatssieg, womit er nun auf Platz 2 in der Gesamtwertung klettert. Im Turnier gibt nur einen halben Punkt an Matthias ab.</p>
+<p>Platz 2 belegt ein gut aufgelegter von <strong>Matthias</strong> (Chemie Weißensee), der nun auch bester Gast in der Gesamtwertung ist. Er bleibt auch ohne Niederlage im Turnier.</p>
+<p>Platz 3 ging an <strong>Günter</strong>, der auch in der Gesamtwertung Platz 3 belegt.</p>
+<p>Starke Ergebnisse dann mit Platz 4 von Neuzugang <strong>Maximilian</strong> und Platz 7 für Jugendspieler <strong>Konstiantyn</strong>!</p>
+<p>Insgesamt waren 17 Teilnehmer am Start.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+<div class="wp-caption aligncenter" id="attachment_14150" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037.jpg"><img alt="" aria-describedby="caption-attachment-14150" class="size-medium wp-image-14150" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037.jpg 1600w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14150">die erste 3</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/29/september-blitz-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14151 
 <div class="post-14118 post type-post status-publish format-standard hentry category-openberichte" id="post-14118">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/15/25-spreewaldpokalturnier/" rel="bookmark">25. Spreewaldpokalturnier</a></h2>
 <div class="entry-meta">
@@ -19,7 +39,7 @@ Trotz von allen gezeigtem großen Kampfgeist konnten wir nur <strong>Platz 10</s
 fehlte eben doch ein fünfter Spieler, um auch mal nach schrecklichen Niederlagen, z.B.<br/>
 Selbstmatt in einem Zug bzw. Figureneinsteller in jeweils gewonnener Stellung, eine Auszeit nehmen zu können.<br/>
 Die Ergebnisse der einzelnen Spieler entsprachen der gewählten Mannschaftsaufstellung.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025.jpg"><img alt="" class="aligncenter wp-image-14119 size-medium" decoding="async" height="268" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025-300x268.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025-300x268.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025.jpg 583w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025.jpg"><img alt="" class="aligncenter wp-image-14119 size-medium" decoding="async" height="268" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025-300x268.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025-300x268.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/spreewald2025.jpg 583w" width="300"/></a></p>
 <p>Die erzielten 8 Mannschaftspunkte bescherten uns den 10. Platz und für jeden ein Glas<br/>
 Spreewälder Senfgurken als (Trost-)Preis.<br/>
 Die Stimmung in der Mannschaft war gut, so fuhren wir dann, auch ohne Alkohol, gut gelaunt mit Umwegen, wieder nach Hause.</p>
@@ -411,34 +431,6 @@ Als Teampartner konnte ich Lasko begeistern (oder er mich), er hatte eine etwas 
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/11/20e-kroeglopertoernooi-in-delft/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13671 
-<div class="post-13645 post type-post status-publish format-standard hentry category-bmm category-dwz" id="post-13645">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/04/bmm-auswertung/" rel="bookmark">BMM Auswertung</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/04/bmm-auswertung/" rel="bookmark" title="14:16"><span class="entry-date">4. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Jetzt wo auch die <a href="https://www.berlinerschachverband.de/entry/bmm-24-25-ausgewertet.html" rel="noopener" target="_blank">DWZ Auswertung für die BMM</a> durch ist, möchte ich mal eine kleine Zusammenfassung der <strong>BMM Saison 24/25</strong> machen.</p>
-<p>Insgesamt eine gute Saison für NARVA, die 1. und 2.Mannschaft haben jeweils ihr bestmögliches Saisonziel erreicht, NARVA mit der <a href="https://www.narva-schach.de/wordpress/2025/05/18/narva-ist-zurueck-in-der-stadtliga/">Rückkehr in die Stadtliga</a> und NARVA 2 mit dem erneuten Klassenerhalt! Nur NARVA 3 hatte eine nicht ganz so rund laufende Saison.</p>
-<p>Auch bei den Aufstellungen und damit verbundenen freien Brettern ergibt sich das gleiche Bild. Die Erste hatte nie ein freies Brett, die Zweite einmal (und da gab es 4 Ausfälle am Samstag Abend), in der Dritten waren es 3. Zwei davon in der letzten Runde…..die aber trotzdem gewonnen wurde…. Da kommt uns dann vielleicht entgegen, dass nächste Saison wahrscheinlich wieder 6er Mannschaften unten spielen. Denn wenn man mit einbezieht, dass vor der Saison noch ein Festspielen von einigen Spielern geplant war, dann hätte die Dritte wohl noch größere Sorgen gehabt. Vor allem die beiden Nachmeldungen von Batu und Mert in der Ersten haben hier viel geholfen!<br/>
-Ganze 13 Brettpunkte bekamen wir von den Gegnern geschenkt!</p>
-<p>Nun etwas Statistik:<br/>
-Ein Spieler von uns war bei Allen 9 Runden im Einsatz – kommt aber nur auf 8 Partien, einmal gab es keinen Gegner, <strong>Michael Werner</strong>!<br/>
-<strong>Günter</strong>, <strong>Jonatan</strong>, <strong>Ekkehard</strong>, <strong>Alexander</strong>, <strong>Jan-Hendrik</strong> und <strong>Detlef</strong> kommen auf 8 Einsätze.<br/>
-<strong>Günter</strong> hatte dabei 7x Schwarz und erst in der letzten Runde Weiß!<br/>
-Am stärksten waren <strong>Rouven</strong>, mit 4 aus 5 (nur die letzte Runde versaut es) und eine DWZ Leistung von 2081, bei NARVA 1!<br/>
-<strong>Alexander</strong> mit 4½ aus 8 und einem DWZ-Plus von 62 bei NARVA 2!<br/>
-Und <strong>Maxim</strong> mit 6 aus 7 und DWZ-Plus 37 in der Dritten!</p>
-<p>Beim Minus stehen vor allem Spieler aus der Dritten Mannschaft, Torsten (-27), Lukas (-41), Jan (-55) und Thomas T. (-66).</p>
-<p>Die Zahlen unten sind nur die BMM Auswertung, bei einigen (Rudolf, Mert, Michael und ich) sind inzwischen weitere Turnierauswertungen dazu gekommen, die BMM wurde davor einsortiert.</p>
-<p><strong>Ein Danke an Alle, die für Team NARVA am Start waren, egal ob 9 Runden oder nur eine!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM.jpg"><img alt="" class="aligncenter size-full wp-image-13646" decoding="async" height="835" loading="lazy" sizes="auto, (max-width: 589px) 100vw, 589px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM.jpg 589w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/DWZ-BMM-212x300.jpg 212w" width="589"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a>, <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/04/bmm-auswertung/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13645 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
