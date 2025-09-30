@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-em-2025.html" rel="noopener" target="_blank">BBEM</a></td>
-<td>20.09.2025</td>
-<td>Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-blitzschach-mm-2025.html" rel="noopener" target="_blank">BBMM</a></td>
-<td>21.09.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td>02.10.-07.10.2025</td>
 <td>Ulrich</td>
@@ -50,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Kurt-Richter-Gedenkturnier 2025</strong></a></td>
 <td>31.10.-02.10.2025</td>
-<td>Ulrich, Michael, Manfred</td>
+<td>8</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVI. Falkenseer Open</a></td>
@@ -65,7 +55,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
-<td>Rouven, Lasko, Günter, Thomas, Bernd?, Lukas? + Schaakhuis + Ex&amp;Hopp</td>
+<td>Rouven, Lasko, Günter, Thomas, Bernd, Lukas, Norbert, Gerard, Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
 <td>DSAM Bonn?</td>
