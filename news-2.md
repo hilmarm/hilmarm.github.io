@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14160 post type-post status-publish format-standard hentry category-training" id="post-14160">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/01/training-mit-gerhard-am-donnerstag/" rel="bookmark">Training mit Gerhard am Donnerstag</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/01/training-mit-gerhard-am-donnerstag/" rel="bookmark" title="8:35"><span class="entry-date">1. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag gibt es wieder <strong>Training mit Gerhard</strong>!</p>
+<p>Thema für morgen: <strong>Damenendspiele</strong></p>
+<p>Start ist ca. 18:15 Uhr!</p>
+<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="size-medium wp-image-8528" decoding="async" height="265" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021!</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/01/training-mit-gerhard-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14160 
 <div class="post-14151 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14151">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/29/september-blitz-2/" rel="bookmark">September Blitz</a></h2>
 <div class="entry-meta">
@@ -34,7 +51,7 @@ navs:
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/15/25-spreewaldpokalturnier/" rel="bookmark" title="13:09"><span class="entry-date">15. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Am Samstag ging eine „Alte Herren“-Mannschaft, bestehend aus <strong>Peter</strong>, <strong>Bernd</strong>, <strong>Dieter </strong>und <strong>Gerhard</strong>, auf Reisen nach Duben, um am <strong>25. Spreewaldpokalturnier</strong> der Stadt Lübbenau teilzunehmen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012.jpg"><img alt="" class="aligncenter size-medium wp-image-14117" decoding="async" height="135" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-1024x461.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012.jpg 2016w" width="300"/></a><br/>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012.jpg"><img alt="" class="aligncenter size-medium wp-image-14117" decoding="async" height="135" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-300x135.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-300x135.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-1024x461.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-768x346.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012-1536x692.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250913-WA0012.jpg 2016w" width="300"/></a><br/>
 Trotz von allen gezeigtem großen Kampfgeist konnten wir nur <strong>Platz 10</strong> von 15 belegen. Es<br/>
 fehlte eben doch ein fünfter Spieler, um auch mal nach schrecklichen Niederlagen, z.B.<br/>
 Selbstmatt in einem Zug bzw. Figureneinsteller in jeweils gewonnener Stellung, eine Auszeit nehmen zu können.<br/>
@@ -400,37 +417,6 @@ Am 01.07.1950, etwa ein Jahr nach Gründung der Betriebssportvereinigung Berline
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/23/ausschreibung-kleeblatt-turnier/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13740 
-<div class="post-13671 post type-post status-publish format-standard hentry category-openberichte" id="post-13671">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/11/20e-kroeglopertoernooi-in-delft/" rel="bookmark">20e Kroeglopertoernooi in Delft</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/11/20e-kroeglopertoernooi-in-delft/" rel="bookmark" title="8:53"><span class="entry-date">11. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Pfingstsonntag fand zum 20. mal das <strong>Kroeglopertoernooi</strong> (frei übersetzt: Barläufer-Turnier) in Delft statt. Für unsere holländischen Schachfreunde inzwischen Pflichtprogramm, war es nun mal an der Zeit, von Berlin aus dorthin zu fahren (etwas über 700km). <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/476314595_1123809962874599_2489145693264344056_n.jpg"><img alt="" class="alignleft size-thumbnail wp-image-13670" decoding="async" height="150" loading="lazy" sizes="auto, (max-width: 150px) 100vw, 150px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/476314595_1123809962874599_2489145693264344056_n-150x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/476314595_1123809962874599_2489145693264344056_n-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/476314595_1123809962874599_2489145693264344056_n-144x144.jpg 144w" width="150"/></a><br/>
-Als Teampartner konnte ich Lasko begeistern (oder er mich), er hatte eine etwas kürzere Anreise (Wattenscheid). Außerdem waren von den uns bekannten Schachfreunden noch <strong>Norbert</strong>, <strong>Derk Dekker</strong>, <strong>Gerard Milort</strong> und vom Ex &amp; Hopp Team die Meenzer <strong>Sven Judas</strong> und „deFrank“ <strong>Frank Keim</strong> dabei.</p>
-<p>Ich nutzte das Wochenende gleich für einen Kurzurlaub mit Frau in Holland (anders hätte ich das ganze wohl nicht durch bekommen 😉 ). Freitag Abend bzw. Nacht die Anreise, knapp 8h Autofahrt. Samstag dann neben Motorsport in Zandvoort, direkt an der Nordsee, auch Einkaufen von holländischen Spezialitäten. Der Rest der Truppe traf sich Freitag Abend schon bei Norbert, Lasko kam dann Samstag aus Wattenscheid rüber und wir probierten uns schon Samstag Abend durch einige Biersorten. Sonntag früh ging es dann Richtung Startpunkt. Insgesamt fanden sich dann 82 Teams zu je 2 Spielern im Spiellokal vom Delftsche Schaaklclub ein. Ein nettes Spiellokal, mitten in Delft, im ruhigen Hinterhof, und das Spielmaterial kann immer stehen bleiben! Nachdem ich den obligatorischen NARVA-Wimpel übergeben hatte, konnte es um 12 Uhr los gehen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-scaled.jpg"><img alt="" class="alignright wp-image-13659 size-medium" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 196px) 100vw, 196px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-196x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-196x300.jpg 196w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-668x1024.jpg 668w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-768x1177.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-1002x1536.jpg 1002w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-1337x2048.jpg 1337w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250608_100820-scaled.jpg 1671w" width="196"/></a></p>
-<p>Gespielt wurden 7 Runden Schnellschach mit 20min Bedenkzeit ohne Inkrement, verteilt auf insgesamt 18 verschiedenen „Kneipen“. Die Auslosungen und die Spielorte bekommt man per App direkt aufs Handy und kann dann per Maps zur nächsten Lokalität gehen. Funktioniert perfekt! Mann sollte allerdings, was die Spielbedingungen angeht, gewisse Kompromisse eingehen – laut, dunkel, wenig Platz, alles dabei. Aber alles nette kleine Kneipen, viele Biersorten zur Auswahl, überall nette Menschen, die Spaß an der Sache haben. Nur das gleich eine ganze Karnevalskapelle durch die Kneipe trötet stand nicht auf unserer Liste….</p>
-<p>Team NARVA (also Lasko und ich) waren an 72 gesetzt, allerdings hat Frank keine ELO und ging mit 1000 ein… Am Ende sprang Platz 39 raus, beide mit 3,5 aus 7 und durchaus zufrieden. Ich war aufgrund meiner ELO-Zahl automatisch an Brett 1 gesetzt, konnte dort aber durchaus gut mitspielen und den ein oder anderen 1900er ärgern. In mindestens 2 Partien hatte ich auch Glück, aber die Gegner zu Patzer zwingen gehört auch dazu 😉 . Einmal stellte der Gegner glatt den Turm ein, in aussichtsreicher Stellung, in Runde 2 ließ mich der Gegner, im Springerendspiel mit Minusbauern, noch ins Remis retten. Dafür stand ich in Runde 1 direkt auf Gewinn und übersehe ein tödliches Schach….</p>
-<p>Frank war zu Beginn noch etwas eingerostet (einmal im Jahr nach Erftstadt ist deutlich zu wenig 😉 ) und haderte bei einigen Partien. Die knapper werdende Bedenkzeit führte mindestens zweimal zu Punktverlusten durch Partie-Verlust oder das Retten ins Dauerschach in Gewinnstellung. Geschenke gab es für ihn nicht 😉 In den Runden 2, 5 und 6 gewann er souverän und war am Ende zufrieden und hat Lust auf mehr.</p>
-<p>Vor allem aber hatten wir richtig Spaß und wollen wieder kommen! Im Anschluss gab es noch ein gemeinsames Abendessen mit allen bei NARVA bekannten Gesichtern inkl. Frauen.</p>
-<p>Norbert war mit seinem Teampartner am besten, Platz 9! Hier noch alle Platzierungen im Überblick:<br/>
-9. Jan Douwes &amp; <strong>Norbert Harmanus</strong> 10 Brettpunkte<br/>
-17. Marcel Peek &amp; <strong>Gerard Milort </strong>8½<br/>
-27. <strong>Frank Keim &amp; Sven Judas </strong>7½<br/>
-32. Vincent Geeraets &amp; <strong>Derk Dekker </strong>7½<br/>
-39. <strong>Thomas Mothes &amp; Frank Laskowski </strong>7</p>
-<p><a href="https://stickchess.com/delft25/standings" rel="noopener" target="_blank">Alle Ergebnisse</a></p>
-<p><a href="http://delftseschaakclub.nl/" rel="noopener" target="_blank">Bericht beim Delftse Schaakclub</a></p>
-<p>Fotos:</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/06/11/20e-kroeglopertoernooi-in-delft/#more-13671">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/11/20e-kroeglopertoernooi-in-delft/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13671 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
