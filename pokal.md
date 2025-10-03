@@ -17,6 +17,46 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Pokal-2025.pdf">Pokal 2025</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>Finale/Spiel um Platz 3 am 16. Oktober</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>FINALE</strong></td>
+<td>21</td>
+<td>Özates,Mert</td>
+<td>(2½)</td>
+<td>–</td>
+<td>8</td>
+<td>Hintze,Peter</td>
+<td>(2½)</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Platz 3</strong></td>
+<td>12</td>
+<td>Stüve,Maxim</td>
+<td>(2)</td>
+<td>–</td>
+<td>18</td>
+<td>Lange,Rudolf</td>
+<td>(4)</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>Halbfinale am 21. August</h2>
 <table class="clean swiss footable">
 <thead>
@@ -31,6 +71,7 @@ parent_title: Turniere
 <th>Punkte</th>
 <th>Ergebnis</th>
 <th>2.Partie</th>
+<th>Rapid</th>
 </tr>
 </thead>
 <tbody>
@@ -45,6 +86,7 @@ parent_title: Turniere
 <td>(1½)</td>
 <td>0 – 1</td>
 <td></td>
+<td></td>
 </tr>
 <tr>
 <td>2</td>
@@ -53,10 +95,11 @@ parent_title: Turniere
 <td>(3)</td>
 <td>–</td>
 <td>18</td>
-<td>Özates,Mert</td>
-<td>(2)</td>
+<td><strong>Özates,Mert</strong></td>
+<td>(1½)</td>
 <td>½ – ½</td>
-<td></td>
+<td>½ – ½</td>
+<td>½ – 1½</td>
 </tr>
 </tbody>
 </table>

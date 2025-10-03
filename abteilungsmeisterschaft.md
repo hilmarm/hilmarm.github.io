@@ -386,7 +386,7 @@ parent_title: Turniere
 <td>15</td>
 <td>Bradschetl,Tom</td>
 <td>(4)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
