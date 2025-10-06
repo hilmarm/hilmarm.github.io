@@ -16,7 +16,7 @@ navs:
 <p><strong>Am Sonntag (12.10.) geht die neue BMM-Saison los! Wir starten mit einem Heimspiel für alle 3 Mannschaften!!</strong></p>
 <p><strong>Unsere Heimspiele starten diese Saison um 10 Uhr!</strong> (außer die letzte Runde)<br/>
 <strong>Spielort ist vorerst weiterhin das RuDi-Nachbarschaftszentrum!</strong></p>
-<p>Wenn man sich die Staffeln der Ersten und Zweiten Mannschaft ansieht, wird es eine schwere Saison. Bei der Ersten war das nach dem Aufstieg in die Stadtliga zu erwarten, aber auch die 1.Klasse der Zweiten Mannschaft ist deutlich stärker geworden, hier wirkt sich nun die Reform der Überregionalen Klassen nach unten aus.</p>
+<p>Wenn man sich die Staffeln der Ersten und Zweiten Mannschaft ansieht, wird es eine schwere Saison. Bei der Ersten war das nach dem Aufstieg in die Stadtliga zu erwarten, aber auch die 1.Klasse der 2.Mannschaft ist deutlich stärker geworden, hier wirkt sich nun die Reform der überregionalen Klassen nach unten aus.</p>
 <p>Die Links zu den entsprechenden Tabellen bei <em>chess-results</em> habe ich oben im Menü schon verknüpft.<br/>
 <a href="https://s1.chess-results.com/tnr1258636.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 1 – Stadtliga B</a><br/>
 <a href="https://s1.chess-results.com/tnr1258641.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 2 – Klasse 1.4</a><br/>

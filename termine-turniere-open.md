@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
-<td>02.10.-07.10.2025</td>
-<td>Ulrich</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.schachverein-wildau.de/dahmeland.php" rel="noopener" target="_blank">18. Wildauer Dahmelandpokal 2025</a></td>
-<td>03.10.-05.10.2025</td>
-<td>Peter, Ekkehard, Oliver</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/29-ueberbezirkliches-seniorenturnier-2025/" rel="noopener" target="_blank">29. überbezirkliches Seniorenturnier 2025</a></td>
 <td>15.10.2025</td>
 <td>Peter</td>
