@@ -3,9 +3,9 @@ title: Spielberichte BMM
 layout: default
 navs:
   BMM: https://bmm-schach.de/seasons/BMM%202023-24
-  1. Mannschaft: https://chess-results.com/tnr1013935.aspx?lan=0
-  2. Mannschaft: https://chess-results.com/tnr1013941.aspx?lan=0
-  3. Mannschaft: https://chess-results.com/tnr1028264.aspx?lan=0&art=0&turdet=YES
+  1. Mannschaft: https://s1.chess-results.com/tnr1258636.aspx?lan=0&art=0&turdet=YES&SNode=S0
+  2. Mannschaft: https://s1.chess-results.com/tnr1258641.aspx?lan=0&art=0&turdet=YES&SNode=S0
+  3. Mannschaft: https://s1.chess-results.com/tnr1258651.aspx?lan=0&art=0&turdet=YES&SNode=S0
   Spielberichte BMM: spielberichte-bmm
   BFL: https://bmm-schach.de/seasons/BFL%202023-24
   1.Mannschaft: https://chess-results.com/tnr1034689.aspx?lan=0

@@ -8,6 +8,32 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14171 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-14171">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/06/bmm-und-bfl-starten/" rel="bookmark">BMM und BFL starten!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/06/bmm-und-bfl-starten/" rel="bookmark" title="10:23"><span class="entry-date">6. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am Sonntag (12.10.) geht die neue BMM-Saison los! Wir starten mit einem Heimspiel für alle 3 Mannschaften!!</strong></p>
+<p><strong>Unsere Heimspiele starten diese Saison um 10 Uhr!</strong> (außer die letzte Runde)<br/>
+<strong>Spielort ist vorerst weiterhin das RuDi-Nachbarschaftszentrum!</strong></p>
+<p>Wenn man sich die Staffeln der Ersten und Zweiten Mannschaft ansieht, wird es eine schwere Saison. Bei der Ersten war das nach dem Aufstieg in die Stadtliga zu erwarten, aber auch die 1.Klasse der Zweiten Mannschaft ist deutlich stärker geworden, hier wirkt sich nun die Reform der Überregionalen Klassen nach unten aus.</p>
+<p>Die Links zu den entsprechenden Tabellen bei <em>chess-results</em> habe ich oben im Menü schon verknüpft.<br/>
+<a href="https://s1.chess-results.com/tnr1258636.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 1 – Stadtliga B</a><br/>
+<a href="https://s1.chess-results.com/tnr1258641.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 2 – Klasse 1.4</a><br/>
+<a href="https://s1.chess-results.com/tnr1258651.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 3 – Klasse 3.4</a></p>
+<p>Den aktuellen Stand der Aufstellungen könnt ihr wieder über <a href="https://teams.narva-schach.de/" rel="noopener" target="_blank">teams.narva-schach</a> einsehen.</p>
+<p>Von den <strong>BMM-Heften</strong> bringe ich am Sonntag je Mannschaft 10 Exemplare ausgedruckt mit!</p>
+<p>Da uns der Klaus nach wie vor fehlt, sind Helfer für Küche und Aufbau gerne gesehen! Ich werde ab ca. 9 Uhr vor Ort sein.</p>
+<p>Die <strong>BFL Saison</strong> startet dann am Dienstag (14.10.) mit den Heimspielen der 2. und 3.Mannschaft. Die 1.Mannschaft ist dann am 16.10. mit dem Heimspiel dran.</p>
+<p>Die entsprechenden Links füge ich noch ein.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/06/bmm-und-bfl-starten/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14171 
 <div class="post-14160 post type-post status-publish format-standard hentry category-training" id="post-14160">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/01/training-mit-gerhard-am-donnerstag/" rel="bookmark">Training mit Gerhard am Donnerstag</a></h2>
 <div class="entry-meta">
@@ -401,22 +427,6 @@ Am 01.07.1950, etwa ein Jahr nach Gründung der Betriebssportvereinigung Berline
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/26/narva-schach-wird-75/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13753 
-<div class="post-13740 post type-post status-publish format-standard hentry category-offene-turniere" id="post-13740">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/23/ausschreibung-kleeblatt-turnier/" rel="bookmark">Ausschreibung Kleeblatt-Turnier</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/23/ausschreibung-kleeblatt-turnier/" rel="bookmark" title="17:17"><span class="entry-date">23. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/Kleeblatt-Turnier-2025.pdf">Ausschreibung zum Kleeblatt-Turnier 2025</a> ist nun veröffentlicht. Anmeldungen sind ab sofort möglich.</p>
-<p>Die Teilnehmerliste wird dann, sobald es die ersten Anmeldungen gibt, auf der <a href="https://www.narva-schach.de/wordpress/turniere/kleeblatt-turnier-2025/">Turnierseite</a> veröffentlicht.</p>
-<p>Vereinslose Teilnehmer geben bei der Anmeldung bitte das vollständige Geburtsdatum sowie falls vorhanden ihre FIDE-ID an.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/23/ausschreibung-kleeblatt-turnier/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13740 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
