@@ -53,8 +53,8 @@ navs:
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2034</td>
-<td>506</td>
+<td>2046</td>
+<td>507</td>
 <td>2041</td>
 </tr>
 <tr>
@@ -125,8 +125,8 @@ navs:
 <td>12.</td>
 <td><a href="http://www.schachbund.de/spieler/10084564.html" target="_blank"> Peter Hintze</a></td>
 <td></td>
-<td>1875</td>
-<td>130</td>
+<td>1872</td>
+<td>131</td>
 <td>2081</td>
 </tr>
 <tr>
@@ -149,8 +149,8 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1812</td>
-<td>80</td>
+<td>1800</td>
+<td>81</td>
 <td>1830</td>
 </tr>
 <tr>
