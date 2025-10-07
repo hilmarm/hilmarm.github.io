@@ -249,7 +249,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">Hamburger SK von 183</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">18</td>
@@ -589,7 +589,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td nowrap="nowrap" style="width: 23.9955%;">BSV 63 Chemie Weißensee</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">52</td>
@@ -679,7 +679,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%;">M</td>
 <td style="width: 23.9955%;">SSV Rotation Berlin</td>
 <td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
+<td style="width: 9.82143%;">X</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td style="width: 8.92857%;">61</td>
