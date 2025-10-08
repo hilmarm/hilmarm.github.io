@@ -22,10 +22,13 @@ navs:
 <a href="https://s1.chess-results.com/tnr1258641.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 2 – Klasse 1.4</a><br/>
 <a href="https://s1.chess-results.com/tnr1258651.aspx?lan=0&amp;art=0&amp;turdet=YES&amp;SNode=S0" rel="noopener" target="_blank">NARVA 3 – Klasse 3.4</a></p>
 <p>Den aktuellen Stand der Aufstellungen könnt ihr wieder über <a href="https://teams.narva-schach.de/" rel="noopener" target="_blank">teams.narva-schach</a> einsehen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Alle Termine im Überblick</a></p>
 <p>Von den <strong>BMM-Heften</strong> bringe ich am Sonntag je Mannschaft 10 Exemplare ausgedruckt mit!</p>
 <p>Da uns der Klaus nach wie vor fehlt, sind Helfer für Küche und Aufbau gerne gesehen! Ich werde ab ca. 9 Uhr vor Ort sein.</p>
 <p>Die <strong>BFL Saison</strong> startet dann am Dienstag (14.10.) mit den Heimspielen der 2. und 3.Mannschaft. Die 1.Mannschaft ist dann am 16.10. mit dem Heimspiel dran.</p>
+<p><strong>Gespielt werden die Heimspiel jeweils im Club Kadiner Str. – Start ist um 19 Uhr.</strong></p>
 <p>Die entsprechenden Links füge ich noch ein.</p>
+<p><a href="https://www.narva-schach.de/wordpress/termine/bfl-termine/">Alle Termine im Überblick</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
