@@ -549,7 +549,7 @@ parent_title: Turniere
 <td style="width: 20.3px;">13</td>
 <td style="width: 145.528px;">Heinrich,Wesko</td>
 <td style="width: 38.1333px;">(3)</td>
-<td style="width: 47.1889px;"> –</td>
+<td style="width: 47.1889px;">0 – 1</td>
 <td style="width: 12.0278px;"></td>
 </tr>
 <tr>
