@@ -20,10 +20,11 @@ navs:
 <th style="height: 18px;">Bemerkung</th>
 </tr>
 </thead>
+<tbody>
 <tr>
 <td>02.01.25</td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>09.01.25</td>
@@ -32,58 +33,58 @@ navs:
 </tr>
 <tr>
 <td>16.01.25</td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>23.01.25</td>
 <td class="bfl">BFL</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>30.01.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>06.02.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>13.02.25</td>
 <td class="pokal">Pokal</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>20.02.25</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>27.02.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>06.03.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>13.03.25</td>
 <td class="schnell">Schnellschach</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>20.03.25</td>
 <td class="bfl">BFL</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>27.03.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>03.04.25</td>
@@ -93,12 +94,12 @@ navs:
 <tr>
 <td>10.04.25</td>
 <td class="versammlung">Jahreshauptversammlung</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>17.04.25</td>
 <td class="versammlung">Skat</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>24.04.25</td>
@@ -118,12 +119,12 @@ navs:
 <tr>
 <td>15.05.25</td>
 <td class="pokal">Pokal</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>22.05.25</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>29.05.25</td>
@@ -133,153 +134,154 @@ navs:
 <tr>
 <td>05.06.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>12.06.25</td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>19.06.25</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>26.06.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>03.07.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>10.07.25</td>
 <td class="schnell">Schnellschach</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>17.07.25</td>
 <td class="pokal">Pokal</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>24.07.25</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>31.07.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>07.08.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>14.08.25</td>
 <td class="versammlung">Mitgliederversammlung BMM/BFL</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>21.08.25</td>
 <td class="pokal">Pokal</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>28.08.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>04.09.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>11.09.25</td>
 <td class="schnell">Schnellschach</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>18.09.25</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>25.09.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>02.10.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>09.10.25</td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>16.10.25</td>
 <td class="pokal">Pokal</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>23.10.25</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>30.10.25</td>
 <td class="blitz">Blitz</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>06.11.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>13.11.25</td>
 <td class="schnell">Schnellschach</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>20.11.25</td>
-<td> </td>
-<td> </td>
+<td class="blitz">Blitz</td>
+<td></td>
 </tr>
 <tr>
 <td>27.11.25</td>
-<td class="blitz">Blitz</td>
-<td> </td>
+<td>BFL Heimspiel</td>
+<td></td>
 </tr>
 <tr>
 <td>04.12.25</td>
 <td class="training">Training</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>11.12.25</td>
 <td class="versammlung">Weihnachtsfeier</td>
-<td> </td>
+<td></td>
 </tr>
 <tr>
 <td>18.12.25</td>
-<td> </td>
-<td> </td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td>25.12.25</td>
 <td>geschlossen</td>
 <td>Weihnachten</td>
 </tr>
+</tbody>
 </table>
 </div><!-- .entry-content -->
 </div> #post-174 
