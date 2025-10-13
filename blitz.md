@@ -33,7 +33,7 @@ parent_title: Turniere
 <th style="padding-right: 10px; width: 5%; height: 18px;">28.08.</th>
 <th style="padding-right: 10px; width: 5%; height: 18px;">25.09.</th>
 <th style="padding-right: 10px; width: 5%; height: 18px;">30.10.</th>
-<th style="padding-right: 10px; width: 5%; height: 18px;">27.11.</th>
+<th style="padding-right: 10px; width: 5%; height: 18px;">20.11.</th>
 <th data-type="numeric" style="padding-right: 10px; width: 8.68621%; height: 18px;"><strong>Gesamt</strong></th>
 </tr>
 </thead>
