@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14194 post type-post status-publish format-standard hentry category-bmm" id="post-14194">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/" rel="bookmark">Holpriger Saisonstart</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/" rel="bookmark" title="8:09"><span class="entry-date">13. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Für unsere BMM Mannschaften war der <strong>BMM Start</strong> gestern etwas holprig. Die 1. und 2. Mannschaft waren dabei auch an allen Brettern im DWZ-Nachteil.</p>
+<p>Nur <strong>NARVA 3</strong> konnte einen Punkt holen beim <strong>3:3</strong> gegen <strong>Weisse Dame 5</strong>.<br/>
+<strong>Lukas</strong> bekommt den kampflosen Punkt (und kann sich dann um die Küche kümmern. Vielen DANK!) <strong>Torsten</strong> und <strong>Michael</strong> können gewinnen, Michael erkämpfte damit am Ende noch das 3:3.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome.jpg"><img alt="" class="aligncenter wp-image-14193" decoding="async" height="151" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome-300x90.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome-300x90.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome-768x232.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome.jpg 1008w" width="500"/></a></p>
+<p><strong>NARVA 1</strong> verliert mit <strong>2,5:5,5</strong> gegen <strong>Weisse Dame 3</strong> und kann nur an den ersten 3 Brettern Punkten. <strong>Bernd</strong> und <strong>Batu</strong> können gegen ihre DWZ-stärkeren Gegner gewinnen! <strong>Mert</strong> steuert noch ein Remis gegen unser passiv Mitglied <strong>Manfred</strong> bei, der Rest verliert seine Partien.</p>
+<p><a href="http://sc-weisse-dame.de/v3/2025/10/11-10-bmm-2025-26-r1/" rel="noopener" target="_blank">Weisse Dame schreibt bestimmt auch was dazu</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome.jpg"><img alt="" class="aligncenter wp-image-14191" decoding="async" height="200" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome-300x120.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome-300x120.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome-768x306.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome.jpg 1010w" width="500"/></a></p>
+<p><strong>NARVA 2</strong> wird von der <strong>SG Weißensee 1</strong> mit <strong>7,5:0,5</strong> überrollt. Nur <strong>Gerhard</strong> verhindert das „zu Null“. Einige Partien konnte lange ausgeglichen gehalten werden, aber am Ende setzte sich aber überall dann doch der DWZ-Stärkere durch.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome.jpg"><img alt="" class="aligncenter wp-image-14192" decoding="async" height="185" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-300x111.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-300x111.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-1024x379.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-768x284.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome.jpg 1053w" width="500"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14194 
 <div class="post-14171 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-14171">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/06/bmm-und-bfl-starten/" rel="bookmark">BMM und BFL starten!</a></h2>
 <div class="entry-meta">
@@ -45,7 +67,7 @@ navs:
 <p>Am Donnerstag gibt es wieder <strong>Training mit Gerhard</strong>!</p>
 <p>Thema für morgen: <strong>Damenendspiele</strong></p>
 <p>Start ist ca. 18:15 Uhr!</p>
-<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="size-medium wp-image-8528" decoding="async" height="265" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021!</p></div>
+<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="size-medium wp-image-8528" decoding="async" height="265" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021!</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -65,7 +87,7 @@ navs:
 <p>Starke Ergebnisse dann mit Platz 4 von Neuzugang <strong>Maximilian</strong> und Platz 7 für Jugendspieler <strong>Konstiantyn</strong>!</p>
 <p>Insgesamt waren 17 Teilnehmer am Start.</p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-<div class="wp-caption aligncenter" id="attachment_14150" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037.jpg"><img alt="" aria-describedby="caption-attachment-14150" class="size-medium wp-image-14150" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037.jpg 1600w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14150">die erste 3</p></div>
+<div class="wp-caption aligncenter" id="attachment_14150" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037.jpg"><img alt="" aria-describedby="caption-attachment-14150" class="size-medium wp-image-14150" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/09/IMG-20250925-WA0037.jpg 1600w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14150">die erste 3</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -409,27 +431,6 @@ Von Platz 4 bis Platz 10 geht es dann sehr eng zu, gleich 5 Spieler haben 12 Pun
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/30/etwas-zu-viel-hitze/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13775 
-<div class="post-13753 post type-post status-publish format-standard hentry category-sg-narva" id="post-13753">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/26/narva-schach-wird-75/" rel="bookmark">NARVA Schach wird 75</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/26/narva-schach-wird-75/" rel="bookmark" title="9:47"><span class="entry-date">26. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><img alt="" class="alignleft size-medium wp-image-13754" decoding="async" height="173" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/75-300x173.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/75-300x173.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/75.jpg 406w" width="300"/>Ihr habt alle schon die Einladung per Mail erhalten, nun hier nochmal als Erinnerung:</p>
-<p><strong><span style="color: #ff0000;">NARVA Schach wird 75!!</span></strong><br/>
-Am 01.07.1950, etwa ein Jahr nach Gründung der Betriebssportvereinigung Berliner Glühlampenwerk (1.4.49) als Sparte Schach gegründet.</p>
-<p><strong><span style="color: #ff0000;">Und wir feiern am 05.07. im RuDi!</span></strong></p>
-<p>Um 11 Uhr geht es mit dem <strong>Freundschaftswettkampf gegen den SV OSRAM</strong> los. Parallel kann bei schönem Wetter auch draußen gespielt werden. Im Anschluss an den Mannschaftskampf findet noch ein Schnellschachturnier (12+3 ab ca. 15/15:30 Uhr) statt.</p>
-<p>Für Essen und Trinken wird auch gesorgt sein!</p>
-<p>Wir hoffen auf zahlreiches Erscheinen!</p>
-<p>Wer Sonntag Vormittag noch Lust auf eine kleine Rundfahrt auf der Spree hat, bitte bis morgen oder heute beim Blitz beim Vorsitzenden melden.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/26/narva-schach-wird-75/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13753 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
