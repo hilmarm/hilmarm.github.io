@@ -149,7 +149,7 @@ navs:
 <td>15.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1800</td>
+<td>1801</td>
 <td>81</td>
 <td>1866</td>
 </tr>
@@ -357,7 +357,7 @@ navs:
 <td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
-<td>1275</td>
+<td>1276</td>
 <td>8</td>
 <td>1669</td>
 </tr>
