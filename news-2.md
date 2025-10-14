@@ -49,7 +49,10 @@ navs:
 <p>Da uns der Klaus nach wie vor fehlt, sind Helfer für Küche und Aufbau gerne gesehen! Ich werde ab ca. 9 Uhr vor Ort sein.</p>
 <p>Die <strong>BFL Saison</strong> startet dann am Dienstag (14.10.) mit den Heimspielen der 2. und 3.Mannschaft. Die 1.Mannschaft ist dann am 16.10. mit dem Heimspiel dran.</p>
 <p><strong>Gespielt werden die Heimspiel jeweils im Club Kadiner Str. – Start ist um 19 Uhr.</strong></p>
-<p>Die entsprechenden Links füge ich noch ein.</p>
+<p>Die entsprechenden Links füge ich noch ein. – <strong><span style="color: #ff0000;">Sind jetzt da!</span></strong></p>
+<p><a href="https://s2.chess-results.com/tnr1272640.aspx?lan=0&amp;SNode=S0" rel="noopener" target="_blank">NARVA 1 – Staffel A</a><br/>
+<a href="https://s3.chess-results.com/tnr1272641.aspx?lan=0&amp;SNode=S0" rel="noopener" target="_blank">NARVA 2 – Staffel B</a><br/>
+<a href="https://s1.chess-results.com/tnr1272643.aspx?lan=0&amp;SNode=S0" rel="noopener" target="_blank">NARVA 3 – Staffel C</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/termine/bfl-termine/">Alle Termine im Überblick</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">

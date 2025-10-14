@@ -2,14 +2,15 @@
 title: Mannschaften 
 layout: default
 navs:
-  BMM: https://bmm-schach.de/seasons/BMM%202023-24
+  BMM: https://www.berlinerschachverband.de/berliner-mannschaftsmeisterschaft-2025-2026.html
   1. Mannschaft: https://s1.chess-results.com/tnr1258636.aspx?lan=0&art=0&turdet=YES&SNode=S0
   2. Mannschaft: https://s1.chess-results.com/tnr1258641.aspx?lan=0&art=0&turdet=YES&SNode=S0
   3. Mannschaft: https://s1.chess-results.com/tnr1258651.aspx?lan=0&art=0&turdet=YES&SNode=S0
   Spielberichte BMM: spielberichte-bmm
-  BFL: https://bmm-schach.de/seasons/BFL%202023-24
-  1.Mannschaft: https://chess-results.com/tnr1034689.aspx?lan=0
-  2.Mannschaft: https://chess-results.com/tnr1042181.aspx?lan=0
+  BFL: https://www.berlinerschachverband.de/berliner-feierabendliga-2025-2026.html
+  1.Mannschaft: https://s2.chess-results.com/tnr1272640.aspx?lan=0&SNode=S0
+  2.Mannschaft: https://s3.chess-results.com/tnr1272641.aspx?lan=0&SNode=S0
+  3.Mannschaft: https://s1.chess-results.com/tnr1272643.aspx?lan=0&SNode=S0
   BPMM: bpmm
 ---
 <div class="post-54 page type-page status-publish hentry" id="post-54">
