@@ -51,9 +51,9 @@ parent_title: Turniere
 <td>(2)</td>
 <td>–</td>
 <td>18</td>
-<td>Lange,Rudolf</td>
+<td><strong>Lange,Rudolf</strong></td>
 <td>(4)</td>
-<td></td>
+<td>0 – 1</td>
 </tr>
 </tbody>
 </table>
