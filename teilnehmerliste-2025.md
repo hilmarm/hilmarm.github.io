@@ -66,880 +66,940 @@ parent_title: Kurt-Richter-Turnier
 </table>
 <table class="clean swiss footable">
 <thead>
-<tr>
-<td colspan="8" style="width: 99.7768%;">Teilnehmerliste: Stand: <strong>16.10.2025 – </strong>DWZ Update erfolgt vor Turnierstart</td>
+<tr style="height: 24px;">
+<td colspan="8" style="width: 99.7768%; height: 24px;">Teilnehmerliste: Stand: <strong>17.10.2025 – </strong>DWZ Update erfolgt vor Turnierstart</td>
 </tr>
-<tr bgcolor="#00FF00">
-<th style="width: 8.92857%;">TlnNr</th>
-<th style="width: 22.7679%;">Teilnehmer</th>
-<th style="width: 8.03571%;">Titel</th>
-<th style="width: 9.48661%;">TWZ</th>
-<th style="width: 7.70089%;">Attr</th>
-<th style="width: 23.9955%;">Verein/Ort</th>
-<th style="width: 9.04018%;">Land</th>
-<th style="width: 9.82143%;">bezahlt</th>
+<tr bgcolor="#00FF00" style="height: 18px;">
+<th style="width: 8.92857%; height: 18px;">TlnNr</th>
+<th style="width: 22.7679%; height: 18px;">Teilnehmer</th>
+<th style="width: 8.03571%; height: 18px;">Titel</th>
+<th style="width: 9.48661%; height: 18px;">TWZ</th>
+<th style="width: 7.70089%; height: 18px;">Attr</th>
+<th style="width: 23.9955%; height: 18px;">Verein/Ort</th>
+<th style="width: 9.04018%; height: 18px;">Land</th>
+<th style="width: 9.82143%; height: 18px;">bezahlt</th>
 </tr>
 </thead>
 <tbody>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">1</td>
-<td style="width: 22.7679%;">Strache,Michael</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">2284</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Kreuzberg e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">2</td>
-<td style="width: 22.7679%;">Brustkern,Jürgen</td>
-<td style="width: 8.03571%;">FM</td>
-<td style="width: 9.48661%;">2109</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SK Zehlendorf e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">3</td>
-<td style="width: 22.7679%;">Daverkausen,Bernd</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">2094</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">4</td>
-<td style="width: 22.7679%;">Geldner,Gerrit</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">2086</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Kreuzberg e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">5</td>
-<td style="width: 22.7679%;">Grunert,Friedrich</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">2040</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SK München Südost</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">6</td>
-<td style="width: 22.7679%;">Krefenstein,Sergej</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">2039</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">TuS Makkabi Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">7</td>
-<td style="width: 22.7679%;">Beyte,Tim</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">2011</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Eintracht Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">8</td>
-<td style="width: 22.7679%;">Fahland,Maximilian</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1963</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">vereinslos</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">9</td>
-<td style="width: 22.7679%;">Özates,Mert</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1907</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">TUR</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">10</td>
-<td style="width: 22.7679%;">Oelmann,Henry</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1906</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SF Siemensstadt</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">11</td>
-<td style="width: 22.7679%;">Schmidt,Fabian</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1888</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Königsjäger Süd-W</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">12</td>
-<td style="width: 22.7679%;">Simcaks,Sergejs</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1884</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSC Graal-Müritz</td>
-<td style="width: 9.04018%;">LAT</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">13</td>
-<td style="width: 22.7679%;">Kaase,Julian</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1871</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">14</td>
-<td style="width: 22.7679%;">Kuban,Andreas</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1865</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">15</td>
-<td style="width: 22.7679%;">Sakalli,Selcuk Orkun</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1838</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Zugzwang 95 e.V.</td>
-<td style="width: 9.04018%;">TUR</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">16</td>
-<td style="width: 22.7679%;">Hentze,Jakob</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1836</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Roter Turm Altstadt</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">17</td>
-<td style="width: 22.7679%;">Hertel-Mach,Frank</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1834</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Blau-Weiß 69 Parchim</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">18</td>
-<td style="width: 22.7679%;">Besbudak,Özgür</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1829</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Zugzwang 95 e.V.</td>
-<td style="width: 9.04018%;">TUR</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">19</td>
-<td style="width: 22.7679%;">Krüger,Ekkehard</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1812</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">20</td>
-<td style="width: 22.7679%;">Iachanou,Daniel</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1810</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">Hamburger SK von 183</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">21</td>
-<td style="width: 22.7679%;">Ucar,Eren</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1807</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">BSC Rehberge 1945</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">22</td>
-<td style="width: 22.7679%;">Varazi,Maxime</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1806</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Empor Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">23</td>
-<td style="width: 22.7679%;">Kapr,Klaus,Dr.</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1804</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Friesen Lichtenberg</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">24</td>
-<td style="width: 22.7679%;">Beran, Rolf-Dietrich</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1790</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">Rot-Weiß Neuenhagen</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">25</td>
-<td style="width: 22.7679%;">Guder,Sibylle</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1774</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">SF Berlin 1903 e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">26</td>
-<td style="width: 22.7679%;">Thürauf,Peter</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1772</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Schwarz-Weiß Nürn</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">27</td>
-<td style="width: 22.7679%;">Holovianko,Illia</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1760</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">TuS Makkabi Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">28</td>
-<td style="width: 22.7679%;">Cubukcu,Mete</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1754</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Kreuzberg e.V.</td>
-<td style="width: 9.04018%;">TUR</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">29</td>
-<td style="width: 22.7679%;">Majewski,Nico</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1740</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">ESV „Lok Falkenberg“</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">30</td>
-<td style="width: 22.7679%;">Litvinov,Ivan</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1730</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">vereinslos</td>
-<td style="width: 9.04018%;">UKR</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">31</td>
-<td style="width: 22.7679%;">Bureik,Nicolas</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1728</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Weisse Dame e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">32</td>
-<td style="width: 22.7679%;">Vaz da Cruz, Vinicius</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1721</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">33</td>
-<td style="width: 22.7679%;">Weng,Yueyi Elina</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1721</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">TSG Oberschöneweide</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">34</td>
-<td style="width: 22.7679%;">Mieth,Maximilian</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1714</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Weisse Dame e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">35</td>
-<td style="width: 22.7679%;">Fitzke,Ulrich</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1709</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Leinfelden</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">36</td>
-<td style="width: 22.7679%;">Schuster,Rebekka</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1693</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">SG 1871 Löberitz</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">37</td>
-<td style="width: 22.7679%;">Kappus,Maximilian</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1686</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">38</td>
-<td style="width: 22.7679%;">Le,Tung</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1669</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">Queer-Springer SSV B</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">39</td>
-<td style="width: 22.7679%;">Mayani,Gilad</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1667</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">40</td>
-<td style="width: 22.7679%;">Grob,Gerhard</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1663</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Kreuzberg e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">41</td>
-<td style="width: 22.7679%;">Paul,André David</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1661</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SK Dessau 93</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">42</td>
-<td style="width: 22.7679%;">Mayer,Herbert,Dr.</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1660</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">43</td>
-<td style="width: 22.7679%;">Schrodt,Horst</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1646</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Eintracht Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">44</td>
-<td style="width: 22.7679%;">Oortmann,Alexis Mile</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1641</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">45</td>
-<td style="width: 22.7679%;">Garbin,Frank,Dr.</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1623</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Rochade Müncheberg</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">46</td>
-<td style="width: 22.7679%;">Campe,Ulrich</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1614</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">47</td>
-<td style="width: 22.7679%;">Schmitz,Christopher</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1612</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">TSG Oberschöneweide</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">48</td>
-<td style="width: 22.7679%;">Kohlmeyer,Dagobert</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1611</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG Weißensee 49 e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">49</td>
-<td style="width: 22.7679%;">Sterin,Andrei</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1594</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">50</td>
-<td style="width: 22.7679%;">Saglamoglu,Simon</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1593</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Zugzwang 95 e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">51</td>
-<td style="width: 22.7679%;">Lehnert,Steffen</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1591</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Babelsberg 03 e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">52</td>
-<td style="width: 22.7679%;">Schönfeld,Anke</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1566</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">SV Grün-W. Niederwiesa</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">53</td>
-<td style="width: 22.7679%;">Müller,Johannes</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1559</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Eintracht Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">54</td>
-<td style="width: 22.7679%;">Stuckstedte,Hermann</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1554</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Königsjäger Süd-W</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">55</td>
-<td style="width: 22.7679%;">Reimann,Fredy</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1548</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Königsjäger Süd-W</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">56</td>
-<td style="width: 22.7679%;">Grunert,Greta</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1548</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">FC Bayern München</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">57</td>
-<td style="width: 22.7679%;">Pöltelt,Helmut,Dr.</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1524</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Eintracht Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">58</td>
-<td style="width: 22.7679%;">Grunert,Heinrich</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1507</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">FC Bayern München</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">59</td>
-<td style="width: 22.7679%;">Kaplingat,Anand</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1505</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">60</td>
-<td style="width: 22.7679%;">Dragnev,Stoyan</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1494</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">61</td>
-<td style="width: 22.7679%;">Stüve,Maxim</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1489</td>
-<td style="width: 7.70089%;">M</td>
-<td nowrap="nowrap" style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">62</td>
-<td style="width: 22.7679%;">Pawlowski,Lion</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1473</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">63</td>
-<td style="width: 22.7679%;">Krawczyk,Harald</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1428</td>
-<td style="width: 7.70089%;">M</td>
-<td nowrap="nowrap" style="width: 23.9955%;">SG Rot-Weiß Neuenhagen</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">64</td>
-<td style="width: 22.7679%;">Potapovs,Nikita</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1427</td>
-<td style="width: 7.70089%;">M</td>
-<td nowrap="nowrap" style="width: 23.9955%;">BSV 63 Chemie Weißensee</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">65</td>
-<td style="width: 22.7679%;">Schweitzer,Benjamin</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1413</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SF Berlin 1903 e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">66</td>
-<td style="width: 22.7679%;">Schwarz,Dave</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1413</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Rochade Müncheberg</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">67</td>
-<td style="width: 22.7679%;">Löwe,Lukas</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1400</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">68</td>
-<td style="width: 22.7679%;">Werner,Michael</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1380</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">69</td>
-<td style="width: 22.7679%;">Jäger,Maria</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1361</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">SF Schwerin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">70</td>
-<td style="width: 22.7679%;">Martinez Ferrer,Ismael</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1325</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">71</td>
-<td style="width: 22.7679%;">Mâallem,Mats</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1307</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">BSG Grün-Weiß Leipzig</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">72</td>
-<td style="width: 22.7679%;">Röber,Joshua</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1303</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">73</td>
-<td style="width: 22.7679%;">Studdert,Levi</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1295</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SV Empor Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">74</td>
-<td style="width: 22.7679%;">Krasnyi,Timofei</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1284</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">75</td>
-<td style="width: 22.7679%;">Schulz,Peter</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1284</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Eintracht Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">76</td>
-<td style="width: 22.7679%;">Feitosa Menezes, Flora</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1263</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">77</td>
-<td style="width: 22.7679%;">Heinrich,Manfred,Dr.</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1250</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">78</td>
-<td style="width: 22.7679%;">Lippert,Marc</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1237</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">Läufer Reinickendorf</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">79</td>
-<td style="width: 22.7679%;">Steppuhn,Detlef</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1231</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">80</td>
-<td style="width: 22.7679%;">Grunert,Olga</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1209</td>
-<td style="width: 7.70089%;">W</td>
-<td style="width: 23.9955%;">SK München Südost</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">81</td>
-<td style="width: 22.7679%;">Meinicke,Rüdiger</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1188</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Rochade Müncheberg</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">82</td>
-<td style="width: 22.7679%;">Kaulmann,Steffen</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;">1146</td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SC Rochade Müncheberg</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;"></td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">83</td>
-<td style="width: 22.7679%;">Honcharov,Konstiantyn</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;"></td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SG NARVA Berlin e.V.</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">84</td>
-<td style="width: 22.7679%;">Wenner,Benjamin</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;"></td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">85</td>
-<td style="width: 22.7679%;">Haubold,Erik</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;"></td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">SSV Rotation Berlin</td>
-<td style="width: 9.04018%;">GER</td>
-<td style="width: 9.82143%;">X</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td style="width: 8.92857%;">86</td>
-<td style="width: 22.7679%;">Karakoca,Burak</td>
-<td style="width: 8.03571%;"></td>
-<td style="width: 9.48661%;"></td>
-<td style="width: 7.70089%;">M</td>
-<td style="width: 23.9955%;">vereinslos</td>
-<td style="width: 9.04018%;">TUR</td>
-<td style="width: 9.82143%;">X</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">1</td>
+<td style="width: 22.7679%; height: 24px;">Strache,Michael</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2284</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Kreuzberg e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">2</td>
+<td style="width: 22.7679%; height: 24px;">Brustkern,Jürgen</td>
+<td style="width: 8.03571%; height: 24px;">FM</td>
+<td style="width: 9.48661%; height: 24px;">2109</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SK Zehlendorf e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">3</td>
+<td style="width: 22.7679%; height: 24px;">Daverkausen,Bernd</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2094</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">4</td>
+<td style="width: 22.7679%; height: 24px;">Geldner,Gerrit</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2086</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Kreuzberg e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">5</td>
+<td style="width: 22.7679%; height: 24px;">Grunert,Friedrich</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2040</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SK München Südost</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">6</td>
+<td style="width: 22.7679%; height: 24px;">Krefenstein,Sergej</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2039</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">TuS Makkabi Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">7</td>
+<td style="width: 22.7679%; height: 24px;">Beyte,Tim</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2011</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Eintracht Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">8</td>
+<td style="width: 22.7679%; height: 24px;">Bolk,Matthias</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">2001</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Kreuzberg e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">9</td>
+<td style="width: 22.7679%; height: 24px;">Fahland,Maximilian</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1963</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">vereinslos</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">10</td>
+<td style="width: 22.7679%; height: 24px;">Omar,Samy</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1948</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Kreuzberg e.V.</td>
+<td style="width: 9.04018%; height: 24px;">EGY</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">11</td>
+<td style="width: 22.7679%; height: 24px;">Özates,Mert</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1907</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">TUR</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">12</td>
+<td style="width: 22.7679%; height: 24px;">Oelmann,Henry</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1906</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SF Siemensstadt</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">13</td>
+<td style="width: 22.7679%; height: 24px;">Schmidt,Fabian</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1888</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Königsjäger Süd-W</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">14</td>
+<td style="width: 22.7679%; height: 24px;">Simcaks,Sergejs</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1884</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSC Graal-Müritz</td>
+<td style="width: 9.04018%; height: 24px;">LAT</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">15</td>
+<td style="width: 22.7679%; height: 24px;">Kaase,Julian</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1871</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">16</td>
+<td style="width: 22.7679%; height: 24px;">Kuban,Andreas</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1865</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">17</td>
+<td style="width: 22.7679%; height: 24px;">Sakalli,Selcuk Orkun</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1838</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Zugzwang 95 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">TUR</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">18</td>
+<td style="width: 22.7679%; height: 24px;">Hentze,Jakob</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1836</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Roter Turm Altstadt</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">19</td>
+<td style="width: 22.7679%; height: 24px;">Hertel-Mach,Frank</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1834</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Blau-Weiß 69 Parchim</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">20</td>
+<td style="width: 22.7679%; height: 24px;">Besbudak,Özgür</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1829</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Zugzwang 95 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">TUR</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">21</td>
+<td style="width: 22.7679%; height: 24px;">Krüger,Ekkehard</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1812</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">22</td>
+<td style="width: 22.7679%; height: 24px;">Iachanou,Daniel</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1810</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">Hamburger SK von 183</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">23</td>
+<td style="width: 22.7679%; height: 24px;">Ucar,Eren</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1807</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">BSC Rehberge 1945</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">24</td>
+<td style="width: 22.7679%; height: 24px;">Varazi,Maxime</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1806</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Empor Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">25</td>
+<td style="width: 22.7679%; height: 24px;">Kapr,Klaus,Dr.</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1804</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Friesen Lichtenberg</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">26</td>
+<td style="width: 22.7679%; height: 24px;">Beran, Rolf-Dietrich</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1790</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">Rot-Weiß Neuenhagen</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">27</td>
+<td style="width: 22.7679%; height: 24px;">Guder,Sibylle</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1774</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">SF Berlin 1903 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">28</td>
+<td style="width: 22.7679%; height: 24px;">Thürauf,Peter</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1772</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Schwarz-Weiß Nürn</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">29</td>
+<td style="width: 22.7679%; height: 24px;">Holovianko,Illia</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1760</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">TuS Makkabi Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">30</td>
+<td style="width: 22.7679%; height: 24px;">Cubukcu,Mete</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1754</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Kreuzberg e.V.</td>
+<td style="width: 9.04018%; height: 24px;">TUR</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">31</td>
+<td style="width: 22.7679%; height: 24px;">Majewski,Nico</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1740</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">ESV „Lok Falkenberg“</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">32</td>
+<td style="width: 22.7679%; height: 24px;">Litvinov,Ivan</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1730</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">vereinslos</td>
+<td style="width: 9.04018%; height: 24px;">UKR</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">33</td>
+<td style="width: 22.7679%; height: 24px;">Bureik,Nicolas</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1728</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Weisse Dame e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">34</td>
+<td style="width: 22.7679%; height: 24px;">Vaz da Cruz, Vinicius</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1721</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">35</td>
+<td style="width: 22.7679%; height: 24px;">Weng,Yueyi Elina</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1721</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">TSG Oberschöneweide</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">36</td>
+<td style="width: 22.7679%; height: 24px;">Mieth,Maximilian</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1714</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Weisse Dame e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">37</td>
+<td style="width: 22.7679%; height: 24px;">Fitzke,Ulrich</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1709</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Leinfelden</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">38</td>
+<td style="width: 22.7679%; height: 24px;">Schuster,Rebekka</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1693</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">SG 1871 Löberitz</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">39</td>
+<td style="width: 22.7679%; height: 24px;">Kappus,Maximilian</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1686</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">40</td>
+<td style="width: 22.7679%; height: 24px;">Le,Tung</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1669</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">Queer-Springer SSV B</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">41</td>
+<td style="width: 22.7679%; height: 24px;">Mayani,Gilad</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1667</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">42</td>
+<td style="width: 22.7679%; height: 24px;">Grob,Gerhard</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1663</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Kreuzberg e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">43</td>
+<td style="width: 22.7679%; height: 24px;">Paul,André David</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1661</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SK Dessau 93</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">44</td>
+<td style="width: 22.7679%; height: 24px;">Mayer,Herbert,Dr.</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1660</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">45</td>
+<td style="width: 22.7679%; height: 24px;">Schrodt,Horst</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1646</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Eintracht Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">46</td>
+<td style="width: 22.7679%; height: 24px;">Oortmann,Alexis Mile</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1641</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">47</td>
+<td style="width: 22.7679%; height: 24px;">Garbin,Frank,Dr.</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1623</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Rochade Müncheberg</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">48</td>
+<td style="width: 22.7679%; height: 24px;">Campe,Ulrich</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1614</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">49</td>
+<td style="width: 22.7679%; height: 24px;">Schmitz,Christopher</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1612</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">TSG Oberschöneweide</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">50</td>
+<td style="width: 22.7679%; height: 24px;">Kohlmeyer,Dagobert</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1611</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG Weißensee 49 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">51</td>
+<td style="width: 22.7679%; height: 24px;">Sterin,Andrei</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1594</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">52</td>
+<td style="width: 22.7679%; height: 24px;">Saglamoglu,Simon</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1593</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Zugzwang 95 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">53</td>
+<td style="width: 22.7679%; height: 24px;">Lehnert,Steffen</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1591</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Babelsberg 03 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">54</td>
+<td style="width: 22.7679%; height: 24px;">Kreisel,Alexander</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1577</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">55</td>
+<td style="width: 22.7679%; height: 24px;">Schönfeld,Anke</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1566</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">SV Grün-W. Niederwiesa</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">56</td>
+<td style="width: 22.7679%; height: 24px;">Müller,Johannes</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1559</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Eintracht Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">57</td>
+<td style="width: 22.7679%; height: 24px;">Stuckstedte,Hermann</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1554</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Königsjäger Süd-W</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">58</td>
+<td style="width: 22.7679%; height: 24px;">Reimann,Fredy</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1548</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Königsjäger Süd-W</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">59</td>
+<td style="width: 22.7679%; height: 24px;">Grunert,Greta</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1548</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">FC Bayern München</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">60</td>
+<td style="width: 22.7679%; height: 24px;">Pöltelt,Helmut,Dr.</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1524</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Eintracht Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">61</td>
+<td style="width: 22.7679%; height: 24px;">Grunert,Heinrich</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1507</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">FC Bayern München</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">62</td>
+<td style="width: 22.7679%; height: 24px;">Kaplingat,Anand</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1505</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">63</td>
+<td style="width: 22.7679%; height: 24px;">Dragnev,Stoyan</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1494</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">64</td>
+<td style="width: 22.7679%; height: 24px;">Stüve,Maxim</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1489</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td nowrap="nowrap" style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">65</td>
+<td style="width: 22.7679%; height: 24px;">Pawlowski,Lion</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1473</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">66</td>
+<td style="width: 22.7679%; height: 24px;">Krawczyk,Harald</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1428</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td nowrap="nowrap" style="width: 23.9955%; height: 24px;">SG Rot-Weiß Neuenhagen</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">67</td>
+<td style="width: 22.7679%; height: 24px;">Potapovs,Nikita</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1427</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td nowrap="nowrap" style="width: 23.9955%; height: 24px;">BSV 63 Chemie Weißensee</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">68</td>
+<td style="width: 22.7679%; height: 24px;">Schweitzer,Benjamin</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1413</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SF Berlin 1903 e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">69</td>
+<td style="width: 22.7679%; height: 24px;">Schwarz,Dave</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1413</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Rochade Müncheberg</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">70</td>
+<td style="width: 22.7679%; height: 24px;">Löwe,Lukas</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1400</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">71</td>
+<td style="width: 22.7679%; height: 24px;">Werner,Michael</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1380</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">72</td>
+<td style="width: 22.7679%; height: 24px;">Jäger,Maria</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1361</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">SF Schwerin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">73</td>
+<td style="width: 22.7679%; height: 24px;">Martinez Ferrer,Ismael</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1325</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">74</td>
+<td style="width: 22.7679%; height: 24px;">Mâallem,Mats</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1307</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">BSG Grün-Weiß Leipzig</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">75</td>
+<td style="width: 22.7679%; height: 24px;">Röber,Joshua</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1303</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">76</td>
+<td style="width: 22.7679%; height: 24px;">Studdert,Levi</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1295</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Empor Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">77</td>
+<td style="width: 22.7679%; height: 24px;">Krasnyi,Timofei</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1284</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">78</td>
+<td style="width: 22.7679%; height: 24px;">Schulz,Peter</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1284</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Eintracht Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">79</td>
+<td style="width: 22.7679%; height: 24px;">Feitosa Menezes, Flora</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1263</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">80</td>
+<td style="width: 22.7679%; height: 24px;">Heinrich,Manfred,Dr.</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1250</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">81</td>
+<td style="width: 22.7679%; height: 24px;">Lippert,Marc</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1237</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">Läufer Reinickendorf</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">82</td>
+<td style="width: 22.7679%; height: 24px;">Steppuhn,Detlef</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1231</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">83</td>
+<td style="width: 22.7679%; height: 24px;">Eichstädt,Torsten</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1224</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">84</td>
+<td style="width: 22.7679%; height: 24px;">Grunert,Olga</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1209</td>
+<td style="width: 7.70089%; height: 24px;">W</td>
+<td style="width: 23.9955%; height: 24px;">SK München Südost</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">85</td>
+<td style="width: 22.7679%; height: 24px;">Meinicke,Rüdiger</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1188</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Rochade Müncheberg</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">86</td>
+<td style="width: 22.7679%; height: 24px;">Kaulmann,Steffen</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1146</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SC Rochade Müncheberg</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">87</td>
+<td style="width: 22.7679%; height: 24px;">Paucksch,Danilo</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">1023</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;"></td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">88</td>
+<td style="width: 22.7679%; height: 24px;">Böhme,Lorenz</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;">798</td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SV Empor Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">89</td>
+<td style="width: 22.7679%; height: 24px;">Honcharov,Konstiantyn</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;"></td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SG NARVA Berlin e.V.</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">90</td>
+<td style="width: 22.7679%; height: 24px;">Wenner,Benjamin</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;"></td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">91</td>
+<td style="width: 22.7679%; height: 24px;">Haubold,Erik</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;"></td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">SSV Rotation Berlin</td>
+<td style="width: 9.04018%; height: 24px;">GER</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
+</tr>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="width: 8.92857%; height: 24px;">92</td>
+<td style="width: 22.7679%; height: 24px;">Karakoca,Burak</td>
+<td style="width: 8.03571%; height: 24px;"></td>
+<td style="width: 9.48661%; height: 24px;"></td>
+<td style="width: 7.70089%; height: 24px;">M</td>
+<td style="width: 23.9955%; height: 24px;">vereinslos</td>
+<td style="width: 9.04018%; height: 24px;">TUR</td>
+<td style="width: 9.82143%; height: 24px;">X</td>
 </tr>
 </tbody>
 </table>

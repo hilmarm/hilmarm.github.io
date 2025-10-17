@@ -458,7 +458,7 @@ parent_title: Turniere
 <td>23</td>
 <td>Bahr,Jan-Hendrik</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
