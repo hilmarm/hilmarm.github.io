@@ -52,7 +52,7 @@ parent_title: Turniere
 <td>–</td>
 <td>18</td>
 <td><strong>Lange,Rudolf</strong></td>
-<td>(4)</td>
+<td>(3½)</td>
 <td>0 – 1</td>
 </tr>
 </tbody>

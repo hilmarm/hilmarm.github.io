@@ -8,6 +8,39 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14224 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14224">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/18/verschiebung-des-november-blitzturniers/" rel="bookmark">Verschiebung des November-Blitzturniers</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/18/verschiebung-des-november-blitzturniers/" rel="bookmark" title="18:03"><span class="entry-date">18. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Im November wird unser monatliches Blitzschachturnier nicht wie üblich am letzten Donnerstag des Monats stattfinden können, da wir am 27. November ein BFL-Heimspiel haben. Ein gleichzeitiges Austragen von Blitzturnier und BFL ist in unseren Räumen bekanntlich nicht möglich. An diesem Donnerstag ist auch die Autorengruppe planmä9ig da, so dass wir nicht auf den vorderen Raum auweichen können.</p>
+<p><strong>Das Novemberblitz wird deshalb um eine Woche vorgezogen auf den 20. November</strong>.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/18/verschiebung-des-november-blitzturniers/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14224 
+<div class="post-14220 post type-post status-publish format-standard hentry category-bfl category-interne-turniere" id="post-14220">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/" rel="bookmark">BFL gestartet</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/" rel="bookmark" title="17:50"><span class="entry-date">18. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Nach der BMM startete in dieser Woche auch die BFL. Am Dienstag gab es zwei Niederlagen, am Donnerstag einen Mannschaftssieg.</p>
+<p>Die <strong>Zweite</strong> traf am Dienstag auf Königsjäger Süd-West. An den ersten beiden Brettern war gegen starke Gegner nichts zu holen. <strong>Maxim</strong> an Brett 4 wickelte in einer schönen Partie mit Angriffen auf entgegengesetzten Flügeln ins gewonnene Endspiel ab und sicherte sich den ganzen Brettpunkt. An Brett 3 erreichte <strong>Torsten</strong> ein Springerendspiel und hielt dieses remis, so dass es immerhin 1,5 Brettpunkte gab.</p>
+<p>Die <strong>Dritte</strong> musste sich ebenfalls am Dienstag der 2. Mannschaft des TSV Mariendorf geschlagen geben. <strong>Lukas</strong> an Brett 2 spielte remis. Aus bedenklich aussehender Stellung erkämpfte sich auch <strong>Thomas</strong> an Brett 1 einen halben Punkt, aber das war es dann leider.</p>
+<p>Am Donnerstag spielte dann noch die <strong>Erste</strong> gegen TSV Mariendorf 1. Hier gab es Siege von <strong>Tom</strong>, <strong>Max</strong> und <strong>mir</strong>, während Manfred an Brett 1 ein Remis beisteuerte. </p>
+<p>Parallel war für den Donnerstag die letzt Pokalrunde angesetzt. Im Spiel um Platz 3 setzte sich <strong>Rudolf</strong> mit schwarz gegen Maxim durch. Das Finale kam nicht zustande, wird aber möglicherweise noch nachgeholt.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14220 
 <div class="post-14194 post type-post status-publish format-standard hentry category-bmm" id="post-14194">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/" rel="bookmark">Holpriger Saisonstart</a></h2>
 <div class="entry-meta">
@@ -381,59 +414,6 @@ Aktuell habe ich von folgenden Schachfreunden Interesse gehört: <strong>Peter</
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/07/10/juli-schnellschach/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13836 
-<div class="post-13808 post type-post status-publish format-standard hentry category-sg-narva" id="post-13808">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/07/07/viele-gluehlampen-zum-geburtstag/" rel="bookmark">Viele Glühlampen zum Geburtstag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/07/07/viele-gluehlampen-zum-geburtstag/" rel="bookmark" title="11:32"><span class="entry-date">7. Juli 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Samstag war es soweit, wir haben unseren <strong>75. Geburtstag</strong> gefeiert!</p>
-<p>Gegen 11 Uhr ging es mit dem Freundschaftswettkampf gegen den <strong>SV OSRAM</strong> los. An 8 Brettern ging es nach BFL/FV-Schach Bedenkzeit um den Pokal mit der goldenen Glühlampe. Beide Vereine haben den Kampf sehr ernst genommen, was man an den bestmöglichen Aufstellungen sah. Das wir an 6 Brettern dann trotzdem ELO-Favorit waren, lag vielleicht auch daran, dass OSRAM kurzfristig noch 2x wechseln musste. Der Wettkampf selbst gestaltete sich dann sehr eng.</p>
-<p><strong>Gerhard</strong> war dann der erste, <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_181024_Chrome-1.jpg"><img alt="" class="alignleft wp-image-13793 size-medium" decoding="async" height="158" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_181024_Chrome-1-300x158.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_181024_Chrome-1-300x158.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_181024_Chrome-1-768x404.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_181024_Chrome-1.jpg 975w" width="300"/></a>der eine Niederlage hinnehmen musste. Kurz danach waren auch die ersten beiden Bretter von <strong>Tomas</strong> und <strong>Bram</strong> zu unseren Ungunsten entschieden und wir lagen 0:3 zurück. Dann gelang zumindest <strong>Gerard</strong> mit dem Sieg gegen <strong>Günter</strong> der Anschlusstreffer zum 1:3. Wenn Günter schon für OSRAM spielt, dann sollte zumindest einen Gegner bekommen, den er nicht kennt…..hat funktioniert 😉  Nach den Niederlagen von <strong>Bernd</strong> und <strong>Rudolf</strong> war der Sieg von <strong>Peter</strong> nur noch Ergebniskosmetik. <strong>Norbert</strong> steuerte dann noch einen halben Punkt bei.</p>
-<p>So gab es eine etwas unerwartet hohe Niederlage mit <strong>2,5:5,5</strong> und der Pokal ging an OSRAM. Wir haben aber sofort angekündigt, dass wir zu einer Revanche bereit sind!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0003.jpg"><img alt="" class="alignleft wp-image-13795" decoding="async" height="267" loading="lazy" sizes="auto, (max-width: 200px) 100vw, 200px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0003-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0003-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0003-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0003-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0003.jpg 1536w" width="200"/></a></p>
-<p>Schon zur Eröffnung, mit einer kurzen Rede von mir zur NARVA Geschichte und während des Mannschaftskampfes, waren einige Zuschauer von <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004.jpg"><img alt="" class="alignleft wp-image-13794" decoding="async" height="150" loading="lazy" sizes="auto, (max-width: 200px) 100vw, 200px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/IMG-20250705-WA0004.jpg 2048w" width="200"/></a>NARVA vor Ort. Gegen 13 Uhr wurde dann der Grill angeworfen und bei besten Wetter wurden draußen die Partien analysiert und dazu gegessen und getrunken. Auch kamen immer wieder weitere NARVA Mitglieder dazu.</p>
-<p>An dieser Stelle auch der Dank an unsere Holländer, die noch reichlich Fleisch gespendet hatten……es war auf jeden Fall genug da! <strong>Klaus</strong> gilt auch ein großer Dank, er hatte die Küche wieder voll im Griff!<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538.jpg"><img alt="" class="alignright wp-image-13814 size-medium" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/FB_IMG_1751872567538.jpg 2048w" width="300"/></a></p>
-<p>Ab 15:45 Uhr gab es dann noch ein <strong>Schnellschach über 7 Runden</strong> (12+3), an dem 16 Spieler teilnahmen, darunter zwei vom SV OSRAM.</p>
-<p data-wp-editing="1">Schon ab Runde 1 gab es teilweise überraschende Ergebnisse, nur der spätere Sieger war davon unbeeindruckt und zog mit einem Sieg nach dem anderen auf und davon. Schon eine Runde vor Schluss stand <strong>FM Michael Schulz</strong> als Sieger fest, so konnte er sich in der letzten Runde noch ein Remis leisten.</p>
-<p data-wp-editing="1"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_200834_Gallery-1.jpg"><img alt="" class="alignleft size-medium wp-image-13798" decoding="async" height="199" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_200834_Gallery-1-300x199.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_200834_Gallery-1-300x199.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_200834_Gallery-1-1024x681.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_200834_Gallery-1-768x511.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/Screenshot_20250706_200834_Gallery-1.jpg 1080w" width="300"/></a>So ging auch der Sieg im Schnellschach zum SV OSRAM!<br/>
-Auf den zweiten Rang kam mit 5,0 Punkten <strong>Mert</strong>, der starke Partien zeigte. Dahinter erst <strong>Gerard</strong> und <strong>Bram</strong>.</p>
-<p data-wp-editing="1">Überraschend sicher auch die guten Ergebnisse von <strong>Jan-Hendrick</strong> und <strong>Felix</strong>!</p>
-<p data-wp-editing="1">Nach der Siegerehrung und einer kurzen Rede von Gerhard war der Tag dann auch vorbei. Ich denke, alle waren zufrieden und freuen sich auf die nächsten 75 Jahre! Auch von Seiten des SV OSRAM war Begeisterung zu hören und wir versuchen eine Wiederholung zu organisieren.</p>
-<p data-wp-editing="1"><strong>Ich möchte mich noch bei allen Anwesenden, Helfern und auch allen die etwas in die Spendenbüchse geworfen haben, bedanken!</strong></p>
-<p data-wp-editing="1"><a href="https://schaakhuis.nl/2025/07/06/schaakhuis-op-bezoek-bij-narva-lustrum-in-berlijn/" rel="noopener" target="_blank">Bericht vom Schaakhuis</a></p>
-<p data-wp-editing="1"><a href="https://www.narva-schach.de/wordpress/chronik/verein/">Geschichte von NARVA Schach</a></p>
-<p data-wp-editing="1">weitere Fotos:</p>
-<p data-wp-editing="1"> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/07/07/viele-gluehlampen-zum-geburtstag/#more-13808">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/07/07/viele-gluehlampen-zum-geburtstag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13808 
-<div class="post-13775 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13775">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/06/30/etwas-zu-viel-hitze/" rel="bookmark">Etwas zu viel Hitze….</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/06/30/etwas-zu-viel-hitze/" rel="bookmark" title="10:06"><span class="entry-date">30. Juni 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>….war am Donnerstag bei den Teilnehmern am <strong>Monatsblitz</strong> zu spüren.<br/>
-16 Teilnehmer fanden sich zum Juni-Blitz ein, am Ende setzte sich aber wieder <strong>Peter</strong> als Sieger durch. Er gewann mit 14 Punkten und gab nur einen Punkt gegen Rudolf ab.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-scaled.jpg"><img alt="" class="alignleft size-medium wp-image-13776" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/06/20250626_215843-2048x1536.jpg 2048w" width="300"/></a></p>
-<p><strong>Rudolf</strong> wurde Zweiter mit insgesamt 2 Niederlagen. Auf Platz 3 mit <strong>Perry</strong> der beste Gast.<br/>
-Eine starkes Turnier spielte <strong>Mathilda</strong> mit Platz 5 und 9,5 Punkten!</p>
-<p>Die Hitze führte zu einigen Regeldiskussionen, wer darf wann ziehen und drückt wann die Uhr. Das richtige Reklamieren ist auch nicht jedem bekannt und eine unfallfreie Bauernumwandlung auch nicht. Hier müssen wir wohl mal wieder ein Training abhalten….oder lag es doch nur an der Hitze?</p>
-<p>Mit dem Sieg hat Peter sich nun die Tabellenspitze in der Gesamtwertung zurückgeholt. Dahinter liegen <strong>Günter</strong> und <strong>Rudolf</strong>.<br/>
-Von Platz 4 bis Platz 10 geht es dann sehr eng zu, gleich 5 Spieler haben 12 Punkte.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/06/30/etwas-zu-viel-hitze/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13775 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

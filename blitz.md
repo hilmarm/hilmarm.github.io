@@ -17,7 +17,8 @@ parent_title: Turniere
 <div class="entry-content">
 <div class="aligncenter">
 <h2 class="heading2" style="text-align: center;">SG NARVA Monats-Blitz 2025</h2>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Blitzschach-2025.pdf" rel="noopener" target="_blank">Ausschreibung</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/12/Blitzschach-2025.pdf" rel="noopener" target="_blank">Ausschreibung</a><br/>
+<strong>Das Turnier im November findet wegen eines Terminkonflikts mit der Feierabendliga abweichend am 20. November statt!</strong></p>
 <h2>Gesamtwertung</h2>
 <div style="overflow: auto;">
 <table class="clean footable" style="width: 139%; height: 666px;">
