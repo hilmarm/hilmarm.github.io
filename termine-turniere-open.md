@@ -23,14 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.schachclubkreuzberg.de/29-ueberbezirkliches-seniorenturnier-2025/" rel="noopener" target="_blank">29. überbezirkliches Seniorenturnier 2025</a></td>
-<td>15.10.2025</td>
-<td>Peter</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Kurt-Richter-Gedenkturnier 2025</strong></a></td>
 <td>31.10.-02.10.2025</td>
-<td>8</td>
+<td>12</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVI. Falkenseer Open</a></td>
@@ -43,18 +38,53 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/bad_wildungen/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
+<td>20.-23.11.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
 <td>Rouven, Lasko, Günter, Thomas, Bernd, Lukas, Norbert, Gerard, Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
-<td>DSAM Bonn?</td>
+<td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
 <td>18.-21.12.2025</td>
 <td>Lukas, Jonatan</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.zitaschach.de/weihnachts-festival-2025/" rel="noopener" target="_blank">8. Spandauer Weihnachtsopen</a></td>
 <td>27.12.-30.12.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
+<td>01.-04.01.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
+<td>30.01.-02.02.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/offene-berliner-senioren-em-2026.html" rel="noopener" target="_blank">Offene Berliner Senioren-EM 2026</a></td>
+<td>03.-12.02.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
+<td>05.-08.03.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
+<td>26.-29.03.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
+<td>30.04.-03.05.2026</td>
 <td></td>
 </tr>
 </tbody>

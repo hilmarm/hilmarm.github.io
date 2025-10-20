@@ -249,7 +249,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%; height: 24px;">M</td>
 <td style="width: 23.9955%; height: 24px;">BSV 63 Chemie Weißensee</td>
 <td style="width: 9.04018%; height: 24px;">GER</td>
-<td style="width: 9.82143%; height: 24px;"></td>
+<td style="width: 9.82143%; height: 24px;">X</td>
 </tr>
 <tr bgcolor="#00FFFF" style="height: 24px;">
 <td style="width: 8.92857%; height: 24px;">18</td>
@@ -279,7 +279,7 @@ parent_title: Kurt-Richter-Turnier
 <td style="width: 7.70089%; height: 24px;">M</td>
 <td style="width: 23.9955%; height: 24px;">SV Blau-Weiß 69 Parchim</td>
 <td style="width: 9.04018%; height: 24px;">GER</td>
-<td style="width: 9.82143%; height: 24px;"></td>
+<td style="width: 9.82143%; height: 24px;">X</td>
 </tr>
 <tr bgcolor="#00FFFF" style="height: 24px;">
 <td style="width: 8.92857%; height: 24px;">21</td>
