@@ -422,7 +422,7 @@ parent_title: Turniere
 <td>22</td>
 <td>Heinrich,Manfred</td>
 <td>(2½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -434,7 +434,7 @@ parent_title: Turniere
 <td>14</td>
 <td>Stüve,Maxim</td>
 <td>(3)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -470,7 +470,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Mach,Wolfgang</td>
 <td>(1½)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 </tbody>
