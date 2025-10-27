@@ -50,11 +50,14 @@ parent_title: Termine
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">3</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">23.11.2025 (H)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SV Friesen Lichtenberg<br/>
-10 Uhr</span></td>
+10 Uhr</span>
+<p><strong><span style="color: #ff0000;">ACHTUNG:</span></strong></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SV Lasker<br/>
-10 Uhr</span></td>
+10 Uhr</span>
+<p><strong><span style="color: #ff0000;">anderer</span></strong></p></td>
 <td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">SG Eintracht/Rochade 4<br/>
-10 Uhr</span></td>
+10 Uhr</span>
+<p><strong><span style="color: #ff0000;">Spielort!</span></strong></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">4</span></td>
