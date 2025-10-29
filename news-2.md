@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14261 post type-post status-publish format-standard hentry category-krt" id="post-14261">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/" rel="bookmark">KRT startet am Freitag</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/" rel="bookmark" title="8:47"><span class="entry-date">29. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Freitag ist es soweit, unser <strong>Kurt-Richter-Gedenkturnier 2025</strong> startet.</p>
+<p>Aktuell sind wir bei knapp 100 Teilnehmern! Davon sind jetzt 15 von NARVA!</p>
+<p><strong>Spielort ist wieder das Rathaus Mitte, Karl-Marx-Allee 31, 10178 Berlin, im Robert-Havemann-Saal.</strong></p>
+<p><strong>Start zur persönlichen Anmeldung ist um 16:45 Uhr!</strong><br/>
+Die erste Runde beginnt dann um 18:30 Uhr.</p>
+<p>Unser Aufbau soll gegen 13:30 Uhr beginnen! Helfer sind gerne gesehen.<br/>
+Auch beim Abbau am Sonntag Abend werden dann Helfer benötigt.</p>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Ausschreibung/Turnierseite</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/teilnehmerliste-2025/">Teilnehmerliste</a> – diese wird am Freitag noch bzgl. Wertungszahlen aktualisiert</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14261 
 <div class="post-14224 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14224">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/18/verschiebung-des-november-blitzturniers/" rel="bookmark">Verschiebung des November-Blitzturniers</a></h2>
 <div class="entry-meta">
@@ -402,21 +424,6 @@ Aktuell habe ich von folgenden Schachfreunden Interesse gehört: <strong>Peter</
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/07/21/platz-4-im-dsam-finale/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13850 
-<div class="post-13836 post type-post status-publish format-standard hentry category-interne-turniere" id="post-13836">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/07/10/juli-schnellschach/" rel="bookmark">Juli-Schnellschach</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/07/10/juli-schnellschach/" rel="bookmark" title="22:17"><span class="entry-date">10. Juli 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am heutigen Schnellschachturnier haben 12 Spieler teilgenommen. Sieger wurde diesmal mit 4,5 Punkten aus 5 Runden <strong>Tomas</strong> vor dem amtierenden Schnellschachmeister <strong>Peter</strong>, der aber die Jahreswertung weiterhin anführt. Mit 3 Punkten und einer sehr guten Buchholzwertung spielte <strong>Thomas</strong> ebenfalls ein sehr starkes Turnier und erreichte Platz 3. Nicht unerwähnt bleiben soll außerdem, dass Jugendspieler <strong>Konstiantyn</strong> bei seiner ersten Teilnahme auch gleich 50 Prozent – 2,5 Punkte aus 5 Runden – holte!</p>
-<p>Alle Ergebnisse gibt es wie immer auf der <a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Turnierseite</a>.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/07/10/juli-schnellschach/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13836 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Kurt-Richter-Gedenkturnier 2025</strong></a></td>
 <td>31.10.-02.10.2025</td>
-<td>14</td>
+<td>15</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVI. Falkenseer Open</a></td>
@@ -50,7 +50,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
 <td>18.-21.12.2025</td>
-<td>Lukas, Jonatan</td>
+<td>Jonatan</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.zitaschach.de/weihnachts-festival-2025/" rel="noopener" target="_blank">8. Spandauer Weihnachtsopen</a></td>
@@ -65,7 +65,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
 <td>30.01.-02.02.2026</td>
-<td></td>
+<td>Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/offene-berliner-senioren-em-2026.html" rel="noopener" target="_blank">Offene Berliner Senioren-EM 2026</a></td>
@@ -85,7 +85,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
-<td></td>
+<td>Jonatan</td>
 </tr>
 </tbody>
 </table>
