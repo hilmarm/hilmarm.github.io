@@ -18,10 +18,12 @@ navs:
 <p><strong>Spielort ist wieder das Rathaus Mitte, Karl-Marx-Allee 31, 10178 Berlin, im Robert-Havemann-Saal.</strong></p>
 <p><strong>Start zur persönlichen Anmeldung ist um 16:45 Uhr!</strong><br/>
 Die erste Runde beginnt dann um 18:30 Uhr.</p>
+<p><strong>An den vorderen Brettern werden wir eine Live-Übertragung haben!!</strong></p>
 <p>Unser Aufbau soll gegen 13:30 Uhr beginnen! Helfer sind gerne gesehen.<br/>
 Auch beim Abbau am Sonntag Abend werden dann Helfer benötigt.</p>
 <p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Ausschreibung/Turnierseite</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/teilnehmerliste-2025/">Teilnehmerliste</a> – diese wird am Freitag noch bzgl. Wertungszahlen aktualisiert</p>
+<p><a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0" rel="noopener" target="_blank">Turnier bei chess-results.com</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">

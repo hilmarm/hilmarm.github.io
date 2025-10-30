@@ -59,7 +59,7 @@ parent_title: Kurt-Richter-Turnier
 <th align="center">
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Kurt-Richter-Gedenkturnier 2025</strong></span></h2>
 <h2 style="text-align: center;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/"><strong>Ausschreibung</strong></a> – – <strong>Rangliste</strong> – – <strong>Bericht</strong></h2>
-<h2 style="text-align: center;"><span style="font-size: 18pt;">Ergebnisse und Ranglisten bei</span> <span style="font-size: 18pt;">chess-results.com</span></h2>
+<h2 style="text-align: center;"><span style="font-size: 18pt;">Ergebnisse und Ranglisten bei</span> <a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0" rel="noopener" target="_blank"><span style="font-size: 18pt;">chess-results.com</span></a></h2>
 </th>
 </tr>
 </tbody>
