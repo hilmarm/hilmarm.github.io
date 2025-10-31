@@ -8,6 +8,22 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14271 post type-post status-publish format-standard hentry category-krt" id="post-14271">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/" rel="bookmark">KRT läuft, mit Live Bretter</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/" rel="bookmark" title="18:47"><span class="entry-date">31. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><span style="font-size: 18pt;"><strong>Das KRT 2025 ist gestartet!</strong></span></p>
+<p><span style="font-size: 18pt;">Hier der Link zu <a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0" rel="noopener" target="_blank">chess-results</a></span></p>
+<p><span style="font-size: 18pt;">Die ersten 4 Bretter sind Live zu sehen </span><span style="font-size: 18pt;">bei <a href="https://lichess.org/broadcast/kurt-richter-memorial-tournament-2025/d6L4OjZm" rel="noopener" target="_blank">Lichess</a></span></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14271 
 <div class="post-14261 post type-post status-publish format-standard hentry category-krt" id="post-14261">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/" rel="bookmark">KRT startet am Freitag</a></h2>
 <div class="entry-meta">
@@ -396,36 +412,6 @@ Aktuell habe ich von folgenden Schachfreunden Interesse gehört: <strong>Peter</
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/07/21/bsem-bsmm-wir-waren-dabei/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-13856 
-<div class="post-13850 post type-post status-publish format-standard hentry category-openberichte" id="post-13850">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/07/21/platz-4-im-dsam-finale/" rel="bookmark">Platz 4 im DSAM Finale</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/07/21/platz-4-im-dsam-finale/" rel="bookmark" title="8:09"><span class="entry-date">21. Juli 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Wochenende fand das <strong>Finale zur Deutschen Schach Amateurmeisterschaft (DSAM) 2025 in Bad Wildungen</strong> statt. Von NARVA hatten sich <strong>Mert</strong> und <strong>Rudolf</strong> qualifiziert, jeweils C-Gruppe, aber nur Mert konnte den Termin war nehmen.</p>
-<p>Am Donnerstag ging es dann mit den ersten beiden Runden los und Mert legte direkt mit 2 aus 2 gut los! So gab es dann am Freitag jeweils Live-Partien von Mert, denn die ersten 3 Bretter wurden bei Lichess und ChessBase übertragen. Hier gab es dann jeweils Remis für Mert, womit er an Brett 4 mit 3 aus 4 in die 5. Runde ging. Hier wieder ohne Liveübertragung gelang ihm noch ein Sieg!</p>
-<p><strong>Mit 4 Punkten aus 5 Partien erreichte er somit Platz 4! Glückwunsch!</strong> Nur der Erste hatte 4,5 Punkte, dahinter ging es sehr eng um die Plätze 2, 3 und 4.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-scaled.jpg"><img alt="" class="size-medium wp-image-13852 aligncenter" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666737530_96d7087578_o-2048x1536.jpg 2048w" width="300"/></a><br/>
-<a href="https://www.dsam-cup.de/bad_wildungen_finale/" rel="noopener" target="_blank">Ergebnisse</a></p>
-<p>Mit dem Finale wurden auch die Termine für die neue Saison veröffentlicht. Potsdam ist wieder im Januar, Magdeburg rutscht ans Ende in den Mai, Travemünde dafür in den März, Hannover ist wohl neu.</p>
-<p>20. bis 23.11.2025: Maritim Hotel Bad Wildungen<br/>
-18. bis 21.12.2025: Maritim Hotel Bonn<br/>
-01. bis 04.01.2025: Kongresshotel am Templiner See Potsdam<br/>
-30.01. bis 02.02.2026: Maritim Hotel Ingolstadt (von Samstag bis Montag)<br/>
-05. bis 08.03.2026: Maritim Hotel Hannover<br/>
-26. bis 29.03.2026: Maritim Strandhotel Travemünde<br/>
-30.04. bis 03.05.2026: Maritim Hotel Magdeburg</p>
-<p>Das DSAM-Finale 2025/26 soll im Rahmen des Gipfels in Dresden ausgetragen werden.</p>
-<p>Die Anmeldung wird voraussichtlich ab Anfang September möglich sein.</p>
-<div class="wp-caption aligncenter" id="attachment_13851" style="width: 242px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666408621_622a995b90_o-scaled-e1753077736975.jpg"><img alt="" aria-describedby="caption-attachment-13851" class="wp-image-13851 size-medium" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 232px) 100vw, 232px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666408621_622a995b90_o-scaled-e1753077736975-232x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666408621_622a995b90_o-scaled-e1753077736975-232x300.jpg 232w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666408621_622a995b90_o-scaled-e1753077736975-791x1024.jpg 791w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666408621_622a995b90_o-scaled-e1753077736975-768x995.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/07/54666408621_622a995b90_o-scaled-e1753077736975.jpg 1156w" width="232"/></a><p class="wp-caption-text" id="caption-attachment-13851">Statistik zur Saison 2025</p></div>
-<p><span style="font-size: 10pt;"><em>Fotos von der DSAM Seite</em></span></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/07/21/platz-4-im-dsam-finale/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-13850 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
