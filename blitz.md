@@ -96,6 +96,20 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">39</td>
 </tr>
 <tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Pröschild (G)</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">10</td>
+<td style="width: 5%; height: 24px;">10</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">26</td>
+</tr>
+<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Bradschetl</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;">4</td>
@@ -138,20 +152,6 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">22</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Pröschild (G)</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">3</td>
-<td style="width: 5%; height: 24px;">3</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">26</td>
-</tr>
-<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Krüger</td>
 <td style="width: 5%; height: 24px;">6</td>
 <td style="width: 5%; height: 24px;"></td>
@@ -166,20 +166,6 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">19</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Bolk (G)</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">12</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">12</td>
-</tr>
-<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Walker</td>
 <td style="width: 5%; height: 24px;">2</td>
 <td style="width: 5%; height: 24px;">2</td>
@@ -192,6 +178,20 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;">1</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">13</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Bolk (G)</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">12</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Bächle (G)</td>
@@ -288,6 +288,20 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">7</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Uporov (G)</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">6</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">7</td>
 </tr>
@@ -444,20 +458,6 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">1</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Uporov (G)</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">6</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">7</td>
 </tr>
 </tbody>
 </table>
