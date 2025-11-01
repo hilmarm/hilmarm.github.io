@@ -15,7 +15,7 @@ navs:
 <div class="entry-content">
 <p><span style="font-size: 18pt;"><strong>Das KRT 2025 ist gestartet!</strong></span></p>
 <p><span style="font-size: 18pt;">Hier der Link zu <a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0" rel="noopener" target="_blank">chess-results</a></span></p>
-<p><span style="font-size: 18pt;">Die ersten 4 Bretter sind Live zu sehen </span><span style="font-size: 18pt;">bei <a href="https://lichess.org/broadcast/kurt-richter-memorial-tournament-2025/d6L4OjZm" rel="noopener" target="_blank">Lichess</a></span></p>
+<p><span style="font-size: 18pt;">Die ersten 4 Bretter sind Live zu sehen </span><span style="font-size: 18pt;">bei <a href="https://lichess.org/broadcast/kurt-richter-memorial-tournament-2025/d6L4OjZm" rel="noopener" target="_blank">Lichess</a> und <a href="https://live.chessbase.com/watch/Kurt-Richter-Memorial-Tournament-2025/" rel="noopener" target="_blank">ChessBase</a></span></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
