@@ -259,6 +259,13 @@ Kurt-Richter-Gedenkturnier</h1>
 <td class="xl1517289"><span style="font-size: 10pt;">FM Jürgen Brustkern</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">SK Zehlendorf</span></td>
 </tr>
+<tr style="height: 14.25pt;">
+<td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">23</span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">2025</a></span></td>
+<td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">95</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">Michael Strache</span></td>
+<td class="xl1517289"><span style="font-size: 10pt;">SC Kreuzberg</span></td>
+</tr>
 </tbody>
 </table>
 <h1 style="text-align: center;">Kurt-Richter-Kinderturniere</h1>
@@ -287,10 +294,10 @@ Kurt-Richter-Gedenkturnier</h1>
 </tr>
 </tbody>
 </table>
-<h2><strong>Häufigste Teilnehmer von 1981 bis 2024:</strong></h2>
-<p>1. Fitzke, Ulrich — 21 Teilnahmen<br/>
-1. Kohlmeyer, Dagobert — 21 Teilnahmen<br/>
-3. Dr.Herbert Mayer — 15 Teilnahmen<br/>
+<h2><strong>Häufigste Teilnehmer von 1981 bis 2025:</strong></h2>
+<p>1. Fitzke, Ulrich — 22 Teilnahmen<br/>
+1. Kohlmeyer, Dagobert — 22 Teilnahmen<br/>
+3. Dr.Herbert Mayer — 16 Teilnahmen<br/>
 4. Noak, Uwe — 14 Teilnahmen</p>
 <h2><strong>Wer war Kurt Richter?</strong></h2>
 <p><img alt="dscf0939_kurt_richter" class="alignnone wp-image-736 size-full" decoding="async" height="202" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0939_kurt_richter.jpg" width="200"/></p>

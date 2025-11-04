@@ -48,6 +48,11 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://weihnachtsopen-potsdam.de/" rel="noopener" target="_blank">38. Potsdamer Weihnachtsopen</a></td>
+<td>27.12.-30.12.2025</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>01.-04.01.2026</td>
 <td></td>
