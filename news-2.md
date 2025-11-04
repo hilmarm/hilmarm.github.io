@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14334 post type-post status-publish format-standard hentry category-krt" id="post-14334">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/" rel="bookmark">KRT aus Sicht der NARVA Spieler</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/" rel="bookmark" title="7:52"><span class="entry-date">4. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gleich 13 Spieler von NARVA nahmen am eigenen Turnier dieses Jahr teil. Rekord!<br/>
+Brachte die Zahl 13 Glück oder Unglück?</p>
+<p>Vor dem Turnier waren es sogar 15 die sich angemeldet hatten, dann mussten jedoch 4 Spieler erst absagen, Tom rutschte dann am Samstag doch wieder mit rein und <strong>Jonatan</strong> war von Anfang an der „Gerademacher“.</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/#more-14334">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14334 
 <div class="post-14290 post type-post status-publish format-standard hentry category-krt" id="post-14290">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/" rel="bookmark">Michael Strache gewinnt Kurt-Richter-Gedenkturnier 2025!</a></h2>
 <div class="entry-meta">
@@ -408,24 +425,6 @@ Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/enges-rennen-in-der-abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14017 
-<div class="post-14013 post type-post status-publish format-standard hentry category-offene-turniere" id="post-14013">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/25/teilnehmer-gesucht/" rel="bookmark">Teilnehmer gesucht!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/25/teilnehmer-gesucht/" rel="bookmark" title="10:19"><span class="entry-date">25. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Im September stehen wieder die Berliner Blitzmeisterschaften an und eine Woche davor der Spreewaldcup! Für beides werden Teilnehmer gesucht!</p>
-<p>Der <strong>Spreewaldcup</strong> ist ein 4er Mannschafts-Schnellschach, was <strong>am 13.09.2025</strong> im Landhaus Duben, in 15926 Luckau OT Duben stattfindet. <a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal%202025%20Ausschreib.pdf" rel="noopener" target="_blank">Ausschreibung</a><br/>
-Aktuell habe ich von folgenden Schachfreunden Interesse gehört: <strong>Peter</strong>, <strong>Bernd</strong>, <strong>Schwede</strong> und <strong>Gerhard</strong>. Vielleicht findet sich noch ein 5.Mann!</p>
-<p>Ein Wochenende später (20./21.09.) finden dann die <strong>Berliner Blitzmeisterschaften</strong> statt. <strong>Am Samstag die Einzelmeisterschaft</strong>. Hier hat sich schon <strong>Mert</strong> angemeldet. Wer noch dabei sein möchte, einfach bei mir melden. <a href="https://www.berlinerschachverband.de/berliner-blitzschach-em-2025.html" rel="noopener" target="_blank">Turnierseite</a></p>
-<p><strong>Am Sonntag ist dann die Mannschaftsmeisterschaft</strong>. Auch hier hat sich <strong>Mert</strong> schon gemeldet, wir brauchen also noch mindestens 3 freiwillige! <a href="https://www.berlinerschachverband.de/berliner-blitzschach-mm-2025.html" rel="noopener" target="_blank">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/25/teilnehmer-gesucht/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14013 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
