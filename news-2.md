@@ -8,6 +8,51 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14287 post type-post status-publish format-standard sticky hentry category-training" id="post-14287">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/" rel="bookmark">Training mit Gerhard</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/" rel="bookmark" title="7:56"><span class="entry-date">3. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am Donnerstag ist wieder Training mit Gerhard!</strong><br/>
+Themen:</p>
+<ol>
+<li>Bauernendspiele – Bauern sind die Seele vom Spiel….bis zum bitteren Ende!</li>
+<li>Analyse eines vollen Spiels – mit Stellungsbeurteilung und Planfindung</li>
+</ol>
+<p><strong>Start ist am 06.11. um 18:15 Uhr!</strong></p>
+<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="size-medium wp-image-8528" decoding="async" height="265" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021!</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14287 
+<div class="post-14372 post type-post status-publish format-standard hentry category-openberichte" id="post-14372">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/" rel="bookmark">XVI. Falkenseer Open</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/" rel="bookmark" title="10:04"><span class="entry-date">5. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Neben unserem KRT fand am Wochenende auch das <strong>16. Falkenseer Open</strong> statt. Gespielt wurden 5 Runden Schweizer System, unterteilt in 2 Gruppen nach DWZ. Von uns war <strong>Jens</strong> am Start und rutschte noch knapp in die Königsgruppe. In dieser war auch Martin Sebastian dabei, womit sich seine Absage an das KRT erklärt.</p>
+<p><span style="text-decoration: underline;">Jens:</span><br/>
+<em>„….und es gab am Wochenende auch noch das Falkenseer Open mit meiner Teilnahme als einzigem NARVA-Spieler. Ich wurde in die Königsgruppe eingeteilt und bekam die erwartet schweren Gegner.</em><br/>
+<em>1. Runde DWZ 1760: Nach beidseitiger Bauernumwandlung entstand ein Damenendspiel. Vermutlich Remis, aber unter Zeitdruck verliere ich die Partie. Wir waren fast die Letzten im Turniersaal.</em><br/>
+<em>2. Runde DWZ 1680: Italienisch mit weißem Isolani – verloren.</em><br/>
+<em>3. Runde: kampfloser Punkt und Erholung für Runde 4.</em><br/>
+<em>4. Runde DWZ 1662: wieder Italienisch. Ich wollte es besser machen als in Runde 2 und mache es noch schlechter. Damit drohte ein Debakel, ein Salto Nullo. Ich hoffte für Runde 5 auf einen schlagbaren Gegner.</em><br/>
+<em>5. Runde DWZ 1795: Keine Ahnung, warum ich in der letzten Runde solch einen Gegner zugelost bekomme. Jedenfalls ein versöhnlicher Abschluss. Ich habe das Bauernendspiel gewonnen. Jetzt hatte sich ausgezahlt, dass ich in Vorbereitung auf das Turnier Bauernendspiele trainiert habe. Das Endspiel wäre vielleicht etwas für den Trainingsabend mit Gerhard am Donnerstag.</em><br/>
+<em>Als Startnummer 57 bin ich ins Turnier gegangen. Im Endergebnis wird es irgendetwas zwischen Platz 40 und 50 sein (Platz 45). Restlos zufrieden kann ich damit nicht sein, insbesondere die Niederlage in der vierten Runde ärgert mich noch.“</em></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_jens.jpg"><img alt="" class="aligncenter wp-image-14373 size-medium" decoding="async" height="169" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-1024x577.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-1536x865.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n.jpg 2048w" width="300"/></a></p>
+<p><a href="http://www.falkenseer-open.de/2.html" rel="noopener" target="_blank">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14372 
 <div class="post-14334 post type-post status-publish format-standard hentry category-krt" id="post-14334">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/" rel="bookmark">KRT aus Sicht der NARVA Spieler</a></h2>
 <div class="entry-meta">
@@ -31,7 +76,7 @@ Brachte die Zahl 13 Glück oder Unglück?</p>
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/" rel="bookmark" title="8:53"><span class="entry-date">3. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Bei seiner 3. Teilnahme am KRT hat er es geschafft, <strong>Michael Strache</strong> (SC Kreuzberg) gewinnt mit einer souveränen Leistung das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-scaled.jpg"><img alt="" class="size-medium wp-image-14294" decoding="async" height="233" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-300x233.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-300x233.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-1024x794.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-768x596.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-1536x1191.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-2048x1589.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-scaled.jpg"><img alt="" class="size-medium wp-image-14310 alignnone" decoding="async" height="239" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-300x239.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-300x239.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-1024x815.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-768x611.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-1536x1222.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-2048x1630.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-scaled.jpg"><img alt="" class="size-medium wp-image-14294" decoding="async" height="233" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-300x233.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-300x233.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-1024x794.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-768x596.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-1536x1191.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-2048x1589.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-scaled.jpg"><img alt="" class="size-medium wp-image-14310 alignnone" decoding="async" height="239" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-300x239.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-300x239.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-1024x815.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-768x611.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-1536x1222.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-2048x1630.jpg 2048w" width="300"/></a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_171356-scaled-e1762165648623.jpg"><img alt="" class="alignleft wp-image-14309" decoding="async" height="273" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_171356-225x300.jpg" width="150"/></a>Er hat mit 6,5 Punkten am Ende einen ganzen Punkt Vorsprung auf den Zweiten <strong>Sergej Krefenstein</strong> (TuS Makkabi) mit 5,5 Punkten. Auch die Plätze 3 (<strong>Fabian Schmidt</strong>, Königsjäger Süd-West), 4 (<strong>Friedrich Grunert</strong>, Schachklub München Südost) und 5 (<strong>Samy Omar</strong>, SC Kreuzberg) haben jeweils 5,5 Punkte.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-scaled.jpg"><img alt="" class="size-medium wp-image-14297 aligncenter" decoding="async" height="201" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-300x201.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-300x201.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-1024x687.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-768x515.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-1536x1031.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-2048x1374.jpg 2048w" width="300"/></a></p>
 <p>Die Kategoriepreise gingen an:<br/>
@@ -58,27 +103,6 @@ DWZ U1300: <strong>Steffen Kaulmann</strong> (Rochade Müncheberg)</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14290 
-<div class="post-14287 post type-post status-publish format-standard hentry category-training" id="post-14287">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/" rel="bookmark">Training mit Gerhard</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/" rel="bookmark" title="7:56"><span class="entry-date">3. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Am Donnerstag ist wieder Training mit Gerhard!</strong><br/>
-Themen:</p>
-<ol>
-<li>Bauernendspiele – Bauern sind die Seele vom Spiel….bis zum bitteren Ende!</li>
-<li>Analyse eines vollen Spiels – mit Stellungsbeurteilung und Planfindung</li>
-</ol>
-<p><strong>Start ist am 06.11. um 18:15 Uhr!</strong></p>
-<div class="wp-caption aligncenter" id="attachment_8528" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg"><img alt="" aria-describedby="caption-attachment-8528" class="size-medium wp-image-8528" decoding="async" height="265" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-300x265.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1024x905.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-768x679.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575-1536x1358.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/08/20210805_183947-e1756445383575.jpg 1802w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-8528">Training mit Gerhard im August 2021!</p></div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14287 
 <div class="post-14281 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14281">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/03/oktober-blitz-spannendes-finale-steht-an/" rel="bookmark">Oktober Blitz – spannendes Finale steht an</a></h2>
 <div class="entry-meta">
@@ -405,26 +429,6 @@ Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/training-mit-gerhard-2/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14022 
-<div class="post-14017 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14017">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/29/enges-rennen-in-der-abteilungsmeisterschaft/" rel="bookmark">Enges Rennen in der Abteilungsmeisterschaft</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/29/enges-rennen-in-der-abteilungsmeisterschaft/" rel="bookmark" title="7:25"><span class="entry-date">29. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>2 Runden vor dem Ende ist die Spitze in der <strong>Abteilungsmeisterschaft 2025</strong> noch sehr eng zusammen. Gleich 5 Spieler haben 4 Punkte nach 5 Runden!! <strong>Ich</strong>, <strong>Jerry</strong> und <strong>Jonatan</strong> – die sogar Buchholz gleich sind – <strong>Hilmar</strong> und <strong>Tom</strong>! Die ersten 4 sind dabei sogar ungeschlagen, je 3 Siege und 2 Remis. Tom hat 4 Siege und eine Niederlage.</p>
-<p>Dahinter gibt es eine kleine Lücke, in diese könnte <strong>Hans-Dieter</strong> mit einem Sieg, in der noch fehlenden Partie der 5. Runde, springen und wäre dann mit 3,5 Punkten noch auf Tuchfühlung.</p>
-<p>In Runde 6 gibt es an der Spitze auch wieder direkte Duelle, so spielen Jonatan und ich gegeneinander und Tom muss gegen Jerry ran (bei Tom &amp; Jerry gewinnt doch immer Jerry 😉 – sorry, der musste sein).</p>
-<p><strong>Termin für Runde 6 ist der 18.09.25</strong>, denkt dran ggf. zu verlegen, am besten natürlich nach vorne. Zum Finale hätten wir gerne eine saubere Tabelle, ohne noch fehlende Partien!</p>
-<p>Welche Rating Kategorien es geben wird und wie dort dann der Stand ist, sehen wir nach Runde 6.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg"><img alt="" class="aligncenter wp-image-14015" decoding="async" height="371" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5.jpg 840w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5-300x223.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/08/abt2025r5-768x570.jpg 768w" width="500"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/29/enges-rennen-in-der-abteilungsmeisterschaft/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14017 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
