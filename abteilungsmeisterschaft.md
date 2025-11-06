@@ -398,7 +398,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Heinrich,Wesko</td>
 <td>(3)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
