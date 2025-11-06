@@ -38,9 +38,14 @@ parent_title: Termine
 <td>Rouven, Lasko, Günter, Thomas, Bernd, Lukas, Norbert, Gerard, Ex&amp;Hopp</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/WBT_Mannschaft25.pdf" rel="noopener" target="_blank">48. Fredersdorfer Weihnachtsblitzschachturnier</a> – <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/WBT_Einladung25.pdf" rel="noopener" target="_blank">Einladung</a></td>
+<td>06.12.2025</td>
+<td>Mannschaft?</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
 <td>18.-21.12.2025</td>
-<td>Jonatan</td>
+<td>Jonatan, von Kraft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.zitaschach.de/weihnachts-festival-2025/" rel="noopener" target="_blank">8. Spandauer Weihnachtsopen</a></td>
