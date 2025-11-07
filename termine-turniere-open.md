@@ -33,6 +33,16 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://erbcc2025.com/" rel="noopener" target="_blank">European Rapid Chess Championships 2025</a></td>
+<td>28.-29.11.2025</td>
+<td>Batu, Mert</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://erbcc2025.com/" rel="noopener" target="_blank">European Blitz Chess Championships 2025</a></td>
+<td>30.11.2025</td>
+<td>Batu, Mert</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
 <td>Rouven, Lasko, Günter, Thomas, Bernd, Lukas, Norbert, Gerard, Ex&amp;Hopp</td>
