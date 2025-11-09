@@ -40,6 +40,9 @@ navs:
 <p>Gleich 13 Spieler von NARVA nahmen am eigenen Turnier dieses Jahr teil. Rekord!<br/>
 Brachte die Zahl 13 Glück oder Unglück?</p>
 <p>Vor dem Turnier waren es sogar 15 die sich angemeldet hatten, dann mussten jedoch 4 Spieler erst absagen, Tom rutschte dann am Samstag doch wieder mit rein und <strong>Jonatan</strong> war von Anfang an der „Gerademacher“.</p>
+<ul>
+<li><span style="color: #ff0000;">Update DWZ Auswertung ganz unten</span></li>
+</ul>
 <p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/#more-14334">Weiterlesen <span class="meta-nav">→</span></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
