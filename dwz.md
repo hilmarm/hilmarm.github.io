@@ -55,7 +55,7 @@ navs:
 <td>P</td>
 <td>2046</td>
 <td>507</td>
-<td>2053</td>
+<td>2058</td>
 </tr>
 <tr>
 <td>4.</td>
@@ -71,7 +71,7 @@ navs:
 <td></td>
 <td>1962</td>
 <td>64</td>
-<td>1997</td>
+<td>1992</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1948</td>
 <td>9</td>
-<td>1959</td>
+<td>1966</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -87,7 +87,7 @@ navs:
 <td></td>
 <td>1944</td>
 <td>15</td>
-<td>1927</td>
+<td>1931</td>
 </tr>
 <tr>
 <td>8.</td>
