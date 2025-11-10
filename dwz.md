@@ -275,19 +275,19 @@ navs:
 </tr>
 <tr>
 <td>31.</td>
+<td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
+<td></td>
+<td>1508</td>
+<td>46</td>
+<td></td>
+</tr>
+<tr>
+<td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td>1507</td>
 <td>4</td>
 <td>0</td>
-</tr>
-<tr>
-<td>32.</td>
-<td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
-<td></td>
-<td>1504</td>
-<td>45</td>
-<td></td>
 </tr>
 <tr>
 <td>33.</td>
