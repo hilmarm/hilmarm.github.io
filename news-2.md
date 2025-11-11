@@ -8,6 +8,31 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14249 post type-post status-publish format-standard hentry category-bmm" id="post-14249">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/11/bmm-runde-3-geaenderter-spielort-fuer-heimspiel/" rel="bookmark">BMM Runde 3 – geänderter Spielort für Heimspiel</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/11/bmm-runde-3-geaenderter-spielort-fuer-heimspiel/" rel="bookmark" title="9:51"><span class="entry-date">11. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Am 23.11.2025 zur 3. BMM Runde spielen wir nicht im RuDi!!</strong> Dort ist an diesem Wochenende alles belegt und so musste ich uns was neues suchen.</p>
+<p><strong>Neuer Spielort</strong><br/>
+<strong>Margarethe-von-Witzleben-Schule in der Palisadenstraße 76, 10243 Berlin.</strong></p>
+<p>Die Schule liegt unweit vom U-Bahnhof Strausberger Platz. Wir spielen in der Cafeteria, die ohne Stufen zu erreichen ist.</p>
+<p>Alle Wettkämpfe beginnen trotzdem um 10 Uhr.</p>
+<p>Die Gegner und der BSV sind bereits informiert.</p>
+<p>Stadtliga B – NARVA I – Friesen I<br/>
+Stadtklasse 1.4 – NARVA II – Lasker I<br/>
+Stadtklasse 3.4 – NARVA III – SG Eintracht/Rochade IV</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Karte_bmm_r325.jpg"><img alt="" class="size-medium wp-image-14250 alignnone" decoding="async" height="300" sizes="(max-width: 287px) 100vw, 287px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Karte_bmm_r325-287x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Karte_bmm_r325-287x300.jpg 287w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Karte_bmm_r325-768x804.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Karte_bmm_r325.jpg 773w" width="287"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-scaled.jpg"><img alt="" class="size-medium wp-image-14251 alignnone" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/1000218607-2048x1536.jpg 2048w" width="300"/></a></p>
+<p>Zeitgleich finden in der Turnhalle der Schule an diesem Tag diverse Wettkämpfe unserer NARVA Handballer statt, dabei einmal Oberliga und 3x Regionalliga. Diese sind dann durch ein Fenster im Gang zu sehen.</p>
+<div class="wp-caption aligncenter" id="attachment_14252" style="width: 650px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002.jpg"><img alt="" aria-describedby="caption-attachment-14252" class="wp-image-14252 size-large" decoding="async" height="110" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002-1024x176.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002-1024x176.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002-300x52.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002-768x132.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002-1536x264.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/IMG-20251020-WA0002.jpg 1600w" width="640"/></a><p class="wp-caption-text" id="caption-attachment-14252">Wettkämpfe der Handballer</p></div>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/11/bmm-runde-3-geaenderter-spielort-fuer-heimspiel/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14249 
 <div class="post-14392 post type-post status-publish format-standard hentry category-bmm" id="post-14392">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/10/bmm-runde-2-5/" rel="bookmark">BMM Runde 2</a></h2>
 <div class="entry-meta">
@@ -16,9 +41,9 @@ navs:
 <p>Auch in Runde 2 zur BMM war nicht viel zu machen.<br/>
 In den ersten beiden Mannschaften waren wir jeweils an allen Brettern nach DWZ unterlegen. So war jeder Brettpunkt ein Erfolg und kann am Ende wichtig sein.</p>
 <p>Die <strong>1.Mannschaft</strong> musste gegen die Zweite von TSG Oberschöneweide ran. Nur <strong>Batu</strong> und <strong>Jerry</strong> konnten gewinnen, gegen die beiden FM! Der Rest verliert zum <strong>2:6</strong> Endstand aus unserer Sicht.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1.jpg"><img alt="" class="aligncenter wp-image-14395" decoding="async" height="210" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1-300x126.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1-300x126.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1.jpg 599w" width="500"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1.jpg"><img alt="" class="aligncenter wp-image-14395" decoding="async" height="210" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1-300x126.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1-300x126.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1.jpg 599w" width="500"/></a><br/>
 Auch für die <strong>2.Mannschaft</strong> ging es nach Oberschöneweide, hier gegen die Fünfte. Leider blieb kurzfristig ein Brett frei, aber auch <strong>TSG 5</strong> war nicht komplett. So kam ein voller Punkt von <strong>Hans-Dieter</strong>, dazu Remis von <strong>Hilmar</strong> und <strong>Jens</strong>. An einigen Brettern war evtl. wieder mehr drin, aber am Ende setzte sich jeweils der DWZ-Favorit durch und wir verlieren mit <strong>2:6</strong>.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2.jpg"><img alt="" class="aligncenter wp-image-14394" decoding="async" height="207" sizes="(max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2-300x124.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2-300x124.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2.jpg 617w" width="500"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2.jpg"><img alt="" class="aligncenter wp-image-14394" decoding="async" height="207" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2-300x124.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2-300x124.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2.jpg 617w" width="500"/></a><br/>
 Wie schon in Runde 1 konnte die <strong>3.Mannschaft</strong> den Tag für NARVA retten. Mit dem klaren <strong>4:2</strong> Erfolg gegen <strong>Kreuzberg 10</strong> ist man nun sogar Tabellenführer!<br/>
 Wir freuen uns vor allem über die Rückkehr von <strong>Klaus</strong>, der auch gleich gewinnen konnte! Dazu  kamen volle Punkte von <strong>Maxim</strong>, <strong>Lukas</strong> und <strong>Michael</strong>.<br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3.jpg"><img alt="" class="aligncenter wp-image-14393" decoding="async" height="172" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3-300x103.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3.jpg 578w" width="500"/></a></p>
@@ -422,23 +447,6 @@ Während Ekkehard als Nummer 123 von 240 noch im Mittelfeld gesetzt war, ging es
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/01/lichtenberger-sommer-2025/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14039 
-<div class="post-14030 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14030">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark">Monatsblitz August</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/" rel="bookmark" title="15:56"><span class="entry-date">31. August 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>11 Teilnehmer fanden sich zum August Blitz zusammen, einige Stammteilnehmer waren beim Lichtenberger Sommer im Einsatz oder im Urlaub. Pünktlich um 19 Uhr ging es los.</p>
-<p>Ohne Niederlage blieb am Ende nur <strong>Mert</strong>, bei 3x Remis insgesamt 8,5 Punkte, der sich damit den 3. Turniersieg dieses Jahr holte und wieder ein paar Punkte näher an die Spitze der Gesamtwertung kommt.</p>
-<p>Platz 2 teilten sich <strong>Peter</strong> und der beste Gast <strong>Sam</strong> mit je 7,5 Punkten, Peter mit der besseren Wertung.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/08/31/monatsblitz-august-2/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14030 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
