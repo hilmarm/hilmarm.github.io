@@ -7,7 +7,7 @@ navs:
 <h1 class="entry-title">Geschützt: Intern</h1>
 <div class="entry-content">
 <form action="https://www.narva-schach.de/wordpress/wp-login.php?action=postpass" class="post-password-form" method="post"><input name="redirect_to" type="hidden" value="https://www.narva-schach.de/wordpress/intern/"/>
-<p>Dieser Inhalt ist passwortgeschützt. Um ihn anschauen zu können, bitte das Passwort eingeben:</p>
+<p>This content is password protected. To view it please enter your password below:</p>
 <p><label for="pwbox-13711">Passwort: <input id="pwbox-13711" name="post_password" required="" size="20" spellcheck="false" type="password"/></label> <input name="Submit" type="submit" value="Absenden"/></p>
 </form>
 </div><!-- .entry-content -->
