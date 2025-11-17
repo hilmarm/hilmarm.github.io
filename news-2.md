@@ -27,7 +27,7 @@ Alle 3 NARVA Teams mussten zum Auswärtsspiel ins Schachcafé, NARVA 1 und 3  d
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/17/runde-2-bfl/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/17/runde-2-bfl/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14414 
 <div class="post-14249 post type-post status-publish format-standard hentry category-bmm" id="post-14249">
