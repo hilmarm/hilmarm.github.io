@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://u25chess.com/de/" rel="noopener" target="_blank">3. Berlin U25 Open</a></td>
-<td>14.11.-16.11.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/bad_wildungen/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
 <td>20.-23.11.2025</td>
 <td></td>
@@ -85,17 +80,17 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
 <td>05.-08.03.2026</td>
-<td></td>
+<td>Maxim</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>26.-29.03.2026</td>
-<td></td>
+<td>Günter, Lukas, Jan-Hendrik</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
-<td>Jonatan</td>
+<td>Jonatan, Maxim, Jan-Hendrik</td>
 </tr>
 </tbody>
 </table>
