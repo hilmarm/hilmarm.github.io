@@ -70,11 +70,11 @@ parent_title: Chronik
 <tbody>
 <tr>
 <td>2026</td>
+<td>Staffel A</td>
 <td></td>
+<td>Staffel B</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td>Staffel C</td>
 <td></td>
 </tr>
 <tr>
