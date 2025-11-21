@@ -250,7 +250,7 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">8</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Jol (G)</td>
+<td style="width: 15%; height: 24px;">Joel (G)</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -533,7 +533,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>3</td>
-<td>Jol (Gast)</td>
+<td>Florentin,Joel (Roter Stern)</td>
 <td></td>
 <td>0</td>
 <td>½</td>
