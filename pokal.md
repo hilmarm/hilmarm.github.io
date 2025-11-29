@@ -42,7 +42,7 @@ parent_title: Turniere
 <td>8</td>
 <td>Hintze,Peter</td>
 <td>(2½)</td>
-<td></td>
+<td>+ – –</td>
 </tr>
 <tr>
 <td><strong>Platz 3</strong></td>
