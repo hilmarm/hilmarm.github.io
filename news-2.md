@@ -8,6 +8,30 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14443 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14443">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/" rel="bookmark">Interne Turniere beendet – Ausschreibungen für 2026</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/" rel="bookmark" title="19:29"><span class="entry-date">30. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Inzwischen sind alle internen Turniere beendet. Die letzte noch offene Partie der Abteilungsmeisterschaft habe ich am Donnerstag kampflos gewertet. Einen Einfluss auf die Preisvergabe hatte sie ohnehin nicht mehr.</p>
+<p>Neuer <strong>Abteilungsmeister</strong> ist <strong>Hilmar</strong>, der in der letzten Runde gegen Jerry gewann. In der zweiten Spitzenpartie trennten Dieter und ich uns remis, was für mich zum zweiten und für Dieter zum dritten Platz reicht. Jerry verpasst den dritten Platz wie schon im letzten Jahr erneut sehr knapp. Die Ratingpreise gehen an <strong>Thomas</strong> (U1600) und <strong>Juri</strong> (U1400).</p>
+<p>Die DWZ-Auswertung ist erfolgt und wird voraussichtlich morgen veröffentlicht. Größter Gewinner ist Juri (+85) vor Hilmar (+58) und mir (+49).</p>
+<p>Im <strong>Pokal</strong> gewinnt <strong>Mert</strong> das Finale kampflos. Peter ist Zweiter. Im Spiel um Platz 3 setzte sich Rudolf durch.</p>
+<p>Die Jahreswertung im <strong>Blitzschach</strong> gewinnt ebenfalls <strong>Mert</strong>. Wie im Pokal landet Peter auf dem zweiten und Rudolf auf dem dritten Platz. Der Preis für den besten Gast geht an Matthias Pröschild (Chemie Weißensee).</p>
+<p>Im <strong>Schnellschach</strong> konnte <strong>Peter</strong> seinen Titel erneut verteidigen. Er erreichte mit vier Turniersiegen die maximal mögliche Punktzahl. Zweiter ist Tomas, dritter bin ich.</p>
+<p>Für die Saison 2026 gibt es auch die ersten Ausschreibungen:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Abteilungsmeisterschaft-2026.pdf">Abteilungsmeisterschaft</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal</a></p>
+<p>Anmeldungen sind ab sofort möglich.</p>
+<p>Die Ausschreibungen für Blitz- und Schnellschach folgen demnächst. Hier ist wie bisher keine Voranmeldung erforderlich.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14443 
 <div class="post-14434 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14434">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/27/einladung-weihnachtsfeier/" rel="bookmark">Einladung Weihnachtsfeier</a></h2>
 <div class="entry-meta">
@@ -423,24 +447,6 @@ Die Stimmung in der Mannschaft war gut, so fuhren wir dann, auch ohne Alkohol, g
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/15/25-spreewaldpokalturnier/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14118 
-<div class="post-14110 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14110">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/09/12/schnellschach-titel-schon-vergeben/" rel="bookmark">Schnellschach Titel schon vergeben!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/09/12/schnellschach-titel-schon-vergeben/" rel="bookmark" title="9:41"><span class="entry-date">12. September 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern Abend fand die 5. Runde im <strong>NARVA Schnellschach GP 2025</strong> statt und wieder konnte <strong>Peter</strong> gewinnen! Er hat damit jetzt schon die maximal erreichbare Punktezahl geholt und steht damit als <strong>Schnellschachmeister 2025</strong> fest! <strong>Glückwunsch!</strong></p>
-<p>Insgesamt gab es gestern einen neuen Rekord mit 20 Teilnehmern! Darunter auch viele Gäste und mit <strong>Max</strong> (Platz 4) gleich ein neues Mitglied!</p>
-<p>Hinter Peter, der mit 5 aus 5 ohne Punktverlust blieb, kamen <strong>Bernd</strong> und <strong>Jonatan</strong> mit je 4 Punkten noch aufs Treppchen.</p>
-<p>Die nächste Runde ist dann am 13.11.25.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Ergebnisse</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/09/12/schnellschach-titel-schon-vergeben/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14110 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
