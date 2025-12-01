@@ -69,7 +69,7 @@ Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14456 
 <div class="post-14434 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14434">
