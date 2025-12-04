@@ -23,21 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/bad_wildungen/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
-<td>20.-23.11.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://erbcc2025.com/" rel="noopener" target="_blank">European Rapid Chess Championships 2025</a></td>
-<td>28.-29.11.2025</td>
-<td>Batu, Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://erbcc2025.com/" rel="noopener" target="_blank">European Blitz Chess Championships 2025</a></td>
-<td>30.11.2025</td>
-<td>Batu, Mert</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://schachverein-erftstadt.de/" rel="noopener" target="_blank">Brötchenturnier</a></td>
 <td>05.12.2025</td>
 <td>Rouven, Lasko, Günter, Thomas, Bernd, Lukas, Norbert, Gerard, Ex&amp;Hopp</td>
@@ -45,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/WBT_Mannschaft25.pdf" rel="noopener" target="_blank">48. Fredersdorfer Weihnachtsblitzschachturnier</a> – <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/WBT_Einladung25.pdf" rel="noopener" target="_blank">Einladung</a></td>
 <td>06.12.2025</td>
-<td>Mannschaft?</td>
+<td>Mannschaft</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
@@ -65,7 +50,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>01.-04.01.2026</td>
-<td></td>
+<td>Andreas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
@@ -90,7 +75,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
-<td>Jonatan, Maxim, Jan-Hendrik</td>
+<td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
 </tr>
 </tbody>
 </table>
