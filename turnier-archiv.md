@@ -56,13 +56,18 @@ parent_title: Chronik
 <h1 class="entry-title">Turnier Archiv</h1>
 <div class="entry-content">
 <h1><strong>Archiv der internen Turniere</strong></h1>
+<h3>Saison 2025</h3>
+<h4><a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/abteilungsmeisterschaft-2025/" rel="noopener">Abteilungsmeisterschaft 2025</a><br/>
+<a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2025/" rel="noopener">Pokal 2025</a><br/>
+<a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/schnellschach-gp-2025/" rel="noopener">Schnellschach 2025</a><br/>
+<a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/blitz-2025/" rel="noopener">Blitz 2025</a><br/>
+<a href="http://www.narva-schach.de/dateien/chronik/blitzjahres2025.html" rel="noopener" target="_blank">Jahresabschluss Blitz 2025</a></h4>
 <h3>Saison 2024</h3>
 <h4><a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/abteilungsmeisterschaft-2024/" rel="noopener">Abteilungsmeisterschaft 2024</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2024/" rel="noopener">Pokal 2024</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/schnellschach-gp-2024/" rel="noopener">Schnellschach 2024</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/blitz-2024/" rel="noopener">Blitz 2024</a><br/>
 <a href="http://www.narva-schach.de/dateien/chronik/blitzjahres2024.html" rel="noopener" target="_blank">Jahresabschluss Blitz 2024</a></h4>
-
 <h3>Saison 2023</h3>
 <h4><a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/abteilungsmeisterschaft-2023/" rel="noopener">Abteilungsmeisterschaft 2023</a><br/>
 <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/pokal-2023/" rel="noopener">Pokal 2023</a><br/>

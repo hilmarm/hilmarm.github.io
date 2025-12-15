@@ -470,7 +470,7 @@ parent_title: Chronik
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Mert Özates</span></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Mert Özates</span></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
-<td nowrap="nowrap"></td>
+<td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Jonatan Schenk</span></td>
 </tr>
 </thead>
 </table>
