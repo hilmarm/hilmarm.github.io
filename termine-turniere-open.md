@@ -40,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>01.-04.01.2026</td>
-<td>Andreas</td>
+<td>Andreas, Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
