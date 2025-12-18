@@ -15,274 +15,280 @@ navs:
 <table class="clean calendar" style="width: 100%; height: 1290px;">
 <thead>
 <tr style="height: 18px;">
-<th style="height: 18px;">Tag</th>
-<th style="height: 18px;">Aktivität</th>
-<th style="height: 18px;">Bemerkung</th>
+<th style="height: 18px; width: 17.6563%;">Tag</th>
+<th style="height: 18px; width: 46.0938%;">Aktivität</th>
+<th style="height: 18px; width: 36.0938%;">Bemerkung</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>02.01.25</td>
-<td></td>
-<td></td>
+<td>01.01.26</td>
+<td>geschlossen</td>
+<td>Neujahr</td>
 </tr>
 <tr>
-<td>09.01.25</td>
+<td>08.01.26</td>
 <td class="schnell">Schnellschach</td>
 <td>Meldeschluss int. Turniere</td>
 </tr>
 <tr>
-<td>16.01.25</td>
+<td>15.01.26</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>23.01.25</td>
+<td>22.01.26</td>
+<td class="blitz">Blitzschach</td>
+<td></td>
+</tr>
+<tr>
+<td>29.01.26</td>
 <td class="bfl">BFL</td>
 <td></td>
 </tr>
 <tr>
-<td>30.01.25</td>
-<td class="blitz">Blitz</td>
-<td></td>
-</tr>
-<tr>
-<td>06.02.25</td>
+<td>05.02.26</td>
 <td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
-<td>13.02.25</td>
+<td>12.02.26</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td></td>
+</tr>
+<tr>
+<td>19.02.26</td>
 <td class="pokal">Pokal</td>
 <td></td>
 </tr>
 <tr>
-<td>20.02.25</td>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td></td>
-</tr>
-<tr>
-<td>27.02.25</td>
-<td class="blitz">Blitz</td>
-<td></td>
-</tr>
-<tr>
-<td>06.03.25</td>
-<td class="training">Training</td>
-<td></td>
-</tr>
-<tr>
-<td>13.03.25</td>
-<td class="schnell">Schnellschach</td>
-<td></td>
-</tr>
-<tr>
-<td>20.03.25</td>
+<td>26.02.26</td>
 <td class="bfl">BFL</td>
 <td></td>
 </tr>
 <tr>
-<td>27.03.25</td>
-<td class="blitz">Blitz</td>
+<td>05.03.26</td>
+<td class="training">Training</td>
+<td>DSAM Hannover</td>
+</tr>
+<tr>
+<td>12.03.26</td>
+<td class="schnell">Schnellschach</td>
+<td>BFL auswärts (2.)</td>
+</tr>
+<tr>
+<td>19.03.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>03.04.25</td>
-<td class="abtm">Abteilungsmeisterschaft</td>
-<td>DSAM Magdeburg</td>
+<td>26.03.26</td>
+<td class="bfl">BFL</td>
+<td>DSAM Travemünde</td>
 </tr>
 <tr>
-<td>10.04.25</td>
-<td class="versammlung">Jahreshauptversammlung</td>
-<td></td>
-</tr>
-<tr>
-<td>17.04.25</td>
+<td>02.04.26</td>
 <td class="versammlung">Skat</td>
 <td></td>
 </tr>
 <tr>
-<td>24.04.25</td>
-<td class="blitz">Blitz</td>
-<td>QT</td>
-</tr>
-<tr>
-<td>01.05.25</td>
-<td>geschlossen</td>
-<td>Erster Mai</td>
-</tr>
-<tr>
-<td>08.05.25</td>
-<td class="schnell">Schnellschach</td>
-<td>Tag der Befreiung</td>
-</tr>
-<tr>
-<td>15.05.25</td>
-<td class="pokal">Pokal</td>
-<td></td>
-</tr>
-<tr>
-<td>22.05.25</td>
+<td>09.04.26</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
+<td>BEM-QT</td>
+</tr>
+<tr>
+<td>16.04.26</td>
+<td class="versammlung">Jahreshauptversammlung</td>
 <td></td>
 </tr>
 <tr>
-<td>29.05.25</td>
+<td>23.04.26</td>
+<td class="pokal">Pokal</td>
+<td>BFL auswärts (1.+3.)</td>
+</tr>
+<tr>
+<td>30.04.26</td>
+<td class="blitz">Blitzschach</td>
+<td>DSAM Magdeburg</td>
+</tr>
+<tr>
+<td>07.05.26</td>
+<td class="training">Training</td>
+<td></td>
+</tr>
+<tr>
+<td>14.05.26</td>
 <td>geschlossen</td>
 <td>Himmelfahrt</td>
 </tr>
 <tr>
-<td>05.06.25</td>
-<td class="training">Training</td>
-<td></td>
-</tr>
-<tr>
-<td>12.06.25</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>19.06.25</td>
+<td>21.05.26</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
 <td></td>
 </tr>
 <tr>
-<td>26.06.25</td>
-<td class="blitz">Blitz</td>
+<td>28.05.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>03.07.25</td>
+<td>04.06.26</td>
 <td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
-<td>10.07.25</td>
-<td class="schnell">Schnellschach</td>
-<td></td>
-</tr>
-<tr>
-<td>17.07.25</td>
+<td>11.06.26</td>
 <td class="pokal">Pokal</td>
 <td></td>
 </tr>
 <tr>
-<td>24.07.25</td>
+<td>18.06.26</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
 <td></td>
 </tr>
 <tr>
-<td>31.07.25</td>
-<td class="blitz">Blitz</td>
+<td>25.06.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>07.08.25</td>
+<td>02.07.26</td>
 <td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
-<td>14.08.25</td>
+<td>09.07.26</td>
+<td class="schnell">Schnellschach</td>
+<td></td>
+</tr>
+<tr>
+<td>16.07.26</td>
+<td class="abtm">Abteilungsmeisterschaft</td>
+<td></td>
+</tr>
+<tr>
+<td>23.07.26</td>
+<td></td>
+<td>DSAM-Finale Dresden</td>
+</tr>
+<tr>
+<td>30.07.26</td>
+<td class="blitz">Blitzschach</td>
+<td></td>
+</tr>
+<tr>
+<td>06.08.26</td>
+<td class="training">Training</td>
+<td></td>
+</tr>
+<tr>
+<td>13.08.26</td>
 <td class="versammlung">Mitgliederversammlung BMM/BFL</td>
 <td></td>
 </tr>
 <tr>
-<td>21.08.25</td>
+<td>20.08.26</td>
 <td class="pokal">Pokal</td>
 <td></td>
 </tr>
 <tr>
-<td>28.08.25</td>
-<td class="blitz">Blitz</td>
+<td>27.08.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>04.09.25</td>
+<td>03.09.26</td>
 <td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
-<td>11.09.25</td>
+<td>10.09.26</td>
 <td class="schnell">Schnellschach</td>
 <td></td>
 </tr>
 <tr>
-<td>18.09.25</td>
+<td>17.09.26</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
 <td></td>
 </tr>
 <tr>
-<td>25.09.25</td>
-<td class="blitz">Blitz</td>
+<td>24.09.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>02.10.25</td>
+<td>01.10.26</td>
 <td class="training">Training</td>
-<td></td>
+<td>BFL?</td>
 </tr>
 <tr>
-<td>09.10.25</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>16.10.25</td>
+<td>08.10.26</td>
 <td class="pokal">Pokal</td>
 <td></td>
 </tr>
 <tr>
-<td>23.10.25</td>
+<td>15.10.26</td>
+<td></td>
+<td>BFL?</td>
+</tr>
+<tr>
+<td>22.10.26</td>
 <td class="abtm">Abteilungsmeisterschaft</td>
 <td></td>
 </tr>
 <tr>
-<td>30.10.25</td>
-<td class="blitz">Blitz</td>
+<td>29.10.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>06.11.25</td>
+<td>05.11.26</td>
 <td class="training">Training</td>
 <td></td>
 </tr>
 <tr>
-<td>13.11.25</td>
+<td>12.11.26</td>
 <td class="schnell">Schnellschach</td>
 <td></td>
 </tr>
 <tr>
-<td>20.11.25</td>
-<td class="blitz">Blitz</td>
+<td>19.11.26</td>
+<td></td>
+<td>BFL?</td>
+</tr>
+<tr>
+<td>26.11.26</td>
+<td class="blitz">Blitzschach</td>
 <td></td>
 </tr>
 <tr>
-<td>27.11.25</td>
-<td>BFL Heimspiel</td>
-<td></td>
-</tr>
-<tr>
-<td>04.12.25</td>
+<td>03.12.26</td>
 <td class="training">Training</td>
-<td></td>
+<td>BFL?</td>
 </tr>
 <tr>
-<td>11.12.25</td>
+<td>10.12.26</td>
 <td class="versammlung">Weihnachtsfeier</td>
 <td></td>
 </tr>
 <tr>
-<td>18.12.25</td>
+<td>17.12.26</td>
 <td></td>
-<td></td>
+<td>DSAM Bonn</td>
 </tr>
 <tr>
-<td>25.12.25</td>
+<td>24.12.26</td>
 <td>geschlossen</td>
-<td>Weihnachten</td>
+<td>Heiligabend</td>
+</tr>
+<tr>
+<td>31.12.26</td>
+<td>geschlossen</td>
+<td>Silvester</td>
 </tr>
 </tbody>
 </table>
+<p> </p>
 </div><!-- .entry-content -->
 </div> #post-174 
 <div id="comments">
