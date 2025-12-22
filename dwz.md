@@ -53,8 +53,8 @@ navs:
 <td>3.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>2031</td>
-<td>509</td>
+<td>2028</td>
+<td>510</td>
 <td>2055</td>
 </tr>
 <tr>
@@ -147,14 +147,6 @@ navs:
 </tr>
 <tr>
 <td>15.</td>
-<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
-<td></td>
-<td>1804</td>
-<td>76</td>
-<td>1764</td>
-</tr>
-<tr>
-<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10134510.html" target="_blank"> Hans-Dieter Maetzing</a></td>
 <td></td>
 <td>1796</td>
@@ -162,12 +154,20 @@ navs:
 <td>1911</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10770951.html" target="_blank"> Hilmar Magnusson</a></td>
 <td></td>
 <td>1789</td>
 <td>10</td>
 <td>0</td>
+</tr>
+<tr>
+<td>17.</td>
+<td><a href="http://www.schachbund.de/spieler/10553797.html" target="_blank"> Jonatan Schenk</a></td>
+<td></td>
+<td>1756</td>
+<td>77</td>
+<td>1764</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -259,6 +259,14 @@ navs:
 </tr>
 <tr>
 <td>29.</td>
+<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
+<td></td>
+<td>1522</td>
+<td>27</td>
+<td>1729</td>
+</tr>
+<tr>
+<td>30.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
 <td>1520</td>
@@ -266,7 +274,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>30.</td>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
 <td>1512</td>
@@ -274,7 +282,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>31.</td>
+<td>32.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
 <td>1510</td>
@@ -282,20 +290,12 @@ navs:
 <td>1847</td>
 </tr>
 <tr>
-<td>32.</td>
+<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1508</td>
 <td>46</td>
 <td></td>
-</tr>
-<tr>
-<td>33.</td>
-<td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
-<td></td>
-<td>1467</td>
-<td>26</td>
-<td>1729</td>
 </tr>
 <tr>
 <td>34.</td>
