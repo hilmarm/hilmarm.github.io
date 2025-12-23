@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14533 post type-post status-publish format-standard hentry category-allgemein" id="post-14533">
+<div class="post-14533 post type-post status-publish format-standard sticky hentry category-allgemein" id="post-14533">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark">Weihnachtsgruß</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark" title="13:59"><span class="entry-date">19. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -23,6 +23,37 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14533 
+<div class="post-14543 post type-post status-publish format-standard hentry category-interne-turniere category-termine" id="post-14543">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark">Terminplan und Turniere 2026</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark" title="7:41"><span class="entry-date">23. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></p>
+<ul>
+<li>Blitz im Januar und März jeweils eine Woche früher, im Februar gar nicht (wegen BFL)</li>
+<li>Jahreshauptversammlung mit Wahl am 16.04.26</li>
+<li>Skat am 02.04.26</li>
+<li><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google Kalender</a> aktualisiert</li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
+<ul>
+<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
+<ul>
+<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
+</ul>
+<p>Blitz</p>
+<p>Schnellschach</p>
+<p>Alles aus 2025 ist schon ins <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/">Archiv</a> gewandert.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14543 
 <div class="post-14521 post type-post status-publish format-standard hentry category-intern" id="post-14521">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/16/weihnachtsfeier-jahresabschluss-2/" rel="bookmark">Weihnachtsfeier/Jahresabschluss</a></h2>
 <div class="entry-meta">
@@ -440,28 +471,6 @@ Auch beim Abbau am Sonntag Abend werden dann Helfer benötigt.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/#comments">2 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14220 
-<div class="post-14194 post type-post status-publish format-standard hentry category-bmm" id="post-14194">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/" rel="bookmark">Holpriger Saisonstart</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/" rel="bookmark" title="8:09"><span class="entry-date">13. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Für unsere BMM Mannschaften war der <strong>BMM Start</strong> gestern etwas holprig. Die 1. und 2. Mannschaft waren dabei auch an allen Brettern im DWZ-Nachteil.</p>
-<p>Nur <strong>NARVA 3</strong> konnte einen Punkt holen beim <strong>3:3</strong> gegen <strong>Weisse Dame 5</strong>.<br/>
-<strong>Lukas</strong> bekommt den kampflosen Punkt (und kann sich dann um die Küche kümmern. Vielen DANK!) <strong>Torsten</strong> und <strong>Michael</strong> können gewinnen, Michael erkämpfte damit am Ende noch das 3:3.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome.jpg"><img alt="" class="aligncenter wp-image-14193" decoding="async" height="151" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome-300x90.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome-300x90.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome-768x232.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165356_Chrome.jpg 1008w" width="500"/></a></p>
-<p><strong>NARVA 1</strong> verliert mit <strong>2,5:5,5</strong> gegen <strong>Weisse Dame 3</strong> und kann nur an den ersten 3 Brettern Punkten. <strong>Bernd</strong> und <strong>Batu</strong> können gegen ihre DWZ-stärkeren Gegner gewinnen! <strong>Mert</strong> steuert noch ein Remis gegen unser passiv Mitglied <strong>Manfred</strong> bei, der Rest verliert seine Partien.</p>
-<p><a href="http://sc-weisse-dame.de/v3/2025/10/11-10-bmm-2025-26-r1/" rel="noopener" target="_blank">Weisse Dame schreibt bestimmt auch was dazu</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome.jpg"><img alt="" class="aligncenter wp-image-14191" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome-300x120.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome-300x120.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome-768x306.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_164939_Chrome.jpg 1010w" width="500"/></a></p>
-<p><strong>NARVA 2</strong> wird von der <strong>SG Weißensee 1</strong> mit <strong>7,5:0,5</strong> überrollt. Nur <strong>Gerhard</strong> verhindert das „zu Null“. Einige Partien konnte lange ausgeglichen gehalten werden, aber am Ende setzte sich aber überall dann doch der DWZ-Stärkere durch.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome.jpg"><img alt="" class="aligncenter wp-image-14192" decoding="async" height="185" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-300x111.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-300x111.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-1024x379.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome-768x284.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251012_165323_Chrome.jpg 1053w" width="500"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/13/holpriger-saisonstart/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14194 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

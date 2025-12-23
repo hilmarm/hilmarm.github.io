@@ -62,7 +62,7 @@ parent_title: Termine
 <td nowrap="nowrap" style="height: 24px; text-align: left; width: 16.8464%;"><span style="color: #0000ff;">SFB4</span></td>
 <td style="height: 24px; text-align: center; width: 12.6685%;"><span style="color: #0000ff;">14.01.</span></td>
 <td style="height: 24px; text-align: left; width: 16.8464%;"><span style="color: #008000;">RoSt1</span></td>
-<td style="height: 24px; text-align: center; width: 12.6685%;"><span style="color: #008000;">15.01.</span></td>
+<td style="height: 24px; text-align: center; width: 12.6685%;"><span style="color: #008000;">13.01.</span></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; width: 11.5903%;">5</td>
