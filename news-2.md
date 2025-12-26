@@ -51,7 +51,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14543 
 <div class="post-14521 post type-post status-publish format-standard hentry category-intern" id="post-14521">
