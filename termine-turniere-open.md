@@ -23,21 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
-<td>18.-21.12.2025</td>
-<td>Jonatan, Lukas</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.zitaschach.de/weihnachts-festival-2025/" rel="noopener" target="_blank">8. Spandauer Weihnachtsopen</a></td>
-<td>27.12.-30.12.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://weihnachtsopen-potsdam.de/" rel="noopener" target="_blank">38. Potsdamer Weihnachtsopen</a></td>
-<td>27.12.-30.12.2025</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Potsdam</a></td>
 <td>01.-04.01.2026</td>
 <td>Andreas, Oliver</td>
@@ -45,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
 <td>30.01.-02.02.2026</td>
-<td>Rudolf, Thomas</td>
+<td>Rudolf, Jonatan, Thomas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/offene-berliner-senioren-em-2026.html" rel="noopener" target="_blank">Offene Berliner Senioren-EM 2026</a></td>

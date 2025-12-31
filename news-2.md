@@ -28,8 +28,8 @@ navs:
 <ul>
 <li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
 </ul>
-<p>Blitz</p>
-<p>Schnellschach</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Blitzschach-2026.pdf">Blitz</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Schnellschachmeisterschaft-2026.pdf">Schnellschach</a></p>
 <p>Alles aus 2025 ist schon ins <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/">Archiv</a> gewandert.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">

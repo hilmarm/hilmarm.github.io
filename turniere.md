@@ -17,7 +17,8 @@ navs:
 <h2>Ausschreibungen für 2026</h2>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Abteilungsmeisterschaft-2026.pdf">Abteilungsmeisterschaft</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal</a></p>
-<p>Blitz- und Schnellschach folgen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Blitzschach-2026.pdf">Blitzschach</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Schnellschachmeisterschaft-2026.pdf">Schnellschachmeisterschaft</a></p>
 <p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h1>Beitragsordnung / Beitrittsformular / Satzung / FIDE Regeln</h1>
 <p>ab 01.01.2025 gilt die neue Beitragsordnung: <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Beitragsordnung-2025.pdf" rel="noopener" target="_blank">Beitragsordnung_2025</a></p>
