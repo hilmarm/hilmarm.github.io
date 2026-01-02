@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14543 post type-post status-publish format-standard hentry category-interne-turniere category-termine" id="post-14543">
+<div class="post-14543 post type-post status-publish format-standard sticky hentry category-interne-turniere category-termine" id="post-14543">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark">Terminplan und Turniere 2026</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark" title="7:41"><span class="entry-date">23. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -39,6 +39,53 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14543 
+<div class="post-14556 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14556">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/" rel="bookmark">Neujahrsgrüße</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/" rel="bookmark" title="11:37"><span class="entry-date">2. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Wieder ist ein Jahr vorbei, unser Jubiläumsjahr ist zu Ende und unser 76. Jahr beginnt!<br/>
+Zum Jahreswechsel sind wir nun 53 Mitglieder, also einer mehr als zum letzten Jahreswechsel.<br/>
+Verlassen haben uns zum Jahresende:<br/>
+Myriam Kügler<br/>
+Thomas Totz<br/>
+Michael Herrscher<br/>
+Felix Hamacher<br/>
+Ismaele Cattaneo</p>
+<p>Bei <strong>Myriam</strong> bedanke ich mich natürlich für die 4 Jahre als Kassenwartin, zuverlässig und schnell war das Buch immer fertig. Für Schach am Brett hatte sie zuletzt leider keine Zeit, Nachwuchs, dazu die Entfernung vom Club (ja, Berlin ist groß), vielleicht sieht man sich trotzdem mal wieder im Club.<br/>
+Bei <strong>Thomas</strong> spielen private Gründe die Hauptrolle, vielleicht sehen wir ihn trotzdem hin und wieder im Club. Thomas war 16 Jahre bei NARVA und die meiste Zeit Stammspieler der 3. Mannschaft! Vielen Dank für Deine Zeit bei uns!<br/>
+<strong>Michael</strong> ist schon im Sommer umgezogen und wird vielleicht dort einen anderen Schachclub finden. Er kam 2022 zu uns und wurde zum Stammspieler der 2. Mannschaft und hatte auch Einsätze in der Ersten.</p>
+<p>Neu dazu gekommen sind in den letzten Wochen neben <strong>Kai Wetterwald</strong>, vor allem im Jugendbereich neue Mitglieder:<br/>
+<strong>Marie Boden</strong><br/>
+<strong>Franz Quadflieg</strong><br/>
+<strong>Tuan Khang La</strong></p>
+<p>So haben wir nun wieder einen nennenswerten U18 Anteil von 4 Mitgliedern (zuletzt 0)!</p>
+<p>Zu Ende gegangen ist das Jubiläumsjahr mit einer Rekordbeteiligung bei der Weihnachtsfeier! Danach waren noch 2 Spieler in Bonn bei der DSAM aktiv. Das neue Jahr startet auch gleich mit der DSAM in Potsdam, auch hier sind ab heute zwei von uns dabei (Andreas und Oliver). Stand jetzt sind bei allen weiteren <a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM</a> Vorrunden diese Saison NARVA Spieler am Start!<br/>
+<strong>Am 11.01.26 geht dann auch die BMM weiter.</strong> Es wird ein schweres Jahr, vor allem für 1. und 2. Mannschaft. Aber wir schaffen das!</p>
+<p>Das Training mit GM Michael Richter wird auch nachgeholt, die Terminfindung gestaltet sich noch etwas schwierig, evtl. wird es auch ein anderer Wochentag….mal sehen.</p>
+<p>Geplant sind natürlich auch für 2026 unser Kleeblatt-Turnier und das Kurt-Richter-Gedenkturnier. Bei beiden steht und fällt alles mit den Räumlichkeiten. Das sieht man auch an dem ausgefallenen Neujahrsopen von Rotation.<br/>
+Auch die Weihnachtsfeier vom Hauptverein SG NARVA fiel Raumproblemen zum Opfer und wird wahrscheinlich als Neujahrsempfang bei uns in der Kadiner Str. nachgeholt (auch im letzten Jahr viel diese Weihnachtsfeier den Raumproblemen zum Opfer und fand dann im Keller vom RuDi im Januar statt…).<br/>
+Insofern können wir froh sein die Kadiner Str. zu haben, aber schon beim RuDi gibt es immer wieder Termin-Konflikte. Siehe die 3. BMM Runde. Hier waren die Räume mit einer anderen Buchung belegt, die dann mehr Geld einbringen als wir… Das soll eigentlich nicht vorkommen…<br/>
+Das Räume inzwischen auch für Vereine nicht mehr kostenfrei sind ist das eine, überhaupt welche zu bekommen, das andere. Und das auch Sportvereine gezwungen sind, nicht gerade geringe Geldsummen, für Raumvermietungen von anderen Vereinen zu nehmen….</p>
+<p>Bedanken möchte ich mich auf diesem Weg bei allen Helfern, beim KRT, beim Kleeblatt-Turnier oder auch im Rahmen der BMM. Jede Hilfe bei Transport von Spielmaterial und Auf- und Abbau ist willkommen und verteilt die Last auf mehrere Schultern.<br/>
+Auch ein Dank bei allen die dafür sorgen, dass NARVA bei Turnieren zu sehen ist, bei Open, DSAM oder bei den vielen Mannschaftsturnieren im Spreewald, Fredersdorf, Erftstadt, Delft und natürlich in Berlin.</p>
+<p>Im Frühjahr stehen dann mal wieder Vorstandswahlen an. 2 Veränderungen stehen schon fest, eine jetzt schon zum Jahreswechsel. Mit <strong>Hilmar</strong> haben wir einen neuen Kassenwart. Die zweite Änderung ist schon vorbereitet, <strong>Jan-Hendrik</strong> wird für den Vorstand kandidieren. Er hat jetzt schon großartig die Aufgaben von Klaus übernommen und ist eine große Hilfe an den Clubabenden.<br/>
+Natürlich dürfen sich immer gerne Freiwillige melden und kandidieren! Arbeit ist genug da!</p>
+<p>Ich habe dann 18 Jahre als Vorsitzender hinter mir! Es gibt Stimmen in mir, die sagen es wäre mal Zeit zum Aufhören, um mehr Zeit für andere Dinge zu haben. Aber so einfach geht das wohl nicht…. Wenn sich kein Freiwilliger findet, werde ich wohl auch in mein 19. und 20. Jahr gehen….. Aber spätestens 2028 würde ich dann gerne abgeben. Es kostet dann manchmal inzwischen schon Kraft und meine Zeitfenster sind in den letzten Jahren nicht größer geworden, bzw. auch durch andere Aufgaben/Interessen gefüllt worden.<br/>
+Auch kosten Raumsuche und Planungen für Turniere viel Kraft und Zeit.<br/>
+Keine Angst, ich höre nicht auf, aber ab und zu einfach nur Schach spielen, ohne sich im Hinterkopf um irgendwelche Dinge kümmern zu müssen, wäre auch mal wieder was.</p>
+<p>Das neue Jahr beginnt dann schachlich direkt heute am 02.01.26. Dort steht die <a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Vorrunde in Potsdam</a> an und 2 von uns (Andreas und Oliver) sind am Start. Am 08.01.26 starten wir direkt mit dem Schnellschach GP im Club die neue Saison!<br/>
+<a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/">Denkt daran Euch für Pokal und Abteilungsmeisterschaft anzumelden!</a></p>
+<p>Denkt auch daran die Beiträge pünktlich zu zahlen, vor allem da es bis Februar Rabatt gibt! <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Beitragsordnung-2025.pdf" rel="noopener" target="_blank">Beitragsordnung</a>!</p>
+<p><strong>Ich wünsche somit allen ein gesundes und erfolgreiches neues Jahr!</strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14556 
 <div class="post-14533 post type-post status-publish format-standard hentry category-allgemein" id="post-14533">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark">Weihnachtsgruß</a></h2>
 <div class="entry-meta">
@@ -450,27 +497,6 @@ Auch beim Abbau am Sonntag Abend werden dann Helfer benötigt.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/18/verschiebung-des-november-blitzturniers/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14224 
-<div class="post-14220 post type-post status-publish format-standard hentry category-bfl category-interne-turniere" id="post-14220">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/" rel="bookmark">BFL gestartet</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/" rel="bookmark" title="17:50"><span class="entry-date">18. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nach der BMM startete in dieser Woche auch die BFL. Am Dienstag gab es zwei Niederlagen, am Donnerstag einen Mannschaftssieg.</p>
-<p>Die <strong>Zweite</strong> traf am Dienstag auf Königsjäger Süd-West. An den ersten beiden Brettern war gegen starke Gegner nichts zu holen. <strong>Maxim</strong> an Brett 4 wickelte in einer schönen Partie mit Angriffen auf entgegengesetzten Flügeln ins gewonnene Endspiel ab und sicherte sich den ganzen Brettpunkt. An Brett 3 erreichte <strong>Torsten</strong> ein Springerendspiel und hielt dieses remis, so dass es immerhin 1,5 Brettpunkte gab.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163854_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-14230" decoding="async" height="65" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163854_Chrome-300x65.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163854_Chrome-300x65.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163854_Chrome-768x167.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163854_Chrome.jpg 996w" width="300"/></a></p>
-<p>Die <strong>Dritte</strong> musste sich ebenfalls am Dienstag der 2. Mannschaft des TSV Mariendorf geschlagen geben. <strong>Lukas</strong> an Brett 2 spielte remis. Aus bedenklich aussehender Stellung erkämpfte sich auch <strong>Thomas</strong> an Brett 1 einen halben Punkt, aber das war es dann leider.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163806_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-14229" decoding="async" height="83" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163806_Chrome-300x83.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163806_Chrome-300x83.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163806_Chrome-768x212.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251018_163806_Chrome.jpg 1021w" width="300"/></a></p>
-<p>Am Donnerstag spielte dann noch die <strong>Erste</strong> gegen TSV Mariendorf 1. Hier gab es Siege von <strong>Tom</strong>, <strong>Max</strong> und <strong>mir</strong>, während Manfred an Brett 1 ein Remis beisteuerte.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome.jpg"><img alt="" class="aligncenter size-medium wp-image-14228" decoding="async" height="64" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome-300x64.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome-300x64.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome-1024x218.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome-768x163.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome-940x198.jpg 940w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/10/Screenshot_20251019_103012_Chrome.jpg 1026w" width="300"/></a></p>
-<p>Parallel war für den Donnerstag die letzte Pokalrunde angesetzt. Im Spiel um Platz 3 setzte sich <strong>Rudolf</strong> mit schwarz gegen Maxim durch. Das Finale kam nicht zustande, wird aber möglicherweise noch nachgeholt.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/18/bfl-gestartet-3/#comments">2 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14220 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
