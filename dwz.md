@@ -51,19 +51,19 @@ navs:
 </tr>
 <tr>
 <td>3.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>2011</td>
-<td>511</td>
-<td>2055</td>
-</tr>
-<tr>
-<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
 <td>1991</td>
 <td>48</td>
 <td>2103</td>
+</tr>
+<tr>
+<td>4.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1966</td>
+<td>512</td>
+<td>2055</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -173,8 +173,8 @@ navs:
 <td>18.</td>
 <td><a href="http://www.schachbund.de/spieler/10104296.html" target="_blank"> Andreas Kinski</a></td>
 <td></td>
-<td>1717</td>
-<td>51</td>
+<td>1713</td>
+<td>52</td>
 <td>1878</td>
 </tr>
 <tr>
@@ -235,19 +235,19 @@ navs:
 </tr>
 <tr>
 <td>26.</td>
+<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
+<td></td>
+<td>1553</td>
+<td>16</td>
+<td>1657</td>
+</tr>
+<tr>
+<td>27.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
 <td>1529</td>
 <td>5</td>
 <td>0</td>
-</tr>
-<tr>
-<td>27.</td>
-<td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
-<td></td>
-<td>1527</td>
-<td>15</td>
-<td>1657</td>
 </tr>
 <tr>
 <td>28.</td>
