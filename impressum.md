@@ -64,7 +64,8 @@ vize(at)narva-schach.de</li>
 Klaus Brinckmann &amp; Jonatan Schenk<br/>
 spielleiter(at)narva-schach.de</li>
 <li><u><b>Kassenwartin</b></u><br/>
-Myriam Kügler<br/>
+Myriam Kügler bis 31.12.25<br/>
+Hilmar Magnusson ab 01.01.26<br/>
 kassenwart(at)narva-schach.de</li>
 <li><u><b>Jugendwart</b></u><br/>
 Ekkehard Krüger<br/>
