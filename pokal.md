@@ -33,6 +33,14 @@ parent_title: Turniere
 <li>von Kraft</li>
 <li>Campe</li>
 <li>Mothes</li>
+<li>Stüve</li>
+<li>Magnusson</li>
+<li>Kappus</li>
+<li>Özates</li>
+<li>Mietzelfeldt</li>
+<li>Kreisel</li>
+<li>Bradschetl</li>
+<li>Schenk</li>
 </ol>
 </div><!-- .entry-content -->
 </div> #post-110 
