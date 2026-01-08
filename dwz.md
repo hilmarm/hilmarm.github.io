@@ -318,7 +318,7 @@ navs:
 <td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
 <td></td>
 <td>1377</td>
-<td>17</td>
+<td>18</td>
 <td>1588</td>
 </tr>
 <tr>
