@@ -457,6 +457,14 @@ navs:
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>54.</td>
+<td><a href="http://www.schachbund.de/spieler/10928407.html" target="_blank"> Lukas Tombor</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </table>
 </div><!-- .entry-content -->
 </div> #post-42 

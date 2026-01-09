@@ -17,6 +17,18 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>1. Runde am 19. Februar</h2>
+<p>Thomas Mothes – Hilmar Magnusson<br/>
+Katrin Hildebrand – Jan-Hendrik Bahr<br/>
+Rudolf Lange – Peter Hintze<br/>
+Maxim Stüve – Dr. Hans-Dieter Maetzing<br/>
+Wesko Heinrich – Alexander Kreisel<br/>
+Ekkehard Krüger – Lukas von Kraft<br/>
+Maximilian Kappus – Gerhard Mietzelfeldt<br/>
+Tom Bradschetl – Mert Özates<br/>
+Kai Wetterwald – Jonatan Schenk<br/>
+Torsten Eichstädt – Dr. Manfred Heinrich<br/>
+Ulrich Campe – Michael Werner</p>
 <h2>Anmeldungen 2026</h2>
 <ol>
 <li>M. Heinrich</li>
