@@ -8,37 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14543 post type-post status-publish format-standard sticky hentry category-interne-turniere category-termine" id="post-14543">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark">Terminplan und Turniere 2026</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark" title="7:41"><span class="entry-date">23. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></p>
-<ul>
-<li>Blitz im Januar und März jeweils eine Woche früher, im Februar gar nicht (wegen BFL)</li>
-<li>Jahreshauptversammlung mit Wahl am 16.04.26</li>
-<li>Skat am 02.04.26</li>
-<li><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google Kalender</a> aktualisiert</li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
-<ul>
-<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
-<ul>
-<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Blitzschach-2026.pdf">Blitz</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Schnellschachmeisterschaft-2026.pdf">Schnellschach</a></p>
-<p>Alles aus 2025 ist schon ins <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/">Archiv</a> gewandert.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14543 
 <div class="post-14556 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14556">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/" rel="bookmark">Neujahrsgrüße</a></h2>
 <div class="entry-meta">
@@ -86,6 +55,37 @@ Keine Angst, ich höre nicht auf, aber ab und zu einfach nur Schach spielen, ohn
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14556 
+<div class="post-14543 post type-post status-publish format-standard hentry category-interne-turniere category-termine" id="post-14543">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark">Terminplan und Turniere 2026</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark" title="7:41"><span class="entry-date">23. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></p>
+<ul>
+<li>Blitz im Januar und März jeweils eine Woche früher, im Februar gar nicht (wegen BFL)</li>
+<li>Jahreshauptversammlung mit Wahl am 16.04.26</li>
+<li>Skat am 02.04.26</li>
+<li><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google Kalender</a> aktualisiert</li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
+<ul>
+<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
+<ul>
+<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
+</ul>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Blitzschach-2026.pdf">Blitz</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Schnellschachmeisterschaft-2026.pdf">Schnellschach</a></p>
+<p>Alles aus 2025 ist schon ins <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/">Archiv</a> gewandert.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#comments">Ein Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14543 
 <div class="post-14533 post type-post status-publish format-standard hentry category-allgemein" id="post-14533">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark">Weihnachtsgruß</a></h2>
 <div class="entry-meta">
