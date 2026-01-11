@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14587 post type-post status-publish format-standard hentry category-bmm" id="post-14587">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/" rel="bookmark">BMM Runde 4</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/" rel="bookmark" title="19:48"><span class="entry-date">11. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der Spieltag brachte alle 3 Ergebnisse.<br/>
+Die <strong>1. Mannschaft</strong> verliert leider den wichtigen Kampf gegen <strong>Makkabi 1</strong> und hat nun Rückstand im Abstiegskampf. Mit nur 7 Spielern gibt es eine <strong>2,5:5,5</strong> Niederlage.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14584" decoding="async" height="212" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-1024x339.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-1024x339.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-300x99.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-768x255.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome.jpg 1047w" width="640"/></a></p>
+<p>Die <strong>2. Mannschaft</strong> spielt unerwartet stark gegen den Tabellenführer von <strong>Rotation 2</strong>, hat sogar eine Hand am Sieg. Am Ende ein <strong>4:4</strong> mit dem Rotation noch glücklich sein kann und mit dem wir einen wichtigen Punkt mitnehmen.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14585" decoding="async" height="217" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-1024x347.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-1024x347.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-300x102.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-768x261.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome.jpg 1079w" width="640"/></a></p>
+<p>Die <strong>3. Mannschaft</strong> erfüllt ihre Pflicht und gewinnt gegen <strong>Makkabi 3</strong> mit <strong>3,5:2,5</strong> und bleibt Tabellenführer!!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14586" decoding="async" height="172" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-1024x275.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-1024x275.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-300x81.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-768x206.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome.jpg 1079w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14587 
 <div class="post-14580 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14580">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/10/saisonstart-schnellschach-gp/" rel="bookmark">Saisonstart – Schnellschach GP</a></h2>
 <div class="entry-meta">
@@ -20,7 +40,7 @@ navs:
 <p><a href="https://www.narva-schach.de/wordpress/turniere/schnellschach/">Tabelle</a></p>
 <p>Im Anschluss war Andreas noch Losfee für den <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a>.<br/>
 Für die <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a> besteht noch die letzte Möglichkeit zur Anmeldung!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-14579" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-2048x1536.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-14579" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/20260108_211645-2048x1536.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -113,7 +133,7 @@ Keine Angst, ich höre nicht auf, aber ab und zu einfach nur Schach spielen, ohn
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark" title="13:59"><span class="entry-date">19. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <h2 class="heading-font" style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #ff0000;">Der Vorstand der Abteilung Schach wünscht allen Mitgliedern, Gästen, Freunden, Familien und allen Besuchern der Homepage ein Frohes Fest und schöne Feiertage!</span></span></h2>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1.png"><img alt="" class="aligncenter size-medium wp-image-14536" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-300x300.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-300x300.png 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-768x768.png 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-144x144.png 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1.png 1024w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1.png"><img alt="" class="aligncenter size-medium wp-image-14536" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-300x300.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-300x300.png 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-768x768.png 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-144x144.png 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1.png 1024w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -479,30 +499,6 @@ Themen:</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14271 
-<div class="post-14261 post type-post status-publish format-standard hentry category-krt" id="post-14261">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/" rel="bookmark">KRT startet am Freitag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/" rel="bookmark" title="8:47"><span class="entry-date">29. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Freitag ist es soweit, unser <strong>Kurt-Richter-Gedenkturnier 2025</strong> startet.</p>
-<p>Aktuell sind wir bei knapp 100 Teilnehmern! Davon sind jetzt 15 von NARVA!</p>
-<p><strong>Spielort ist wieder das Rathaus Mitte, Karl-Marx-Allee 31, 10178 Berlin, im Robert-Havemann-Saal.</strong></p>
-<p><strong>Start zur persönlichen Anmeldung ist um 16:45 Uhr!</strong><br/>
-Die erste Runde beginnt dann um 18:30 Uhr.</p>
-<p><strong>An den vorderen Brettern werden wir eine Live-Übertragung haben!!</strong></p>
-<p>Unser Aufbau soll gegen 13:30 Uhr beginnen! Helfer sind gerne gesehen.<br/>
-Auch beim Abbau am Sonntag Abend werden dann Helfer benötigt.</p>
-<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/">Ausschreibung/Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2025-2/teilnehmerliste-2025/">Teilnehmerliste</a> – diese wird am Freitag noch bzgl. Wertungszahlen aktualisiert</p>
-<p><a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0" rel="noopener" target="_blank">Turnier bei chess-results.com</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/29/krt-startet-am-freitag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14261 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
