@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
 <td>30.01.-02.02.2026</td>
-<td>Rudolf, Jonatan, Thomas</td>
+<td>Rudolf, Jonatan, Thomas, Lukas, Jan</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/offene-berliner-senioren-em-2026.html" rel="noopener" target="_blank">Offene Berliner Senioren-EM 2026</a></td>
@@ -38,6 +38,11 @@ parent_title: Termine
 <td>Maxim</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.lsvmv.de/turnierseite-des-lsv-mv.php?section=internationales_schachopen_graal-mueritz" rel="noopener" target="_blank">3. Schachopen Graal-Müritz</a></td>
+<td>16.-21.03.2026</td>
+<td>Bernd</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>26.-29.03.2026</td>
 <td>Günter, Lukas, Jan-Hendrik</td>
@@ -46,6 +51,16 @@ parent_title: Termine
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
 <td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://de.amateurchess.com/" rel="noopener" target="_blank">ACO 2026 Amateur-Schachweltmeisterschaft</a></td>
+<td>06.-15.05.2026</td>
+<td>Bernd</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://seniorenopen-brb.de/33-seniorenopen/" rel="noopener" target="_blank">33. Seniorenopen in Miedzyzdroje</a></td>
+<td>19.-29.06.2026</td>
+<td>Hans-Dieter</td>
 </tr>
 </tbody>
 </table>
