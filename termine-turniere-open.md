@@ -33,6 +33,11 @@ parent_title: Termine
 <td>Hans-Dieter, Ekkehard, Ulrich, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://ftajedrez.com/campeonato-de-tenerife-2026-absoluto-veterano-femenino-juvenil/" rel="noopener" target="_blank">TENERIFFA-MEISTERSCHAFT 2026</a></td>
+<td>13.-21.02.2026</td>
+<td>Lasko</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
 <td>05.-08.03.2026</td>
 <td>Maxim</td>
