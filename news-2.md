@@ -15,9 +15,9 @@ navs:
 <div class="entry-content">
 <p>Gestern wurde die 1.Runde Abteilungsmeisterschaft ausgelost. Wir haben 24 Teilnehmer, darunter einen Gast von Rotation.</p>
 <p><strong>Die 1.Runde ist am 12. Februar angesetzt!</strong> Wer da nicht kann, Bitte rechtzeitig mit dem Gegner klären <strong>und den Spielleiter informieren!!</strong><br/>
-<span style="font-size: 8pt;"><em>(Bitte tragt euch gleich alle Termine in euren Kalender ein, damit ihr frühzeitig (unabhängig vom Gegner) planen könnt bzw. wenn ich nicht könnt, schon zur Auslosung der nächsten Runde den Spielleiter informiert!)</em></span></p>
+<span style="font-size: 8pt;"><em>(Bitte tragt euch gleich alle Termine in euren Kalender ein, damit ihr frühzeitig (unabhängig vom Gegner) planen könnt bzw. wenn ihr nicht könnt, schon zur Auslosung der nächsten Runde den Spielleiter informiert!)</em></span></p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
-<p>Die 1.Runde zum Pokal wurde bereits letzte Woche ausgelost. Am Start sind hier 22 Teilnehmer. <strong>Hier ist der Termin der 19. Februar!</strong></p>
+<p>Die 1.Runde zum Pokal wurde bereits letzte Woche ausgelost. Am Start sind hier 22 Teilnehmer. <strong>Hier ist Termin der 19. Februar!</strong></p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
 <p><strong><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></strong><br/>
 <strong><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google-Kalender</a></strong></p>
