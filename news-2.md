@@ -8,6 +8,27 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14613 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14613">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/" rel="bookmark">Abteilungsmeisterschaft und Pokal ausgelost</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/" rel="bookmark" title="10:00"><span class="entry-date">16. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern wurde die 1.Runde Abteilungsmeisterschaft ausgelost. Wir haben 24 Teilnehmer, darunter einen Gast von Rotation.</p>
+<p><strong>Die 1.Runde ist am 12. Februar angesetzt!</strong> Wer da nicht kann, Bitte rechtzeitig mit dem Gegner klären <strong>und den Spielleiter informieren!!</strong><br/>
+<span style="font-size: 8pt;"><em>(Bitte tragt euch gleich alle Termine in euren Kalender ein, damit ihr frühzeitig (unabhängig vom Gegner) planen könnt bzw. wenn ich nicht könnt, schon zur Auslosung der nächsten Runde den Spielleiter informiert!)</em></span></p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
+<p>Die 1.Runde zum Pokal wurde bereits letzte Woche ausgelost. Am Start sind hier 22 Teilnehmer. <strong>Hier ist der Termin der 19. Februar!</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
+<p><strong><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></strong><br/>
+<strong><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google-Kalender</a></strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14613 
 <div class="post-14587 post type-post status-publish format-standard hentry category-bmm" id="post-14587">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/" rel="bookmark">BMM Runde 4</a></h2>
 <div class="entry-meta">
@@ -483,22 +504,6 @@ Themen:</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/oktober-blitz-spannendes-finale-steht-an/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14281 
-<div class="post-14271 post type-post status-publish format-standard hentry category-krt" id="post-14271">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/" rel="bookmark">KRT läuft, mit Live Bretter</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/" rel="bookmark" title="18:47"><span class="entry-date">31. Oktober 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><span style="font-size: 18pt;"><strong>Das KRT 2025 ist gestartet!</strong></span></p>
-<p><span style="font-size: 18pt;">Hier der Link zu <a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0" rel="noopener" target="_blank">chess-results</a></span></p>
-<p><span style="font-size: 18pt;">Die ersten 4 Bretter sind Live zu sehen </span><span style="font-size: 18pt;">bei <a href="https://lichess.org/broadcast/kurt-richter-memorial-tournament-2025/d6L4OjZm" rel="noopener" target="_blank">Lichess</a> und <a href="https://live.chessbase.com/watch/Kurt-Richter-Memorial-Tournament-2025/" rel="noopener" target="_blank">ChessBase</a></span></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/10/31/krt-laeuft-mit-live-bretter/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14271 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
