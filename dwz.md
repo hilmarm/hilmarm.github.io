@@ -419,7 +419,7 @@ navs:
 </tr>
 <tr>
 <td>49.</td>
-<td><a href="http://www.schachbund.de/spieler/10889223.html" target="_blank"> Konstiantyn Honcharov</a></td>
+<td><a href="http://www.schachbund.de/spieler/10889223.html" target="_blank"> Kostiantyn Honcharov</a></td>
 <td></td>
 <td></td>
 <td></td>
