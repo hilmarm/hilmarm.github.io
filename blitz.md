@@ -170,532 +170,292 @@ parent_title: Turniere
 </div>
 <h2>Monatsblitz Januar – 22.01.2026</h2>
 <div style="overflow: auto;">
-<table class="clean swiss">
+<table class="clean swiss" style="height: 354px;">
 <thead>
-<tr>
-<td colspan="24">Rangliste: Stand nach der 13. Runde</td>
+<tr style="height: 24px;">
+<td colspan="24" style="height: 24px; width: 1327.69px;">Rangliste: Stand nach der 13. Runde</td>
 </tr>
-<tr bgcolor="#00FF00">
-<th>Nr.</th>
-<th>Teilnehmer</th>
-<th>TWZ</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>6</th>
-<th>7</th>
-<th>8</th>
-<th>9</th>
-<th>10</th>
-<th>11</th>
-<th>12</th>
-<th>13</th>
-<th>14</th>
-<th>15</th>
-<th>16</th>
-<th>17</th>
-<th>18</th>
-<th>19</th>
-<th>Punkte</th>
-<th>SoBerg</th>
+<tr bgcolor="#00FF00" style="height: 18px;">
+<th style="height: 18px; width: 16.7031px;">Nr.</th>
+<th style="height: 18px; width: 168.875px;">Teilnehmer</th>
+<th style="height: 18px; width: 35.1719px;">TWZ</th>
+<th style="height: 18px; width: 16.7969px;">1</th>
+<th style="height: 18px; width: 16.7969px;">2</th>
+<th style="height: 18px; width: 16.7969px;">3</th>
+<th style="height: 18px; width: 16.7969px;">4</th>
+<th style="height: 18px; width: 16.7969px;">5</th>
+<th style="height: 18px; width: 16.7969px;">6</th>
+<th style="height: 18px; width: 15.1094px;">7</th>
+<th style="height: 18px; width: 15.1094px;">8</th>
+<th style="height: 18px; width: 16.7969px;">9</th>
+<th style="height: 18px; width: 15.1094px;">10</th>
+<th style="height: 18px; width: 15.1094px;">11</th>
+<th style="height: 18px; width: 15.1094px;">12</th>
+<th style="height: 18px; width: 15.1094px;">13</th>
+<th style="height: 18px; width: 40.0156px;">Punkte</th>
+<th style="height: 18px; width: 42.6875px;">SoBerg</th>
 </tr>
 </thead>
 <tbody>
-<tr bgcolor="#00FFFF">
-<td>1</td>
-<td>Hintze,Peter</td>
-<td>2015</td>
-<td>**</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>16.0</td>
-<td>132.50</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">1</td>
+<td style="height: 24px; width: 168.875px;">Hintze,Peter</td>
+<td style="height: 24px; width: 35.1719px;">2081</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">11.5</td>
+<td style="height: 24px; width: 42.6875px;">61.50</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>2</td>
-<td nowrap="nowrap">Rodríguez Gil,José María (SK International Berlin 2010)</td>
-<td>1756</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>15.0</td>
-<td>118.00</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">2</td>
+<td nowrap="nowrap" style="height: 24px; width: 168.875px;">Breslauer,Arlo (G)</td>
+<td style="height: 24px; width: 35.1719px;"></td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">10.5</td>
+<td style="height: 24px; width: 42.6875px;">51.00</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>3</td>
-<td>Lange,Rudolf</td>
-<td>1928</td>
-<td>1</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>14.0</td>
-<td>109.75</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">3</td>
+<td style="height: 24px; width: 168.875px;">Lange,Rudolf</td>
+<td style="height: 24px; width: 35.1719px;">1941</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">10.0</td>
+<td style="height: 24px; width: 42.6875px;">51.00</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>4</td>
-<td>Krüger,Ekkehard</td>
-<td>1864</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>**</td>
-<td>½</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>13.5</td>
-<td>99.50</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">4</td>
+<td style="height: 24px; width: 168.875px;">Mothes,Thomas</td>
+<td style="height: 24px; width: 35.1719px;">1819</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">7.5</td>
+<td style="height: 24px; width: 42.6875px;">29.75</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>5</td>
-<td>Idaczek,Günter</td>
-<td>1780</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>½</td>
-<td>**</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>12.0</td>
-<td>88.50</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">5</td>
+<td style="height: 24px; width: 168.875px;">Honcharov,Kostiantyn</td>
+<td style="height: 24px; width: 35.1719px;"></td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">6.5</td>
+<td style="height: 24px; width: 42.6875px;">25.75</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>6</td>
-<td>Zimmer,Ketsarin (SK Lauterecken 1963)</td>
-<td>1862</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>11.0</td>
-<td>87.00</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">6</td>
+<td style="height: 24px; width: 168.875px;">Schenk,Jonatan</td>
+<td style="height: 24px; width: 35.1719px;">1734</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">6.5</td>
+<td style="height: 24px; width: 42.6875px;">22.75</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>7</td>
-<td>Schenk,Jonatan</td>
-<td>1770</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>11.0</td>
-<td>84.75</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">7</td>
+<td style="height: 24px; width: 168.875px;">Bradschetl,Tom</td>
+<td style="height: 24px; width: 35.1719px;">1843</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">**</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">6.0</td>
+<td style="height: 24px; width: 42.6875px;">25.00</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>8</td>
-<td>Walker,Perry (ohne Verein)</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>10.0</td>
-<td>62.50</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">8</td>
+<td style="height: 24px; width: 168.875px;">Mietzelfeldt,Gerhard</td>
+<td style="height: 24px; width: 35.1719px;">1837</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">**</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">6.0</td>
+<td style="height: 24px; width: 42.6875px;">24.50</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>9</td>
-<td>Brinckmann,Klaus</td>
-<td>1801</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>**</td>
-<td>0</td>
-<td>1</td>
-<td>½</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>9.5</td>
-<td>66.25</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">9</td>
+<td style="height: 24px; width: 168.875px;">Werner,Michael</td>
+<td style="height: 24px; width: 35.1719px;">1589</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">½</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 16.7969px;">**</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">4.5</td>
+<td style="height: 24px; width: 42.6875px;">20.25</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>10</td>
-<td>Hildebrand,Katrin</td>
-<td>1654</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>**</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>8.5</td>
-<td>61.00</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">10</td>
+<td nowrap="nowrap" style="height: 24px; width: 168.875px;">Waßelewski,Tanguy (G)</td>
+<td style="height: 24px; width: 35.1719px;"></td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">**</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 40.0156px;">3.0</td>
+<td style="height: 24px; width: 42.6875px;">8.50</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>11</td>
-<td>Pape,Philipp</td>
-<td>1813</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>8.5</td>
-<td>60.50</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">11</td>
+<td style="height: 24px; width: 168.875px;">Steinert,Otto (G)</td>
+<td style="height: 24px; width: 35.1719px;"></td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 16.7969px;">1</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">**</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 40.0156px;">2.0</td>
+<td style="height: 24px; width: 42.6875px;">10.50</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>12</td>
-<td>Mothes,Thomas</td>
-<td>1743</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>0</td>
-<td>½</td>
-<td>1</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>8.5</td>
-<td>58.75</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">12</td>
+<td style="height: 24px; width: 168.875px;">Wetterwald,Kai</td>
+<td style="height: 24px; width: 35.1719px;"></td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">**</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 40.0156px;">2.0</td>
+<td style="height: 24px; width: 42.6875px;">5.00</td>
 </tr>
-<tr bgcolor="#00FFFF">
-<td>13</td>
-<td>Stüve,Maxim</td>
-<td>1584</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>7.5</td>
-<td>48.50</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>14</td>
-<td>Norouzian Arayesh,Omid (SF Berlin 1903 e.V.)</td>
-<td>1596</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>6.0</td>
-<td>40.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>15</td>
-<td>Coto,Eloy (ohne Verein)</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>1</td>
-<td>6.0</td>
-<td>39.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>16</td>
-<td>Bradschetl,Tom</td>
-<td>1822</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>½</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>½</td>
-<td>1</td>
-<td>1</td>
-<td>5.0</td>
-<td>26.75</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>17</td>
-<td>Ogienko,Ivan (ohne Verein)</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>½</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>½</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>5.0</td>
-<td>25.25</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>18</td>
-<td>Herrmann,Eberhard (SC Zugzwang 95 e.V.)</td>
-<td>1894</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>4.0</td>
-<td>23.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>19</td>
-<td>Jirco (ohne Verein)</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>0.0</td>
-<td>0.00</td>
+<tr bgcolor="#00FFFF" style="height: 24px;">
+<td style="height: 24px; width: 16.7031px;">13</td>
+<td style="height: 24px; width: 168.875px;">Kreisel,Alexander</td>
+<td style="height: 24px; width: 35.1719px;">1520</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 16.7969px;">0</td>
+<td style="height: 24px; width: 15.1094px;">0</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">1</td>
+<td style="height: 24px; width: 15.1094px;">**</td>
+<td style="height: 24px; width: 40.0156px;">2.0</td>
+<td style="height: 24px; width: 42.6875px;">4.00</td>
 </tr>
 </tbody>
 </table>

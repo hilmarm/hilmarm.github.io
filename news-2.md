@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14627 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14627">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/" rel="bookmark">Monatsblitz Januar geht an Peter</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/" rel="bookmark" title="12:45"><span class="entry-date">23. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Gestern stand die erste Runde im <strong>Monatsblitz</strong> an, wegen der BFL um eine Woche nach vorne verschoben. 13 Teilnehmer fanden sich ein.</p>
+<p>Mit 11,5 Punkten aus 12 Partien wurde <strong>Peter</strong> klarer Sieger. Platz 2 ging an <strong>Arlo</strong>, unserem Gast aus Amerika, er kam auf 10,5 Punkte. Platz 3 sicherte sich <strong>Rudolf</strong> mit 10 Punkten.</p>
+<p>Im Februar gibt es kein Blitz. Das nächste ist dann im März, aber auch hier schon eine Woche eher, am <strong>19.03.26</strong>!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14627 
 <div class="post-14613 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14613">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/" rel="bookmark">Abteilungsmeisterschaft und Pokal ausgelost</a></h2>
 <div class="entry-meta">
@@ -486,24 +503,6 @@ Themen:</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/training-mit-gerhard-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14287 
-<div class="post-14281 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14281">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/03/oktober-blitz-spannendes-finale-steht-an/" rel="bookmark">Oktober Blitz – spannendes Finale steht an</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/03/oktober-blitz-spannendes-finale-steht-an/" rel="bookmark" title="7:52"><span class="entry-date">3. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag gab es das <strong>Oktober Blitz</strong>, die vorletzte Runde des Jahres. 13 Teilnehmer fanden sich ein, darunter 4 Gäste.</p>
-<p>Verlustpunktfrei blieb am Ende nur einer, <strong>Mert</strong> gab nur 2x Remis und wurde so mit 11 Punkten Erster! Damit schließt er bis auf einen Punkt zu <strong>Peter</strong> in der Gesamtwertung auf (61 zu 60).</p>
-<p>Dahinter landeten mit <strong>Matthias</strong>, <strong>Jol</strong> und <strong>Dmitrii</strong> drei Gäste. Matthias ist dabei auf dem Weg zum Gästepreis 2025.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-scaled.jpg"><img alt="" class="size-medium wp-image-14282 alignnone" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251030_191146-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0021.jpg"><img alt="" class="size-medium wp-image-14284 alignnone" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0021-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0021-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0021-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0021-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0021.jpg 1200w" width="225"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0020.jpg"><img alt="" class="aligncenter size-medium wp-image-14285" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0020-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0020-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0020-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0020-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/IMG-20251030-WA0020.jpg 1200w" width="225"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/oktober-blitz-spannendes-finale-steht-an/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14281 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
