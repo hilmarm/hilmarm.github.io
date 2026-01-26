@@ -65,7 +65,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://seniorenopen-brb.de/33-seniorenopen/" rel="noopener" target="_blank">33. Seniorenopen in Miedzyzdroje</a></td>
 <td>19.-29.06.2026</td>
-<td>Hans-Dieter</td>
+<td>Hans-Dieter, Gerhard</td>
 </tr>
 </tbody>
 </table>
