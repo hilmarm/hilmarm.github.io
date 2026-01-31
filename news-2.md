@@ -8,6 +8,28 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14653 post type-post status-publish format-standard hentry category-bfl" id="post-14653">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/31/bfl-runde-5/" rel="bookmark">BFL Runde 5</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/31/bfl-runde-5/" rel="bookmark" title="0:20"><span class="entry-date">31. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>In der 5. Runde der BFL holte unsere erste Mannschaft am Donnerstag einen deutlichen Sieg gegen TSG Oberschöneweide 1. Die Gäste traten durch einen kurzfristigen Ausfall nur mit drei Spielern an – an Brett 4 gewann <strong>Max</strong> daher kampflos. An den ersten beiden Brettern gewannen <strong>Manfred</strong> und <strong>ich</strong>, außerdem steuerte <strong>Tom</strong> noch einen halben Punkt bei.</p>
+<pre>
+  SG NARVA I               - TSG Oberschöneweide I      3½ :  ½
+1 Manfred Lenhardt (1967)  - Christian Kandeler (1816)  1  :  0
+2 Jonatan Schenk (1756)    - Klaus-Dieter Gruner (1779) 1  :  0
+3 Tom Bradschetl (1558)    - Gero Scheck (1744)         ½  :  ½
+4 Maximilian Kappus (1635) - Nikolai Jahn (1190)        +  :  -
+</pre>
+<p>Unsere anderen beiden Mannschaften hatten spielfrei.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/31/bfl-runde-5/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14653 
 <div class="post-14632 post type-post status-publish format-standard hentry category-bmm" id="post-14632">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/26/bmm-runde-5-3-niederlagen/" rel="bookmark">BMM Runde 5 – 3 Niederlagen</a></h2>
 <div class="entry-meta">
@@ -471,39 +493,6 @@ Brachte die Zahl 13 Glück oder Unglück?</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14334 
-<div class="post-14290 post type-post status-publish format-standard hentry category-krt" id="post-14290">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/" rel="bookmark">Michael Strache gewinnt Kurt-Richter-Gedenkturnier 2025!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/" rel="bookmark" title="8:53"><span class="entry-date">3. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Bei seiner 3. Teilnahme am KRT hat er es geschafft, <strong>Michael Strache</strong> (SC Kreuzberg) gewinnt mit einer souveränen Leistung das <strong>Kurt-Richter-Gedenkturnier 2025</strong>!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-scaled.jpg"><img alt="" class="size-medium wp-image-14294" decoding="async" height="233" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-300x233.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-300x233.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-1024x794.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-768x596.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-1536x1191.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.26.03_bearbeitet-2048x1589.jpg 2048w" width="300"/></a><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-scaled.jpg"><img alt="" class="size-medium wp-image-14310 alignnone" decoding="async" height="239" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-300x239.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-300x239.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-1024x815.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-768x611.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-1536x1222.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_112823-2048x1630.jpg 2048w" width="300"/></a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_171356-scaled-e1762165648623.jpg"><img alt="" class="alignleft wp-image-14309" decoding="async" height="273" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251102_171356-225x300.jpg" width="150"/></a>Er hat mit 6,5 Punkten am Ende einen ganzen Punkt Vorsprung auf den Zweiten <strong>Sergej Krefenstein</strong> (TuS Makkabi) mit 5,5 Punkten. Auch die Plätze 3 (<strong>Fabian Schmidt</strong>, Königsjäger Süd-West), 4 (<strong>Friedrich Grunert</strong>, Schachklub München Südost) und 5 (<strong>Samy Omar</strong>, SC Kreuzberg) haben jeweils 5,5 Punkte.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-scaled.jpg"><img alt="" class="size-medium wp-image-14297 aligncenter" decoding="async" height="201" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-300x201.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-300x201.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-1024x687.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-768x515.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-1536x1031.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.28.17-2048x1374.jpg 2048w" width="300"/></a></p>
-<p>Die Kategoriepreise gingen an:<br/>
-Senior Ü65: <strong>Dr. Klaus Kapr</strong> (Friesen Lichtenberg)<br/>
-Nestor Ü75: <strong>Rolf-Dietrich Beran</strong> (Rot-Weiß Neuenhagen)<br/>
-Jugend U18: <strong>Illia Holovianko</strong> (TuS Makkabi)<br/>
-Beste Frau: <strong>Sibylle Guder</strong> (Schachfreunde Berlin)<br/>
-DWZ U1800: <strong>Nicolas Bureik</strong> (Weisse Dame)<br/>
-DWZ U1650: <strong>Alexis Miles Oortmann</strong> (Rotation Berlin)<br/>
-DWZ U1500: <strong>Katerina Vaseva</strong> (Rochade Müncheberg)<br/>
-DWZ U1300: <strong>Steffen Kaulmann</strong> (Rochade Müncheberg)</p>
-<p>Dazu gab es Sachpreise für die jeweils Zweitplatzierten und für den besten Spieler, der vor dem Turnier noch keine Wertungszahl hatte.</p>
-<p>Der Mannschaftssieg (mind. 4 Teilnehmer) ging eindeutig an den <strong>SC Kreuzberg</strong>.</p>
-<div class="wp-caption aligncenter" id="attachment_14305" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01.jpg"><img alt="" aria-describedby="caption-attachment-14305" class="size-medium wp-image-14305" decoding="async" height="296" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01-300x296.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01-300x296.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01-1024x1009.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01-768x757.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01-1536x1513.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/2025-11-02-20.42.01-2048x2018.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14305">Mannschaftssieg</p></div>
-<p><strong>Ich bedanke mich bei allen Teilnehmern und dem ganzen Orga-Team und den vielen Helfern beim Abbau!!</strong></p>
-<p><a href="https://s3.chess-results.com/tnr1249083.aspx?lan=0&amp;art=1&amp;flag=30&amp;SNode=S0" rel="noopener" target="_blank">Tabellen</a></p>
-<p>Fotos:</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/#more-14290">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/03/michael-strache-gewinnt-kurt-richter-gedenkturnier-2025/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14290 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
