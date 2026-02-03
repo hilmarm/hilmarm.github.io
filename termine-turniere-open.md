@@ -23,14 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">DSAM Ingolstadt</a></td>
-<td>30.01.-02.02.2026</td>
-<td>Rudolf, Jonatan, Thomas, Lukas, Jan</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/offene-berliner-senioren-em-2026.html" rel="noopener" target="_blank">Offene Berliner Senioren-EM 2026</a></td>
 <td>03.-12.02.2026</td>
-<td>Hans-Dieter, Ekkehard, Ulrich, Gerhard</td>
+<td>Ekkehard, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://ftajedrez.com/campeonato-de-tenerife-2026-absoluto-veterano-femenino-juvenil/" rel="noopener" target="_blank">TENERIFFA-MEISTERSCHAFT 2026</a></td>
@@ -40,7 +35,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
 <td>05.-08.03.2026</td>
-<td>Maxim</td>
+<td>Maxim, Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.lsvmv.de/turnierseite-des-lsv-mv.php?section=internationales_schachopen_graal-mueritz" rel="noopener" target="_blank">3. Schachopen Graal-Müritz</a></td>
@@ -50,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>26.-29.03.2026</td>
-<td>Günter, Lukas, Jan-Hendrik</td>
+<td>Günter, Lukas, Jan-Hendrik, Oliver</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
