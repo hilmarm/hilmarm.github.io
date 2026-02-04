@@ -8,6 +8,43 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14676 post type-post status-publish format-standard hentry category-openberichte" id="post-14676">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/04/dsam-ingolstadt/" rel="bookmark">DSAM Ingolstadt</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/02/04/dsam-ingolstadt/" rel="bookmark" title="8:58"><span class="entry-date">4. Februar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Wochenende stand die <strong>DSAM Vorrunde in Ingolstadt</strong> an. Gleich 5 NARVA Spieler reisten in den Süden. Das Turnier hatte nicht ganz so viele Teilnehmer (417) wie z.B. Potsdam (734!), was die Qualifikation etwas einfacher machen sollte.</p>
+<p>In der <strong>C-Gruppe</strong> an 5 gesetzt war <strong>Rudolf</strong>. In der <strong>D-Gruppe</strong> war <strong>Jonatan</strong> sogar an 4 gesetzt und <strong>ich</strong> an 20. In der <strong>E-Gruppe</strong> dann <strong>Lukas</strong> an 25 und <strong>Jan-Hendrik</strong> an 63.</p>
+<p>Am Freitag Abend gab es erst noch das obligatorische <strong>Blitzturnier</strong> zum warm machen. Jonatan war als erster anwesend, Rudolf und ich mussten die letzten Kilometer auf der Autobahn fliegen, um genau pünktlich zum Turnierstart um 20:15 Uhr am Brett zu sein. Lukas und Jan hatten da noch ihre Zugfahrt vor sich. Gespielt wurden hier 7 Runden mit 3+2. Bester NARVA Mann war am Ende ich mit guten 3,5 Punkten, Rudolf und Jonatan liefen nicht ganz zufrieden dahinter mit je 3 Punkten ein.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/blitzingolstadt2026.jpg"><img alt="" class="aligncenter size-medium wp-image-14677" decoding="async" height="300" sizes="(max-width: 164px) 100vw, 164px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/blitzingolstadt2026-164x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/blitzingolstadt2026-164x300.jpg 164w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/blitzingolstadt2026.jpg 513w" width="164"/></a></p>
+<p>Am Samstag ging es dann ins Hauptturnier (anders als bei den anderen DSAM Turnier von Samstag bis Montag).<br/>
+Die <strong>1. Runde</strong> startete mit:<br/>
+<span style="text-decoration: underline;">Rudolf 1, Jonatan ½, Ich 0, Lukas 1, Jan 0</span><br/>
+<strong>Runde 2</strong> brachte dann:<br/>
+<span style="text-decoration: underline;">Rudolf ½, Jonatan 1, Ich 1, Lukas 0, Jan 0</span><br/>
+Der Sonntag startet dann mit <strong>Runde 3</strong>:<br/>
+<span style="text-decoration: underline;">Rudolf ½, Jonatan 0, Ich ½, Lukas 0, Jan 0</span>, noch sehr verhalten (zu viel Bier? zu wenig Bier?)<br/>
+Am Nachmittag in <strong>Runde 4</strong> dann aber:<br/>
+<span style="text-decoration: underline;">Rudolf 1, Jonatan ½, Ich 1, Lukas 1, Jan 0</span>, nur Jan weiterhin bei Null.<br/>
+Am Montag früh dann die letzte Chance in <strong>Runde 5</strong>, aber für die Qualifikation war nur noch Rudolf im Rennen. Mit seinem Kampfsieg in Runde 4 hatte er sich an Brett 2 gespielt, ob da ein Remis reicht, hing aber von den Buchholzschäfchen ab.<br/>
+<span style="text-decoration: underline;">Rudolf ½, Jonatan ½, Ich ½, Lukas ½, Jan 0</span>.</p>
+<p>Mit 3,5 Punkten und der zweitbesten Buchholz rutscht <strong>Rudolf</strong> tatsächlich auf Platz 7 zur Qualifikation für das Finale in Dresden!</p>
+<p>Für <strong>mich</strong> am Ende Platz 28 mit 3 Punkten, Runde 1 versaut halt Wertung und Ergebnis, trotzdem nicht ganz unzufrieden.</p>
+<p><strong>Jonatan</strong> wird in der gleichen Gruppe 36. mit 2,5 Punkten und muss sein Qualifikations-Ziel nun beim nächsten Turnier versuchen.</p>
+<p><strong>Lukas</strong> wird auch weitere Versuche unternehmen müssen, mit Platz 35 und 2,5 Punkte war er auch nicht zufrieden.</p>
+<p><strong>Jan</strong>, ja für Jan lief es gar nicht. Die E-Gruppe ist doch (noch) eine Hausnummer zu groß. Die einzige Chance auf zumindest einen halben Punkt ließ er in Runde 4 ungenutzt. Beim nächsten mal läuft es besser!</p>
+<p>Insgesamt hat es wieder viel Spaß gemacht, dazu die Top Organisation und ein Super Hotel. Gerne wieder.</p>
+<p><a href="https://www.dsam-cup.de/ingolstadt/" rel="noopener" target="_blank">Turnierseite</a></p>
+<p>Fotos (von DSAM Seite):</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2026/02/04/dsam-ingolstadt/#more-14676">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/02/04/dsam-ingolstadt/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14676 
 <div class="post-14653 post type-post status-publish format-standard hentry category-bfl" id="post-14653">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/31/bfl-runde-5/" rel="bookmark">BFL Runde 5</a></h2>
 <div class="entry-meta">
@@ -39,7 +76,7 @@ navs:
 <p><strong>NARVA 1</strong> unterliegt <strong>Friedrichshagen 1</strong> mit <strong>3:5</strong>. Stark die Siege an Brett 1 und 2 von <strong>Mert</strong> und <strong>Rouven</strong> und auch die halben Punkte von <strong>Jonatan</strong> und <strong>Wesko</strong>! Bei <strong>Rudolf</strong> und <strong>Jerry</strong> war zwischendurch mehr drin, aber in Zeitnot gaben beide noch ihre Partien weg. <strong>Kostiantyn</strong> zeigte einen guten BMM Einstand und bewies, dass er auf diesem Niveau spielen kann, beim nächsten mal klappt es auch mit Punkten. Bei <strong>Günter</strong> läuft es dieses Jahr leider gar nicht, trotzdem Danke für deinen Einsatz, auch wenn du durch das Aufrücken weiter vorne spielst als eigentlich gewünscht, es kommen auch wieder bessere Zeiten! Zumindest hätte es beinahe gereicht, um einen unerwarteten Punkt zu holen.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14629" decoding="async" height="219" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-1024x350.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-1024x350.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-768x263.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome.jpg 1049w" width="640"/></a></p>
 <p><strong>NARVA 2</strong> hatte nach dem Überraschungspunkt gegen Rotation nun etwas Hoffnung, dass es auch gegen <strong>Eckbauer 2</strong> vielleicht klappen könnte. Aber schon früh zeichnete sich ab, das das nichts wird. Mehr als 5 Remis (<strong>Andreas</strong>, <strong>Hans-Dieter</strong>, <strong>Ulrich</strong>, <strong>Oliver</strong> und <strong>Jens</strong>) konnten wir nicht holen, <strong>Alexande</strong>r, <strong>Gerhard</strong> und <strong>ich</strong> verlieren. Zumindest bei mir war ein Remis drin, bei Jens und Ulrich evtl. mehr als der halbe Punkt – wobei Ulrich zwischendurch auch mal schlechter stand. So gab es eine <strong>2,5:5,5</strong> Niederlage.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14630" decoding="async" height="219" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-1024x350.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-1024x350.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-768x263.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome.jpg 1079w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14630" decoding="async" height="219" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-1024x350.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-1024x350.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-768x263.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome.jpg 1079w" width="640"/></a></p>
 <p>Für <strong>NARVA 3</strong> war es am Ende eine bittere Niederlage. Einen Punkt bekam man geschenkt, <strong>Lukas</strong> gewinnt dann auch und man führt 2:0. Jetzt hätte man vielleicht das ein oder andere Remis in Kauf nehmen sollen, so aber wollten <strong>Maxim</strong>, <strong>Michael</strong> und <strong>Klaus</strong> auf Gewinn spielen, was bei allen drei schief ging. Schade, denn mit der <strong>2:4</strong> Niederlage gegen <strong>Eckbauer 3</strong> rutscht man erstmal auf Platz 3 ab.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2.jpg"><img alt="" class="aligncenter size-full wp-image-14649" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 601px) 100vw, 601px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2.jpg 601w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2-300x100.jpg 300w" width="601"/></a><br/>
 Die ein oder andere Partie findet ihr demnächst im Mitgliederbereich.</p>
@@ -473,26 +510,6 @@ Wir freuen uns vor allem über die Rückkehr von <strong>Klaus</strong>, der auc
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14372 
-<div class="post-14334 post type-post status-publish format-standard hentry category-krt" id="post-14334">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/" rel="bookmark">KRT aus Sicht der NARVA Spieler</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/" rel="bookmark" title="7:52"><span class="entry-date">4. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gleich 13 Spieler von NARVA nahmen am eigenen Turnier dieses Jahr teil. Rekord!<br/>
-Brachte die Zahl 13 Glück oder Unglück?</p>
-<p>Vor dem Turnier waren es sogar 15 die sich angemeldet hatten, dann mussten jedoch 4 Spieler erst absagen, Tom rutschte dann am Samstag doch wieder mit rein und <strong>Jonatan</strong> war von Anfang an der „Gerademacher“.</p>
-<ul>
-<li><span style="color: #ff0000;">Update DWZ Auswertung ganz unten</span></li>
-</ul>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/#more-14334">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/04/krt-aus-sicht-der-narva-spieler/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14334 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
