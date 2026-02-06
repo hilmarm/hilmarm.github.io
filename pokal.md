@@ -163,7 +163,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Heinrich,Manfred</td>
 <td>()</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 </tbody>

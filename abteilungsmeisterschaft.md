@@ -67,7 +67,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Hintze,Peter</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -127,7 +127,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Maiwald,Gunar</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ parent_title: Turniere
 <td>11</td>
 <td>Kappus,Maximilia</td>
 <td>()</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
