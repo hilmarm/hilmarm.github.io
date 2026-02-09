@@ -295,10 +295,10 @@ Kurt-Richter-Gedenkturnier</h1>
 </tbody>
 </table>
 <h2><strong>Häufigste Teilnehmer von 1981 bis 2025:</strong></h2>
-<p>1. Fitzke, Ulrich – 22 Teilnahmen<br/>
-1. Kohlmeyer, Dagobert – 22 Teilnahmen<br/>
-3. Dr.Herbert Mayer – 16 Teilnahmen<br/>
-4. Noak, Uwe – 14 Teilnahmen</p>
+<p>1. Fitzke, Ulrich — 22 Teilnahmen<br/>
+1. Kohlmeyer, Dagobert — 22 Teilnahmen<br/>
+3. Dr.Herbert Mayer — 16 Teilnahmen<br/>
+4. Noak, Uwe — 14 Teilnahmen</p>
 <h2><strong>Wer war Kurt Richter?</strong></h2>
 <p><img alt="dscf0939_kurt_richter" class="alignnone wp-image-736 size-full" decoding="async" height="202" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2016/06/dscf0939_kurt_richter.jpg" width="200"/></p>
 <p><strong>Kurt Richter</strong> (Geb.am 24. November 1900 in Berlin; † 29. Dezember 1969) war ein deutscher Schachspieler.<br/>
