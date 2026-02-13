@@ -157,13 +157,13 @@ parent_title: Turniere
 <tr>
 <td>11</td>
 <td>21</td>
-<td>Eichstädt,Torste</td>
+<td>Maiwald,Gunar</td>
 <td>()</td>
 <td>–</td>
 <td>20</td>
 <td>Heinrich,Manfred</td>
 <td>()</td>
-<td>– – +</td>
+<td> –</td>
 <td></td>
 </tr>
 </tbody>
@@ -343,9 +343,9 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>21</td>
-<td>Eichstädt,Torsten</td>
-<td>1635</td>
-<td>1224</td>
+<td>Maiwald,Gunar</td>
+<td></td>
+<td>1359</td>
 <td>M</td>
 <td>SG NARVA Berlin e.V.</td>
 </tr>
