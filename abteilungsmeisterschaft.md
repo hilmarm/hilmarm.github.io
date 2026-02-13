@@ -55,7 +55,7 @@ parent_title: Turniere
 <td>14</td>
 <td>Stüve,Maxim</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -79,7 +79,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Kreisel,Alexande</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ parent_title: Turniere
 <td>18</td>
 <td>Campe,Ulrich</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -115,7 +115,7 @@ parent_title: Turniere
 <td>7</td>
 <td>Krüger,Ekkehard</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ parent_title: Turniere
 <td>22</td>
 <td>Heinrich,Manfred</td>
 <td>()</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
@@ -175,7 +175,7 @@ parent_title: Turniere
 <td>24</td>
 <td>Wetterwald,Kai</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>
