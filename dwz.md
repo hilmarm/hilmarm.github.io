@@ -51,14 +51,6 @@ navs:
 </tr>
 <tr>
 <td>3.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1992</td>
-<td>514</td>
-<td>2015</td>
-</tr>
-<tr>
-<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
 <td>1991</td>
@@ -66,12 +58,20 @@ navs:
 <td>2103</td>
 </tr>
 <tr>
-<td>5.</td>
+<td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
 <td>1962</td>
 <td>64</td>
 <td>1981</td>
+</tr>
+<tr>
+<td>5.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1952</td>
+<td>515</td>
+<td>2015</td>
 </tr>
 <tr>
 <td>6.</td>
