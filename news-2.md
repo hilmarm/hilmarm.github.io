@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14688 post type-post status-publish format-standard hentry category-openberichte" id="post-14688">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/17/berliner-seniorenmeisterschaft/" rel="bookmark">Berliner Seniorenmeisterschaft</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/02/17/berliner-seniorenmeisterschaft/" rel="bookmark" title="9:47"><span class="entry-date">17. Februar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Vom 3. Februar 2026 bis 12. Februar 2026 fand bei der TSG Oberschöneweide die <strong>42. Offene Berliner Senioren-Einzel-Meisterschaft</strong> statt.<br/>
+Von NARVA nahmen dieses Jahr nur <strong>Ekkehard</strong> und <strong>Gerhard</strong> teil.</p>
+<p>Ekkehard war stark unterwegs, Runde 2 Sieg gegen FM, Runde 3 dann Remis gegen 2050, auch die weiteren Runden mit guten Punkten und am Ende 5 Punkte aus 9 Runden und Platz 33 (Setzliste 47).</p>
+<p>Bei Gerhard lief es nicht ganz so rund, er blieb mit Platz 69 und 4 Punkten hinter seinem Setzlistenplatz 59 zurück.</p>
+<p>Turniersieger wurde FM Alain Fayard aus Frankreich, den Titel des Berliner Seniorenmeisters holte sich Wolfgang Vandré (SV Berolina Mitte).</p>
+<p><a href="https://www.berlinerschachverband.de/index.php/entry/alain-fayard-gewinnt-das-turnier-wolfgang-vandre-ist-seniorenmeister.html" rel="noopener" target="_blank">Bericht auf BSV Seite</a><br/>
+<a href="https://s2.chess-results.com/tnr1288824.aspx?lan=0&amp;art=1&amp;fed=GER&amp;flag=30&amp;SNode=S0" rel="noopener" target="_blank">Ergebnisse bei Chess-Result</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/02/17/berliner-seniorenmeisterschaft/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14688 
 <div class="post-14676 post type-post status-publish format-standard hentry category-openberichte" id="post-14676">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/04/dsam-ingolstadt/" rel="bookmark">DSAM Ingolstadt</a></h2>
 <div class="entry-meta">
@@ -334,7 +354,7 @@ Thomas <span style="font-size: 10pt;">(zum 7. mal am Start)</span> ca. 5 aus 10<
 <div class="wpcf7 no-js" data-wpcf7-id="9811" dir="ltr" id="wpcf7-f9811-p14443-o1" lang="de-DE">
 <div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
 <form action="/wordpress/news-2/#wpcf7-f9811-p14443-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
-<fieldset class="hidden-fields-container"><input name="_wpcf7" type="hidden" value="9811"/><input name="_wpcf7_version" type="hidden" value="6.1.4"/><input name="_wpcf7_locale" type="hidden" value="de_DE"/><input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p14443-o1"/><input name="_wpcf7_container_post" type="hidden" value="14443"/><input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
+<fieldset class="hidden-fields-container"><input name="_wpcf7" type="hidden" value="9811"/><input name="_wpcf7_version" type="hidden" value="6.1.5"/><input name="_wpcf7_locale" type="hidden" value="de_DE"/><input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p14443-o1"/><input name="_wpcf7_container_post" type="hidden" value="14443"/><input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
 </fieldset>
 <p><label> Dein Name<br/>
 <span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" maxlength="400" name="your-name" size="40" type="text" value=""/></span> </label>
@@ -486,30 +506,6 @@ Wir freuen uns vor allem über die Rückkehr von <strong>Klaus</strong>, der auc
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/10/bmm-runde-2-5/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14392 
-<div class="post-14372 post type-post status-publish format-standard hentry category-openberichte" id="post-14372">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/" rel="bookmark">XVI. Falkenseer Open</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/" rel="bookmark" title="10:04"><span class="entry-date">5. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Neben unserem KRT fand am Wochenende auch das <strong>16. Falkenseer Open</strong> statt. Gespielt wurden 5 Runden Schweizer System, unterteilt in 2 Gruppen nach DWZ. Von uns war <strong>Jens</strong> am Start und rutschte noch knapp in die Königsgruppe. In dieser war auch Martin Sebastian dabei, womit sich seine Absage an das KRT erklärt.</p>
-<p><span style="text-decoration: underline;">Jens:</span><br/>
-<em>„….und es gab am Wochenende auch noch das Falkenseer Open mit meiner Teilnahme als einzigem NARVA-Spieler. Ich wurde in die Königsgruppe eingeteilt und bekam die erwartet schweren Gegner.</em><br/>
-<em>1. Runde DWZ 1760: Nach beidseitiger Bauernumwandlung entstand ein Damenendspiel. Vermutlich Remis, aber unter Zeitdruck verliere ich die Partie. Wir waren fast die Letzten im Turniersaal.</em><br/>
-<em>2. Runde DWZ 1680: Italienisch mit weißem Isolani – verloren.</em><br/>
-<em>3. Runde: kampfloser Punkt und Erholung für Runde 4.</em><br/>
-<em>4. Runde DWZ 1662: wieder Italienisch. Ich wollte es besser machen als in Runde 2 und mache es noch schlechter. Damit drohte ein Debakel, ein Salto Nullo. Ich hoffte für Runde 5 auf einen schlagbaren Gegner.</em><br/>
-<em>5. Runde DWZ 1795: Keine Ahnung, warum ich in der letzten Runde solch einen Gegner zugelost bekomme. Jedenfalls ein versöhnlicher Abschluss. Ich habe das Bauernendspiel gewonnen. Jetzt hatte sich ausgezahlt, dass ich in Vorbereitung auf das Turnier Bauernendspiele trainiert habe. Das Endspiel wäre vielleicht etwas für den Trainingsabend mit Gerhard am Donnerstag.</em><br/>
-<em>Als Startnummer 57 bin ich ins Turnier gegangen. Im Endergebnis wird es irgendetwas zwischen Platz 40 und 50 sein (Platz 45). Restlos zufrieden kann ich damit nicht sein, insbesondere die Niederlage in der vierten Runde ärgert mich noch.“</em></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_jens.jpg"><img alt="" class="aligncenter wp-image-14373 size-medium" decoding="async" height="169" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-1024x577.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n-1536x865.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/572093985_1124800149765101_1714512491770420399_n.jpg 2048w" width="300"/></a></p>
-<p><a href="http://www.falkenseer-open.de/2.html" rel="noopener" target="_blank">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/05/xvi-falkenseer-open/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14372 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

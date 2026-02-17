@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/entry/offene-berliner-senioren-em-2026.html" rel="noopener" target="_blank">Offene Berliner Senioren-EM 2026</a></td>
-<td>03.-12.02.2026</td>
-<td>Ekkehard, Gerhard</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://ftajedrez.com/campeonato-de-tenerife-2026-absoluto-veterano-femenino-juvenil/" rel="noopener" target="_blank">TENERIFFA-MEISTERSCHAFT 2026</a></td>
 <td>13.-21.02.2026</td>
 <td>Lasko</td>
@@ -56,6 +51,16 @@ parent_title: Termine
 <td><a href="https://de.amateurchess.com/" rel="noopener" target="_blank">ACO 2026 Amateur-Schachweltmeisterschaft</a></td>
 <td>06.-15.05.2026</td>
 <td>Bernd</td>
+</tr>
+<tr style="height: 24px;">
+<td>Himmelfahrtsblitz SG Weißensee</td>
+<td>14.05.2026</td>
+<td>Mannschaft</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.sglasker.de/teschner-2026/" rel="noopener" target="_blank">Teschner-Gedenkturnier 2026</a></td>
+<td>14.-17.05.2026</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://psv-mitte.de/13-potsdamer-sommeropen-vom-14-05-17-05-2026/" rel="noopener" target="_blank">13. Potsdamer Sommeropen</a></td>
