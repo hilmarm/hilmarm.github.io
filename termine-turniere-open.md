@@ -43,6 +43,11 @@ parent_title: Termine
 <td>Günter, Lukas, Jan-Hendrik, Oliver</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2026.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft 2026</a></td>
+<td>04.-12.04.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
 <td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
@@ -71,6 +76,16 @@ parent_title: Termine
 <td><a href="https://seniorenopen-brb.de/33-seniorenopen/" rel="noopener" target="_blank">33. Seniorenopen in Miedzyzdroje</a></td>
 <td>19.-29.06.2026</td>
 <td>Hans-Dieter, Gerhard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
+<td>01.-09.08.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
+<td>08.-16.08.2026</td>
+<td></td>
 </tr>
 </tbody>
 </table>
