@@ -17,6 +17,10 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>2. Runde am 23. April</h2>
+<p>Max – Maxim<br/>
+Wesko/Alex – Rudolf<br/>
+Ulrich/Michael – Kostiantyn</p>
 <h2>1. Runde am 19. Februar</h2>
 <table class="clean swiss footable">
 <thead>
@@ -43,7 +47,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Özates,Mert</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -55,7 +59,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Hintze,Peter</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -67,7 +71,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Maetzing,Hans-Di</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -85,13 +89,13 @@ parent_title: Turniere
 <tr>
 <td>5</td>
 <td>22</td>
-<td>Wetterwald,Kai</td>
+<td>Honcharov,Kostia</td>
 <td>()</td>
 <td>–</td>
 <td>6</td>
 <td>Schenk,Jonatan</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -103,7 +107,7 @@ parent_title: Turniere
 <td>15</td>
 <td>von Kraft,Lukas</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -115,7 +119,7 @@ parent_title: Turniere
 <td>9</td>
 <td>Mietzelfeldt,Ger</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -127,7 +131,7 @@ parent_title: Turniere
 <td>19</td>
 <td>Bahr,Jan-Hendrik</td>
 <td>()</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
@@ -163,7 +167,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Heinrich,Manfred</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>
@@ -351,7 +355,7 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>22</td>
-<td>Wetterwald,Kai</td>
+<td>Honcharov,Kostiantyn</td>
 <td></td>
 <td></td>
 <td>M</td>
@@ -359,6 +363,7 @@ parent_title: Turniere
 </tr>
 </tbody>
 </table>
+<p><script>/*<!--*/ jQuery('th:contains("Teilnehmer")').attr("data-hide","none"); jQuery('th:contains("Ergebnis")').attr("data-hide","none"); jQuery('th:contains("Tisch")').attr("data-hide","tablet,phone"); jQuery('th:contains("TNr")').attr("data-hide","tablet,phone"); jQuery('th:contains("Tite")').attr("data-hide","tablet,phone"); jQuery('th:contains("Punkte")').attr("data-hide","tablet,phone"); //--></script></p>
 </div><!-- .entry-content -->
 </div> #post-110 
 <div id="comments">
