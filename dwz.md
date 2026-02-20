@@ -157,8 +157,8 @@ navs:
 <td>16.</td>
 <td><a href="http://www.schachbund.de/spieler/10118325.html" target="_blank"> Ekkehard Krüger</a></td>
 <td></td>
-<td>1755</td>
-<td>83</td>
+<td>1784</td>
+<td>84</td>
 <td>1866</td>
 </tr>
 <tr>
@@ -189,8 +189,8 @@ navs:
 <td>20.</td>
 <td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
 <td></td>
-<td>1680</td>
-<td>116</td>
+<td>1643</td>
+<td>117</td>
 <td>1837</td>
 </tr>
 <tr>
