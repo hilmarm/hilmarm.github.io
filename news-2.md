@@ -8,6 +8,29 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14696 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14696">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/20/pokal-dinge/" rel="bookmark">Pokal Dinge</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/02/20/pokal-dinge/" rel="bookmark" title="12:00"><span class="entry-date">20. Februar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Der Pokal hat seine eigenen Gesetze….so zumindest angeblich im Fußball.<br/>
+Gestern stand dann auch bei uns die erste Runde zum <strong>Pokal 2026</strong> an. Und direkt strauchelte der ein oder andere „Favorit“.</p>
+<p>Das es in Runde 1 dann mal wieder zum Duell <strong>Rudolf</strong> gegen <strong>Peter</strong> kam, führte dazu, dass ein weiterer „Großer“ direkt raus ist. Dieses Duell hat inzwischen auch schon eine Geschichte, Viertelfinale 2023 (Rudolf) 1. Runde 2024 (Peter), 1. Runde 2026….<br/>
+Dieses mal gewinnt wieder Rudolf das Duell!</p>
+<p>Dann kommen auch 2 Nachrücker weiter. <strong>Gunar</strong> und <strong>Kostiantyn</strong> kamen erst kurzfristig durch Absagen ins Turnier und können beide gewinnen! Gunar nach langer Pause, in seiner zweiten Langpartie – Glückwunsch! Und Kostiantyn schaltet direkt <strong>Jonatan</strong> aus – Glückwunsch!</p>
+<p>Eine weitere Überraschung ist dann sicher auch Sieg von <strong>Maxim</strong>. Den Mehrbauern im Turmendspiel gegen <strong>Hans-Dieter</strong> zu verwandeln, stark!</p>
+<p>Kämpfen für seinen Sieg musste auch der Vorjahressieger <strong>Mert</strong>. <strong>Tom</strong> wehrte sich sehr lange und stand ausgeglichen im Springerendspiel. Kleinere Ungenauigkeiten nutzte Mert dann aber aus und zieht auch in die nächste Runde ein.</p>
+<p>Außerdem gewinnen noch <strong>Max</strong> und <strong>Ekkehard</strong> ihre Duelle.</p>
+<p>Die <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Zwischenrunde</a> wurde auch direkt ausgelost.</p>
+<p>Und Runde 2 zur <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a> ist auch bereits ausgelost.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/02/20/pokal-dinge/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14696 
 <div class="post-14688 post type-post status-publish format-standard hentry category-openberichte" id="post-14688">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/17/berliner-seniorenmeisterschaft/" rel="bookmark">Berliner Seniorenmeisterschaft</a></h2>
 <div class="entry-meta">
@@ -482,30 +505,6 @@ Stadtklasse 3.4 – NARVA III – SG Eintracht/Rochade IV</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/11/bmm-runde-3-geaenderter-spielort-fuer-heimspiel/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14249 
-<div class="post-14392 post type-post status-publish format-standard hentry category-bmm" id="post-14392">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/10/bmm-runde-2-5/" rel="bookmark">BMM Runde 2</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/10/bmm-runde-2-5/" rel="bookmark" title="7:32"><span class="entry-date">10. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auch in Runde 2 zur BMM war nicht viel zu machen.<br/>
-In den ersten beiden Mannschaften waren wir jeweils an allen Brettern nach DWZ unterlegen. So war jeder Brettpunkt ein Erfolg und kann am Ende wichtig sein.</p>
-<p>Die <strong>1.Mannschaft</strong> musste gegen die Zweite von TSG Oberschöneweide ran. Nur <strong>Batu</strong> und <strong>Jerry</strong> konnten gewinnen, gegen die beiden FM! Der Rest verliert zum <strong>2:6</strong> Endstand aus unserer Sicht.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1.jpg"><img alt="" class="aligncenter wp-image-14395" decoding="async" height="210" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1-300x126.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1-300x126.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m1.jpg 599w" width="500"/></a><br/>
-Auch für die <strong>2.Mannschaft</strong> ging es nach Oberschöneweide, hier gegen die Fünfte. Leider blieb kurzfristig ein Brett frei, aber auch <strong>TSG 5</strong> war nicht komplett. So kam ein voller Punkt von <strong>Hans-Dieter</strong>, dazu Remis von <strong>Hilmar</strong> und <strong>Jens</strong>. An einigen Brettern war evtl. wieder mehr drin, aber am Ende setzte sich jeweils der DWZ-Favorit durch und wir verlieren mit <strong>2:6</strong>.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2.jpg"><img alt="" class="aligncenter wp-image-14394" decoding="async" height="207" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2-300x124.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2-300x124.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m2.jpg 617w" width="500"/></a><br/>
-Wie schon in Runde 1 konnte die <strong>3.Mannschaft</strong> den Tag für NARVA retten. Mit dem klaren <strong>4:2</strong> Erfolg gegen <strong>Kreuzberg 10</strong> ist man nun sogar Tabellenführer!<br/>
-Wir freuen uns vor allem über die Rückkehr von <strong>Klaus</strong>, der auch gleich gewinnen konnte! Dazu  kamen volle Punkte von <strong>Maxim</strong>, <strong>Lukas</strong> und <strong>Michael</strong>.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3.jpg"><img alt="" class="aligncenter wp-image-14393" decoding="async" height="172" loading="lazy" sizes="auto, (max-width: 500px) 100vw, 500px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3-300x103.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/bmm_2526_r2_m3.jpg 578w" width="500"/></a></p>
-<p>Fotos von NARVA 2 (von Hans-Dieter)<br/>
-<a class="more-link" href="https://www.narva-schach.de/wordpress/2025/11/10/bmm-runde-2-5/#more-14392">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/10/bmm-runde-2-5/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14392 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

@@ -60,7 +60,8 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td>Himmelfahrtsblitz SG Weißensee</td>
 <td>14.05.2026</td>
-<td>Mannschaft</td>
+<td>Mannschaft<br/>
+<span style="font-size: 8pt;"><em>Dieter, Günter, Peter, Philipp</em></span></td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.sglasker.de/teschner-2026/" rel="noopener" target="_blank">Teschner-Gedenkturnier 2026</a></td>
