@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://ftajedrez.com/campeonato-de-tenerife-2026-absoluto-veterano-femenino-juvenil/" rel="noopener" target="_blank">TENERIFFA-MEISTERSCHAFT 2026</a></td>
-<td>13.-21.02.2026</td>
-<td>Lasko</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
 <td>05.-08.03.2026</td>
 <td>Maxim, Oliver</td>
@@ -84,7 +79,7 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
-<td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
+<td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
 <td>08.-16.08.2026</td>
 <td></td>
 </tr>
