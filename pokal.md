@@ -17,10 +17,61 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
-<h2>2. Runde am 23. April</h2>
-<p>Max – Maxim<br/>
-Wesko/Alex – Rudolf<br/>
-Ulrich/Michael – Kostiantyn</p>
+<h2>2. Runde am 23. April (Zwischenrunde)</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Tisch</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>–</th>
+<th>TNr</th>
+<th>Teilnehmer</th>
+<th>Punkte</th>
+<th>Ergebnis</th>
+<th>At</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>11</td>
+<td>Kappus,Maximilia</td>
+<td>(1)</td>
+<td>–</td>
+<td>14</td>
+<td>Stüve,Maxim</td>
+<td>(1)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td></td>
+<td>Wesko/Alex</td>
+<td>()</td>
+<td>–</td>
+<td>2</td>
+<td>Lange,Rudolf</td>
+<td>(1)</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td></td>
+<td>Ulrich/Michael</td>
+<td>()</td>
+<td>–</td>
+<td>22</td>
+<td>Honcharov,Kostia</td>
+<td>(1)</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>1. Runde am 19. Februar</h2>
 <table class="clean swiss footable">
 <thead>
@@ -45,7 +96,7 @@ Ulrich/Michael – Kostiantyn</p>
 <td>()</td>
 <td>–</td>
 <td>1</td>
-<td>Özates,Mert</td>
+<td><strong>Özates,Mert</strong></td>
 <td>()</td>
 <td>0 – 1</td>
 <td></td>
@@ -53,7 +104,7 @@ Ulrich/Michael – Kostiantyn</p>
 <tr>
 <td>2</td>
 <td>2</td>
-<td>Lange,Rudolf</td>
+<td><strong>Lange,Rudolf</strong></td>
 <td>()</td>
 <td>–</td>
 <td>3</td>
@@ -65,7 +116,7 @@ Ulrich/Michael – Kostiantyn</p>
 <tr>
 <td>3</td>
 <td>14</td>
-<td>Stüve,Maxim</td>
+<td><strong>Stüve,Maxim</strong></td>
 <td>()</td>
 <td>–</td>
 <td>4</td>
@@ -89,7 +140,7 @@ Ulrich/Michael – Kostiantyn</p>
 <tr>
 <td>5</td>
 <td>22</td>
-<td>Honcharov,Kostia</td>
+<td><strong>Honcharov,Kostia</strong></td>
 <td>()</td>
 <td>–</td>
 <td>6</td>
@@ -101,7 +152,7 @@ Ulrich/Michael – Kostiantyn</p>
 <tr>
 <td>6</td>
 <td>7</td>
-<td>Krüger,Ekkehard</td>
+<td><strong>Krüger,Ekkehard</strong></td>
 <td>()</td>
 <td>–</td>
 <td>15</td>
@@ -113,7 +164,7 @@ Ulrich/Michael – Kostiantyn</p>
 <tr>
 <td>7</td>
 <td>11</td>
-<td>Kappus,Maximilia</td>
+<td><strong>Kappus,Maximilia</strong></td>
 <td>()</td>
 <td>–</td>
 <td>9</td>
@@ -129,7 +180,7 @@ Ulrich/Michael – Kostiantyn</p>
 <td>()</td>
 <td>–</td>
 <td>19</td>
-<td>Bahr,Jan-Hendrik</td>
+<td><strong>Bahr,Jan-Hendrik</strong></td>
 <td>()</td>
 <td>– – +</td>
 <td></td>
@@ -161,7 +212,7 @@ Ulrich/Michael – Kostiantyn</p>
 <tr>
 <td>11</td>
 <td>21</td>
-<td>Maiwald,Gunar</td>
+<td><strong>Maiwald,Gunar</strong></td>
 <td>()</td>
 <td>–</td>
 <td>20</td>
