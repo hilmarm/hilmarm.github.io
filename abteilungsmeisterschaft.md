@@ -302,7 +302,7 @@ parent_title: Turniere
 <td>9</td>
 <td>Mietzelfeldt,Ger</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>

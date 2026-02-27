@@ -60,8 +60,8 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>3</td>
-<td></td>
-<td>Ulrich/Michael</td>
+<td>17</td>
+<td>Campe,Ulrich</td>
 <td>()</td>
 <td>–</td>
 <td>22</td>
@@ -132,9 +132,9 @@ parent_title: Turniere
 <td>()</td>
 <td>–</td>
 <td>5</td>
-<td>Magnusson,Hilmar</td>
+<td><strong>Magnusson,Hilmar</strong></td>
 <td>()</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -200,13 +200,13 @@ parent_title: Turniere
 <tr>
 <td>10</td>
 <td>17</td>
-<td>Campe,Ulrich</td>
+<td><strong>Campe,Ulrich</strong></td>
 <td>()</td>
 <td>–</td>
 <td>18</td>
 <td>Werner,Michael</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
