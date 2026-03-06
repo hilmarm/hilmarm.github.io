@@ -22,7 +22,7 @@ navs:
 <span class="cat-links">
 <span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/02/training-mit-rouven-am-05-03-26/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/02/training-mit-rouven-am-05-03-26/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14722 
 <div class="post-14719 post type-post status-publish format-standard hentry category-bfl" id="post-14719">
