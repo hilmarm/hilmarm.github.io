@@ -63,7 +63,7 @@ navs:
 <td></td>
 <td>1962</td>
 <td>64</td>
-<td>1981</td>
+<td>1972</td>
 </tr>
 <tr>
 <td>5.</td>
@@ -71,7 +71,7 @@ navs:
 <td>P</td>
 <td>1952</td>
 <td>515</td>
-<td>2015</td>
+<td>2032</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -79,7 +79,7 @@ navs:
 <td></td>
 <td>1944</td>
 <td>15</td>
-<td>1941</td>
+<td>1931</td>
 </tr>
 <tr>
 <td>7.</td>
@@ -103,7 +103,7 @@ navs:
 <td></td>
 <td>1894</td>
 <td>68</td>
-<td>1941</td>
+<td>1957</td>
 </tr>
 <tr>
 <td>10.</td>
@@ -119,7 +119,7 @@ navs:
 <td></td>
 <td>1870</td>
 <td>41</td>
-<td>0</td>
+<td>1798</td>
 </tr>
 <tr>
 <td>12.</td>
@@ -159,7 +159,7 @@ navs:
 <td></td>
 <td>1784</td>
 <td>84</td>
-<td>1866</td>
+<td>1888</td>
 </tr>
 <tr>
 <td>17.</td>
@@ -167,7 +167,7 @@ navs:
 <td></td>
 <td>1734</td>
 <td>78</td>
-<td>1734</td>
+<td>1740</td>
 </tr>
 <tr>
 <td>18.</td>
@@ -183,7 +183,7 @@ navs:
 <td></td>
 <td>1684</td>
 <td>81</td>
-<td>1819</td>
+<td>1821</td>
 </tr>
 <tr>
 <td>20.</td>
@@ -191,7 +191,7 @@ navs:
 <td></td>
 <td>1643</td>
 <td>117</td>
-<td>1837</td>
+<td>1814</td>
 </tr>
 <tr>
 <td>21.</td>
@@ -287,7 +287,7 @@ navs:
 <td></td>
 <td>1504</td>
 <td>28</td>
-<td>1750</td>
+<td>1733</td>
 </tr>
 <tr>
 <td>33.</td>
@@ -363,19 +363,19 @@ navs:
 </tr>
 <tr>
 <td>42.</td>
-<td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
-<td></td>
-<td>1224</td>
-<td>10</td>
-<td>1669</td>
-</tr>
-<tr>
-<td>43.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
 <td>1224</td>
 <td>43</td>
 <td>1635</td>
+</tr>
+<tr>
+<td>43.</td>
+<td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
+<td></td>
+<td>1224</td>
+<td>10</td>
+<td>1553</td>
 </tr>
 <tr>
 <td>44.</td>
