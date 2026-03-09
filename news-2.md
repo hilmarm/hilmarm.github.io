@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14727 post type-post status-publish format-standard hentry category-bmm" id="post-14727">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark">Runde 7 BMM – NARVA 1 gewinnt!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark" title="9:33"><span class="entry-date">9. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Sonntag kam unsere <strong>1.Mannschaft</strong> zu ihrem ersten Saisonerfolg! Eine geschlossene Mannschaftsleistung und die Siege an den ersten beiden Brettern brachten den knappen <strong>4,5:3,5</strong> Sieg gegen <strong>SC Kreuzberg 4</strong>. Wo es sonst in den letzten Runden gegen uns lief, konnten jetzt auch mal wichtige halbe Punkte gesichert werden. Eine kleine Flamme für den Klassenerhalt brennt noch, zumindest steigt man aber nicht mit 0 Punkten ab!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14725" decoding="async" height="216" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-300x101.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-768x259.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg 1079w" width="640"/></a></p>
+<p>Die <strong>2.Mannschaft</strong> hatte wieder einen schweren Stand, außerdem musste kurzfristig noch viel gerutscht werden. Am Ende hatten wir gegen <strong>SC Kreuzberg 5</strong> keine Chance und verlieren mit <strong>1,5:6,5</strong>. Nur die halben Punkte von Gerhard, Jens und mir sind gute Einzelleistungen, alle anderen mussten sich früher oder später ihren stärkeren Gegnern geschlagen geben.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg"><img alt="" class="aligncenter wp-image-14726 size-large" decoding="async" height="238" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-300x112.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-768x286.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg 1037w" width="640"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14727 
 <div class="post-14722 post type-post status-publish format-standard hentry category-training" id="post-14722">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/02/training-mit-rouven-am-05-03-26/" rel="bookmark">Training mit Rouven am 05.03.26</a></h2>
 <div class="entry-meta">
@@ -16,7 +33,7 @@ navs:
 <p>Am Donnerstag gibt es wieder Training! <strong>Rouven präsentiert seine Vorbereitung zu schwarzen Ideen gegen 1.f4!</strong></p>
 <p>In Anlehnung an meine Partie gegen Dr. Mayer zeigt Rouven noch andere Ideen gegen f4 (bzw. wie man es richtig spielt 😉 ).</p>
 <p><strong>Start ist am 05.03.26 um 18:30 Uhr!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5.jpg"><img alt="" class="aligncenter size-medium wp-image-14723" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5.jpg 706w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5.jpg"><img alt="" class="aligncenter size-medium wp-image-14723" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/f4e5.jpg 706w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -32,7 +49,7 @@ navs:
 <div class="entry-content">
 <p>Letzte Woche ging es auch bei der <strong>Feierabendliga BFL</strong> in die nächste Runde. Für die Erste war es Runde 6, für die anderen beiden Mannschaften Runde 5.</p>
 <p>Am Dienstag waren NARVA 2 und 3 dran. Für <strong>NARVA 2</strong> gab es eine knappe 1,5:2,5 Niederlage gegen die Tabellenführer von Zitadelle Spandau. Bemerkenswert dabei der Sieg von Mert gegen Terry van der Veen! Trotzdem hängt NARVA 2 weiter auf dem letzten Tabellenplatz fest.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2.jpg"><img alt="" class="aligncenter size-full wp-image-14718" decoding="async" height="145" sizes="(max-width: 609px) 100vw, 609px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2.jpg 609w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2-300x71.jpg 300w" width="609"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2.jpg"><img alt="" class="aligncenter size-full wp-image-14718" decoding="async" height="145" loading="lazy" sizes="auto, (max-width: 609px) 100vw, 609px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2.jpg 609w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m2-300x71.jpg 300w" width="609"/></a></p>
 <p><strong>NARVA 3</strong> konnte dagegen den ersten Sieg einfahren! Mit einem klaren 3:1 Sieg gegen Berolina 2 hat man nun auch die rote Laterne abgegeben. Stark die Siege von Maxim und Jan-Hendrik!</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m3.jpg"><img alt="" class="aligncenter size-full wp-image-14717" decoding="async" height="141" loading="lazy" sizes="auto, (max-width: 554px) 100vw, 554px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m3.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m3.jpg 554w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bfl26r6m3-300x76.jpg 300w" width="554"/></a></p>
 <p>Am Donnerstag hätte dann eigentlich Berolina 1 gegen unsere Erste spielen sollen, es gab aber nicht genug Spieler und so hat Berolina den Kampf abgesagt. Mit dem Sieg liegt <strong>NARVA 1</strong> nun auf Platz 4 der Staffel A.</p>
@@ -478,27 +495,6 @@ Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14456 
-<div class="post-14434 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14434">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/27/einladung-weihnachtsfeier/" rel="bookmark">Einladung Weihnachtsfeier</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/27/einladung-weihnachtsfeier/" rel="bookmark" title="10:00"><span class="entry-date">27. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Am 11.12.2025 findet im Club Kadiner Str. unsere traditionelle Weihnachtsfeier als Jahresabschluss statt! Der Vorstand lädt Euch dazu herzlich ein!!</strong></p>
-<p><strong><span style="color: #ff0000;">Start ist um 18:30 Uhr!</span></strong><br/>
-<strong><span style="color: #ff0000;">Es gibt ausreichend zu essen und zu trinken!</span></strong><br/>
-<strong><span style="color: #ff0000;">Es gibt die Siegerehrung für die internen Turniere!</span></strong><br/>
-<strong><span style="color: #ff0000;">Es gibt ein Blitzturnier mit anschließenden Würfeln!</span></strong></p>
-<p><strong>Der Beitrag für jeden Teilnehmer beträgt unverändert 3,- €</strong></p>
-<p>Teilnehmen dürfen alle Mitglieder der Abteilung Schach!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920.jpg"><img alt="" class="aligncenter size-large wp-image-11743" decoding="async" height="427" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-1024x683.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/santa-claus-3871760_1920.jpg 1920w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/27/einladung-weihnachtsfeier/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14434 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

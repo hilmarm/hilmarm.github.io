@@ -59,19 +59,19 @@ navs:
 </tr>
 <tr>
 <td>4.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1975</td>
+<td>516</td>
+<td>2032</td>
+</tr>
+<tr>
+<td>5.</td>
 <td><a href="http://www.schachbund.de/spieler/10205260.html" target="_blank"> Tomas Segerberg</a></td>
 <td></td>
 <td>1962</td>
 <td>64</td>
 <td>1972</td>
-</tr>
-<tr>
-<td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1952</td>
-<td>515</td>
-<td>2032</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -237,20 +237,12 @@ navs:
 <td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
-<td>1553</td>
-<td>16</td>
+<td>1543</td>
+<td>17</td>
 <td>1675</td>
 </tr>
 <tr>
 <td>27.</td>
-<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
-<td></td>
-<td>1529</td>
-<td>5</td>
-<td>0</td>
-</tr>
-<tr>
-<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10116442.html" target="_blank"> Alexander Kreisel</a></td>
 <td></td>
 <td>1520</td>
@@ -258,7 +250,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>29.</td>
+<td>28.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
 <td>1512</td>
@@ -266,7 +258,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>30.</td>
+<td>29.</td>
 <td><a href="http://www.schachbund.de/spieler/10029562.html" target="_blank"> Ulrich Campe</a></td>
 <td></td>
 <td>1510</td>
@@ -274,7 +266,7 @@ navs:
 <td>1847</td>
 </tr>
 <tr>
-<td>31.</td>
+<td>30.</td>
 <td><a href="http://www.schachbund.de/spieler/10167436.html" target="_blank"> Jens Prädel</a></td>
 <td></td>
 <td>1508</td>
@@ -282,12 +274,20 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>32.</td>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
 <td>1504</td>
 <td>28</td>
 <td>1733</td>
+</tr>
+<tr>
+<td>32.</td>
+<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
+<td></td>
+<td>1464</td>
+<td>6</td>
+<td>0</td>
 </tr>
 <tr>
 <td>33.</td>
