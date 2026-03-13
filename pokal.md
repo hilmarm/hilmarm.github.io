@@ -48,9 +48,9 @@ parent_title: Turniere
 </tr>
 <tr>
 <td>2</td>
-<td></td>
-<td>Wesko/Alex</td>
-<td>()</td>
+<td>12</td>
+<td>Heinrich,Wesko</td>
+<td>(1)</td>
 <td>–</td>
 <td>2</td>
 <td>Lange,Rudolf</td>
@@ -188,13 +188,13 @@ parent_title: Turniere
 <tr>
 <td>9</td>
 <td>12</td>
-<td>Heinrich,Wesko</td>
+<td><strong>Heinrich,Wesko</strong></td>
 <td>()</td>
 <td>–</td>
 <td>16</td>
 <td>Kreisel,Alexande</td>
 <td>()</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
