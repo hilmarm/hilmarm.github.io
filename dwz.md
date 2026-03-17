@@ -237,7 +237,7 @@ navs:
 <td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10835343.html" target="_blank"> Oliver Wäldrich</a></td>
 <td></td>
-<td>1543</td>
+<td>1542</td>
 <td>17</td>
 <td>1675</td>
 </tr>
