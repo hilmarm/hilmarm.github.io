@@ -61,8 +61,8 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1975</td>
-<td>516</td>
+<td>1978</td>
+<td>517</td>
 <td>2032</td>
 </tr>
 <tr>
@@ -283,14 +283,6 @@ navs:
 </tr>
 <tr>
 <td>32.</td>
-<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
-<td></td>
-<td>1464</td>
-<td>6</td>
-<td>0</td>
-</tr>
-<tr>
-<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10110847.html" target="_blank"> Ingo König</a></td>
 <td></td>
 <td>1464</td>
@@ -298,11 +290,19 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>34.</td>
+<td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10830173.html" target="_blank"> Juri Horst</a></td>
 <td></td>
 <td>1463</td>
 <td>3</td>
+<td>0</td>
+</tr>
+<tr>
+<td>34.</td>
+<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
+<td></td>
+<td>1460</td>
+<td>6</td>
 <td>0</td>
 </tr>
 <tr>
