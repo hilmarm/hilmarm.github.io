@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
-<td>05.-08.03.2026</td>
-<td>Maxim, Oliver</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.lsvmv.de/turnierseite-des-lsv-mv.php?section=internationales_schachopen_graal-mueritz" rel="noopener" target="_blank">3. Schachopen Graal-Müritz</a></td>
-<td>16.-21.03.2026</td>
-<td>Bernd</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
 <td>26.-29.03.2026</td>
 <td>Günter, Lukas, Jan-Hendrik, Oliver</td>
@@ -40,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2026.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft 2026</a></td>
 <td>04.-12.04.2026</td>
-<td></td>
+<td>Bernd, Jonatan, Ja-Hendril, Kostiantyn</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>

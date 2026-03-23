@@ -8,15 +8,54 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14741 post type-post status-publish format-standard hentry category-bmm" id="post-14741">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/23/bmm-runde-8-ein-punkt-von-narva-3/" rel="bookmark">BMM Runde 8 – ein Punkt von NARVA 3</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/23/bmm-runde-8-ein-punkt-von-narva-3/" rel="bookmark" title="17:28"><span class="entry-date">23. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Auch Runde 8 der BMM bringt nicht viel zählbares. Große Besetzungsprobleme führten auch zu 2 freien Brettern. Am Ende kann nur die 3.Mannschaaft einen Punkt mitnehmen.</p>
+<p><strong>NARVA 1</strong> bekam es mit <strong>Empor 1</strong> zu tun und hat mit der <strong>2:6</strong> Niederlage nun den Abstieg besiegelt. Stark zumindest die Erfolge bzw. Remis von <strong>Bram</strong> gegen IM Volke, <strong>Mert</strong> gegen Jahn mit 2092 und <strong>Philipp</strong> gegen Bötzel mit 1811.</p>
+<p>Mert diese Saison bei 4,5 aus mit einer ELO Leistung von 2155!</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1.jpg"><img alt="" class="aligncenter size-full wp-image-14737" decoding="async" height="257" sizes="(max-width: 660px) 100vw, 660px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1.jpg 660w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1-300x117.jpg 300w" width="660"/></a></p>
+<p>Auch <strong>NARVA 2</strong> ist bereits abgestiegen und war um Schadensbegrenzung bemüht, aber auch hier war mit 7 Mann nicht viel zu holen. Gegen <strong>Fredersdorf 1</strong> verliert man mit <strong>2,5:5,5</strong>.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2.jpg"><img alt="" class="aligncenter size-full wp-image-14736" decoding="async" height="255" sizes="(max-width: 596px) 100vw, 596px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2.jpg 596w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2-300x128.jpg 300w" width="596"/></a></p>
+<p><strong>NARVA 3</strong> konnte zumindest ein starkes Unentschieden holen. Mit dem Aufstieg hatte man nichts mehr zu tun, aber auch <strong>Fredersdorf 2</strong> war ja hier im Rennen und das <strong>3:3</strong> geht in Ordnung, wenn man sich die Zahlen der Gegner ansieht.</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3.jpg"><img alt="" class="aligncenter size-full wp-image-14735" decoding="async" height="203" loading="lazy" sizes="auto, (max-width: 607px) 100vw, 607px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3.jpg 607w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3-300x100.jpg 300w" width="607"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/23/bmm-runde-8-ein-punkt-von-narva-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14741 
+<div class="post-14739 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14739">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/" rel="bookmark">Peter gewinnt März Blitz</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/" rel="bookmark" title="17:17"><span class="entry-date">23. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag fand bereits das <strong>März-Blitz</strong> statt. Durch die Feierabendliga schon eine Woche eher als üblich, war es auch erst Runde 2 dieses Jahr.</p>
+<p>Geleitet zum ersten mal von Neu-RSR Schiedsrichter Jan!</p>
+<p>Mit nur einer Niederlage (gegen Jonatan) setzte sich am Ende <strong>Peter</strong> mit 8 Punkten durch und baut seine Führung in der Gesamtwertung aus. Titelverteidiger <strong>Mert</strong> kam auf Platz 2 mit 7 Punkten (gegen Peter und Ekkehard verloren). Ein starker 3.Platz geht an<strong> Jonatan</strong> mit 6 Punkten und Platz 2 der noch frühen Gesamtwertung.</p>
+<p>Gäste waren keine am Start.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14739 
 <div class="post-14727 post type-post status-publish format-standard hentry category-bmm" id="post-14727">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark">Runde 7 BMM – NARVA 1 gewinnt!</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark" title="9:33"><span class="entry-date">9. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Am Sonntag kam unsere <strong>1.Mannschaft</strong> zu ihrem ersten Saisonerfolg! Eine geschlossene Mannschaftsleistung und die Siege an den ersten beiden Brettern brachten den knappen <strong>4,5:3,5</strong> Sieg gegen <strong>SC Kreuzberg 4</strong>. Wo es sonst in den letzten Runden gegen uns lief, konnten jetzt auch mal wichtige halbe Punkte gesichert werden. Eine kleine Flamme für den Klassenerhalt brennt noch, zumindest steigt man aber nicht mit 0 Punkten ab!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14725" decoding="async" height="216" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-300x101.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-768x259.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg 1079w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14725" decoding="async" height="216" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-300x101.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-768x259.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg 1079w" width="640"/></a></p>
 <p>Die <strong>2.Mannschaft</strong> hatte wieder einen schweren Stand, außerdem musste kurzfristig noch viel gerutscht werden. Am Ende hatten wir gegen <strong>SC Kreuzberg 5</strong> keine Chance und verlieren mit <strong>1,5:6,5</strong>. Nur die halben Punkte von Gerhard, Jens und mir sind gute Einzelleistungen, alle anderen mussten sich früher oder später ihren stärkeren Gegnern geschlagen geben.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg"><img alt="" class="aligncenter wp-image-14726 size-large" decoding="async" height="238" sizes="(max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-300x112.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-768x286.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg 1037w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg"><img alt="" class="aligncenter wp-image-14726 size-large" decoding="async" height="238" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-300x112.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-768x286.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg 1037w" width="640"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -431,70 +470,6 @@ Thomas <span style="font-size: 10pt;">(zum 7. mal am Start)</span> ca. 5 aus 10<
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/09/blitz-koelsch-blitz-kuemmerling/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14462 
-<div class="post-14443 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14443">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/" rel="bookmark">Interne Turniere beendet – Ausschreibungen für 2026</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/" rel="bookmark" title="19:29"><span class="entry-date">30. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/jonatan/" title="Alle Beiträge von Jonatan Schenk (Spielleiter/Vize) anzeigen">Jonatan Schenk (Spielleiter/Vize)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Inzwischen sind alle internen Turniere beendet. Die letzte noch offene Partie der Abteilungsmeisterschaft habe ich am Donnerstag kampflos gewertet. Einen Einfluss auf die Preisvergabe hatte sie ohnehin nicht mehr.</p>
-<p>Neuer <strong>Abteilungsmeister</strong> ist <strong>Hilmar</strong>, der in der letzten Runde gegen Jerry gewann. In der zweiten Spitzenpartie trennten Dieter und ich uns remis, was für <strong>mich</strong> zum zweiten und für <strong>Dieter</strong> zum dritten Platz reicht. <strong>Jerry</strong> verpasst den dritten Platz wie schon im letzten Jahr erneut sehr knapp. Die Ratingpreise gehen an <strong>Thomas</strong> (U1600) und <strong>Juri</strong> (U1400).</p>
-<p>Die DWZ-Auswertung ist erfolgt und wird voraussichtlich morgen veröffentlicht. Größter Gewinner ist Juri (+85) vor Hilmar (+58) und mir (+49).</p>
-<p>Im <strong>Pokal</strong> gewinnt <strong>Mert</strong> das Finale kampflos. <strong>Peter</strong> ist Zweiter. Im Spiel um Platz 3 setzte sich <strong>Rudolf</strong> durch.</p>
-<p>Die Jahreswertung im <strong>Blitzschach</strong> gewinnt ebenfalls <strong>Mert</strong>. Wie im Pokal landet <strong>Peter</strong> auf dem zweiten und <strong>Rudolf</strong> auf dem dritten Platz. Der Preis für den besten Gast geht an <strong>Matthias Pröschild</strong> (Chemie Weißensee).</p>
-<p>Im <strong>Schnellschach</strong> konnte <strong>Peter</strong> seinen Titel erneut verteidigen. Er erreichte mit vier Turniersiegen die maximal mögliche Punktzahl. Zweiter ist <strong>Tomas</strong>, dritter bin <strong>ich</strong>.</p>
-<p>Für die Saison 2026 gibt es auch die ersten Ausschreibungen:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Abteilungsmeisterschaft-2026.pdf">Abteilungsmeisterschaft</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal</a></p>
-<p>Anmeldungen sind ab sofort möglich.</p>
-<p>Die Ausschreibungen für Blitz- und Schnellschach folgen demnächst. Hier ist wie bisher keine Voranmeldung erforderlich.</p>
-<div class="wpcf7 no-js" data-wpcf7-id="9811" dir="ltr" id="wpcf7-f9811-p14443-o1" lang="de-DE">
-<div class="screen-reader-response"><p aria-atomic="true" aria-live="polite" role="status"></p> <ul></ul></div>
-<form action="/wordpress/news-2/#wpcf7-f9811-p14443-o1" aria-label="Kontaktformular" class="wpcf7-form init" data-status="init" method="post" novalidate="novalidate">
-<fieldset class="hidden-fields-container"><input name="_wpcf7" type="hidden" value="9811"/><input name="_wpcf7_version" type="hidden" value="6.1.5"/><input name="_wpcf7_locale" type="hidden" value="de_DE"/><input name="_wpcf7_unit_tag" type="hidden" value="wpcf7-f9811-p14443-o1"/><input name="_wpcf7_container_post" type="hidden" value="14443"/><input name="_wpcf7_posted_data_hash" type="hidden" value=""/>
-</fieldset>
-<p><label> Dein Name<br/>
-<span class="wpcf7-form-control-wrap" data-name="your-name"><input aria-invalid="false" aria-required="true" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" maxlength="400" name="your-name" size="40" type="text" value=""/></span> </label>
-</p>
-<p>Abteilungsmeisterschaft: <span class="wpcf7-form-control-wrap" data-name="Abteilung"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input name="Abteilung" type="radio" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Abteilung" type="radio" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span><br/>
-Pokal: <span class="wpcf7-form-control-wrap" data-name="Pokal"><span class="wpcf7-form-control wpcf7-radio"><span class="wpcf7-list-item first"><label><input name="Pokal" type="radio" value="Ja"/><span class="wpcf7-list-item-label">Ja</span></label></span><span class="wpcf7-list-item last"><label><input name="Pokal" type="radio" value="Nein"/><span class="wpcf7-list-item-label">Nein</span></label></span></span></span>
-</p>
-<p><label> Kommentar<br/>
-<span class="wpcf7-form-control-wrap" data-name="Kommentar"><input aria-invalid="false" class="wpcf7-form-control wpcf7-text" maxlength="400" name="Kommentar" size="40" type="text" value=""/></span> </label>
-</p>
-<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden"/>
-</p><div aria-hidden="true" class="wpcf7-response-output"></div>
-</form>
-</div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14443 
-<div class="post-14456 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14456">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/" rel="bookmark">Mert ist Blitzmeister 2025!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/" rel="bookmark" title="7:34"><span class="entry-date">30. November 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Bereits am 20.11. fand das <strong>Monatsblitz November</strong> und damit das Finale 2025 statt. Die Ausgangslage in der Gesamtwertung war knapp, Peter hatte nur noch einen Punkt Vorsprung auf Mert, erschwerend für Peter kam dazu, dass er schon 6 Teilnahmen hatte und damit er nur das schlechteste verbessern konnte, Mert hingegen konnte noch voll Punkten.</p>
-<p><strong>Mert</strong> war am Ende der Einzige, der ohne Niederlage blieb, aber er sammelte auch 6 mal Remis ein. So erreichte er Platz 3 und bekommt 8 Punkte auf sein Konto. Peter hätte damit selbst ein Sieg nicht gereicht. Somit ist Mert Blitzmeister 2025!</p>
-<p>Der Sieg im Novemberblitz wurde fast zu einem Durchmarsch von <strong>Rudolf</strong>, er gab nur 1,5 Punkte ab, gegen Peter verloren und gegen Mert Remis. Es ist sein erster Blitz-Tagessieg seit Januar 2014! Rudolf hat sich damit auch noch auf Platz 3 der Gesamtwertung geschoben.</p>
-<p>Dahinter lief mit <strong>Matthias</strong> der beste Gast ein. Mit Platz 2 und 13,5 Punkten wird er in der Gesamtwertung Vierter und ist somit bester Gast. Hinter Mert auf Platz 3 kam <strong>Peter</strong> ins Ziel, er gab insgesamt 3,5 Punkte ab.</p>
-<p>Bei 17 Teilnehmern waren insgesamt 5 Gäste dabei, mit Kai Wetterwald ist direkt einer Mitglied geworden!</p>
-<div class="wp-caption aligncenter" id="attachment_14444" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-scaled.jpg"><img alt="" aria-describedby="caption-attachment-14444" class="size-medium wp-image-14444" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/20251120_222029-2048x1536.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14444">Tagessieger, Gesamtsieger und Bester Gast</p></div>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-<p>weitere Fotos:</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/#more-14456">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/11/30/mert-ist-blitzmeister-2025/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14456 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
