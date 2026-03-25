@@ -69,7 +69,7 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 </div><!-- .entry-utility -->
 </div> #post-14739 
 <div class="post-14727 post type-post status-publish format-standard hentry category-bmm" id="post-14727">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark">Runde 7 BMM – NARVA 1 gewinnt!</a></h2>
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark">BMM Runde 7 – NARVA 1 gewinnt!</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark" title="9:33"><span class="entry-date">9. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
