@@ -28,9 +28,14 @@ parent_title: Termine
 <td>Günter, Lukas, Jan-Hendrik, Oliver</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.grenkechessopen.de/de/" rel="noopener" target="_blank">grenke Chess Open</a></td>
+<td>02.-06.04.2026</td>
+<td>Mert</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2026.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft 2026</a></td>
 <td>04.-12.04.2026</td>
-<td>Bernd, Jonatan, Ja-Hendril, Kostiantyn</td>
+<td>Bernd, Jonatan, Ja-Hendrik, Kostiantyn</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
