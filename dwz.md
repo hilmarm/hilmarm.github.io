@@ -187,14 +187,6 @@ navs:
 </tr>
 <tr>
 <td>20.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1643</td>
-<td>117</td>
-<td>1814</td>
-</tr>
-<tr>
-<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10083814.html" target="_blank"> Katrin Hildebrand</a></td>
 <td></td>
 <td>1636</td>
@@ -202,7 +194,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>22.</td>
+<td>21.</td>
 <td><a href="http://www.schachbund.de/spieler/10778656.html" target="_blank"> Maximilian Kappus</a></td>
 <td></td>
 <td>1635</td>
@@ -210,12 +202,20 @@ navs:
 <td>1793</td>
 </tr>
 <tr>
-<td>23.</td>
+<td>22.</td>
 <td><a href="http://www.schachbund.de/spieler/10024729.html" target="_blank"> Klaus Brinckmann</a></td>
 <td></td>
 <td>1584</td>
 <td>78</td>
 <td>1801</td>
+</tr>
+<tr>
+<td>23.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1581</td>
+<td>118</td>
+<td>1814</td>
 </tr>
 <tr>
 <td>24.</td>
