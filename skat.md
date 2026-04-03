@@ -222,6 +222,10 @@ parent_title: Chronik
 <td align="left">2025</td>
 <td align="left">Wolfgang Mach</td>
 </tr>
+<tr>
+<td align="left">2026</td>
+<td align="left">Jan-Hendrik Bahr</td>
+</tr>
 </tbody>
 </table>
 <h2 align="center"><span style="text-decoration: underline;"><b>!! Grand Ouvert !! </b>von Torsten Behrendt am 17.01.1991</span></h2>
@@ -229,8 +233,57 @@ parent_title: Chronik
 <h1 align="center"><strong><u>Einzelergebnisse</u></strong></h1>
 </div>
 <hr/>
+<h3>2026</h3>
+<h4>03. April 2026</h4>
+<table>
+<thead>
+<tr>
+<th>Platz</th>
+<th>Name</th>
+<th>Punkte</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1.</td>
+<td>Jan-Hendrik Bahr</td>
+<td>1270</td>
+</tr>
+<tr>
+<td>2.</td>
+<td>Peter Hintze</td>
+<td>1259</td>
+</tr>
+<tr>
+<td>3.</td>
+<td>Jonatan Schenk</td>
+<td>1180</td>
+</tr>
+<tr>
+<td>4.</td>
+<td>Ekkehard Krüger</td>
+<td>1046</td>
+</tr>
+<tr>
+<td>5.</td>
+<td>Dr. Hans-Dieter Maetzing</td>
+<td>988</td>
+</tr>
+<tr>
+<td>6.</td>
+<td>Klaus Brinckmann</td>
+<td>627</td>
+</tr>
+<tr>
+<td>7.</td>
+<td>Wesko Heinrich</td>
+<td>-138</td>
+</tr>
+</tbody>
+</table>
+<hr/>
 <h3>2025</h3>
-<h4>17. April 2024</h4>
+<h4>17. April 2025</h4>
 <table>
 <thead>
 <tr>
