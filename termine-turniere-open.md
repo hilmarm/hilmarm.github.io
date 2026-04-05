@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
-<td>26.-29.03.2026</td>
-<td>Günter, Lukas, Jan-Hendrik, Oliver</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.grenkechessopen.de/de/" rel="noopener" target="_blank">grenke Chess Open</a></td>
 <td>02.-06.04.2026</td>
 <td>Mert</td>

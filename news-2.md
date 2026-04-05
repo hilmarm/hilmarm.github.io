@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14754 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14754">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark">Einladung Jahreshauptversammlung Abteilung Schach</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark" title="12:45"><span class="entry-date">5. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hallo Schachfreunde,</p>
+<p>Hiermit lädt Euch der Vorstand der Abteilung Schach zur Jahreshauptversammlung ein.<br/>
+Dieses Jahr findet auch wieder die Vorstandswahl und Wahl der Kassenprüfer statt.</p>
+<p><strong><br/>
+Termin: 16.04.26 um 18:30 Uhr<br/>
+Ort: Kadiner Str. 1</strong></p>
+<p>Tagesordnung siehe Mitgliederbereich!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14754 
 <div class="post-14751 post type-post status-publish format-standard hentry category-skat" id="post-14751">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/03/jan-hendrik-gewinnt-skat/" rel="bookmark">Jan-Hendrik gewinnt Skat</a></h2>
 <div class="entry-meta">
@@ -442,21 +462,6 @@ Keine Angst, ich höre nicht auf, aber ab und zu einfach nur Schach spielen, ohn
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14543 
-<div class="post-14533 post type-post status-publish format-standard hentry category-allgemein" id="post-14533">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark">Weihnachtsgruß</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/" rel="bookmark" title="13:59"><span class="entry-date">19. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<h2 class="heading-font" style="text-align: center;"><span style="font-family: 'comic sans ms', sans-serif;"><span style="color: #ff0000;">Der Vorstand der Abteilung Schach wünscht allen Mitgliedern, Gästen, Freunden, Familien und allen Besuchern der Homepage ein Frohes Fest und schöne Feiertage!</span></span></h2>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1.png"><img alt="" class="aligncenter size-medium wp-image-14536" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-300x300.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-300x300.png 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-768x768.png 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1-144x144.png 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/generated-image-1.png 1024w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/19/weihnachtsgruss-4/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14533 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
