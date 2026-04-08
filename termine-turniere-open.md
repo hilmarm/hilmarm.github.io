@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.grenkechessopen.de/de/" rel="noopener" target="_blank">grenke Chess Open</a></td>
-<td>02.-06.04.2026</td>
-<td>Mert</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2026.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft 2026</a></td>
 <td>04.-12.04.2026</td>
 <td>Bernd, Jonatan, Ja-Hendrik, Kostiantyn</td>
@@ -71,7 +66,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
 <td>08.-16.08.2026</td>
-<td></td>
+<td>Ekkehard</td>
 </tr>
 </tbody>
 </table>

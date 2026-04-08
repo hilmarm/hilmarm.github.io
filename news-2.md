@@ -19,7 +19,7 @@ Dieses Jahr findet auch wieder die Vorstandswahl und Wahl der Kassenprüfer sta
 <p><strong><br/>
 Termin: 16.04.26 um 18:30 Uhr<br/>
 Ort: Kadiner Str. 1</strong></p>
-<p>Tagesordnung siehe Mitgliederbereich!</p>
+<p><a href="https://www.narva-schach.de/wordpress/intern/">Tagesordnung siehe Mitgliederbereich!</a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
