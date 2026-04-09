@@ -67,7 +67,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Maetzing,Hans-Di</td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ parent_title: Turniere
 <td>12</td>
 <td>Heinrich,Wesko</td>
 <td>(1)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
