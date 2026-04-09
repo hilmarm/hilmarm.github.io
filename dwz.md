@@ -39,7 +39,7 @@ navs:
 <td></td>
 <td>2222</td>
 <td>64</td>
-<td>2218</td>
+<td></td>
 </tr>
 <tr>
 <td>2.</td>
@@ -47,7 +47,7 @@ navs:
 <td></td>
 <td>2094</td>
 <td>183</td>
-<td>2123</td>
+<td></td>
 </tr>
 <tr>
 <td>3.</td>
@@ -55,7 +55,7 @@ navs:
 <td></td>
 <td>1991</td>
 <td>48</td>
-<td>2103</td>
+<td></td>
 </tr>
 <tr>
 <td>4.</td>
@@ -63,7 +63,7 @@ navs:
 <td></td>
 <td>1962</td>
 <td>64</td>
-<td>1972</td>
+<td></td>
 </tr>
 <tr>
 <td>5.</td>
@@ -71,23 +71,23 @@ navs:
 <td></td>
 <td>1944</td>
 <td>15</td>
-<td>1931</td>
+<td></td>
 </tr>
 <tr>
 <td>6.</td>
-<td><a href="http://www.schachbund.de/spieler/10004413.html" target="_blank"> Rouven Arnold</a></td>
-<td></td>
-<td>1916</td>
-<td>46</td>
-<td>2113</td>
-</tr>
-<tr>
-<td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
 <td>1916</td>
 <td>518</td>
-<td>2032</td>
+<td>1988</td>
+</tr>
+<tr>
+<td>7.</td>
+<td><a href="http://www.schachbund.de/spieler/10004413.html" target="_blank"> Rouven Arnold</a></td>
+<td></td>
+<td>1916</td>
+<td>46</td>
+<td></td>
 </tr>
 <tr>
 <td>8.</td>
@@ -95,7 +95,7 @@ navs:
 <td></td>
 <td>1899</td>
 <td>18</td>
-<td>1922</td>
+<td></td>
 </tr>
 <tr>
 <td>9.</td>
@@ -119,7 +119,7 @@ navs:
 <td></td>
 <td>1866</td>
 <td>10</td>
-<td>1906</td>
+<td></td>
 </tr>
 <tr>
 <td>12.</td>
@@ -127,7 +127,7 @@ navs:
 <td></td>
 <td>1864</td>
 <td>79</td>
-<td>1937</td>
+<td>1929</td>
 </tr>
 <tr>
 <td>13.</td>
@@ -207,7 +207,7 @@ navs:
 <td></td>
 <td>1584</td>
 <td>78</td>
-<td>1801</td>
+<td></td>
 </tr>
 <tr>
 <td>23.</td>
@@ -215,7 +215,7 @@ navs:
 <td></td>
 <td>1580</td>
 <td>118</td>
-<td>1814</td>
+<td>1785</td>
 </tr>
 <tr>
 <td>24.</td>
@@ -231,7 +231,7 @@ navs:
 <td></td>
 <td>1558</td>
 <td>24</td>
-<td>1843</td>
+<td></td>
 </tr>
 <tr>
 <td>26.</td>
@@ -239,7 +239,7 @@ navs:
 <td></td>
 <td>1535</td>
 <td>18</td>
-<td>1675</td>
+<td>1645</td>
 </tr>
 <tr>
 <td>27.</td>
@@ -247,7 +247,7 @@ navs:
 <td></td>
 <td>1523</td>
 <td>29</td>
-<td>1733</td>
+<td>1732</td>
 </tr>
 <tr>
 <td>28.</td>
@@ -271,7 +271,7 @@ navs:
 <td></td>
 <td>1510</td>
 <td>91</td>
-<td>1847</td>
+<td></td>
 </tr>
 <tr>
 <td>31.</td>
@@ -303,7 +303,7 @@ navs:
 <td></td>
 <td>1460</td>
 <td>6</td>
-<td>0</td>
+<td>1529</td>
 </tr>
 <tr>
 <td>35.</td>
@@ -343,7 +343,7 @@ navs:
 <td></td>
 <td>1256</td>
 <td>11</td>
-<td>1553</td>
+<td></td>
 </tr>
 <tr>
 <td>40.</td>
@@ -375,7 +375,7 @@ navs:
 <td></td>
 <td>1224</td>
 <td>43</td>
-<td>1635</td>
+<td></td>
 </tr>
 <tr>
 <td>44.</td>
@@ -395,14 +395,6 @@ navs:
 </tr>
 <tr>
 <td>46.</td>
-<td><a href="http://www.schachbund.de/spieler/10928407.html" target="_blank"> Lukas Tombor</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1783</td>
-</tr>
-<tr>
-<td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10778617.html" target="_blank"> Jayasurian Makkoth</a></td>
 <td></td>
 <td></td>
@@ -410,7 +402,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>48.</td>
+<td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10868673.html" target="_blank"> Amer Mukran</a></td>
 <td></td>
 <td></td>
@@ -418,7 +410,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>49.</td>
+<td>48.</td>
 <td><a href="http://www.schachbund.de/spieler/10889223.html" target="_blank"> Kostiantyn Honcharov</a></td>
 <td></td>
 <td></td>
@@ -426,7 +418,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>50.</td>
+<td>49.</td>
 <td><a href="http://www.schachbund.de/spieler/10907665.html" target="_blank"> Perry Walker</a></td>
 <td></td>
 <td></td>
@@ -434,7 +426,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>51.</td>
+<td>50.</td>
 <td><a href="http://www.schachbund.de/spieler/10918957.html" target="_blank"> Marie Boden</a></td>
 <td></td>
 <td></td>
@@ -442,7 +434,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>52.</td>
+<td>51.</td>
 <td><a href="http://www.schachbund.de/spieler/10922281.html" target="_blank"> Kai Wetterwald</a></td>
 <td></td>
 <td></td>
@@ -450,7 +442,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>53.</td>
+<td>52.</td>
 <td><a href="http://www.schachbund.de/spieler/10923645.html" target="_blank"> Franz Quadflieg</a></td>
 <td></td>
 <td></td>
@@ -458,8 +450,16 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>54.</td>
+<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10927041.html" target="_blank"> Tuan Khang La</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>54.</td>
+<td><a href="http://www.schachbund.de/spieler/10928407.html" target="_blank"> Lukas Tombor</a></td>
 <td></td>
 <td></td>
 <td></td>

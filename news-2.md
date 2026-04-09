@@ -8,7 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14754 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14754">
+<div class="post-14754 post type-post status-publish format-standard sticky hentry category-allgemein category-intern" id="post-14754">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark">Einladung Jahreshauptversammlung Abteilung Schach</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark" title="12:45"><span class="entry-date">5. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -28,6 +28,29 @@ Ort: Kadiner Str. 1</strong></p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14754 
+<div class="post-14762 post type-post status-publish format-standard hentry category-openberichte" id="post-14762">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/" rel="bookmark">Platz 7 beim Grenke!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/" rel="bookmark" title="11:28"><span class="entry-date">9. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Über Ostern fand in Karlsruhe wieder das große <strong>Grenke Schachfestival</strong> statt. Insgesamt über <strong>3.500 Schachspieler</strong> nahmen am Turnier teil, unterteilt in 6 Unterturniere. A- B- und C-Open jeweils in Freestyle-Chess (960) und im „Normal“-Schach.</p>
+<p>Von NARVA nahmen <strong>Batu</strong> und <strong>Mert</strong> teil, beide im B-Open im klassischen Schach. Im B-Open waren 1531 Teilnehmer mit ELO kleiner 2000! Batu war in der Startliste an 156 gesetzt, Mert an 101.</p>
+<p><strong>Am Ende erreicht Batu einen großartigen 7.Platz mit 8 Punkten aus 9 Partien!!!</strong></p>
+<p>Auch Mert spielt nach einem kurzen Hänger in den Runden 3 und 4 noch groß auf und gewinnt alle restlichen Partien. So kommt er auf 6,5 Punkte und Platz 102.</p>
+<p>Zwischendurch haben sie auch die Prominenz im Freestyle A-Open besucht:</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012.jpg"><img alt="" class="aligncenter wp-image-14763 size-medium" decoding="async" height="169" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-1024x576.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-1536x864.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012.jpg 1600w" width="300"/></a></p>
+<p>Das A-Freestyle Open hat Vincent Keymer gewonnen.</p>
+<p><a href="https://grenkechessopen.de/de/b-open" rel="noopener" target="_blank">Turnierseite</a><br/>
+<a href="https://s2.chess-results.com/tnr1384883.aspx?lan=0&amp;art=1&amp;flag=30&amp;SNode=S0" rel="noopener" target="_blank">Ergebnisse bei chess-results.com</a><br/>
+<a href="https://de.chessbase.com/post/keymer-gewinnt-grenke-freestyle-open" rel="noopener" target="_blank">Bericht bei ChessBase inkl. Partien</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14762 
 <div class="post-14751 post type-post status-publish format-standard hentry category-skat" id="post-14751">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/03/jan-hendrik-gewinnt-skat/" rel="bookmark">Jan-Hendrik gewinnt Skat</a></h2>
 <div class="entry-meta">
@@ -39,7 +62,7 @@ Ort: Kadiner Str. 1</strong></p>
 <p><strong>Peter</strong> kam auf Platz 2 zu 1259 Punkten, Dritter wurde <strong>Jonatan</strong> mit 1180 Punkten. So bleibt aus dem Feld nur Ekkehard Sieglos. Jan-Hendrik war letztes Jahr, bei seinem Debüt, Letzter.</p>
 <p>Auf ein Neues in 2027 – am Grün-Donnerstag – mit hoffentlich mehr Teilnehmern!</p>
 <p><a href="https://www.narva-schach.de/wordpress/chronik/skat/">Chronik Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-scaled.jpg"><img alt="" class="alignleft wp-image-14749 size-medium" decoding="async" height="272" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1024x928.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-768x696.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1536x1392.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-2048x1856.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-scaled.jpg"><img alt="" class="wp-image-14750 size-medium alignnone" decoding="async" height="275" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1024x938.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-768x703.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1536x1407.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-2048x1876.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-scaled.jpg"><img alt="" class="alignleft wp-image-14749 size-medium" decoding="async" height="272" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1024x928.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-768x696.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1536x1392.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-2048x1856.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-scaled.jpg"><img alt="" class="wp-image-14750 size-medium alignnone" decoding="async" height="275" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1024x938.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-768x703.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1536x1407.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-2048x1876.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -431,37 +454,6 @@ Keine Angst, ich höre nicht auf, aber ab und zu einfach nur Schach spielen, ohn
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14556 
-<div class="post-14543 post type-post status-publish format-standard hentry category-interne-turniere category-termine" id="post-14543">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark">Terminplan und Turniere 2026</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/" rel="bookmark" title="7:41"><span class="entry-date">23. Dezember 2025</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></p>
-<ul>
-<li>Blitz im Januar und März jeweils eine Woche früher, im Februar gar nicht (wegen BFL)</li>
-<li>Jahreshauptversammlung mit Wahl am 16.04.26</li>
-<li>Skat am 02.04.26</li>
-<li><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google Kalender</a> aktualisiert</li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
-<ul>
-<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
-<ul>
-<li><a href="https://www.narva-schach.de/wordpress/2025/11/30/interne-turniere-beendet-ausschreibungen-fuer-2026/">hier Anmelden bis 08.01.26</a></li>
-</ul>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Blitzschach-2026.pdf">Blitz</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/Schnellschachmeisterschaft-2026.pdf">Schnellschach</a></p>
-<p>Alles aus 2025 ist schon ins <a href="https://www.narva-schach.de/wordpress/chronik/turnier-archiv/">Archiv</a> gewandert.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14543 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

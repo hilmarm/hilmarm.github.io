@@ -54,9 +54,19 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://stickchess.com/en/tournament/delft26/participants" rel="noopener" target="_blank">21e Delfts Kroeglopertoernooi</a></td>
+<td>24.05.2026</td>
+<td>Bram, Norbert, Bernd, Lasko, Thomas</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://seniorenopen-brb.de/33-seniorenopen/" rel="noopener" target="_blank">33. Seniorenopen in Miedzyzdroje</a></td>
 <td>19.-29.06.2026</td>
 <td>Hans-Dieter, Gerhard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-4-juli-2026.html" rel="noopener" target="_blank">9. Schachturnier in Karlshorst</a></td>
+<td>04.07.2026</td>
+<td>Hans-Dieter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
