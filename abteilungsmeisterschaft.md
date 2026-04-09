@@ -43,7 +43,7 @@ parent_title: Turniere
 <td>2</td>
 <td>Kuban,Andreas</td>
 <td>(1)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Bradschetl,Tom</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ parent_title: Turniere
 <td>25</td>
 <td>Horst,Juri</td>
 <td>(0)</td>
-<td> –</td>
+<td>+ – –</td>
 <td></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ parent_title: Turniere
 <td>15</td>
 <td>von Kraft,Lukas</td>
 <td>(0)</td>
-<td> –</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
@@ -206,7 +206,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Düren,Jerome</td>
 <td>()</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
