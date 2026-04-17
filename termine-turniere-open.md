@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.berlinerschachverband.de/berliner-einzelmeisterschaft-2026.html" rel="noopener" target="_blank">Berliner Einzelmeisterschaft 2026</a></td>
-<td>04.-12.04.2026</td>
-<td>Bernd, Jonatan, Ja-Hendrik, Kostiantyn</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
 <td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
@@ -42,6 +37,11 @@ parent_title: Termine
 <td>14.05.2026</td>
 <td>Mannschaft<br/>
 <span style="font-size: 8pt;"><em>Dieter, Günter, Peter, Philipp</em></span></td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://open-stendal.de.tl/28-.--Open-2026.htm" rel="noopener" target="_blank">Stendaler Open 2026</a></td>
+<td>14.-17.05.2026</td>
+<td>Gerhard, Lukas</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.sglasker.de/teschner-2026/" rel="noopener" target="_blank">Teschner-Gedenkturnier 2026</a></td>

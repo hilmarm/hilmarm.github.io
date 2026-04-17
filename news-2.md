@@ -8,26 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14754 post type-post status-publish format-standard sticky hentry category-allgemein category-intern" id="post-14754">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark">Einladung Jahreshauptversammlung Abteilung Schach</a></h2>
+<div class="post-14775 post type-post status-publish format-standard hentry category-intern" id="post-14775">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/17/vorstand-gewaehlt/" rel="bookmark">Vorstand gewählt</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark" title="12:45"><span class="entry-date">5. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/17/vorstand-gewaehlt/" rel="bookmark" title="11:22"><span class="entry-date">17. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Hallo Schachfreunde,</p>
-<p>Hiermit lädt Euch der Vorstand der Abteilung Schach zur Jahreshauptversammlung ein.<br/>
-Dieses Jahr findet auch wieder die Vorstandswahl und Wahl der Kassenprüfer statt.</p>
-<p><strong><br/>
-Termin: 16.04.26 um 18:30 Uhr<br/>
-Ort: Kadiner Str. 1</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/intern/">Tagesordnung siehe Mitgliederbereich!</a></p>
+<p>Gestern Abend wurde auf der <strong>Hauptversammlung der Vorstand der Abteilung Schach</strong> und die Kassenprüfer gewählt.<br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled.jpg"><img alt="" class="alignleft wp-image-14777 size-medium" decoding="async" height="300" sizes="(max-width: 214px) 100vw, 214px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled-e1776417579370-214x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled-e1776417579370-214x300.jpg 214w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled-e1776417579370-730x1024.jpg 730w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled-e1776417579370-768x1078.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled-e1776417579370-1094x1536.jpg 1094w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260417_105919-scaled-e1776417579370.jpg 1420w" width="214"/></a><br/>
+Unverändert bleibt <strong>Thomas Mothes Vorsitzender</strong>, <strong>Jonatan Schenk Spielleiter</strong> und <strong>Ekkehard Krüger Jugendwart</strong>. Unser Vorsitzender geht damit in die Jahre 19 und 20 seiner Amtszeit und hat angekündigt, dass es seine letzten beiden sein sollen!</p>
+<p>Neu in der Vorstand gewählt wurden <strong>Jan-Hendrik Bahr</strong>, der die Position als neuer <strong>Vize</strong> übernimmt und <strong>Hilmar Magnusson</strong> als neuer <strong>Kassenwart</strong>.</p>
+<p>Bei den <strong>Kassenprüfern</strong> wurde <strong>Wesko Heinrich</strong> neu gewählt, weiter im Amt bleibt <strong>Andreas Kinski</strong>.</p>
+<p>Außerdem wurde über Modus und Bedenkzeit von Abteilungsmeisterschaft und Pokal diskutiert. Alles weitere zur Versammlung dann im Protokoll auf der Mitgliederseite.</p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/17/vorstand-gewaehlt/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-14754 
+</div> #post-14775 
 <div class="post-14762 post type-post status-publish format-standard hentry category-openberichte" id="post-14762">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/" rel="bookmark">Platz 7 beim Grenke!</a></h2>
 <div class="entry-meta">
@@ -51,6 +50,26 @@ Ort: Kadiner Str. 1</strong></p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14762 
+<div class="post-14754 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14754">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark">Einladung Jahreshauptversammlung Abteilung Schach</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/" rel="bookmark" title="12:45"><span class="entry-date">5. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Hallo Schachfreunde,</p>
+<p>Hiermit lädt Euch der Vorstand der Abteilung Schach zur Jahreshauptversammlung ein.<br/>
+Dieses Jahr findet auch wieder die Vorstandswahl und Wahl der Kassenprüfer statt.</p>
+<p><strong><br/>
+Termin: 16.04.26 um 18:30 Uhr<br/>
+Ort: Kadiner Str. 1</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/intern/">Tagesordnung siehe Mitgliederbereich!</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/05/einladung-jahreshauptversammlung-abteilung-schach/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14754 
 <div class="post-14751 post type-post status-publish format-standard hentry category-skat" id="post-14751">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/03/jan-hendrik-gewinnt-skat/" rel="bookmark">Jan-Hendrik gewinnt Skat</a></h2>
 <div class="entry-meta">
@@ -62,7 +81,7 @@ Ort: Kadiner Str. 1</strong></p>
 <p><strong>Peter</strong> kam auf Platz 2 zu 1259 Punkten, Dritter wurde <strong>Jonatan</strong> mit 1180 Punkten. So bleibt aus dem Feld nur Ekkehard Sieglos. Jan-Hendrik war letztes Jahr, bei seinem Debüt, Letzter.</p>
 <p>Auf ein Neues in 2027 – am Grün-Donnerstag – mit hoffentlich mehr Teilnehmern!</p>
 <p><a href="https://www.narva-schach.de/wordpress/chronik/skat/">Chronik Skat</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-scaled.jpg"><img alt="" class="alignleft wp-image-14749 size-medium" decoding="async" height="272" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1024x928.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-768x696.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1536x1392.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-2048x1856.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-scaled.jpg"><img alt="" class="wp-image-14750 size-medium alignnone" decoding="async" height="275" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1024x938.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-768x703.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1536x1407.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-2048x1876.jpg 2048w" width="300"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-scaled.jpg"><img alt="" class="alignleft wp-image-14749 size-medium" decoding="async" height="272" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-300x272.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1024x928.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-768x696.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-1536x1392.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_221041-2048x1856.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-scaled.jpg"><img alt="" class="wp-image-14750 size-medium alignnone" decoding="async" height="275" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-300x275.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1024x938.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-768x703.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-1536x1407.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/20260402_200742-2048x1876.jpg 2048w" width="300"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -407,53 +426,6 @@ Für die <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeist
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/10/saisonstart-schnellschach-gp/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14580 
-<div class="post-14556 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14556">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/" rel="bookmark">Neujahrsgrüße</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/" rel="bookmark" title="11:37"><span class="entry-date">2. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Wieder ist ein Jahr vorbei, unser Jubiläumsjahr ist zu Ende und unser 76. Jahr beginnt!<br/>
-Zum Jahreswechsel sind wir nun 53 Mitglieder, also einer mehr als zum letzten Jahreswechsel.<br/>
-Verlassen haben uns zum Jahresende:<br/>
-Myriam Kügler<br/>
-Thomas Totz<br/>
-Michael Herrscher<br/>
-Felix Hamacher<br/>
-Ismaele Cattaneo</p>
-<p>Bei <strong>Myriam</strong> bedanke ich mich natürlich für die 4 Jahre als Kassenwartin, zuverlässig und schnell war das Buch immer fertig. Für Schach am Brett hatte sie zuletzt leider keine Zeit, Nachwuchs, dazu die Entfernung vom Club (ja, Berlin ist groß), vielleicht sieht man sich trotzdem mal wieder im Club.<br/>
-Bei <strong>Thomas</strong> spielen private Gründe die Hauptrolle, vielleicht sehen wir ihn trotzdem hin und wieder im Club. Thomas war 16 Jahre bei NARVA und die meiste Zeit Stammspieler der 3. Mannschaft! Vielen Dank für Deine Zeit bei uns!<br/>
-<strong>Michael</strong> ist schon im Sommer umgezogen und wird vielleicht dort einen anderen Schachclub finden. Er kam 2022 zu uns und wurde zum Stammspieler der 2. Mannschaft und hatte auch Einsätze in der Ersten.</p>
-<p>Neu dazu gekommen sind in den letzten Wochen neben <strong>Kai Wetterwald</strong>, vor allem im Jugendbereich neue Mitglieder:<br/>
-<strong>Marie Boden</strong><br/>
-<strong>Franz Quadflieg</strong><br/>
-<strong>Tuan Khang La</strong></p>
-<p>So haben wir nun wieder einen nennenswerten U18 Anteil von 4 Mitgliedern (zuletzt 0)!</p>
-<p>Zu Ende gegangen ist das Jubiläumsjahr mit einer Rekordbeteiligung bei der Weihnachtsfeier! Danach waren noch 2 Spieler in Bonn bei der DSAM aktiv. Das neue Jahr startet auch gleich mit der DSAM in Potsdam, auch hier sind ab heute zwei von uns dabei (Andreas und Oliver). Stand jetzt sind bei allen weiteren <a href="https://www.dsam-cup.de/" rel="noopener" target="_blank">DSAM</a> Vorrunden diese Saison NARVA Spieler am Start!<br/>
-<strong>Am 11.01.26 geht dann auch die BMM weiter.</strong> Es wird ein schweres Jahr, vor allem für 1. und 2. Mannschaft. Aber wir schaffen das!</p>
-<p>Das Training mit GM Michael Richter wird auch nachgeholt, die Terminfindung gestaltet sich noch etwas schwierig, evtl. wird es auch ein anderer Wochentag….mal sehen.</p>
-<p>Geplant sind natürlich auch für 2026 unser Kleeblatt-Turnier und das Kurt-Richter-Gedenkturnier. Bei beiden steht und fällt alles mit den Räumlichkeiten. Das sieht man auch an dem ausgefallenen Neujahrsopen von Rotation.<br/>
-Auch die Weihnachtsfeier vom Hauptverein SG NARVA fiel Raumproblemen zum Opfer und wird wahrscheinlich als Neujahrsempfang bei uns in der Kadiner Str. nachgeholt (auch im letzten Jahr ist diese Weihnachtsfeier den Raumproblemen zum Opfer gefallen und fand dann im Keller vom RuDi im Januar statt…).<br/>
-Insofern können wir froh sein die Kadiner Str. zu haben, aber schon beim RuDi gibt es immer wieder Termin-Konflikte. Siehe die 3. BMM Runde. Hier waren die Räume mit einer anderen Buchung belegt, die dann mehr Geld einbringen als wir… Das soll eigentlich nicht vorkommen…<br/>
-Das Räume inzwischen auch für Vereine nicht mehr kostenfrei sind ist das eine, überhaupt welche zu bekommen, das andere. Und das auch Sportvereine gezwungen sind, nicht gerade geringe Geldsummen, für Raumvermietungen von anderen Vereinen zu nehmen….</p>
-<p>Bedanken möchte ich mich auf diesem Weg bei allen Helfern, beim KRT, beim Kleeblatt-Turnier oder auch im Rahmen der BMM. Jede Hilfe bei Transport von Spielmaterial und Auf- und Abbau ist willkommen und verteilt die Last auf mehrere Schultern.<br/>
-Auch ein Dank bei allen die dafür sorgen, dass NARVA bei Turnieren zu sehen ist, bei Open, DSAM oder bei den vielen Mannschaftsturnieren im Spreewald, Fredersdorf, Erftstadt, Delft und natürlich in Berlin.</p>
-<p>Im Frühjahr stehen dann mal wieder Vorstandswahlen an. 2 Veränderungen stehen schon fest, eine jetzt schon zum Jahreswechsel. Mit <strong>Hilmar</strong> haben wir einen neuen Kassenwart. Die zweite Änderung ist schon vorbereitet, <strong>Jan-Hendrik</strong> wird für den Vorstand kandidieren. Er hat jetzt schon großartig die Aufgaben von Klaus übernommen und ist eine große Hilfe an den Clubabenden.<br/>
-Natürlich dürfen sich immer gerne Freiwillige melden und kandidieren! Arbeit ist genug da!</p>
-<p>Ich habe dann 18 Jahre als Vorsitzender hinter mir! Es gibt Stimmen in mir, die sagen es wäre mal Zeit zum Aufhören, um mehr Zeit für andere Dinge zu haben. Aber so einfach geht das wohl nicht…. Wenn sich kein Freiwilliger findet, werde ich wohl auch in mein 19. und 20. Jahr gehen….. Aber spätestens 2028 würde ich dann gerne abgeben. Es kostet dann manchmal inzwischen schon Kraft und meine Zeitfenster sind in den letzten Jahren nicht größer geworden, bzw. auch durch andere Aufgaben/Interessen gefüllt worden.<br/>
-Auch kosten Raumsuche und Planungen für Turniere viel Kraft und Zeit.<br/>
-Keine Angst, ich höre nicht auf, aber ab und zu einfach nur Schach spielen, ohne sich im Hinterkopf um irgendwelche Dinge kümmern zu müssen, wäre auch mal wieder was.</p>
-<p>Das neue Jahr beginnt dann schachlich direkt heute am 02.01.26. Dort steht die <a href="https://www.dsam-cup.de/potsdam/" rel="noopener" target="_blank">DSAM Vorrunde in Potsdam</a> an und 2 von uns (Andreas und Oliver) sind am Start. Am 08.01.26 starten wir direkt mit dem Schnellschach GP im Club die neue Saison!<br/>
-<a href="https://www.narva-schach.de/wordpress/2025/12/23/terminplan-und-turniere-2026/">Denkt daran Euch für Pokal und Abteilungsmeisterschaft anzumelden!</a></p>
-<p>Denkt auch daran die Beiträge pünktlich zu zahlen, vor allem da es bis Februar Rabatt gibt! <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/06/Beitragsordnung-2025.pdf" rel="noopener" target="_blank">Beitragsordnung</a>!</p>
-<p><strong>Ich wünsche somit allen ein gesundes und erfolgreiches neues Jahr!</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/02/neujahrsgruesse-2/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14556 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

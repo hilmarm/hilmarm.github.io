@@ -58,14 +58,13 @@ Thomas Mothes</h4>
 Thomas Mothes<br/>
 vorsitzender(at)narva-schach.de</li>
 <li><u><b>Stellv. Vorsitzender</b></u><br/>
-Jonatan Schenk<br/>
+Jan-Hendrik Bahr<br/>
 vize(at)narva-schach.de</li>
 <li><u><b>Spielleiter</b></u><br/>
-Klaus Brinckmann &amp; Jonatan Schenk<br/>
+Jonatan Schenk<br/>
 spielleiter(at)narva-schach.de</li>
-<li><u><b>Kassenwartin</b></u><br/>
-Myriam Kügler bis 31.12.25<br/>
-Hilmar Magnusson ab 01.01.26<br/>
+<li><u><b>Kassenwart</b></u><br/>
+Hilmar Magnusson<br/>
 kassenwart(at)narva-schach.de</li>
 <li><u><b>Jugendwart</b></u><br/>
 Ekkehard Krüger<br/>
