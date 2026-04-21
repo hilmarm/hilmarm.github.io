@@ -75,19 +75,19 @@ navs:
 </tr>
 <tr>
 <td>6.</td>
+<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
+<td>P</td>
+<td>1933</td>
+<td>519</td>
+<td>1988</td>
+</tr>
+<tr>
+<td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
 <td>1926</td>
 <td>11</td>
 <td></td>
-</tr>
-<tr>
-<td>7.</td>
-<td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
-<td>P</td>
-<td>1916</td>
-<td>518</td>
-<td>1988</td>
 </tr>
 <tr>
 <td>8.</td>
