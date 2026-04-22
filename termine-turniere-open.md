@@ -23,6 +23,11 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
+<td><a href="https://www.schachevent.com/de/nsv-blitzturnier/" rel="noopener" target="_blank">Bundesliga-Blitzturnier</a></td>
+<td>23./25.04.2026</td>
+<td>Mert</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
 <td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
@@ -31,6 +36,16 @@ parent_title: Termine
 <td><a href="https://de.amateurchess.com/" rel="noopener" target="_blank">ACO 2026 Amateur-Schachweltmeisterschaft</a></td>
 <td>06.-15.05.2026</td>
 <td>Bernd</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://storage.e.jimdo.com/file/9ebcff6d-60bb-46ea-902c-8185f57844d0/Halbmarathon%2009.05.2026.pdf" rel="noopener" target="_blank">Halbmarathon Blitzschach</a></td>
+<td>09.05.2026</td>
+<td>Mert</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://storage.e.jimdo.com/file/d59a1c14-d58f-41dc-9ebf-4689fce5254b/Schach-Triathlon%2010.05.2026.pdf" rel="noopener" target="_blank">Schach-Triathlon</a></td>
+<td>10.05.2026</td>
+<td></td>
 </tr>
 <tr style="height: 24px;">
 <td>Himmelfahrtsblitz SG Weißensee</td>
@@ -54,6 +69,11 @@ parent_title: Termine
 <td></td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://skzehlendorf.de/turniere/harald-lieb-gedenkturnier/" rel="noopener" target="_blank">10. Harald-Lieb-Gedenkturnier 2026</a></td>
+<td>21.05.-02.07.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://stickchess.com/en/tournament/delft26/participants" rel="noopener" target="_blank">21e Delfts Kroeglopertoernooi</a></td>
 <td>24.05.2026</td>
 <td>Bram, Norbert, Bernd, Lasko, Thomas</td>
@@ -64,9 +84,14 @@ parent_title: Termine
 <td>Hans-Dieter, Gerhard</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://storage.e.jimdo.com/file/6365b79e-c8c2-4a1b-9edb-24fcd28ba102/Lausitzer%20Schachturnier%2003.-05.07.2026.pdf" rel="noopener" target="_blank">Lausitzer Schachturnier</a></td>
+<td>03.-05.07.2026</td>
+<td></td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-4-juli-2026.html" rel="noopener" target="_blank">9. Schachturnier in Karlshorst</a></td>
 <td>04.07.2026</td>
-<td>Hans-Dieter</td>
+<td>Günter, Hans-Dieter</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>

@@ -74,11 +74,11 @@ parent_title: Chronik
 <tr>
 <td align="CENTER">2026</td>
 <td align="CENTER">Stadtliga</td>
-<td align="CENTER"></td>
+<td align="CENTER">10.Abstieg</td>
 <td align="CENTER">Klasse 1</td>
-<td align="CENTER"></td>
+<td align="CENTER">10.Abstieg</td>
 <td align="CENTER">Klasse 3</td>
-<td align="CENTER"></td>
+<td align="CENTER">4.</td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
 <td align="CENTER"></td>
