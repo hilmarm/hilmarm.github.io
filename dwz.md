@@ -325,7 +325,7 @@ navs:
 <td>37.</td>
 <td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
 <td></td>
-<td>1377</td>
+<td>1379</td>
 <td>18</td>
 <td>1588</td>
 </tr>
@@ -341,7 +341,7 @@ navs:
 <td>39.</td>
 <td><a href="http://www.schachbund.de/spieler/10830175.html" target="_blank"> Wolfgang Mach</a></td>
 <td></td>
-<td>1304</td>
+<td>1305</td>
 <td>3</td>
 <td></td>
 </tr>
