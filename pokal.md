@@ -17,6 +17,11 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>Viertelfinale am 11. Juni</h2>
+<p>Wesko/Rudolf – Jan<br/>
+Max/Maxim – Ekkehard<br/>
+Hilmar – Mert<br/>
+Gunar – Ulrich/Kostiantyn</p>
 <h2>2. Runde am 23. April (Zwischenrunde)</h2>
 <table class="clean swiss footable">
 <thead>
