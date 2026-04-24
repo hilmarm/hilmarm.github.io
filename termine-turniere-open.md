@@ -40,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/9ebcff6d-60bb-46ea-902c-8185f57844d0/Halbmarathon%2009.05.2026.pdf" rel="noopener" target="_blank">Halbmarathon Blitzschach</a></td>
 <td>09.05.2026</td>
-<td>Mert</td>
+<td>Mert, Wesko</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/d59a1c14-d58f-41dc-9ebf-4689fce5254b/Schach-Triathlon%2010.05.2026.pdf" rel="noopener" target="_blank">Schach-Triathlon</a></td>

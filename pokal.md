@@ -17,11 +17,73 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
-<h2>Viertelfinale am 11. Juni</h2>
-<p>Wesko/Rudolf – Jan<br/>
-Max/Maxim – Ekkehard<br/>
-Hilmar – Mert<br/>
-Gunar – Ulrich/Kostiantyn</p>
+<h2>3. Runde am 11. Juni (Viertelfinale)</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th style="width: 8.54701%;">Tisch</th>
+<th style="width: 7.37179%;">TNr</th>
+<th style="width: 16.1325%;">Teilnehmer</th>
+<th style="width: 9.40171%;">Punkte</th>
+<th style="width: 5.76923%;">–</th>
+<th style="width: 7.37179%;">TNr</th>
+<th style="width: 18.8034%;">Teilnehmer</th>
+<th style="width: 9.40171%;">Punkte</th>
+<th style="width: 10.5769%;">Ergebnis</th>
+<th style="width: 6.51709%;">At</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 8.54701%;">1</td>
+<td style="width: 7.37179%;"></td>
+<td style="width: 16.1325%;">Wesko/Rudolf</td>
+<td style="width: 9.40171%;">()</td>
+<td style="width: 5.76923%;">–</td>
+<td style="width: 7.37179%;">19</td>
+<td nowrap="nowrap" style="width: 18.8034%;">Bahr,Jan-Hendrik</td>
+<td style="width: 9.40171%;">(1)</td>
+<td style="width: 10.5769%;"></td>
+<td style="width: 6.51709%;"></td>
+</tr>
+<tr>
+<td style="width: 8.54701%;">2</td>
+<td style="width: 7.37179%;"></td>
+<td style="width: 16.1325%;">Max/Maxim</td>
+<td style="width: 9.40171%;">()</td>
+<td style="width: 5.76923%;">–</td>
+<td style="width: 7.37179%;">7</td>
+<td style="width: 18.8034%;">Krüger,Ekkehard</td>
+<td style="width: 9.40171%;">(1)</td>
+<td style="width: 10.5769%;"></td>
+<td style="width: 6.51709%;"></td>
+</tr>
+<tr>
+<td style="width: 8.54701%;">3</td>
+<td style="width: 7.37179%;">5</td>
+<td style="width: 16.1325%;">Magnusson,Hilmar</td>
+<td style="width: 9.40171%;">(½)</td>
+<td style="width: 5.76923%;">–</td>
+<td style="width: 7.37179%;">1</td>
+<td style="width: 18.8034%;">Özates,Mert</td>
+<td style="width: 9.40171%;">(1)</td>
+<td style="width: 10.5769%;"></td>
+<td style="width: 6.51709%;"></td>
+</tr>
+<tr>
+<td style="width: 8.54701%;">4</td>
+<td style="width: 7.37179%;">21</td>
+<td style="width: 16.1325%;">Maiwald,Gunar</td>
+<td style="width: 9.40171%;">(1)</td>
+<td style="width: 5.76923%;">–</td>
+<td style="width: 7.37179%;"></td>
+<td style="width: 18.8034%;">Ulrich/Kostiantyn</td>
+<td style="width: 9.40171%;">()</td>
+<td style="width: 10.5769%;"></td>
+<td style="width: 6.51709%;"></td>
+</tr>
+</tbody>
+</table>
 <h2>2. Runde am 23. April (Zwischenrunde)</h2>
 <table class="clean swiss footable">
 <thead>
@@ -67,7 +129,7 @@ Gunar – Ulrich/Kostiantyn</p>
 <td>3</td>
 <td>17</td>
 <td>Campe,Ulrich</td>
-<td>()</td>
+<td>(1)</td>
 <td>–</td>
 <td>22</td>
 <td>Honcharov,Kostia</td>
