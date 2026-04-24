@@ -8,6 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14803 post type-post status-publish format-standard hentry category-termine" id="post-14803">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/" rel="bookmark">Endrunde der Bundesliga im Berliner Willy-Brandt-Haus</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/" rel="bookmark" title="11:39"><span class="entry-date">24. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Berlin wird am kommenden Wochenende zum Zentrum des deutschen Spitzenschachs: <strong>Von Freitag bis Sonntag steigt im Willy-Brandt-Haus das zentrale Wochenende der Schachbundesliga</strong> – organisiert von den Schachfreunde Berlin 1903 e.V..<br/>
+Drei Tage lang treffen hier nationale und internationale Topspieler aufeinander. Wer Schach auf höchstem Niveau erleben will, bekommt die seltene Gelegenheit, Großmeisterpartien live zu verfolgen – und das bei freiem Eintritt.<br/>
+<strong>Spitzenschach hautnah – mit kleinem Hinweis</strong><br/>
+Von Freitag bis Sonntag steht dann die Bundesliga im Fokus. Hochklassige Begegnungen, bekannte Namen und intensive Partien garantieren beste Schachunterhaltung.</p>
+<p><em>Das Willy-Brandt-Haus ist allerdings keine gewöhnliche Turnierlocation, sondern ein sicherheitsrelevantes Gebäude. Es kann daher nicht schaden, einen gültigen Lichtbildausweis mitzuführen, um sich bei Bedarf ausweisen zu können.</em></p>
+<p><a href="https://www.berlinerschachverband.de/bundesliga-endrunde-24-bis-26-april.html" rel="noopener" target="_blank">Infos auf BSV Seite</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14803 
 <div class="post-14782 post type-post status-publish format-standard hentry category-bmm" id="post-14782">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/20/saisonabschluss-bmm/" rel="bookmark">Saisonabschluss BMM</a></h2>
 <div class="entry-meta">
@@ -407,26 +426,6 @@ Die ein oder andere Partie findet ihr demnächst im Mitgliederbereich.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/#comments">3 Kommentare</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14613 
-<div class="post-14587 post type-post status-publish format-standard hentry category-bmm" id="post-14587">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/" rel="bookmark">BMM Runde 4</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/" rel="bookmark" title="19:48"><span class="entry-date">11. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der Spieltag brachte alle 3 Ergebnisse.<br/>
-Die <strong>1. Mannschaft</strong> verliert leider den wichtigen Kampf gegen <strong>Makkabi 1</strong> und hat nun Rückstand im Abstiegskampf. Mit nur 7 Spielern gibt es eine <strong>2,5:5,5</strong> Niederlage.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14584" decoding="async" height="212" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-1024x339.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-1024x339.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-300x99.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome-768x255.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172200_Chrome.jpg 1047w" width="640"/></a></p>
-<p>Die <strong>2. Mannschaft</strong> spielt unerwartet stark gegen den Tabellenführer von <strong>Rotation 2</strong>, hat sogar eine Hand am Sieg. Am Ende ein <strong>4:4</strong> mit dem Rotation noch glücklich sein kann und mit dem wir einen wichtigen Punkt mitnehmen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14585" decoding="async" height="217" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-1024x347.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-1024x347.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-300x102.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome-768x261.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172243_Chrome.jpg 1079w" width="640"/></a></p>
-<p>Die <strong>3. Mannschaft</strong> erfüllt ihre Pflicht und gewinnt gegen <strong>Makkabi 3</strong> mit <strong>3,5:2,5</strong> und bleibt Tabellenführer!!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14586" decoding="async" height="172" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-1024x275.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-1024x275.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-300x81.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome-768x206.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260111_172328_Chrome.jpg 1079w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/11/bmm-runde-4-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14587 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
