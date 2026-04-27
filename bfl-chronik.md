@@ -69,7 +69,7 @@ parent_title: Chronik
 </thead>
 <tbody>
 <tr>
-<td>2026</td>
+<td><a href="https://www.narva-schach.de/wordpress/chronik/bfl-chronik/bfl-2026/">2026</a></td>
 <td>Staffel A</td>
 <td>4.</td>
 <td>Staffel B</td>
@@ -148,7 +148,8 @@ parent_title: Chronik
 </table>
 <p>* Saison 2019/20 wurde wegen Corona abgebrochen und nicht zu Ende gespielt.<br/>
 Die Saison 2020/21 und 2021/22 wurde nicht gespielt für 2022/23 fand eine neue Einteilung statt.</p>
-<p><a href="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik.jpg"><img alt="" class="alignnone size-large wp-image-7180" decoding="async" height="341" sizes="(max-width: 640px) 100vw, 640px" src="http://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-1024x545.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-1024x545.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-300x160.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik-768x409.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2020/05/bfl_statistik.jpg 1091w" width="640"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/bflstatistik26.jpg"><img alt="" class="aligncenter size-full wp-image-14817" decoding="async" height="835" sizes="(max-width: 793px) 100vw, 793px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/bflstatistik26.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/bflstatistik26.jpg 793w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/bflstatistik26-285x300.jpg 285w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/bflstatistik26-768x809.jpg 768w" width="793"/></a></p>
+<p> </p>
 </div><!-- .entry-content -->
 </div> #post-2505 
 <div id="comments">
