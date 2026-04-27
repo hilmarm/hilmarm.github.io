@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.schachevent.com/de/nsv-blitzturnier/" rel="noopener" target="_blank">Bundesliga-Blitzturnier</a></td>
-<td>23./25.04.2026</td>
-<td>Mert</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td>30.04.-03.05.2026</td>
 <td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
@@ -45,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/d59a1c14-d58f-41dc-9ebf-4689fce5254b/Schach-Triathlon%2010.05.2026.pdf" rel="noopener" target="_blank">Schach-Triathlon</a></td>
 <td>10.05.2026</td>
-<td></td>
+<td>Batu &amp; Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td>Himmelfahrtsblitz SG Weißensee</td>
