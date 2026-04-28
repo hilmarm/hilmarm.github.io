@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14819 post type-post status-publish format-standard hentry category-training" id="post-14819">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/28/training-am-07-05-26-grossmeisterpartie-als-trainingsspiel/" rel="bookmark">Training am 07.05.26 – Großmeisterpartie als Trainingsspiel</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/28/training-am-07-05-26-grossmeisterpartie-als-trainingsspiel/" rel="bookmark" title="20:17"><span class="entry-date">28. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Liebe Schachfreunde,</p>
+<p>für das <strong>Training am 07.05.26</strong> habe ich eine <strong>Großmeisterpartie als Trainingsspiel</strong> vorbereitet.</p>
+<p>Die Partie entstammt dem Buch „Spiele mit gegen Großmeister“. In dem Buch werden die einzelnen Züge mit Punkten bewertet. Wir steigen zum 11. Zug in die Partie ein und versuchen die Züge von Bobby Fischer zu finden.</p>
+<p>Dazu überlegt jeder für sich allein, was der beste Zug seinen könnte und notiert diesen. Nach einigen Minuten wird der Zug bekannt gegeben und wer einen guten Zug gefunden hat, bekommt dafür Punkte. So gehen wir Zug für Zug durch die Partie. Wer am Ende die meisten Punkte hat, gewinnt das Spiel.</p>
+<p>Das Thema der Partie lautet „Angriff am Königsflügel“.</p>
+<p>Ich freue mich auf euch.</p>
+<p>Viele Grüße Michael!</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/28/training-am-07-05-26-grossmeisterpartie-als-trainingsspiel/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14819 
 <div class="post-14803 post type-post status-publish format-standard hentry category-termine" id="post-14803">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/" rel="bookmark">Endrunde der Bundesliga im Berliner Willy-Brandt-Haus</a></h2>
 <div class="entry-meta">
@@ -405,27 +425,6 @@ Die ein oder andere Partie findet ihr demnächst im Mitgliederbereich.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14627 
-<div class="post-14613 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14613">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/" rel="bookmark">Abteilungsmeisterschaft und Pokal ausgelost</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/" rel="bookmark" title="10:00"><span class="entry-date">16. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern wurde die 1.Runde Abteilungsmeisterschaft ausgelost. Wir haben 24 Teilnehmer, darunter einen Gast von Rotation.</p>
-<p><strong>Die 1.Runde ist am 12. Februar angesetzt!</strong> Wer da nicht kann, Bitte rechtzeitig mit dem Gegner klären <strong>und den Spielleiter informieren!!</strong><br/>
-<span style="font-size: 8pt;"><em>(Bitte tragt euch gleich alle Termine in euren Kalender ein, damit ihr frühzeitig (unabhängig vom Gegner) planen könnt bzw. wenn ihr nicht könnt, schon zur Auslosung der nächsten Runde den Spielleiter informiert!)</em></span></p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a></p>
-<p>Die 1.Runde zum Pokal wurde bereits letzte Woche ausgelost. Am Start sind hier 22 Teilnehmer. <strong>Hier ist Termin der 19. Februar!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Pokal</a></p>
-<p><strong><a href="https://www.narva-schach.de/wordpress/termine/">Terminplan</a></strong><br/>
-<strong><a href="https://www.narva-schach.de/wordpress/termine/kalender/">Google-Kalender</a></strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/16/abteilungsmeisterschaft-und-pokal-ausgelost-2/#comments">3 Kommentare</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14613 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
