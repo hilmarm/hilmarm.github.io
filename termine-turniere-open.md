@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
-<td>30.04.-03.05.2026</td>
-<td>Jonatan, Maxim, Jan-Hendrik, Michael</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://de.amateurchess.com/" rel="noopener" target="_blank">ACO 2026 Amateur-Schachweltmeisterschaft</a></td>
 <td>06.-15.05.2026</td>
 <td>Bernd</td>
