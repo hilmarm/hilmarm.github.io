@@ -84,6 +84,16 @@ parent_title: Termine
 <td>Günter, Hans-Dieter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.chessmanager.com/de-de/tournaments/6521675506778112" rel="noopener" target="_blank">38. Deutsche Senioren Einzelmeisterschaft 50+</a></td>
+<td>17.07.-25.07.2026</td>
+<td>Bernd</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.dsam-cup.de/dresden/" rel="noopener" target="_blank">DSAM Finale Dresden</a></td>
+<td>23.07.-25.07.2026</td>
+<td>Rudolf</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
 <td>01.-09.08.2026</td>
 <td></td>
