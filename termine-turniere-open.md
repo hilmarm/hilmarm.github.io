@@ -84,6 +84,11 @@ parent_title: Termine
 <td>Günter, Hans-Dieter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://lasker-gesellschaft.de/29-emanuel-lasker-turnier-in-thyrow/" rel="noopener" target="_blank">29. Emanuel Lasker Turnier in Thyrow</a></td>
+<td>05.07.2026</td>
+<td>Peter, Günter, Jan</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://www.chessmanager.com/de-de/tournaments/6521675506778112" rel="noopener" target="_blank">38. Deutsche Senioren Einzelmeisterschaft 50+</a></td>
 <td>17.07.-25.07.2026</td>
 <td>Bernd</td>

@@ -277,7 +277,7 @@ navs:
 <td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
 <td></td>
-<td>1526</td>
+<td>1529</td>
 <td>9</td>
 <td>1528</td>
 </tr>

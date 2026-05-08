@@ -76,9 +76,9 @@ parent_title: Turniere
 <td style="width: 16.1325%;">Maiwald,Gunar</td>
 <td style="width: 9.40171%;">(1)</td>
 <td style="width: 5.76923%;">–</td>
-<td style="width: 7.37179%;"></td>
-<td style="width: 18.8034%;">Ulrich/Kostiantyn</td>
-<td style="width: 9.40171%;">()</td>
+<td style="width: 7.37179%;">22</td>
+<td style="width: 18.8034%;">Honcharov,Kostia</td>
+<td style="width: 9.40171%;">(2)</td>
 <td style="width: 10.5769%;"></td>
 <td style="width: 6.51709%;"></td>
 </tr>
@@ -132,9 +132,9 @@ parent_title: Turniere
 <td>(1)</td>
 <td>–</td>
 <td>22</td>
-<td>Honcharov,Kostia</td>
+<td><strong>Honcharov,Kostia</strong></td>
 <td>(1)</td>
-<td></td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 </tbody>
