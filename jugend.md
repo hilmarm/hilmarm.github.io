@@ -8,8 +8,15 @@ navs:
 <div class="entry-content">
 <p style="text-align: center;"><strong><span style="font-size: 18pt;">Jeden Donnerstag ab 16:30 Uhr!!</span><br/>
 </strong>(in den Ferien nicht)</p>
-<p><span style="font-size: 14pt;">Unsere Trainer: Alexander Kreisel und Ekkehard Krüger</span></p>
+<p><span style="font-size: 14pt;">Unsere Trainer: Ekkehard Krüger und Alexander Kreisel </span></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg"><img alt="" class="size-medium wp-image-3899 aligncenter" decoding="async" height="150" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-768x384.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-1024x512.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg 1184w" width="300"/></a></p>
+<p><span style="font-size: 14pt;"><strong>Ausschreibung zum 28. ABRAFAXE-Kinderschachturnier am 6. Juni 2026 in Berlin</strong></span>, gleich bei uns um die Ecke im Andreas-Gymnasium in Berlin-Friedrichshain.</p>
+<ul>
+<li><span style="font-size: 14pt;"><a href="https://www.abrafaxe-kinderschachturnier.de/" rel="noopener" target="_blank">Turnierseite mit Ausschreibung und Anmeldung</a></span></li>
+</ul>
+<p> </p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt; color: #ff0000;"><a href="https://www.sg-narva.de/sport/kinderschutz/" rel="noopener" style="color: #ff0000;" target="_blank">Kinderschutz bei der SG NARVA Berlin e.V.</a></span></strong></p>
+<p> </p>
 <p><span style="text-decoration-line: underline; font-size: 1.8em;">News von der Berliner Schachjugend:</span></p>
 <ul><!--via SimplePie with RSSImport--><li><a href="https://www.schachjugend-in-berlin.de/jugend-elo-rapid-u20-am-11-juli-2026/" title="Jugend-Elo-Rapid – U20 – am 11. Juli 2026">Jugend-Elo-Rapid – U20 – am 11. Juli 2026</a></li><li><a href="https://www.schachjugend-in-berlin.de/kinderturnier-der-sf-nord-ost-berlin-abgesagt/" title="Kinderturnier der SF Nord-Ost Berlin abgesagt">Kinderturnier der SF Nord-Ost Berlin abgesagt</a></li><li><a href="https://www.schachjugend-in-berlin.de/28-abrafaxe-kinderschachturnier-2026/" title="28. Abrafaxe-Kinderschachturnier 2026">28. Abrafaxe-Kinderschachturnier 2026</a></li><li><a href="https://www.schachjugend-in-berlin.de/10-oder-null-4er-dwz-turnier-bei-caissa/" title="10 oder Null – 4er-DWZ-Turnier bei Caïssa">10 oder Null – 4er-DWZ-Turnier bei Caïssa</a></li><li><a href="https://www.schachjugend-in-berlin.de/tasi-2026-schulbefreiung/" title="Tasi 2026 – Schulbefreiung">Tasi 2026 – Schulbefreiung</a></li><li><a href="https://www.schachjugend-in-berlin.de/dem-2026/" title="DEM 2026">DEM 2026</a></li><li><a href="https://www.schachjugend-in-berlin.de/4-u25-elo-youngsters/" title="4. U25-Elo-Youngsters">4. U25-Elo-Youngsters</a></li></ul>
 <p style="text-align: center;"><span style="text-decoration: underline; font-size: 18pt;">Spieler aus der NARVA – Jugend</span></p>
@@ -33,7 +40,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>2379 (Juli 2025)</td>
+<td>2383 (Mai 2026)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -62,7 +69,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>2304 (Juli 2025)</td>
+<td>2290 (Mai  2026)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -200,11 +207,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1941 (Juli 2025)</td>
+<td>1957 (März 2026)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1941</td>
+<td>1957</td>
 </tr>
 <tr>
 <td>
@@ -229,7 +236,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1878 (März 2024)</td>
+<td>1871 (Februar 2026)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
@@ -258,11 +265,11 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>Aktuelle Elo‑Zahl</td>
-<td>1819 (Juli 2025)</td>
+<td>1821 (März 2026)</td>
 </tr>
 <tr>
 <td>Beste Elo‑Zahl</td>
-<td>1819</td>
+<td>1821</td>
 </tr>
 <tr>
 <td>
