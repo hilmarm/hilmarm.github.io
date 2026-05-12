@@ -94,7 +94,7 @@ navs:
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
 <td>1937</td>
-<td>522</td>
+<td>523</td>
 <td>1986</td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ navs:
 <td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
-<td>1294</td>
+<td>1295</td>
 <td>15</td>
 <td></td>
 </tr>
