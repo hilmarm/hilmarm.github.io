@@ -59,18 +59,18 @@ navs:
 </tr>
 <tr>
 <td>4.</td>
-<td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
+<td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
-<td>1972</td>
-<td>49</td>
+<td>1981</td>
+<td>13</td>
 <td></td>
 </tr>
 <tr>
 <td>5.</td>
-<td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
+<td><a href="http://www.schachbund.de/spieler/10040252.html" target="_blank"> Jerome Düren</a></td>
 <td></td>
-<td>1968</td>
-<td>12</td>
+<td>1972</td>
+<td>49</td>
 <td></td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ navs:
 <td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
-<td>1295</td>
+<td>1299</td>
 <td>15</td>
 <td></td>
 </tr>
