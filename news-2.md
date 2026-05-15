@@ -8,6 +8,35 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14833 post type-post status-publish format-standard hentry category-openberichte" id="post-14833">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/05/15/himmelfahrtsblitz-sg-weissensee/" rel="bookmark">Himmelfahrtsblitz SG Weißensee</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/05/15/himmelfahrtsblitz-sg-weissensee/" rel="bookmark" title="13:37"><span class="entry-date">15. Mai 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Im Rahmen eines von der SG Weißensee e.V. – nach einjähriger Pause – organisierten<br/>
+Blitzschachturniers zum HERRENTAG stellte unser Verein, SG NARVA e.V., gestern eine vierköpfige Mannschaft vor, die sich aus den engagierten Mitgliedern:</p>
+<p><strong>Peter, Guenida, Hans-Dieter und Jan-Hendrik</strong></p>
+<p>zusammensetzte.</p>
+<p>Ziel war es, in dieser VORRUNDE gemeinsam Spaß zu haben, zunächst „nicht Letzter“ zu werden! Für Jan als jüngeren Kämpfer war es auch die Möglichkeit, sportliche Wettkampferfahrung gegen starke Gegner zu sammeln, für die 3 erfahrenen Spieler stand die Freude am Schachspiel und der Trainingseffekt des Blitzschachs im Vordergrund.</p>
+<p>Das Turnierformat, das im 4er-Team, Modus 5.0, als Doppelrunde ausgetragen wurde, ermöglichte es den Teilnehmenden, ihr Können unter Beweis zu stellen. Dabei glänzte Peter mit 8 Punkten aus 16 Partien am Spitzenbrett gegen teilweise sehr starke Gegnerschaft (TOP-Scalp: Matthias Ahlberg 2.0).</p>
+<p>Die Zusammensetzung der Mannschaft spiegelte die Vielfalt der Vereinsmitglieder wider: Peter bringt eine langjährige Erfahrung und strategische Sichtweisen mit, Guenida zeichnet sich durch taktische Präzision und konzentriertes Spiel aus (TOP-Scalps: Weigelt 2.0, Mario Ahlberg 1.5), Hans-Dieter überzeugt durch analytische und strategische Endspielstärke und ruhiges Auftreten am Brett, während Jan-Hendrik mit Kreativität und einer frischen Perspektive punktete (TOP-Scalp: Georg Richter TSG DWZ 2200+ ein 1:1). Mit dem erzielten Platz 7 von 9 Teams landeten wir im hinteren Mittelfeld, bei vier Mannschaftssiegen (6.0 MP) und bei 23,5 Brettpunkten.</p>
+<p>Zu den Mannschaftsergebnissen und Fortschrittstabelle gibt es Fotos (Turnierleiter Matthias Ahlberg gab frei) sowie wurde noch vom ML Guenida eine Score-Tabelle des Teams anhand der Mitschriften erstellt. 3 Anlagen.</p>
+<p>Die Runden fanden im „Frei-Zeit-Haus“ in der Pistoriusstraße, in einer fairen Konkurrenz, ohne Streitigkeiten statt und fiel durch die Freude am Spiel und gute Stimmung im Saal auf.</p>
+<p>Für die „Final 4“ qualifizierten sich die Spezialisten: TSG, BERO II sowie NO I und II. Souveräner Turniersieger wurde auch die TSG (Ralf Schnabel, Matthias „Matzel“ Schöwel, Jan Zur, Georg Richter).</p>
+<p>Der Dank gilt dem Ausrichterverein SGWE, dem Betreuungspersonal des Gastgeberhauses für Speis und Trank, und es wäre erfreulich, zukünftige die Veranstaltungen wieder regelmäßig fortzuführen (Detlef Schleusener bestätigte es inzwischen auch auf der Website).</p>
+<p>Mehr Details und Fotos: LINK des Ausrichter: <a href="https://schach.sgw49.de/2026/05/15/himmelfahrtstag-im-freizeithaus/" rel="noopener" target="_blank">Himmelfahrtstag im Freizeithaus – SG Weißensee 49</a></p>
+<p>Wir danken – „last but not least“ – dem NARVA-Verein für die Übernahme des Startgeldes für das Team.<br/>
+15.05.2026, Günter Idaczek (Autor) „Guenida“</p>
+<p>Bilder und Tabellen:</p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2026/05/15/himmelfahrtsblitz-sg-weissensee/#more-14833">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/05/15/himmelfahrtsblitz-sg-weissensee/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14833 
 <div class="post-14819 post type-post status-publish format-standard hentry category-training" id="post-14819">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/28/training-am-07-05-26-grossmeisterpartie-als-trainingsspiel/" rel="bookmark">Training am 07.05.26 – Großmeisterpartie als Trainingsspiel</a></h2>
 <div class="entry-meta">
@@ -408,23 +437,6 @@ Die ein oder andere Partie findet ihr demnächst im Mitgliederbereich.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/26/bmm-runde-5-3-niederlagen/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14632 
-<div class="post-14627 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14627">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/" rel="bookmark">Monatsblitz Januar geht an Peter</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/" rel="bookmark" title="12:45"><span class="entry-date">23. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern stand die erste Runde im <strong>Monatsblitz</strong> an, wegen der BFL um eine Woche nach vorne verschoben. 13 Teilnehmer fanden sich ein.</p>
-<p>Mit 11,5 Punkten aus 12 Partien wurde <strong>Peter</strong> klarer Sieger. Platz 2 ging an <strong>Arlo</strong>, unserem Gast aus Amerika, er kam auf 10,5 Punkte. Platz 3 sicherte sich <strong>Rudolf</strong> mit 10 Punkten.</p>
-<p>Im Februar gibt es kein Blitz. Das nächste ist dann im März, aber auch hier schon eine Woche eher, am <strong>19.03.26</strong>!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/23/monatsblitz-januar-geht-an-peter/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14627 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
