@@ -23,42 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://de.amateurchess.com/" rel="noopener" target="_blank">ACO 2026 Amateur-Schachweltmeisterschaft</a></td>
-<td>06.-15.05.2026</td>
-<td>Bernd</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://storage.e.jimdo.com/file/9ebcff6d-60bb-46ea-902c-8185f57844d0/Halbmarathon%2009.05.2026.pdf" rel="noopener" target="_blank">Halbmarathon Blitzschach</a></td>
-<td>09.05.2026</td>
-<td>Mert, Wesko</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://storage.e.jimdo.com/file/d59a1c14-d58f-41dc-9ebf-4689fce5254b/Schach-Triathlon%2010.05.2026.pdf" rel="noopener" target="_blank">Schach-Triathlon</a></td>
-<td>10.05.2026</td>
-<td>Batu &amp; Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td>Himmelfahrtsblitz SG Weißensee</td>
-<td>14.05.2026</td>
-<td>Mannschaft<br/>
-<span style="font-size: 8pt;"><em>Dieter, Günter, Peter, Philipp</em></span></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://open-stendal.de.tl/28-.--Open-2026.htm" rel="noopener" target="_blank">Stendaler Open 2026</a></td>
-<td>14.-17.05.2026</td>
-<td>Gerhard, Lukas</td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://www.sglasker.de/teschner-2026/" rel="noopener" target="_blank">Teschner-Gedenkturnier 2026</a></td>
-<td>14.-17.05.2026</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://psv-mitte.de/13-potsdamer-sommeropen-vom-14-05-17-05-2026/" rel="noopener" target="_blank">13. Potsdamer Sommeropen</a></td>
-<td>14.-17.05.2026</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://skzehlendorf.de/turniere/harald-lieb-gedenkturnier/" rel="noopener" target="_blank">10. Harald-Lieb-Gedenkturnier 2026</a></td>
 <td>21.05.-02.07.2026</td>
 <td></td>
