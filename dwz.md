@@ -227,19 +227,19 @@ navs:
 </tr>
 <tr>
 <td>25.</td>
-<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
-<td></td>
-<td>1569</td>
-<td>120</td>
-<td>1785</td>
-</tr>
-<tr>
-<td>26.</td>
 <td><a href="http://www.schachbund.de/spieler/10830177.html" target="_blank"> Philipp Pape</a></td>
 <td></td>
 <td>1557</td>
 <td>9</td>
 <td>0</td>
+</tr>
+<tr>
+<td>26.</td>
+<td><a href="http://www.schachbund.de/spieler/10143747.html" target="_blank"> Gerhard Mietzelfeldt</a></td>
+<td></td>
+<td>1556</td>
+<td>121</td>
+<td>1785</td>
 </tr>
 <tr>
 <td>27.</td>
@@ -293,8 +293,8 @@ navs:
 <td>33.</td>
 <td><a href="http://www.schachbund.de/spieler/10708795.html" target="_blank"> Lukas von Kraft</a></td>
 <td></td>
-<td>1501</td>
-<td>31</td>
+<td>1519</td>
+<td>32</td>
 <td>1732</td>
 </tr>
 <tr>
