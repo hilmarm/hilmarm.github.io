@@ -79,7 +79,7 @@ parent_title: Turniere
 <td>3</td>
 <td>Hintze,Peter</td>
 <td>(1½)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -91,7 +91,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Magnusson,Hilmar</td>
 <td>(1½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -103,7 +103,7 @@ parent_title: Turniere
 <td>4</td>
 <td>Maetzing,Hans-Di</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Maiwald,Gunar</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Kreisel,Alexande</td>
 <td>(0)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 </tbody>

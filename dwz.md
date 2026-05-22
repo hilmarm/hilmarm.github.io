@@ -61,8 +61,8 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
-<td>1981</td>
-<td>13</td>
+<td>1993</td>
+<td>14</td>
 <td></td>
 </tr>
 <tr>
@@ -333,7 +333,7 @@ navs:
 <td>38.</td>
 <td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
 <td></td>
-<td>1393</td>
+<td>1390</td>
 <td>21</td>
 <td>1588</td>
 </tr>
