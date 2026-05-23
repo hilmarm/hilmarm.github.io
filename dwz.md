@@ -267,19 +267,19 @@ navs:
 </tr>
 <tr>
 <td>30.</td>
+<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
+<td></td>
+<td>1530</td>
+<td>9</td>
+<td>1528</td>
+</tr>
+<tr>
+<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1530</td>
 <td>44</td>
 <td>0</td>
-</tr>
-<tr>
-<td>31.</td>
-<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
-<td></td>
-<td>1529</td>
-<td>9</td>
-<td>1528</td>
 </tr>
 <tr>
 <td>32.</td>
