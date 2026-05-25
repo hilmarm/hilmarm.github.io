@@ -93,8 +93,8 @@ navs:
 <td>8.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1937</td>
-<td>523</td>
+<td>1941</td>
+<td>524</td>
 <td>1986</td>
 </tr>
 <tr>
@@ -267,19 +267,19 @@ navs:
 </tr>
 <tr>
 <td>30.</td>
-<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
-<td></td>
-<td>1530</td>
-<td>9</td>
-<td>1528</td>
-</tr>
-<tr>
-<td>31.</td>
 <td><a href="http://www.schachbund.de/spieler/10078574.html" target="_blank"> Wesko Heinrich</a></td>
 <td></td>
 <td>1530</td>
 <td>44</td>
 <td>0</td>
+</tr>
+<tr>
+<td>31.</td>
+<td><a href="http://www.schachbund.de/spieler/10843867.html" target="_blank"> Maxim Stüve</a></td>
+<td></td>
+<td>1529</td>
+<td>9</td>
+<td>1528</td>
 </tr>
 <tr>
 <td>32.</td>
