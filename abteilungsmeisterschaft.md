@@ -67,7 +67,7 @@ parent_title: Turniere
 <td>9</td>
 <td>Mietzelfeldt,Ger</td>
 <td>(1½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
