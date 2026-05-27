@@ -168,7 +168,7 @@ navs:
 </tr>
 <tr>
 <td>23.07.26</td>
-<td></td>
+<td class="versammlung">Hand &amp; Brain</td>
 <td>DSAM-Finale Dresden</td>
 </tr>
 <tr>

@@ -48,9 +48,9 @@ parent_title: Turniere
 </tr>
 <tr>
 <td style="width: 8.54701%;">2</td>
-<td style="width: 7.37179%;"></td>
-<td style="width: 16.1325%;">Max/Maxim</td>
-<td style="width: 9.40171%;">()</td>
+<td style="width: 7.37179%;">11</td>
+<td style="width: 16.1325%;">Kappus,Maximilia</td>
+<td style="width: 9.40171%;">(2)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">7</td>
 <td style="width: 18.8034%;">Krüger,Ekkehard</td>
@@ -104,13 +104,13 @@ parent_title: Turniere
 <tr>
 <td>1</td>
 <td>11</td>
-<td>Kappus,Maximilia</td>
+<td><strong>Kappus,Maximilia</strong></td>
 <td>(1)</td>
 <td>–</td>
 <td>14</td>
 <td>Stüve,Maxim</td>
 <td>(1)</td>
-<td></td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
