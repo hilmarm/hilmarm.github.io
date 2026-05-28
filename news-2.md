@@ -8,6 +8,33 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14881 post type-post status-publish format-standard hentry category-openberichte" id="post-14881">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/05/28/21e-delfts-kroeglopertoernooi/" rel="bookmark">21e Delfts Kroeglopertoernooi</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/05/28/21e-delfts-kroeglopertoernooi/" rel="bookmark" title="10:55"><span class="entry-date">28. Mai 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Pfingstsonntag fand das <strong>21e Delfts Kroeglopertoernooi</strong> statt. Kneipenschach in Delft (bei Den Haag).<br/>
+Gespielt wurde in 2er Teams, 7 Runden Schnellschach mit 20+0 Bedenkzeit, jede Runde in einer anderen Kneipe. Insgesamt fanden sich 101 Teams zusammen, an der Spitze auch diverse 2400er IM´s.<br/>
+Im letzten Jahr war ich zum ersten mal dort, auch dieses Jahr dann wieder mit <strong>Lasko</strong> als Team. Einige weitere NARVA Spieler und Bekannte waren dabei, <strong>Norbert</strong> und <strong>Bernd</strong> bildeten ein Team. Dazu waren noch <strong>Bram</strong>, <strong>Derk Dekker</strong>, <strong>Gerard Milort</strong> und, zumindest Tomas und Rudolf kenne ihn aus 2014 vom Betriebsschach in Den Haag, <strong>Lars Vistisen</strong>.</p>
+<p>Alles wieder Top organisiert vom <strong>Delftsche Schaakclub</strong>. Auch unser Wimpel hängt vom letzten Jahr noch prominent im Spiellokal! Ein Super entspanntes Turnier, nur nette Leute. Delft dazu der perfekte Ort.</p>
+<p>Hier die Endplatzierungen der Teams mit bekannten Personal:<br/>
+9. Bram van den Berg &amp; Winifred Paulis<br/>
+21. Bernd Daverkausen &amp; Norbert Harmanus<br/>
+31. Lars Vistisen &amp; Feike Liefrink<br/>
+35. Gerard Milort &amp; Jan Hellenberg<br/>
+39. Derk Dekker &amp; Petra Boonman<br/>
+53. Thomas Mothes &amp; Frank Laskowski</p>
+<p>Platz 53 war etwas hinter unserem Setzlistenplatz (50), bei mir lief es nur in den ersten 3 Runden gut, danach war nichts mehr zu holen (nein, nicht zu viel Bier…), bei Lasko war es umgekehrt. Da auch alle Primzahlen in der Tabelle einen Preis bekommen, gab es für uns noch 10,- €! Die Einzelergebnisse von Lasko, Norbert, Bernd und mir siehe unter den Fotos.</p>
+<p><a href="https://stickchess.com/en/tournament/delft26/standings/7" rel="noopener" target="_blank">Ergebnisse</a></p>
+<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2026/05/28/21e-delfts-kroeglopertoernooi/#more-14881">Weiterlesen <span class="meta-nav">→</span></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/05/28/21e-delfts-kroeglopertoernooi/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14881 
 <div class="post-14833 post type-post status-publish format-standard hentry category-openberichte" id="post-14833">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/05/15/himmelfahrtsblitz-sg-weissensee/" rel="bookmark">Himmelfahrtsblitz SG Weißensee</a></h2>
 <div class="entry-meta">
@@ -415,28 +442,6 @@ Am Montag früh dann die letzte Chance in <strong>Runde 5</strong>, aber für di
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/31/bfl-runde-5/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14653 
-<div class="post-14632 post type-post status-publish format-standard hentry category-bmm" id="post-14632">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/01/26/bmm-runde-5-3-niederlagen/" rel="bookmark">BMM Runde 5 – 3 Niederlagen</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/01/26/bmm-runde-5-3-niederlagen/" rel="bookmark" title="10:14"><span class="entry-date">26. Januar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Die<strong> 5. Runde zur BMM</strong> brachte gestern leider 3 Niederlagen. Dabei war zumindest bei der Ersten und Dritten Mannschaft mehr drin.</p>
-<p><strong>NARVA 1</strong> unterliegt <strong>Friedrichshagen 1</strong> mit <strong>3:5</strong>. Stark die Siege an Brett 1 und 2 von <strong>Mert</strong> und <strong>Rouven</strong> und auch die halben Punkte von <strong>Jonatan</strong> und <strong>Wesko</strong>! Bei <strong>Rudolf</strong> und <strong>Jerry</strong> war zwischendurch mehr drin, aber in Zeitnot gaben beide noch ihre Partien weg. <strong>Kostiantyn</strong> zeigte einen guten BMM Einstand und bewies, dass er auf diesem Niveau spielen kann, beim nächsten mal klappt es auch mit Punkten. Bei <strong>Günter</strong> läuft es dieses Jahr leider gar nicht, trotzdem Danke für deinen Einsatz, auch wenn du durch das Aufrücken weiter vorne spielst als eigentlich gewünscht, es kommen auch wieder bessere Zeiten! Zumindest hätte es beinahe gereicht, um einen unerwarteten Punkt zu holen.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14629" decoding="async" height="219" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-1024x350.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-1024x350.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome-768x263.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195653_Chrome.jpg 1049w" width="640"/></a></p>
-<p><strong>NARVA 2</strong> hatte nach dem Überraschungspunkt gegen Rotation nun etwas Hoffnung, dass es auch gegen <strong>Eckbauer 2</strong> vielleicht klappen könnte. Aber schon früh zeichnete sich ab, das das nichts wird. Mehr als 5 Remis (<strong>Andreas</strong>, <strong>Hans-Dieter</strong>, <strong>Ulrich</strong>, <strong>Oliver</strong> und <strong>Jens</strong>) konnten wir nicht holen, <strong>Alexande</strong>r, <strong>Gerhard</strong> und <strong>ich</strong> verlieren. Zumindest bei mir war ein Remis drin, bei Jens und Ulrich evtl. mehr als der halbe Punkt – wobei Ulrich zwischendurch auch mal schlechter stand. So gab es eine <strong>2,5:5,5</strong> Niederlage.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14630" decoding="async" height="219" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-1024x350.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-1024x350.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-300x103.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome-768x263.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/Screenshot_20260125_195802_Chrome.jpg 1079w" width="640"/></a></p>
-<p>Für <strong>NARVA 3</strong> war es am Ende eine bittere Niederlage. Einen Punkt bekam man geschenkt, <strong>Lukas</strong> gewinnt dann auch und man führt 2:0. Jetzt hätte man vielleicht das ein oder andere Remis in Kauf nehmen sollen, so aber wollten <strong>Maxim</strong>, <strong>Michael</strong> und <strong>Klaus</strong> auf Gewinn spielen, was bei allen drei schief ging. Schade, denn mit der <strong>2:4</strong> Niederlage gegen <strong>Eckbauer 3</strong> rutscht man erstmal auf Platz 3 ab.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2.jpg"><img alt="" class="aligncenter size-full wp-image-14649" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 601px) 100vw, 601px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2.jpg 601w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/01/bmm2526r5m3v2-300x100.jpg 300w" width="601"/></a><br/>
-Die ein oder andere Partie findet ihr demnächst im Mitgliederbereich.</p>
-<p> <a class="more-link" href="https://www.narva-schach.de/wordpress/2026/01/26/bmm-runde-5-3-niederlagen/#more-14632">Weiterlesen <span class="meta-nav">→</span></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/01/26/bmm-runde-5-3-niederlagen/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14632 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
