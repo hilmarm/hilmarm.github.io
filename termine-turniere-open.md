@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td><a href="https://skzehlendorf.de/turniere/harald-lieb-gedenkturnier/" rel="noopener" target="_blank">10. Harald-Lieb-Gedenkturnier 2026</a></td>
-<td>21.05.-02.07.2026</td>
-<td></td>
-</tr>
-<tr style="height: 24px;">
-<td><a href="https://stickchess.com/en/tournament/delft26/participants" rel="noopener" target="_blank">21e Delfts Kroeglopertoernooi</a></td>
-<td>24.05.2026</td>
-<td>Bram, Norbert, Bernd, Lasko, Thomas</td>
-</tr>
-<tr style="height: 24px;">
 <td><a href="https://seniorenopen-brb.de/33-seniorenopen/" rel="noopener" target="_blank">33. Seniorenopen in Miedzyzdroje</a></td>
 <td>19.-29.06.2026</td>
 <td>Hans-Dieter, Gerhard</td>
