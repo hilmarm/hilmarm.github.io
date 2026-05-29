@@ -36,9 +36,9 @@ parent_title: Turniere
 <tbody>
 <tr>
 <td style="width: 8.54701%;">1</td>
-<td style="width: 7.37179%;"></td>
-<td style="width: 16.1325%;">Wesko/Rudolf</td>
-<td style="width: 9.40171%;">()</td>
+<td style="width: 7.37179%;">2</td>
+<td style="width: 16.1325%;">Lange,Rudolf</td>
+<td style="width: 9.40171%;">(2)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">19</td>
 <td nowrap="nowrap" style="width: 18.8034%;">Bahr,Jan-Hendrik</td>
@@ -120,9 +120,9 @@ parent_title: Turniere
 <td>(1)</td>
 <td>–</td>
 <td>2</td>
-<td>Lange,Rudolf</td>
+<td><strong>Lange,Rudolf</strong></td>
 <td>(1)</td>
-<td></td>
+<td>– : +</td>
 <td></td>
 </tr>
 <tr>
