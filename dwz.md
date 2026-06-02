@@ -85,8 +85,8 @@ navs:
 <td>7.</td>
 <td><a href="http://www.schachbund.de/spieler/10127270.html" target="_blank"> Manfred Lenhardt</a></td>
 <td>P</td>
-<td>1942</td>
-<td>524</td>
+<td>1949</td>
+<td>525</td>
 <td>1986</td>
 </tr>
 <tr>
