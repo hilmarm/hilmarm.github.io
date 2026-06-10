@@ -61,7 +61,7 @@ navs:
 <td>4.</td>
 <td><a href="http://www.schachbund.de/spieler/10709459.html" target="_blank"> Batuhan Sütbaş</a></td>
 <td></td>
-<td>1993</td>
+<td>1992</td>
 <td>14</td>
 <td></td>
 </tr>
