@@ -564,7 +564,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Düren,Jerome</td>
 <td>(1½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -624,7 +624,7 @@ parent_title: Turniere
 <td>15</td>
 <td>von Kraft,Lukas</td>
 <td>(1)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -648,7 +648,7 @@ parent_title: Turniere
 <td>14</td>
 <td>Stüve,Maxim</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
