@@ -30,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/6365b79e-c8c2-4a1b-9edb-24fcd28ba102/Lausitzer%20Schachturnier%2003.-05.07.2026.pdf" rel="noopener" target="_blank">Lausitzer Schachturnier</a></td>
 <td>03.-05.07.2026</td>
-<td></td>
+<td>Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-4-juli-2026.html" rel="noopener" target="_blank">9. Schachturnier in Karlshorst</a></td>
@@ -38,9 +38,19 @@ parent_title: Termine
 <td>Günter, Hans-Dieter</td>
 </tr>
 <tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2026.html" rel="noopener" target="_blank">Schnellschach-Einzelmeisterschaft 2026</a></td>
+<td>04.07.2026</td>
+<td>Batu, Mert</td>
+</tr>
+<tr style="height: 24px;">
 <td><a href="https://lasker-gesellschaft.de/29-emanuel-lasker-turnier-in-thyrow/" rel="noopener" target="_blank">29. Emanuel Lasker Turnier in Thyrow</a></td>
 <td>05.07.2026</td>
 <td>Peter, Günter, Jan</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-mm-2026.html" rel="noopener" target="_blank">Schnellschach-Mannschaftsmeisterschaft 2026</a></td>
+<td>05.07.2026</td>
+<td>2 Mannschaften</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://www.chessmanager.com/de-de/tournaments/6521675506778112" rel="noopener" target="_blank">38. Deutsche Senioren Einzelmeisterschaft 50+</a></td>
@@ -55,7 +65,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
 <td>01.-09.08.2026</td>
-<td></td>
+<td>Bernd</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>

@@ -8,25 +8,7 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14902 post type-post status-publish format-standard hentry category-training" id="post-14902">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/" rel="bookmark">Training mit Bernd Daverkausen am Donnerstag</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/" rel="bookmark" title="17:24"><span class="entry-date">3. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Morgen gibt es das Training von Bernd Daverkausen!</strong></p>
-<p><strong>Thema: Isolierter Damenbauer und hängende Bauern im Mittelspiel!</strong></p>
-<p><strong>Start in der Kadiner Str. ist um 18.30 Uhr!</strong></p>
-<p><strong>Gäste sind natürlich auch willkommen!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202.jpg"><img alt="" class="aligncenter size-medium wp-image-8688" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202.jpg 540w" width="300"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14902 
-<div class="post-14896 post type-post status-publish format-standard hentry category-offene-turniere category-termine" id="post-14896">
+<div class="post-14896 post type-post status-publish format-standard sticky hentry category-offene-turniere category-termine" id="post-14896">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark">Hand and Brain Turnier am 23.07.26</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark" title="8:14"><span class="entry-date">1. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
@@ -49,6 +31,24 @@ Kadiner Str. 1, 10243 Berlin</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14896 
+<div class="post-14902 post type-post status-publish format-standard hentry category-training" id="post-14902">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/" rel="bookmark">Training mit Bernd Daverkausen am Donnerstag</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/" rel="bookmark" title="17:24"><span class="entry-date">3. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Morgen gibt es das Training von Bernd Daverkausen!</strong></p>
+<p><strong>Thema: Isolierter Damenbauer und hängende Bauern im Mittelspiel!</strong></p>
+<p><strong>Start in der Kadiner Str. ist um 18.30 Uhr!</strong></p>
+<p><strong>Gäste sind natürlich auch willkommen!</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202.jpg"><img alt="" class="aligncenter size-medium wp-image-8688" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-300x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-300x300.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-150x150.jpg 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202-144x144.jpg 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2021/09/FB_IMG_1632207903202.jpg 540w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14902 
 <div class="post-14894 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14894">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/05/29/mai-blitz-2/" rel="bookmark">Mai-Blitz</a></h2>
 <div class="entry-meta">
