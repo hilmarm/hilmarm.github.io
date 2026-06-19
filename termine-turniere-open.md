@@ -25,7 +25,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://seniorenopen-brb.de/33-seniorenopen/" rel="noopener" target="_blank">33. Seniorenopen in Miedzyzdroje</a></td>
 <td>19.-29.06.2026</td>
-<td>Hans-Dieter, Gerhard</td>
+<td>Gerhard</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://storage.e.jimdo.com/file/6365b79e-c8c2-4a1b-9edb-24fcd28ba102/Lausitzer%20Schachturnier%2003.-05.07.2026.pdf" rel="noopener" target="_blank">Lausitzer Schachturnier</a></td>
@@ -40,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2026.html" rel="noopener" target="_blank">Schnellschach-Einzelmeisterschaft 2026</a></td>
 <td>04.07.2026</td>
-<td>Batu, Mert</td>
+<td>Batu</td>
 </tr>
 <tr style="height: 24px;">
 <td><a href="https://lasker-gesellschaft.de/29-emanuel-lasker-turnier-in-thyrow/" rel="noopener" target="_blank">29. Emanuel Lasker Turnier in Thyrow</a></td>
@@ -71,6 +71,11 @@ parent_title: Termine
 <td><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
 <td>08.-16.08.2026</td>
 <td>Ekkehard</td>
+</tr>
+<tr style="height: 24px;">
+<td><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal_2026_Ausschreibung.pdf" rel="noopener" target="_blank">Spreewaldpokal 2026</a></td>
+<td>19.09.2026</td>
+<td>Mannschaft</td>
 </tr>
 </tbody>
 </table>
