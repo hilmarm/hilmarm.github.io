@@ -31,6 +31,38 @@ Kadiner Str. 1, 10243 Berlin</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14896 
+<div class="post-14921 post type-post status-publish format-standard hentry category-sg-narva" id="post-14921">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/21/sg-narva-hauptversammlung/" rel="bookmark">SG NARVA Hauptversammlung</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/21/sg-narva-hauptversammlung/" rel="bookmark" title="15:33"><span class="entry-date">21. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Mit etwas Verspätung fand nun am Donnerstag auch die <strong>Hauptversammlung der SG NARVA</strong> statt. In unseren Räumlichkeiten in der Kadiner Str. kamen die Abteilungsleiter, Delegierte und der Vorstand zusammen, um in diesem Jahr auch wieder den Vorstand zu wählen.<br/>
+Hierbei gab es nur eine Änderung, der neue <strong>2. Vorsitzende ist Bastian Harth vom Volleyball</strong>.<br/>
+Die anderen Positionen wurden unverändert erneut gewählt:<br/>
+<strong>1.Vorsitzender: Heiko Wagner (Handball)</strong><br/>
+<strong>Kassenwart: Thomas Mothes (Schach)</strong><br/>
+<strong>Vertreterin für Besonderes: Martina Stampka (Handball)</strong></p>
+<p>Außerdem gab es kurze Berichte zur sportlichen Entwicklung der jeweiligen Abteilung. Hierbei sticht natürlich <strong>Handball</strong> mit dem Titel <strong>Berlin Meister</strong> und dem Aufstieg der 1. Männer in die Ostsee-Spree Liga (4. Liga) hervor, außerdem stieg auch die Zweite direkt mit auf und die B-Jugend hält die Jugend-Bundesliga!<br/>
+<a href="https://www.sg-narva.de/doppelaufstieg-in-einer-uebergangssaison/" rel="noopener" target="_blank">https://www.sg-narva.de/doppelaufstieg-in-einer-uebergangssaison/</a></p>
+<p>Auch die Damen vom <strong>Volleyball</strong> können einen Aufstieg vermelden! Als <strong>Meisterinnen</strong> steigen sie von der Bezirksklasse in die Bezirksliga auf! <a href="https://www.sg-narva.de/sport/volleyball/damen/" rel="noopener" target="_blank">https://www.sg-narva.de/sport/volleyball/damen/</a></p>
+<p>Die <strong>Abteilung Boxen</strong> versucht im Wettkampfbereich wieder Fuß zu fassen.</p>
+<p>Die Ergebnisse vom <strong>Schach</strong> kennt ihr ja…..positiv aber auch bei uns die Mitgliederentwicklung.</p>
+<p>Größte Baustelle bleibt weiterhin das die SG NARVA keine Geschäftsräume hat und hier weiterhin auf der Suche ist.</p>
+<p>Vorgeschlagen wurde auch die Organisation eines gemeinsamen Events der Abteilungen.</p>
+<p>Die Entwicklung der <strong>Mitgliederzahl</strong> im Gesamtverein geht auch insgesamt wieder nach oben:<br/>
+2023 800 Mitglieder +24 Mitglieder<br/>
+2024 810 Mitglieder +10 Mitglieder<br/>
+2025 728 Mitglieder -82 Mitglieder<br/>
+2026 822 Mitglieder +94 Mitglieder</p>
+<p>Protokoll demnächst im Mitgliederbereich</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/sg-narva/" rel="category tag">SG NARVA</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/21/sg-narva-hauptversammlung/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14921 
 <div class="post-14902 post type-post status-publish format-standard hentry category-training" id="post-14902">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/" rel="bookmark">Training mit Bernd Daverkausen am Donnerstag</a></h2>
 <div class="entry-meta">
@@ -398,29 +430,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/02/23/gebrauchter-vormittag-fuer-team-narva/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14704 
-<div class="post-14696 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14696">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/20/pokal-dinge/" rel="bookmark">Pokal Dinge</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/02/20/pokal-dinge/" rel="bookmark" title="12:00"><span class="entry-date">20. Februar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Der Pokal hat seine eigenen Gesetze….so zumindest angeblich im Fußball.<br/>
-Gestern stand dann auch bei uns die erste Runde zum <strong>Pokal 2026</strong> an. Und direkt strauchelte der ein oder andere „Favorit“.</p>
-<p>Das es in Runde 1 dann mal wieder zum Duell <strong>Rudolf</strong> gegen <strong>Peter</strong> kam, führte dazu, dass ein weiterer „Großer“ direkt raus ist. Dieses Duell hat inzwischen auch schon eine Geschichte, Viertelfinale 2023 (Rudolf) 1. Runde 2024 (Peter), 1. Runde 2026….<br/>
-Dieses mal gewinnt wieder Rudolf das Duell!</p>
-<p>Dann kommen auch 2 Nachrücker weiter. <strong>Gunar</strong> und <strong>Kostiantyn</strong> kamen erst kurzfristig durch Absagen ins Turnier und können beide gewinnen! Gunar nach langer Pause, in seiner zweiten Langpartie – Glückwunsch! Und Kostiantyn schaltet direkt <strong>Jonatan</strong> aus – Glückwunsch!</p>
-<p>Eine weitere Überraschung ist dann sicher auch Sieg von <strong>Maxim</strong>. Den Mehrbauern im Turmendspiel gegen <strong>Hans-Dieter</strong> zu verwandeln, stark!</p>
-<p>Kämpfen für seinen Sieg musste auch der Vorjahressieger <strong>Mert</strong>. <strong>Tom</strong> wehrte sich sehr lange und stand ausgeglichen im Springerendspiel. Kleinere Ungenauigkeiten nutzte Mert dann aber aus und zieht auch in die nächste Runde ein.</p>
-<p>Außerdem gewinnen noch <strong>Max</strong> und <strong>Ekkehard</strong> ihre Duelle.</p>
-<p>Die <a href="https://www.narva-schach.de/wordpress/turniere/pokal/">Zwischenrunde</a> wurde auch direkt ausgelost.</p>
-<p>Und Runde 2 zur <a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Abteilungsmeisterschaft</a> ist auch bereits ausgelost.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/02/20/pokal-dinge/#comments">Ein Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14696 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
