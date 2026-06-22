@@ -576,7 +576,7 @@ parent_title: Turniere
 <td>2</td>
 <td>Kuban,Andreas</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
