@@ -21,7 +21,7 @@ parent_title: Turniere
 <strong>Die Turniere im Januar und März finden wegen Terminkonflikt mit der Feierabendliga abweichend jeweils eine Woche früher statt, das im Februar fällt aus!</strong></p>
 <h2>Gesamtwertung</h2>
 <div style="overflow: auto;">
-<table class="clean footable" style="width: 139%; height: 666px;">
+<table class="clean footable" style="width: 139%; height: 474px;">
 <thead>
 <tr style="height: 18px;">
 <th style="padding-right: 10px; width: 15%; height: 18px;">Name</th>
@@ -54,12 +54,12 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">50</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Lange</td>
-<td style="width: 5%; height: 24px;">8</td>
+<td nowrap="nowrap" style="width: 15%; height: 24px;">Özates</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;">8</td>
-<td style="width: 5%; height: 24px;">8</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;">12</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -68,12 +68,12 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">34</td>
 </tr>
 <tr style="height: 24px;">
-<td nowrap="nowrap" style="width: 15%; height: 24px;">Özates</td>
+<td style="width: 15%; height: 24px;">Lange</td>
+<td style="width: 5%; height: 24px;">8</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">12</td>
-<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;">8</td>
+<td style="width: 5%; height: 24px;">8</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -110,12 +110,54 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">17</td>
 </tr>
 <tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Krüger</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">5</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">4</td>
+<td style="width: 5%; height: 24px;">5</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">14</td>
+</tr>
+<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Schenk</td>
 <td style="width: 5%; height: 24px;">4</td>
 <td style="width: 5%; height: 24px;">8</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">12</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Honcharov</td>
+<td style="width: 5%; height: 24px;">5</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">12</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Bradschetl</td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;">4</td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">4</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -138,20 +180,6 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">10</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Krüger</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">5</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">4</td>
-<td style="width: 5%; height: 24px;">5</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">14</td>
-</tr>
-<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Kuban (G)</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -164,20 +192,6 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">8</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Bradschetl</td>
-<td style="width: 5%; height: 24px;">3</td>
-<td style="width: 5%; height: 24px;">4</td>
-<td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">4</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">12</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Arnold</td>
@@ -194,18 +208,18 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">6</td>
 </tr>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Honcharov</td>
-<td style="width: 5%; height: 24px;">5</td>
-<td style="width: 5%; height: 24px;"></td>
+<td style="width: 15%; height: 24px;">Bahr</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">2</td>
+<td style="width: 5%; height: 24px;">3</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">12</td>
+<td style="width: 8.68621%; height: 24px;">6</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Idaczek</td>
@@ -250,6 +264,20 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">4</td>
 </tr>
 <tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Werner</td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;">2</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">4</td>
+</tr>
+<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Kreisel</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;">3</td>
@@ -276,34 +304,6 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">3</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Werner</td>
-<td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;">2</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">4</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Bahr</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">2</td>
-<td style="width: 5%; height: 24px;">3</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">6</td>
 </tr>
 </tbody>
 </table>

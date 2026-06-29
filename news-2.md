@@ -8,6 +8,25 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14927 post type-post status-publish format-standard sticky hentry category-training" id="post-14927">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/" rel="bookmark">Schnellschach Training</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/" rel="bookmark" title="17:14"><span class="entry-date">29. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Als Trainingsthema für Donnerstag gibt es dieses mal eine <strong>Übungseinheit Schnellschach</strong>!<br/>
+Wir spielen uns warm für die Berliner Schnellschach Meisterschaften am Wochenende. Dort wird mit dem <strong>Bedenkzeitmodus 12+10</strong> gespielt.<br/>
+Je nach Teilnehmerzahl werden wir vor Ort schon einen sinnvollen Modus finden.<br/>
+Start wird ca. 18:30 Uhr sein.</p>
+<p>Teilnehmen darf natürlich jeder, auch wer nicht am Wochenende spielt.</p>
+<p><strong>Der nächste NARVA Schnellschach GP Termin ist dann am 09.07.26, mit Bedenkzeit 12+3.</strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14927 
 <div class="post-14896 post type-post status-publish format-standard sticky hentry category-offene-turniere category-termine" id="post-14896">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark">Hand and Brain Turnier am 23.07.26</a></h2>
 <div class="entry-meta">
@@ -410,26 +429,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/02/bfl-teilerfolge/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14719 
-<div class="post-14704 post type-post status-publish format-standard hentry category-bmm" id="post-14704">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/02/23/gebrauchter-vormittag-fuer-team-narva/" rel="bookmark">Gebrauchter Vormittag für Team NARVA</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/02/23/gebrauchter-vormittag-fuer-team-narva/" rel="bookmark" title="13:07"><span class="entry-date">23. Februar 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Über die <strong>Runde 6 der BMM</strong> gibt es nicht viel positives aus unserer Sicht zu erzählen. Der Gegner der Ersten war einfach zu stark, die Zweite lässt vielen 100% Chancen ungenutzt, die Dritte hat mit 4 Mann keine Chance.</p>
-<p>In der <strong>1. Mannschaft</strong> gab es wieder viele Ausfälle, damit mussten gleich 3 Spieler aus der Zweiten nach oben. Dabei sollte ein Festspielen verhindert werden, außerdem wurden Autofahrer benötigt. Egal wie, es hätte wahrscheinlich jede Lösung zu keinem anderen Ergebnis geführt. Vorne an den ersten 3 Brettern gibt es noch starke Punkte. <strong>Tomas</strong> Remis gegen 2080! <strong>Mert</strong> gewinnt gegen 2097!! <strong>Batu</strong> Remis gegen 1981! Das war es dann schon, dafür ist <strong>Königsjäger</strong> zu ausgeglichen mit Ü1900-Spielern besetzt.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143736_Chrome.jpg"><img alt="" class="aligncenter wp-image-14702 size-large" decoding="async" height="213" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143736_Chrome-1024x341.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143736_Chrome-1024x341.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143736_Chrome-300x100.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143736_Chrome-768x256.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143736_Chrome.jpg 1079w" width="640"/></a></p>
-<p>Die <strong>2.Mannschaft</strong> ging mit der nominell stärksten Aufstellung der Saison ins Rennen gegen den Tabellenletzten aus <strong>Mariendorf</strong>. Es sah zwischendurch auch gut aus, allerdings ging dann die Seuche bei uns um und es wurden mindestens 4 Partien zur Niederlage verdorben. Auch <strong>ich</strong> kann mit meinem Remis noch zufrieden sein, genau wie <strong>Kostiantyn</strong>. <strong>Andreas</strong> sichert sich am Spitzenbrett das Remis, was an Brett 1 gut ist. Souverän zum Sieg war nur <strong>Peter</strong>, der dann das Elend mit ansehen musste….in einigen Partien scheiterte es an den Grundlagen. Hier müssen wir mal ins Bootcamp.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143820_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14701" decoding="async" height="233" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143820_Chrome-1024x372.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143820_Chrome-1024x372.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143820_Chrome-300x109.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143820_Chrome-768x279.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_143820_Chrome.jpg 1079w" width="640"/></a></p>
-<p>Die <strong>3.Mannschaft</strong> hatte 2 kurzfristige Ausfälle zu beklagen und konnte diese auch nicht mehr kompensieren. Taktisch ließ man dann die ersten beiden Bretter frei. Auch das half trotz Favoritenrolle nichts, nur <strong>Klaus</strong> und <strong>Detlef</strong> können gewinnen. <strong>TSG 9</strong> gewinnt mit 4:2. Mit dem Aufstieg hat man nun wohl nichts mehr zu tun.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_145757_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14700" decoding="async" height="178" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_145757_Chrome-1024x285.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_145757_Chrome-1024x285.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_145757_Chrome-300x83.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_145757_Chrome-768x214.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/02/Screenshot_20260222_145757_Chrome.jpg 1079w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/02/23/gebrauchter-vormittag-fuer-team-narva/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14704 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
