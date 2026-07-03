@@ -564,7 +564,7 @@ parent_title: Turniere
 <td>8</td>
 <td>Mothes,Thomas</td>
 <td>(2)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -600,7 +600,7 @@ parent_title: Turniere
 <td>6</td>
 <td>Schenk,Jonatan</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -612,7 +612,7 @@ parent_title: Turniere
 <td>17</td>
 <td>Pape,Philipp</td>
 <td>(2)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>

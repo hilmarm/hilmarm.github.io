@@ -48,13 +48,13 @@ parent_title: Turniere
 </tr>
 <tr>
 <td style="width: 8.54701%;">2</td>
-<td style="width: 7.37179%;"></td>
-<td style="width: 16.1325%;">Lange/Bahr</td>
-<td style="width: 9.40171%;">()</td>
+<td style="width: 7.37179%;">2</td>
+<td style="width: 16.1325%;">Lange,Rudolf</td>
+<td style="width: 9.40171%;">(2½)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">1</td>
 <td style="width: 18.8034%;">Özates,Mert</td>
-<td style="width: 9.40171%;">(2)</td>
+<td style="width: 9.40171%;">(1½)</td>
 <td style="width: 10.5769%;"></td>
 <td style="width: 6.51709%;"></td>
 </tr>
@@ -80,14 +80,14 @@ parent_title: Turniere
 <tr>
 <td style="width: 8.54701%;">1</td>
 <td style="width: 7.37179%;">2</td>
-<td style="width: 16.1325%;">Lange,Rudolf</td>
+<td style="width: 16.1325%;"><strong>Lange,Rudolf</strong></td>
 <td style="width: 9.40171%;">(2)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">19</td>
 <td nowrap="nowrap" style="width: 18.8034%;">Bahr,Jan-Hendrik</td>
 <td style="width: 9.40171%;">(1)</td>
-<td style="width: 10.5769%;"></td>
-<td style="width: 6.51709%;"></td>
+<td style="width: 10.5769%;">½ – ½</td>
+<td style="width: 6.51709%;">2:0</td>
 </tr>
 <tr>
 <td style="width: 8.54701%;">2</td>
@@ -110,8 +110,8 @@ parent_title: Turniere
 <td style="width: 7.37179%;">1</td>
 <td style="width: 18.8034%;"><strong>Özates,Mert</strong></td>
 <td style="width: 9.40171%;">(1)</td>
-<td style="width: 10.5769%;"></td>
-<td style="width: 6.51709%;"></td>
+<td style="width: 10.5769%;">½ – ½</td>
+<td style="width: 6.51709%;">0:2</td>
 </tr>
 <tr>
 <td style="width: 8.54701%;">4</td>
@@ -245,7 +245,7 @@ parent_title: Turniere
 <td><strong>Magnusson,Hilmar</strong></td>
 <td>()</td>
 <td>½ – ½</td>
-<td></td>
+<td>0:2</td>
 </tr>
 <tr>
 <td>5</td>
