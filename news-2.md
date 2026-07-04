@@ -8,25 +8,6 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14927 post type-post status-publish format-standard sticky hentry category-training" id="post-14927">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/" rel="bookmark">Schnellschach Training</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/" rel="bookmark" title="17:14"><span class="entry-date">29. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Als Trainingsthema für Donnerstag gibt es dieses mal eine <strong>Übungseinheit Schnellschach</strong>!<br/>
-Wir spielen uns warm für die Berliner Schnellschach Meisterschaften am Wochenende. Dort wird mit dem <strong>Bedenkzeitmodus 12+10</strong> gespielt.<br/>
-Je nach Teilnehmerzahl werden wir vor Ort schon einen sinnvollen Modus finden.<br/>
-Start wird ca. 18:30 Uhr sein.</p>
-<p>Teilnehmen darf natürlich jeder, auch wer nicht am Wochenende spielt.</p>
-<p><strong>Der nächste NARVA Schnellschach GP Termin ist dann am 09.07.26, mit Bedenkzeit 12+3.</strong></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14927 
 <div class="post-14896 post type-post status-publish format-standard sticky hentry category-offene-turniere category-termine" id="post-14896">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark">Hand and Brain Turnier am 23.07.26</a></h2>
 <div class="entry-meta">
@@ -50,6 +31,25 @@ Kadiner Str. 1, 10243 Berlin</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14896 
+<div class="post-14927 post type-post status-publish format-standard hentry category-training" id="post-14927">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/" rel="bookmark">Schnellschach Training</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/" rel="bookmark" title="17:14"><span class="entry-date">29. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Als Trainingsthema für Donnerstag gibt es dieses mal eine <strong>Übungseinheit Schnellschach</strong>!<br/>
+Wir spielen uns warm für die Berliner Schnellschach Meisterschaften am Wochenende. Dort wird mit dem <strong>Bedenkzeitmodus 12+10</strong> gespielt.<br/>
+Je nach Teilnehmerzahl werden wir vor Ort schon einen sinnvollen Modus finden.<br/>
+Start wird ca. 18:30 Uhr sein.</p>
+<p>Teilnehmen darf natürlich jeder, auch wer nicht am Wochenende spielt.</p>
+<p><strong>Der nächste NARVA Schnellschach GP Termin ist dann am 09.07.26, mit Bedenkzeit 12+3.</strong></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/training/" rel="category tag">Training</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/29/schnellschach-training/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14927 
 <div class="post-14921 post type-post status-publish format-standard hentry category-sg-narva" id="post-14921">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/21/sg-narva-hauptversammlung/" rel="bookmark">SG NARVA Hauptversammlung</a></h2>
 <div class="entry-meta">
