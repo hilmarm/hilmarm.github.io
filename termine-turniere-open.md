@@ -23,31 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://storage.e.jimdo.com/file/6365b79e-c8c2-4a1b-9edb-24fcd28ba102/Lausitzer%20Schachturnier%2003.-05.07.2026.pdf" rel="noopener" target="_blank">Lausitzer Schachturnier</a></td>
-<td style="height: 24px;">03.-05.07.2026</td>
-<td style="height: 24px;">Ekkehard</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.berlinerschachverband.de/entry/schachturnier-in-karlshorst-am-4-juli-2026.html" rel="noopener" target="_blank">9. Schachturnier in Karlshorst</a></td>
-<td style="height: 24px;">04.07.2026</td>
-<td style="height: 24px;">Günter, Hans-Dieter</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-schnellschach-em-2026.html" rel="noopener" target="_blank">Schnellschach-Einzelmeisterschaft 2026</a></td>
-<td style="height: 24px;">04.07.2026</td>
-<td style="height: 24px;">Batu</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://lasker-gesellschaft.de/29-emanuel-lasker-turnier-in-thyrow/" rel="noopener" target="_blank">29. Emanuel Lasker Turnier in Thyrow</a></td>
-<td style="height: 24px;">05.07.2026</td>
-<td style="height: 24px;">Peter, Günter, Jan</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 48px;"><a href="https://www.berlinerschachverband.de/berliner-schnellschach-mm-2026.html" rel="noopener" target="_blank">Schnellschach-Mannschaftsmeisterschaft 2026</a></td>
-<td style="height: 48px;">05.07.2026</td>
-<td style="height: 48px;">2 Mannschaften</td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 48px;"><a href="https://www.chessmanager.com/de-de/tournaments/6521675506778112" rel="noopener" target="_blank">38. Deutsche Senioren Einzelmeisterschaft 50+</a></td>
 <td style="height: 48px;">17.07.-25.07.2026</td>
 <td style="height: 48px;">Bernd</td>
