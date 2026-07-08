@@ -419,6 +419,14 @@ navs:
 </tr>
 <tr>
 <td>49.</td>
+<td><a href="http://www.schachbund.de/spieler/10111166.html" target="_blank"> Ilja Köppen</a></td>
+<td></td>
+<td></td>
+<td></td>
+<td>1636</td>
+</tr>
+<tr>
+<td>50.</td>
 <td><a href="http://www.schachbund.de/spieler/10868673.html" target="_blank"> Amer Mukran</a></td>
 <td></td>
 <td></td>
@@ -426,7 +434,7 @@ navs:
 <td>0</td>
 </tr>
 <tr>
-<td>50.</td>
+<td>51.</td>
 <td><a href="http://www.schachbund.de/spieler/10907665.html" target="_blank"> Perry Walker</a></td>
 <td></td>
 <td></td>
@@ -434,7 +442,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>51.</td>
+<td>52.</td>
 <td><a href="http://www.schachbund.de/spieler/10918957.html" target="_blank"> Marie Boden</a></td>
 <td></td>
 <td></td>
@@ -442,7 +450,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>52.</td>
+<td>53.</td>
 <td><a href="http://www.schachbund.de/spieler/10922281.html" target="_blank"> Kai Wetterwald</a></td>
 <td></td>
 <td></td>
@@ -450,7 +458,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>53.</td>
+<td>54.</td>
 <td><a href="http://www.schachbund.de/spieler/10923645.html" target="_blank"> Franz Quadflieg</a></td>
 <td></td>
 <td></td>
@@ -458,7 +466,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>54.</td>
+<td>55.</td>
 <td><a href="http://www.schachbund.de/spieler/10927041.html" target="_blank"> Tuan Khang La</a></td>
 <td></td>
 <td></td>
