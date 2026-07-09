@@ -331,6 +331,14 @@ navs:
 </tr>
 <tr>
 <td>38.</td>
+<td><a href="http://www.schachbund.de/spieler/10111166.html" target="_blank"> Ilja Köppen</a></td>
+<td></td>
+<td>1427</td>
+<td>67</td>
+<td>1636</td>
+</tr>
+<tr>
+<td>39.</td>
 <td><a href="http://www.schachbund.de/spieler/10796627.html" target="_blank"> Felix Salgueiro</a></td>
 <td></td>
 <td>1416</td>
@@ -338,7 +346,7 @@ navs:
 <td>1713</td>
 </tr>
 <tr>
-<td>39.</td>
+<td>40.</td>
 <td><a href="http://www.schachbund.de/spieler/10790753.html" target="_blank"> Michael Werner</a></td>
 <td></td>
 <td>1388</td>
@@ -346,7 +354,7 @@ navs:
 <td>1588</td>
 </tr>
 <tr>
-<td>40.</td>
+<td>41.</td>
 <td><a href="http://www.schachbund.de/spieler/10718317.html" target="_blank"> Gunar Maiwald</a></td>
 <td></td>
 <td>1359</td>
@@ -354,7 +362,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>41.</td>
+<td>42.</td>
 <td><a href="http://www.schachbund.de/spieler/10830175.html" target="_blank"> Wolfgang Mach</a></td>
 <td></td>
 <td>1304</td>
@@ -362,7 +370,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>42.</td>
+<td>43.</td>
 <td><a href="http://www.schachbund.de/spieler/10839807.html" target="_blank"> Jan-Hendrik Bahr</a></td>
 <td></td>
 <td>1299</td>
@@ -370,7 +378,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>43.</td>
+<td>44.</td>
 <td><a href="http://www.schachbund.de/spieler/10553781.html" target="_blank"> Torsten Eichstädt</a></td>
 <td></td>
 <td>1269</td>
@@ -378,7 +386,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>44.</td>
+<td>45.</td>
 <td><a href="http://www.schachbund.de/spieler/10275535.html" target="_blank"> Detlef Steppuhn</a></td>
 <td></td>
 <td>1241</td>
@@ -386,7 +394,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>45.</td>
+<td>46.</td>
 <td><a href="http://www.schachbund.de/spieler/10209542.html" target="_blank"> Manfred Smala</a></td>
 <td></td>
 <td>1232</td>
@@ -394,7 +402,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>46.</td>
+<td>47.</td>
 <td><a href="http://www.schachbund.de/spieler/10078511.html" target="_blank"> Manfred Heinrich</a></td>
 <td></td>
 <td>1192</td>
@@ -402,7 +410,7 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>47.</td>
+<td>48.</td>
 <td><a href="http://www.schachbund.de/spieler/10620251.html" target="_blank"> Frieder Arms</a></td>
 <td></td>
 <td>1068</td>
@@ -410,20 +418,12 @@ navs:
 <td></td>
 </tr>
 <tr>
-<td>48.</td>
+<td>49.</td>
 <td><a href="http://www.schachbund.de/spieler/10880419.html" target="_blank"> Johannes Markmann</a></td>
 <td></td>
 <td>800</td>
 <td>1</td>
 <td></td>
-</tr>
-<tr>
-<td>49.</td>
-<td><a href="http://www.schachbund.de/spieler/10111166.html" target="_blank"> Ilja Köppen</a></td>
-<td></td>
-<td></td>
-<td></td>
-<td>1636</td>
 </tr>
 <tr>
 <td>50.</td>
