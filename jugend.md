@@ -7,13 +7,10 @@ navs:
 <h1 class="entry-title">Jugend</h1>
 <div class="entry-content">
 <p style="text-align: center;"><strong><span style="font-size: 18pt;">Jeden Donnerstag ab 16:30 Uhr!!</span><br/>
-</strong>(in den Ferien nicht)</p>
-<p><span style="font-size: 14pt;">Unsere Trainer: Ekkehard Krüger und Alexander Kreisel </span></p>
+<span style="color: #ff0000;">(in den Ferien nicht)</span></strong></p>
+<p><span style="font-size: 14pt;"><strong><span style="text-decoration: underline;">Unsere Trainer:</span></strong> <span style="font-size: 10pt;"><em>(ab Schuljahr 2026/27)</em></span><br/>
+<strong>Ilja Köppen</strong> (DOSB-Trainer C Leistungssport) und <strong>Ekkehard Krüger</strong></span></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg"><img alt="" class="size-medium wp-image-3899 aligncenter" decoding="async" height="150" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-300x150.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-768x384.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe-1024x512.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2018/03/0002farbe.jpg 1184w" width="300"/></a></p>
-<p><span style="font-size: 14pt;"><strong>Ausschreibung zum 28. ABRAFAXE-Kinderschachturnier am 6. Juni 2026 in Berlin</strong></span>, gleich bei uns um die Ecke im Andreas-Gymnasium in Berlin-Friedrichshain.</p>
-<ul>
-<li><span style="font-size: 14pt;"><a href="https://www.abrafaxe-kinderschachturnier.de/" rel="noopener" target="_blank">Turnierseite mit Ausschreibung und Anmeldung</a></span></li>
-</ul>
 <p> </p>
 <p style="text-align: center;"><strong><span style="font-size: 14pt; color: #ff0000;"><a href="https://www.sg-narva.de/sport/kinderschutz/" rel="noopener" style="color: #ff0000;" target="_blank">Kinderschutz bei der SG NARVA Berlin e.V.</a></span></strong></p>
 <p> </p>
@@ -48,7 +45,7 @@ Großmeister (2015)</td>
 </tr>
 <tr>
 <td>
-<p><div class="wp-caption alignleft" style="width: 169px"><a href="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MichaelRichter13.jpg/800px-MichaelRichter13.jpg" rel="noopener" target="_blank"><img alt="" decoding="async" height="189" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MichaelRichter13.jpg/800px-MichaelRichter13.jpg" width="159"/></a><p class="wp-caption-text">Foto aus Wikipedia</p></div></p></td>
+<p><div class="wp-caption alignleft" style="width: 169px"><a href="https://upload.wikimedia.org/wikipedia/commons/6/69/MichaelRichter13.jpg" rel="noopener" target="_blank"><img alt="" decoding="async" height="189" src="https://upload.wikimedia.org/wikipedia/commons/6/69/MichaelRichter13.jpg" width="159"/></a><p class="wp-caption-text">Foto aus Wikipedia</p></div></p></td>
 <td>
 <p><div class="wp-caption alignright" id="attachment_11488" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-scaled.jpg"><img alt="" aria-describedby="caption-attachment-11488" class="wp-image-11488 size-medium" decoding="async" height="183" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-300x183.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-300x183.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-1024x625.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-768x469.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-1536x937.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/10/InCollage_20231002_144757031-2048x1250.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11488">1x im Jahr bei uns zum Training</p></div></p></td>
 </tr>
