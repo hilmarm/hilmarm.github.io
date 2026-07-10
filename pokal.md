@@ -40,9 +40,9 @@ parent_title: Turniere
 <td style="width: 16.1325%;">Honcharov,Kostia</td>
 <td style="width: 9.40171%;">(3)</td>
 <td style="width: 5.76923%;">–</td>
-<td style="width: 7.37179%;"></td>
-<td nowrap="nowrap" style="width: 18.8034%;">Kappus/Krüger</td>
-<td style="width: 9.40171%;">()</td>
+<td style="width: 7.37179%;">7</td>
+<td nowrap="nowrap" style="width: 18.8034%;">Krüger,Ekkehard</td>
+<td style="width: 9.40171%;">(2)</td>
 <td style="width: 10.5769%;"></td>
 <td style="width: 6.51709%;"></td>
 </tr>
@@ -96,9 +96,9 @@ parent_title: Turniere
 <td style="width: 9.40171%;">(2)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">7</td>
-<td style="width: 18.8034%;">Krüger,Ekkehard</td>
+<td style="width: 18.8034%;"><strong>Krüger,Ekkehard</strong></td>
 <td style="width: 9.40171%;">(1)</td>
-<td style="width: 10.5769%;"></td>
+<td style="width: 10.5769%;">0 – 1</td>
 <td style="width: 6.51709%;"></td>
 </tr>
 <tr>
