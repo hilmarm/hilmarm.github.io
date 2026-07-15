@@ -54,7 +54,7 @@ parent_title: Kurt-Richter-Turnier
 <div class="post-371 page type-page status-publish hentry" id="post-371">
 <h1 class="entry-title">Rangliste / DWZ</h1>
 <div class="entry-content">
-<p><iframe height="3000" src="https://www.narva-schach.de/dateien/krt2014-rang.html" width="600"> /&gt;</iframe></p>
+<p><iframe height="3000" src="https://www.narva-schach.de/dateien/krt2014-rang.html" width="600"> /&amp;gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-371 
 <div id="comments">
