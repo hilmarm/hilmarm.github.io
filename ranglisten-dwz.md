@@ -54,7 +54,7 @@ parent_title: Kurt-Richter-Turnier
 <div class="post-434 page type-page status-publish hentry" id="post-434">
 <h1 class="entry-title">Ranglisten / DWZ</h1>
 <div class="entry-content">
-<p><iframe height="6000" src="https://www.narva-schach.de/dateien/krt2011-rang.html" width="600"> /&amp;gt;</iframe></p>
+<p><iframe height="6000" src="https://www.narva-schach.de/dateien/krt2011-rang.html" width="600"> /&gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-434 
 <div id="comments">

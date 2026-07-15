@@ -55,7 +55,7 @@ parent_title: Kurt-Richter-Turnier
 <h1 class="entry-title">Teilnehmerliste 2019</h1>
 <div class="entry-content">
 <p>Stand: 30.08.2019 (DWZ Stand 28.08.19)<br/>
-<iframe height="1800" src="https://www.narva-schach.de/dateien/Kurt_Richter_2019-Teil.html" width="680">&lt;span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"&gt;﻿&lt;/span&gt;&lt;span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start"&gt;﻿&lt;/span&gt;&lt;span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start"&gt;﻿&lt;/span&gt;&lt;span style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" data-mce-type="bookmark" class="mce_SELRES_start"&gt;﻿&lt;/span&gt; /&amp;gt;</iframe></p>
+<iframe height="1800" src="https://www.narva-schach.de/dateien/Kurt_Richter_2019-Teil.html" width="680"><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span><span class="mce_SELRES_start" data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;">﻿</span> /&gt;</iframe></p>
 <p> </p>
 </div><!-- .entry-content -->
 </div> #post-6016 
