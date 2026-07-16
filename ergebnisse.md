@@ -54,7 +54,7 @@ parent_title: Kurt-Richter-Turnier
 <div class="post-432 page type-page status-publish hentry" id="post-432">
 <h1 class="entry-title">Ergebnisse</h1>
 <div class="entry-content">
-<p><iframe height="4000" src="https://www.narva-schach.de/dateien/krt2011-erg.html" width="730"> /&gt;</iframe></p>
+<p><iframe height="4000" src="https://www.narva-schach.de/dateien/krt2011-erg.html" width="730"> /&amp;gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-432 
 <div id="comments">

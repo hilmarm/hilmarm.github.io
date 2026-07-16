@@ -55,7 +55,7 @@ parent_title: Chronik
 <div class="post-617 page type-page status-publish hentry" id="post-617">
 <h1 class="entry-title">Rangliste</h1>
 <div class="entry-content">
-<p><iframe height="4000" src="https://www.narva-schach.de/dateien/schnellschach_open_2007_rang.html" width="700"> /&gt;</iframe></p>
+<p><iframe height="4000" src="https://www.narva-schach.de/dateien/schnellschach_open_2007_rang.html" width="700"> /&amp;gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-617 
 <div id="comments">
