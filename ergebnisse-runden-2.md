@@ -55,7 +55,7 @@ parent_title: Chronik
 <div class="post-1589 page type-page status-publish hentry" id="post-1589">
 <h1 class="entry-title">Ergebnisse Runden</h1>
 <div class="entry-content">
-<p><iframe height="4000" src="https://www.narva-schach.de/dateien/schnellschach_open_2016_erg.html" width="730"> /&amp;gt;</iframe></p>
+<p><iframe height="4000" src="https://www.narva-schach.de/dateien/schnellschach_open_2016_erg.html" width="730"> /&gt;</iframe></p>
 </div><!-- .entry-content -->
 </div> #post-1589 
 <div id="comments">
