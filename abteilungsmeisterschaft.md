@@ -449,7 +449,7 @@ parent_title: Turniere
 <td>5</td>
 <td>Magnusson,Hilmar</td>
 <td>(2)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -461,7 +461,7 @@ parent_title: Turniere
 <td>9</td>
 <td>Mietzelfeldt,Ger</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -473,7 +473,7 @@ parent_title: Turniere
 <td>13</td>
 <td>Bradschetl,Tom</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ parent_title: Turniere
 <td>26</td>
 <td>Mukran,Amer</td>
 <td>(1)</td>
-<td> –</td>
+<td>0 – 1</td>
 <td></td>
 </tr>
 <tr>
@@ -660,7 +660,7 @@ parent_title: Turniere
 <td>21</td>
 <td>Bahr,Jan-Hendrik</td>
 <td>(1)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
