@@ -35,17 +35,27 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
 <td style="height: 24px;">01.-09.08.2026</td>
-<td style="height: 24px;">Bernd</td>
+<td style="height: 24px;">Mert</td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://friesen-lichtenberg.de/lichtenberger-sommer/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
+<td style="height: 24px;"><a href="https://lichtenberger-sommer.de/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
 <td style="height: 24px;">08.-16.08.2026</td>
 <td style="height: 24px;">Ekkehard</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-pokal-em-2026.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2026</a></td>
+<td style="height: 24px;">ab 10.09.2026</td>
+<td style="height: 24px;">Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal_2026_Ausschreibung.pdf" rel="noopener" target="_blank">Spreewaldpokal 2026</a></td>
 <td style="height: 24px;">19.09.2026</td>
 <td style="height: 24px;">Mannschaft</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVII. Falkenseer Open</a></td>
+<td style="height: 24px;">30.10.-01.11.2026</td>
+<td style="height: 24px;"></td>
 </tr>
 </tbody>
 </table>
