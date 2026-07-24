@@ -8,29 +8,102 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-14896 post type-post status-publish format-standard sticky hentry category-offene-turniere category-termine" id="post-14896">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark">Hand and Brain Turnier am 23.07.26</a></h2>
+<div class="post-14978 post type-post status-publish format-standard hentry category-interne-turniere category-offene-turniere" id="post-14978">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/" rel="bookmark">Hand &amp; Brain Turnier</a></h2>
 <div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark" title="8:14"><span class="entry-date">1. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/" rel="bookmark" title="13:58"><span class="entry-date">24. Juli 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p><strong>Mert</strong> organisiert am <strong>23. Juli</strong> ein <strong>„Hand &amp; Brain“ -Turnier</strong> in unserem Verein. „Hand &amp; Brain“ ist eine Schachvariante, bei der Teams aus jeweils zwei Spielern bestehen. Ein Spieler (das „Brain“/Gehirn) nennt die Figur, und der andere Spieler (die „Hand“) führt einen Zug mit dieser Figur aus. Das Brain darf lediglich den Namen der Figur nennen – sagt er beispielsweise „Springer“, so führt die Hand einen Zug mit einem der Springer aus. Ich halte dies für eine wirklich unterhaltsame Schachvariante, die eine gute Abstimmung zwischen den Teamkollegen erfordert und zu vielen lustigen Partien führen kann.</p>
-<p>Um zu rochieren, muss das Brain „König“ ansagen. Die Rollen von Hand und Brain können von Partie zu Partie getauscht werden.</p>
-<p>Die Details lauten wie folgt:</p>
-<p><strong>Bedenkzeit: 10+3</strong> (Sobald die verbleibende Zeit einmalig unter 20 Sekunden fällt, übernimmt die „Hand“ die Kontrolle.)<br/>
-<strong>Rundenzahl:</strong> Wird je nach Anzahl der teilnehmenden Teams festgelegt.</p>
-<p>Falls ihr Fragen habt, zögert nicht, sie zu stellen. Wir sehen uns am 23. Juli! 🙂</p>
-<p>Start vom Turnier wird um 19 Uhr.<br/>
-Für die Anmeldung der Teams bitte schon ab 18:30 Uhr vor Ort sein.<br/>
-Kadiner Str. 1, 10243 Berlin</p>
-<p><a href="https://de.wikipedia.org/wiki/Hand_and_Brain" rel="noopener" target="_blank">Wikipedia mit Hand and Brain</a></p>
+<p>Gestern fand das von Mert geplante Hand &amp; Brain Turnier statt. 5 Teams fanden sich dann zum Start ein, darunter auch ein Gäste Team (Winterberg Ultras). Die weiteren Teams waren: <strong>Sternburg</strong> (Mert + Hilmar), <strong>Berliner</strong> (Ilja + Thomas), <strong>Quartiermeister1312</strong> (Jonatan + Tom) und <strong>Grauköpfe</strong> (Ekkehard + Carsten).</p>
+<p>Gespielt wurde wie angekündigt mit der Bedenkzeit 10+3, ein Spieler (das „Brain“/Gehirn) nennt die Figur, und der andere Spieler (die „Hand“) führt einen Zug mit dieser Figur aus. Das Brain darf lediglich den Namen der Figur nennen, die Rollen von Hand und Brain konnten von Partie zu Partie getauscht werden. Sobald die verbleibende Zeit einmalig unter 20 Sekunden fällt, übernimmt die „Hand“ die Kontrolle.</p>
+<p>Am Ende setzten sich mit <strong>Mert</strong> und <strong>Hilmar</strong> die Favoriten durch und gewannen alle Duelle, auch wenn Hilmar ab und an dafür sorgte, dass Mert in den letzten 20 Sekunden gut zocken musste. Stark auch unsere Gäste, die auf Platz 2 kamen. Dritter wurde das Team aus Vorsitzenden und unserem neuen Trainer Ilja, nachdem das Duell gegen Jonatan und Tom in der letzten Runde gewonnen wurde.</p>
+<p>Es machte allen Beteiligten viel Spaß und macht Lust auf Wiederholung, dann vielleicht mit mehr Teams. Im Anschluss wurden noch einige Runden Tandem gespielt.</p>
+<div class="wp-caption aligncenter" id="attachment_14980" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-scaled.jpg"><img alt="" aria-describedby="caption-attachment-14980" class="size-medium wp-image-14980" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-2048x1536.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14980">Team Sternburg</p></div>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-14984" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-2048x1536.jpg 2048w" width="300"/></a></p>
+<div style="overflow: auto;">
+<table class="clean swiss">
+<thead>
+<tr>
+<td colspan="10">Rangliste: Stand nach der 5. Runde</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>ELO Ø</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>Punkte</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Sternburg</td>
+<td>1831</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>4.0</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td nowrap="nowrap">Winterberg Ultras</td>
+<td></td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>3.0</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td nowrap="nowrap">Berliner</td>
+<td>1728</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>½</td>
+<td>1.5</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td nowrap="nowrap">Quartiermeister 1312</td>
+<td>1675</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1.0</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td>Grauköpfe</td>
+<td>1732</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>**</td>
+<td>0.5</td>
+</tr>
+</tbody>
+</table>
+</div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
 <span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/#respond">Schreib einen Kommentar</a></span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
-</div> #post-14896 
+</div> #post-14978 
 <div class="post-14964 post type-post status-publish format-standard hentry category-openberichte" id="post-14964">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/10/schnellschach-schnellschach-schnellsc/" rel="bookmark">Schnellschach, Schnellschach, Schnellsc……</a></h2>
 <div class="entry-meta">
@@ -38,10 +111,10 @@ Kadiner Str. 1, 10243 Berlin</p>
 <div class="entry-content">
 <p>……die Schnellschach-Woche oder Tage fanden nun ihr Finale. Nicht nur die BSMM hat stattgefunden, siehe unten, sondern weitere Schnellschach-Turniere mit NARVA Beteiligung.</p>
 <p>Am Samstag gab es in Oberschöneweide die <strong>Berliner Schnellschach Einzelmeisterschaft</strong>. Hier war von uns nur <strong>Batu</strong> am Start. Für ihn lief es eher durchwachsen, am Ende Platz 22 (Setzliste Platz 13).</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu.jpg"><img alt="" class="aligncenter size-medium wp-image-14967" decoding="async" height="300" sizes="(max-width: 285px) 100vw, 285px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu-285x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu-285x300.jpg 285w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu.jpg 589w" width="285"/></a><br/>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu.jpg"><img alt="" class="aligncenter size-medium wp-image-14967" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 285px) 100vw, 285px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu-285x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu-285x300.jpg 285w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/bsem26batu.jpg 589w" width="285"/></a><br/>
 <a href="https://www.berlinerschachverband.de/entry/schnellschachmeister-gekuert.html" rel="noopener" target="_blank">Turnierseite</a></p>
 <p>Außerdem gab es am Samstag in Karlshorst noch das inzwischen traditionelle <strong>Karlshorster Schachturnier</strong> unter freiem Himmel in der Theatergasse. Hier war <strong>Günter</strong> am Start und kam mit 5 Punkten aus 7 Runden auf Platz 10.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter.jpg"><img alt="" class="aligncenter size-medium wp-image-14968" decoding="async" height="300" sizes="(max-width: 258px) 100vw, 258px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter.jpg 717w" width="258"/></a><br/>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter.jpg"><img alt="" class="aligncenter size-medium wp-image-14968" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 258px) 100vw, 258px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter-258x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter-258x300.jpg 258w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/karlshorst26guenter.jpg 717w" width="258"/></a><br/>
 <a href="https://www.berlinerschachverband.de/entry/ergebnisse-9-karlshorster-schachturnier-2026.html" rel="noopener" target="_blank">Bericht BSV Seite</a></p>
 <p>Am Sonntag ging es dann für 3 Spieler von uns nach Thyrow, Peter, Günter und Jan-Hendrik spielten dort beim <strong>29. Emanuel-Lasker-Schnellturnier</strong> mit. <strong>Peter</strong> räumte hier mit Platz 6 den Seniorenpreis ab, <strong>Günter</strong> kam auf Platz 18 ins Ziel und <strong>Jan</strong> wurde 28.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled.jpg"><img alt="" class="alignnone wp-image-14947 size-medium" decoding="async" height="289" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled-e1783663273869-300x289.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled-e1783663273869-300x289.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled-e1783663273869-1024x985.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled-e1783663273869-768x739.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled-e1783663273869-1536x1477.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8390-scaled-e1783663273869.jpg 1775w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-scaled.jpg"><img alt="" class="size-medium wp-image-14950 alignnone" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8387-2048x1365.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-scaled.jpg"><img alt="" class="size-medium wp-image-14949 alignnone" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260705_160127-2048x1536.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-scaled.jpg"><img alt="" class="size-medium wp-image-14948 alignnone" decoding="async" height="200" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-300x200.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-300x200.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-1024x683.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-768x512.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-1536x1024.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/img_8388-2048x1365.jpg 2048w" width="300"/></a></p>
@@ -148,6 +221,29 @@ Die anderen Positionen wurden unverändert erneut gewählt:<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14902 
+<div class="post-14896 post type-post status-publish format-standard hentry category-offene-turniere category-termine" id="post-14896">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark">Hand and Brain Turnier am 23.07.26</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark" title="8:14"><span class="entry-date">1. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Mert</strong> organisiert am <strong>23. Juli</strong> ein <strong>„Hand &amp; Brain“ -Turnier</strong> in unserem Verein. „Hand &amp; Brain“ ist eine Schachvariante, bei der Teams aus jeweils zwei Spielern bestehen. Ein Spieler (das „Brain“/Gehirn) nennt die Figur, und der andere Spieler (die „Hand“) führt einen Zug mit dieser Figur aus. Das Brain darf lediglich den Namen der Figur nennen – sagt er beispielsweise „Springer“, so führt die Hand einen Zug mit einem der Springer aus. Ich halte dies für eine wirklich unterhaltsame Schachvariante, die eine gute Abstimmung zwischen den Teamkollegen erfordert und zu vielen lustigen Partien führen kann.</p>
+<p>Um zu rochieren, muss das Brain „König“ ansagen. Die Rollen von Hand und Brain können von Partie zu Partie getauscht werden.</p>
+<p>Die Details lauten wie folgt:</p>
+<p><strong>Bedenkzeit: 10+3</strong> (Sobald die verbleibende Zeit einmalig unter 20 Sekunden fällt, übernimmt die „Hand“ die Kontrolle.)<br/>
+<strong>Rundenzahl:</strong> Wird je nach Anzahl der teilnehmenden Teams festgelegt.</p>
+<p>Falls ihr Fragen habt, zögert nicht, sie zu stellen. Wir sehen uns am 23. Juli! 🙂</p>
+<p>Start vom Turnier wird um 19 Uhr.<br/>
+Für die Anmeldung der Teams bitte schon ab 18:30 Uhr vor Ort sein.<br/>
+Kadiner Str. 1, 10243 Berlin</p>
+<p><a href="https://de.wikipedia.org/wiki/Hand_and_Brain" rel="noopener" target="_blank">Wikipedia mit Hand and Brain</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14896 
 <div class="post-14894 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14894">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/05/29/mai-blitz-2/" rel="bookmark">Mai-Blitz</a></h2>
 <div class="entry-meta">
@@ -424,23 +520,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14739 
-<div class="post-14727 post type-post status-publish format-standard hentry category-bmm" id="post-14727">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark">BMM Runde 7 – NARVA 1 gewinnt!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/" rel="bookmark" title="9:33"><span class="entry-date">9. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Sonntag kam unsere <strong>1.Mannschaft</strong> zu ihrem ersten Saisonerfolg! Eine geschlossene Mannschaftsleistung und die Siege an den ersten beiden Brettern brachten den knappen <strong>4,5:3,5</strong> Sieg gegen <strong>SC Kreuzberg 4</strong>. Wo es sonst in den letzten Runden gegen uns lief, konnten jetzt auch mal wichtige halbe Punkte gesichert werden. Eine kleine Flamme für den Klassenerhalt brennt noch, zumindest steigt man aber nicht mit 0 Punkten ab!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg"><img alt="" class="aligncenter size-large wp-image-14725" decoding="async" height="216" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-1024x345.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-300x101.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome-768x259.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210804_Chrome.jpg 1079w" width="640"/></a></p>
-<p>Die <strong>2.Mannschaft</strong> hatte wieder einen schweren Stand, außerdem musste kurzfristig noch viel gerutscht werden. Am Ende hatten wir gegen <strong>SC Kreuzberg 5</strong> keine Chance und verlieren mit <strong>1,5:6,5</strong>. Nur die halben Punkte von Gerhard, Jens und mir sind gute Einzelleistungen, alle anderen mussten sich früher oder später ihren stärkeren Gegnern geschlagen geben.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg"><img alt="" class="aligncenter wp-image-14726 size-large" decoding="async" height="238" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-1024x381.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-300x112.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome-768x286.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/Screenshot_20260308_210639_Chrome.jpg 1037w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/09/runde-7-bmm-narva-1-gewinnt/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14727 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
