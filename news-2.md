@@ -8,6 +8,44 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-14995 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14995">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/28/wir-haben-einen-fm/" rel="bookmark">Wir haben einen FM!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/07/28/wir-haben-einen-fm/" rel="bookmark" title="8:30"><span class="entry-date">28. Juli 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>1990 stand er bei ELO 2305.<br/>
+36 Jahre später beantragt er aus einer Laune heraus den FM bei der FIDE!</p>
+<p><strong>Herzlichen Glückwunsch FM Bernd Daverkausen zum Titel!</strong></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718.jpg"><img alt="" class="aligncenter size-medium wp-image-14474" decoding="async" height="300" sizes="(max-width: 221px) 100vw, 221px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-221x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-221x300.jpg 221w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-753x1024.jpg 753w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-768x1044.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-1130x1536.jpg 1130w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-1506x2048.jpg 1506w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718.jpg 1829w" width="221"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/28/wir-haben-einen-fm/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14995 
+<div class="post-14989 post type-post status-publish format-standard hentry category-openberichte" id="post-14989">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/28/dsam-finale-deutsche-senioren-50/" rel="bookmark">DSAM Finale &amp; Deutsche Senioren 50+</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/07/28/dsam-finale-deutsche-senioren-50/" rel="bookmark" title="8:20"><span class="entry-date">28. Juli 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>In der letzten Woche fand in Dresden der Schachgipfel 2026 statt. In diesem Rahmen fanden mehrere Turniere statt, u.a. die Deutsche Seniorenmeisterschaft 50+ und am Wochenende dann das Finale zur DSAM. Bei diesen beiden Turnieren gab es NARVA Beteiligung.</p>
+<p><strong>Bernd</strong> spielte bei den Senioren 50+ die 9 Runden mit. <strong>Rudolf</strong> hatte sich für das Finale der DSAM qualifiziert, genau wie <strong>Manfred Lenhardt</strong> (Weisse Dame, NARVA passiv).</p>
+<p><strong>Bernd</strong> erreichte am Ende Platz 19 (Setzliste 20), mit 5,5 Punkten aus 9 Runden. Verloren hat er nur gegen den IM, es gab ein kleines Plus in der Wertung, aber ganz zufrieden war Bernd nicht, im Verlauf der Partien hat er einige gute Stellungen zum Remis verdorben. Es war also mehr drin.</p>
+<p><a href="https://s1.chess-results.com/tnr1267856.aspx?lan=0&amp;art=1&amp;fed=GER&amp;turdet=YES&amp;flag=30&amp;SNode=S0" rel="noopener" target="_blank">Ergebnisse</a></p>
+<p><strong>Rudolf</strong> kam bis Runde 4 ohne Verlust durch und stand vor der letzten Runde bei 2,5 aus 4. Mit einem Sieg hätte er noch gut nach vorne rutschen können, aber der Freitag Abend forderte seinen Tribut…..der junge Gegenspieler gewann gegen Rudolf. Am Ende Platz 26 mit leichtem Minus (-6).</p>
+<p><a href="https://www.dsam-cup.de/dresden/" rel="noopener" target="_blank">Ergebnisse</a></p>
+<p>Der gesellige Abend, der seinen Tribut forderte….. <strong>Sven</strong> war dienstlich in Dresden, <strong>Mert</strong> bei einem Quidditch-Wettkampf (Quadball) und <strong>ich</strong> nur so als moralische Unterstützung…. 😉</p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014.jpg"><img alt="" class="size-medium wp-image-14992 alignleft" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0014.jpg 2048w" width="300"/></a> <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016.jpg"><img alt="" class="size-medium wp-image-14993 alignnone" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/IMG-20260724-WA0016.jpg 2048w" width="300"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/28/dsam-finale-deutsche-senioren-50/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-14989 
 <div class="post-14978 post type-post status-publish format-standard hentry category-interne-turniere category-offene-turniere" id="post-14978">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/" rel="bookmark">Hand &amp; Brain Turnier</a></h2>
 <div class="entry-meta">
@@ -17,8 +55,8 @@ navs:
 <p>Gespielt wurde wie angekündigt mit der Bedenkzeit 10+3, ein Spieler (das „Brain“/Gehirn) nennt die Figur, und der andere Spieler (die „Hand“) führt einen Zug mit dieser Figur aus. Das Brain darf lediglich den Namen der Figur nennen, die Rollen von Hand und Brain konnten von Partie zu Partie getauscht werden. Sobald die verbleibende Zeit einmalig unter 20 Sekunden fällt, übernimmt die „Hand“ die Kontrolle.</p>
 <p>Am Ende setzten sich mit <strong>Mert</strong> und <strong>Hilmar</strong> die Favoriten durch und gewannen alle Duelle, auch wenn Hilmar ab und an dafür sorgte, dass Mert in den letzten 20 Sekunden gut zocken musste. Stark auch unsere Gäste, die auf Platz 2 kamen. Dritter wurde das Team aus Vorsitzenden und unserem neuen Trainer Ilja, nachdem das Duell gegen Jonatan und Tom in der letzten Runde gewonnen wurde.</p>
 <p>Es machte allen Beteiligten viel Spaß und macht Lust auf Wiederholung, dann vielleicht mit mehr Teams. Im Anschluss wurden noch einige Runden Tandem gespielt.</p>
-<div class="wp-caption aligncenter" id="attachment_14980" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-scaled.jpg"><img alt="" aria-describedby="caption-attachment-14980" class="size-medium wp-image-14980" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-2048x1536.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14980">Team Sternburg</p></div>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-14984" decoding="async" height="225" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-2048x1536.jpg 2048w" width="300"/></a></p>
+<div class="wp-caption aligncenter" id="attachment_14980" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-scaled.jpg"><img alt="" aria-describedby="caption-attachment-14980" class="size-medium wp-image-14980" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-2048x1536.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14980">Team Sternburg</p></div>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-14984" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-2048x1536.jpg 2048w" width="300"/></a></p>
 <div style="overflow: auto;">
 <table class="clean swiss">
 <thead>
@@ -481,45 +519,6 @@ danach unterhalten wir uns kurz über den Modus, abhängig von der Teilnehmerzah
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/24/skat-am-gruendonnerstag02-04-26/#comments">Ein Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14743 
-<div class="post-14741 post type-post status-publish format-standard hentry category-bmm" id="post-14741">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/23/bmm-runde-8-ein-punkt-von-narva-3/" rel="bookmark">BMM Runde 8 – ein Punkt von NARVA 3</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/23/bmm-runde-8-ein-punkt-von-narva-3/" rel="bookmark" title="17:28"><span class="entry-date">23. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Auch Runde 8 der BMM bringt nicht viel zählbares. Große Besetzungsprobleme führten auch zu 2 freien Brettern. Am Ende kann nur die 3.Mannschaaft einen Punkt mitnehmen.</p>
-<p><strong>NARVA 1</strong> bekam es mit <strong>Empor 1</strong> zu tun und hat mit der <strong>2:6</strong> Niederlage nun den Abstieg besiegelt. Stark zumindest die Erfolge bzw. Remis von <strong>Bram</strong> gegen IM Volke, <strong>Mert</strong> gegen Jahn mit 2092 und <strong>Philipp</strong> gegen Bötzel mit 1811.</p>
-<p>Mert diese Saison bei 4,5 aus mit einer ELO Leistung von 2155!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1.jpg"><img alt="" class="aligncenter size-full wp-image-14737" decoding="async" height="257" loading="lazy" sizes="auto, (max-width: 660px) 100vw, 660px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1.jpg 660w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m1-300x117.jpg 300w" width="660"/></a></p>
-<p>Auch <strong>NARVA 2</strong> ist bereits abgestiegen und war um Schadensbegrenzung bemüht, aber auch hier war mit 7 Mann nicht viel zu holen. Gegen <strong>Fredersdorf 1</strong> verliert man mit <strong>2,5:5,5</strong>.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2.jpg"><img alt="" class="aligncenter size-full wp-image-14736" decoding="async" height="255" loading="lazy" sizes="auto, (max-width: 596px) 100vw, 596px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2.jpg 596w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m2-300x128.jpg 300w" width="596"/></a></p>
-<p><strong>NARVA 3</strong> konnte zumindest ein starkes Unentschieden holen. Mit dem Aufstieg hatte man nichts mehr zu tun, aber auch <strong>Fredersdorf 2</strong> war ja hier im Rennen und das <strong>3:3</strong> geht in Ordnung, wenn man sich die Zahlen der Gegner ansieht.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3.jpg"><img alt="" class="aligncenter size-full wp-image-14735" decoding="async" height="203" loading="lazy" sizes="auto, (max-width: 607px) 100vw, 607px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3.jpg 607w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/03/bmm2526r8m3-300x100.jpg 300w" width="607"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/23/bmm-runde-8-ein-punkt-von-narva-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14741 
-<div class="post-14739 post type-post status-publish format-standard hentry category-interne-turniere" id="post-14739">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/" rel="bookmark">Peter gewinnt März Blitz</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/" rel="bookmark" title="17:17"><span class="entry-date">23. März 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Am Donnerstag fand bereits das <strong>März-Blitz</strong> statt. Durch die Feierabendliga schon eine Woche eher als üblich, war es auch erst Runde 2 dieses Jahr.</p>
-<p>Geleitet zum ersten mal von Neu-RSR Schiedsrichter Jan!</p>
-<p>Mit nur einer Niederlage (gegen Jonatan) setzte sich am Ende <strong>Peter</strong> mit 8 Punkten durch und baut seine Führung in der Gesamtwertung aus. Titelverteidiger <strong>Mert</strong> kam auf Platz 2 mit 7 Punkten (gegen Peter und Ekkehard verloren). Ein starker 3.Platz geht an<strong> Jonatan</strong> mit 6 Punkten und Platz 2 der noch frühen Gesamtwertung.</p>
-<p>Gäste waren keine am Start.</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Turnierseite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/03/23/peter-gewinnt-maerz-blitz/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14739 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

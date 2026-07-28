@@ -40,7 +40,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://lichtenberger-sommer.de/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
 <td style="height: 24px;">08.-16.08.2026</td>
-<td style="height: 24px;">Ekkehard</td>
+<td style="height: 24px;">Ekkehard, Kostiantyn, Jan</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-pokal-em-2026.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2026</a></td>
