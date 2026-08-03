@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 48px;"><a href="https://www.chessmanager.com/de-de/tournaments/6521675506778112" rel="noopener" target="_blank">38. Deutsche Senioren Einzelmeisterschaft 50+</a></td>
-<td style="height: 48px;">17.07.-25.07.2026</td>
-<td style="height: 48px;">Bernd</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.dsam-cup.de/dresden/" rel="noopener" target="_blank">DSAM Finale Dresden</a></td>
-<td style="height: 24px;">23.07.-25.07.2026</td>
-<td style="height: 24px;">Rudolf</td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
 <td style="height: 24px;">01.-09.08.2026</td>
 <td style="height: 24px;">Mert</td>
@@ -41,6 +31,11 @@ parent_title: Termine
 <td style="height: 24px;"><a href="https://lichtenberger-sommer.de/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
 <td style="height: 24px;">08.-16.08.2026</td>
 <td style="height: 24px;">Ekkehard, Kostiantyn, Jan</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://schach-in-briesen.de/sommerturnier-2026/" rel="noopener" target="_blank">Sommerturnier Briesen</a></td>
+<td style="height: 24px;">29.08.2026</td>
+<td style="height: 24px;">Michael</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-pokal-em-2026.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2026</a></td>
