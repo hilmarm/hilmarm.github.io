@@ -198,8 +198,9 @@ navs:
 </tr>
 <tr>
 <td>03.09.26</td>
-<td class="training">Training</td>
-<td></td>
+<td class="versammlung">Blitz-Pokal<br/>
+Infos in den News, von Mert</td>
+<td class="training">Training mit GM Richter Dienstag 08.09.26</td>
 </tr>
 <tr>
 <td>10.09.26</td>
