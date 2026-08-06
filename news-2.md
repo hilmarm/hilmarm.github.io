@@ -8,6 +8,24 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-15030 post type-post status-publish format-standard hentry category-interne-turniere" id="post-15030">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/06/blitz-cup-am-03-09-2026/" rel="bookmark">Blitz-Cup am 03.09.2026</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/08/06/blitz-cup-am-03-09-2026/" rel="bookmark" title="10:01"><span class="entry-date">6. August 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Mert organisiert einen Blitz-Cup zu Ehren seines Freundes Egemen Karakas*!</p>
+<p>Da das Training im September am Dienstag 08.09.26 stattfinden wird – <a href="https://www.narva-schach.de/wordpress/2026/08/05/training-mit-gm-michael-richter-3/">Training mit GM Michael Richter</a> – findet am <strong>03.09.26</strong> ein von Mert organisierter <strong>Blitz-Cup</strong> statt!</p>
+<p>Es wird ein <strong>K.-o.-Turnier</strong> sein – also wie im Pokal. Gespielt werden Mini-Matches über zwei Partien, mit der <strong>Bedenkzeit 3+2</strong>; steht es danach 1:1, folgt eine Armageddon-Partie. Dabei hat Weiß 5 Minuten und Schwarz 4 Minuten Bedenkzeit, wobei Weiß gewinnen muss, um das Match für sich zu entscheiden.</p>
+<p>Die Paarungen werde ich (<em>Mert</em>) – wie beim Schach-Weltcup – anhand der Wertungszahlen festlegen. Zunächst findet eine Vorrunde statt, um die Teilnehmerzahl auf eine Zweierpotenz zu bringen; anschließend wird das Turnier im K.-o.-Modus fortgesetzt.</p>
+<p><span style="font-size: 10pt;"><em>*Egemen Karakas ist inzwischen Mitglied bei uns und wird einige Spiele für die 1.Mannschaft bestreiten</em></span></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/06/blitz-cup-am-03-09-2026/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15030 
 <div class="post-15025 post type-post status-publish format-standard hentry category-training" id="post-15025">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/05/training-mit-gm-michael-richter-3/" rel="bookmark">Training mit GM Michael Richter</a></h2>
 <div class="entry-meta">
@@ -489,29 +507,6 @@ Unverändert bleibt <strong>Thomas Mothes Vorsitzender</strong>, <strong>Jonatan
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/17/vorstand-gewaehlt/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14775 
-<div class="post-14762 post type-post status-publish format-standard hentry category-openberichte" id="post-14762">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/" rel="bookmark">Platz 7 beim Grenke!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/" rel="bookmark" title="11:28"><span class="entry-date">9. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Über Ostern fand in Karlsruhe wieder das große <strong>Grenke Schachfestival</strong> statt. Insgesamt über <strong>3.500 Schachspieler</strong> nahmen am Turnier teil, unterteilt in 6 Unterturniere. A- B- und C-Open jeweils in Freestyle-Chess (960) und im „Normal“-Schach.</p>
-<p>Von NARVA nahmen <strong>Batu</strong> und <strong>Mert</strong> teil, beide im B-Open im klassischen Schach. Im B-Open waren 1531 Teilnehmer mit ELO kleiner 2000! Batu war in der Startliste an 156 gesetzt, Mert an 101.</p>
-<p><strong>Am Ende erreicht Batu einen großartigen 7.Platz mit 8 Punkten aus 9 Partien!!!</strong></p>
-<p>Auch Mert spielt nach einem kurzen Hänger in den Runden 3 und 4 noch groß auf und gewinnt alle restlichen Partien. So kommt er auf 6,5 Punkte und Platz 102.</p>
-<p>Zwischendurch haben sie auch die Prominenz im Freestyle A-Open besucht:</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012.jpg"><img alt="" class="aligncenter wp-image-14763 size-medium" decoding="async" height="169" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-1024x576.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012-1536x864.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/04/IMG-20260403-WA0012.jpg 1600w" width="300"/></a></p>
-<p>Das A-Freestyle Open hat Vincent Keymer gewonnen.</p>
-<p><a href="https://grenkechessopen.de/de/b-open" rel="noopener" target="_blank">Turnierseite</a><br/>
-<a href="https://s2.chess-results.com/tnr1384883.aspx?lan=0&amp;art=1&amp;flag=30&amp;SNode=S0" rel="noopener" target="_blank">Ergebnisse bei chess-results.com</a><br/>
-<a href="https://de.chessbase.com/post/keymer-gewinnt-grenke-freestyle-open" rel="noopener" target="_blank">Bericht bei ChessBase inkl. Partien</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/09/platz-7-beim-grenke/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14762 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
