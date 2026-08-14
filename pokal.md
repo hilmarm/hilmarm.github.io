@@ -18,6 +18,7 @@ parent_title: Turniere
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
 <h2>4. Runde am 20. August (Halbfinale)</h2>
+<p> </p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -30,7 +31,9 @@ parent_title: Turniere
 <th style="width: 18.8034%;">Teilnehmer</th>
 <th style="width: 9.40171%;">Punkte</th>
 <th style="width: 10.5769%;">Ergebnis</th>
-<th style="width: 6.51709%;">At</th>
+<th style="width: 6.51709%;">Rückspiel</th>
+<th style="width: 6.51709%;">Rapid</th>
+<th style="width: 6.51709%;">Blitz</th>
 </tr>
 </thead>
 <tbody>
@@ -45,6 +48,8 @@ parent_title: Turniere
 <td style="width: 9.40171%;">(2)</td>
 <td style="width: 10.5769%;"></td>
 <td style="width: 6.51709%;"></td>
+<td style="width: 10.5769%;"></td>
+<td style="width: 6.51709%;"></td>
 </tr>
 <tr>
 <td style="width: 8.54701%;">2</td>
@@ -53,10 +58,12 @@ parent_title: Turniere
 <td style="width: 9.40171%;">(2½)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">1</td>
-<td style="width: 18.8034%;">Özates,Mert</td>
+<td style="width: 18.8034%;"><strong>Özates,Mert</strong></td>
 <td style="width: 9.40171%;">(1½)</td>
-<td style="width: 10.5769%;"></td>
-<td style="width: 6.51709%;"></td>
+<td style="width: 10.5769%;">½-½</td>
+<td style="width: 6.51709%;">½-½</td>
+<td style="width: 10.5769%;">1-1</td>
+<td style="width: 6.51709%;">½-1½</td>
 </tr>
 </tbody>
 </table>
@@ -165,7 +172,7 @@ parent_title: Turniere
 <td>2</td>
 <td><strong>Lange,Rudolf</strong></td>
 <td>(1)</td>
-<td>– : +</td>
+<td>– – +</td>
 <td></td>
 </tr>
 <tr>
