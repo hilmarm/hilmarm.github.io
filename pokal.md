@@ -17,8 +17,47 @@ parent_title: Turniere
 <div class="entry-content">
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/11/Pokal-2026.pdf">Pokal 2026</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2020/01/Turnierordnung.pdf">Turnierordnung</a></p>
+<h2>5. Runde am 08. Oktober (Finale und Spiel um Platz 3)</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th style="width: 8.54701%;">Tisch</th>
+<th style="width: 7.37179%;">TNr</th>
+<th style="width: 16.1325%;">Teilnehmer</th>
+<th style="width: 9.40171%;">Punkte</th>
+<th style="width: 5.76923%;">–</th>
+<th style="width: 7.37179%;">TNr</th>
+<th style="width: 18.8034%;">Teilnehmer</th>
+<th style="width: 9.40171%;">Punkte</th>
+<th style="width: 10.5769%;">Ergebnis</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 8.54701%;">1</td>
+<td style="width: 7.37179%;">22</td>
+<td style="width: 16.1325%;">Özates,Mert</td>
+<td style="width: 9.40171%;">(2)</td>
+<td style="width: 5.76923%;">–</td>
+<td style="width: 7.37179%;">7</td>
+<td nowrap="nowrap" style="width: 18.8034%;">Krüger,Ekkehard</td>
+<td style="width: 9.40171%;">(3)</td>
+<td style="width: 10.5769%;"></td>
+</tr>
+<tr>
+<td style="width: 8.54701%;">2</td>
+<td style="width: 7.37179%;">2</td>
+<td style="width: 16.1325%;">Lange,Rudolf</td>
+<td style="width: 9.40171%;">(3)</td>
+<td style="width: 5.76923%;">–</td>
+<td style="width: 7.37179%;">1</td>
+<td style="width: 18.8034%;">Honcharov,Kostia</td>
+<td style="width: 9.40171%;">(3)</td>
+<td style="width: 10.5769%;"></td>
+</tr>
+</tbody>
+</table>
 <h2>4. Runde am 20. August (Halbfinale)</h2>
-<p> </p>
 <table class="clean swiss footable">
 <thead>
 <tr>
@@ -44,9 +83,9 @@ parent_title: Turniere
 <td style="width: 9.40171%;">(3)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">7</td>
-<td nowrap="nowrap" style="width: 18.8034%;">Krüger,Ekkehard</td>
+<td nowrap="nowrap" style="width: 18.8034%;"><strong>Krüger,Ekkehard</strong></td>
 <td style="width: 9.40171%;">(2)</td>
-<td style="width: 10.5769%;"></td>
+<td style="width: 10.5769%;">0 – 1</td>
 <td style="width: 6.51709%;"></td>
 <td style="width: 10.5769%;"></td>
 <td style="width: 6.51709%;"></td>
