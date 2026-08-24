@@ -23,19 +23,9 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.schachclubkreuzberg.de/kreuzberger-schachsommer-2026-ausschreibung-werner-ott-open/" rel="noopener" target="_blank">Werner-Ott-Open 2026</a></td>
-<td style="height: 24px;">01.-09.08.2026</td>
-<td style="height: 24px;">Mert</td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://lichtenberger-sommer.de/" rel="noopener" target="_blank">22. Lichtenberger Sommer 2026</a></td>
-<td style="height: 24px;">08.-16.08.2026</td>
-<td style="height: 24px;">Ekkehard, Kostiantyn, Jan</td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://schach-in-briesen.de/sommerturnier-2026/" rel="noopener" target="_blank">Sommerturnier Briesen</a></td>
 <td style="height: 24px;">29.08.2026</td>
-<td style="height: 24px;">Michael</td>
+<td style="height: 24px;">Michael, Jan-Hendrik, Manfred</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-pokal-em-2026.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2026</a></td>
@@ -45,7 +35,13 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal_2026_Ausschreibung.pdf" rel="noopener" target="_blank">Spreewaldpokal 2026</a></td>
 <td style="height: 24px;">19.09.2026</td>
-<td style="height: 24px;">Mannschaft</td>
+<td style="height: 24px;">Mannschaft<br/>
+<span style="font-size: 8pt;">(Bernd, Peter, Dieter, Thomas)</span></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.schachabteilung-wildau.de/dahmeland.php" rel="noopener" target="_blank">19. Wildauer Dahmelandpokal 2026</a></td>
+<td style="height: 24px;">02.10.-04.10.2026</td>
+<td style="height: 24px;">Peter, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVII. Falkenseer Open</a></td>
