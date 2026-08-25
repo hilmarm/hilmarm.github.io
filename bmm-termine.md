@@ -118,7 +118,7 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">9</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">23.05.2027 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;"><strong>30.05.2027</strong> ()</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
 <p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
