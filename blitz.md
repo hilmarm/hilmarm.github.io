@@ -705,7 +705,7 @@ parent_title: Turniere
 </tr>
 <tr bgcolor="#00FFFF">
 <td>15</td>
-<td>Dubrova,Maria (ohne)</td>
+<td>Dubrova,Mariia (ohne)</td>
 <td></td>
 <td>0</td>
 <td>0</td>
