@@ -39,6 +39,11 @@ parent_title: Termine
 <span style="font-size: 8pt;">(Bernd, Peter, Dieter, Thomas)</span></td>
 </tr>
 <tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
+<td style="height: 24px;">01.10.-06.10.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.schachabteilung-wildau.de/dahmeland.php" rel="noopener" target="_blank">19. Wildauer Dahmelandpokal 2026</a></td>
 <td style="height: 24px;">02.10.-04.10.2026</td>
 <td style="height: 24px;">Peter, Ekkehard</td>

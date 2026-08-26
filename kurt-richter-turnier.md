@@ -52,6 +52,8 @@ navs:
 <div class="post-243 page type-page status-publish hentry" id="post-243">
 <h1 class="entry-title">Kurt-Richter-Gedenkturnier</h1>
 <div class="entry-content">
+<p style="text-align: center;"><strong><span style="font-size: 18pt;">Achtung:</span></strong></p>
+<p style="text-align: center;"><strong><span style="font-size: 18pt;">2026 findet leider kein Kurt-Richter-Turnier statt!!</span></strong></p>
 <h1 style="text-align: center;"><a href="https://www.azquotes.com/quote/601506" title="Kurt Richter quote"><img alt="What would Chess be without silly mistakes? - Kurt Richter" class="aligncenter" decoding="async" src="//www.azquotes.com/picture-quotes/quote-what-would-chess-be-without-silly-mistakes-kurt-richter-60-15-06.jpg" width="600"/></a><br/>
 Kurt-Richter-Gedenkturnier</h1>
 <table border="2" width="464">
