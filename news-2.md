@@ -8,6 +8,23 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-15091 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-15091">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/" rel="bookmark">Monatsblitz August</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/" rel="bookmark" title="18:13"><span class="entry-date">28. August 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>12 Teilnehmer fanden sich zum <strong>Monatsblitz August</strong> gestern Abend zusammen. Darunter 4 Gäste, die dann auch die ersten 4 Plätze belegten. Insgesamt wieder eine stark besetzte Runde.</p>
+<p>Sieger wurde mit 11 Punkten aus 11 Partien <strong>Ralf Schnabel</strong> (Aue), Platz 2 geht an <strong>Matthias Pröschild</strong> (Chemie) mit 9 Punkten, Platz 3 an <strong>Matthias Bolk</strong> (Kreuzberg) mit 8,5 Punkten. Bester NARVA Mann wurde <strong>Peter</strong> auf Rang 5. Er bleibt weiterhin Gesamtführender, konnte die Abwesenheit von Mert aber nicht ausnutzen, denn Platz 5 ist direkt ein Streichresultat, der Abstand in der Tabelle bleibt also unverändert.</p>
+<p>Stark auch <strong>Kostiantyn</strong> auf Rang 6!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15091 
 <div class="post-15030 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-15030">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/06/blitz-cup-am-03-09-2026/" rel="bookmark">Blitz-Cup am 03.09.2026</a></h2>
 <div class="entry-meta">
@@ -492,25 +509,6 @@ Blitzschachturniers zum HERRENTAG stellte unser Verein, SG NARVA e.V., gestern e
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/28/training-am-07-05-26-grossmeisterpartie-als-trainingsspiel/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14819 
-<div class="post-14803 post type-post status-publish format-standard hentry category-termine" id="post-14803">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/" rel="bookmark">Endrunde der Bundesliga im Berliner Willy-Brandt-Haus</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/" rel="bookmark" title="11:39"><span class="entry-date">24. April 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Berlin wird am kommenden Wochenende zum Zentrum des deutschen Spitzenschachs: <strong>Von Freitag bis Sonntag steigt im Willy-Brandt-Haus das zentrale Wochenende der Schachbundesliga</strong> – organisiert von den Schachfreunde Berlin 1903 e.V..<br/>
-Drei Tage lang treffen hier nationale und internationale Topspieler aufeinander. Wer Schach auf höchstem Niveau erleben will, bekommt die seltene Gelegenheit, Großmeisterpartien live zu verfolgen – und das bei freiem Eintritt.<br/>
-<strong>Spitzenschach hautnah – mit kleinem Hinweis</strong><br/>
-Von Freitag bis Sonntag steht dann die Bundesliga im Fokus. Hochklassige Begegnungen, bekannte Namen und intensive Partien garantieren beste Schachunterhaltung.</p>
-<p><em>Das Willy-Brandt-Haus ist allerdings keine gewöhnliche Turnierlocation, sondern ein sicherheitsrelevantes Gebäude. Es kann daher nicht schaden, einen gültigen Lichtbildausweis mitzuführen, um sich bei Bedarf ausweisen zu können.</em></p>
-<p><a href="https://www.berlinerschachverband.de/bundesliga-endrunde-24-bis-26-april.html" rel="noopener" target="_blank">Infos auf BSV Seite</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/04/24/endrunde-der-bundesliga-im-berliner-willy-brandt-haus/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14803 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
