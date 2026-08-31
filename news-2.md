@@ -8,29 +8,12 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
-<div class="post-15091 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-15091">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/" rel="bookmark">Monatsblitz August</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/" rel="bookmark" title="18:13"><span class="entry-date">28. August 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>12 Teilnehmer fanden sich zum <strong>Monatsblitz August</strong> gestern Abend zusammen. Darunter 4 Gäste, die dann auch die ersten 4 Plätze belegten. Insgesamt wieder eine stark besetzte Runde.</p>
-<p>Sieger wurde mit 11 Punkten aus 11 Partien <strong>Ralf Schnabel</strong> (Aue), Platz 2 geht an <strong>Matthias Pröschild</strong> (Chemie) mit 9 Punkten, Platz 3 an <strong>Matthias Bolk</strong> (Kreuzberg) mit 8,5 Punkten. Bester NARVA Mann wurde <strong>Peter</strong> auf Rang 5. Er bleibt weiterhin Gesamtführender, konnte die Abwesenheit von Mert aber nicht ausnutzen, denn Platz 5 ist direkt ein Streichresultat, der Abstand in der Tabelle bleibt also unverändert.</p>
-<p>Stark auch <strong>Kostiantyn</strong> auf Rang 6!</p>
-<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-15091 
 <div class="post-15030 post type-post status-publish format-standard sticky hentry category-interne-turniere" id="post-15030">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/06/blitz-cup-am-03-09-2026/" rel="bookmark">Blitz-Cup am 03.09.2026</a></h2>
 <div class="entry-meta">
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/08/06/blitz-cup-am-03-09-2026/" rel="bookmark" title="10:01"><span class="entry-date">6. August 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
-<p>Mert organisiert einen Blitz-Cup zu Ehren seines Freundes Egemen Karakas*!</p>
+<p><strong>Mert organisiert einen Blitz-Cup</strong> zu Ehren seines Freundes Egemen Karakas*!<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273.png"><img alt="" class="size-medium wp-image-15094 alignleft" decoding="async" height="300" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273-300x300.png" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273-300x300.png 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273-150x150.png 150w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273-768x768.png 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273-144x144.png 144w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/1787940386273.png 1024w" width="300"/></a></p>
 <p>Da das Training im September am Dienstag 08.09.26 stattfinden wird – <a href="https://www.narva-schach.de/wordpress/2026/08/05/training-mit-gm-michael-richter-3/">Training mit GM Michael Richter</a> – findet am <strong>03.09.26</strong> ein von Mert organisierter <strong>Blitz-Cup</strong> statt!</p>
 <p>Es wird ein <strong>K.-o.-Turnier</strong> sein – also wie im Pokal. Gespielt werden Mini-Matches über zwei Partien, mit der <strong>Bedenkzeit 3+2</strong>; steht es danach 1:1, folgt eine Armageddon-Partie. Dabei hat Weiß 5 Minuten und Schwarz 4 Minuten Bedenkzeit, wobei Weiß gewinnen muss, um das Match für sich zu entscheiden.</p>
 <p>Die Paarungen werde ich (<em>Mert</em>) – wie beim Schach-Weltcup – anhand der Wertungszahlen festlegen. Zunächst findet eine Vorrunde statt, um die Teilnehmerzahl auf eine Zweierpotenz zu bringen; anschließend wird das Turnier im K.-o.-Modus fortgesetzt.</p>
@@ -53,7 +36,7 @@ navs:
 <p><strong>Start ist um 18:30 Uhr! Gäste sind natürlich herzlich willkommen!</strong></p>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/training/">Training</a></p>
 <div class="wp-caption aligncenter" id="attachment_1120" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550.jpg"><img alt="" aria-describedby="caption-attachment-1120" class="wp-image-1120 size-medium" decoding="async" height="169" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_192550-1024x576.jpg 1024w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-1120">beim Training 2017</p></div>
-<div class="wp-caption aligncenter" id="attachment_1123" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400.jpg"><img alt="" aria-describedby="caption-attachment-1123" class="wp-image-1123 size-medium" decoding="async" height="169" sizes="(max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-1024x576.jpg 1024w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-1123">beim Simultan danach</p></div>
+<div class="wp-caption aligncenter" id="attachment_1123" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400.jpg"><img alt="" aria-describedby="caption-attachment-1123" class="wp-image-1123 size-medium" decoding="async" height="169" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-300x169.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-300x169.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-768x432.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2016/08/20160804_203400-1024x576.jpg 1024w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-1123">beim Simultan danach</p></div>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -62,6 +45,23 @@ navs:
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/05/training-mit-gm-michael-richter-3/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-15025 
+<div class="post-15091 post type-post status-publish format-standard hentry category-interne-turniere" id="post-15091">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/" rel="bookmark">Monatsblitz August</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/" rel="bookmark" title="18:13"><span class="entry-date">28. August 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>12 Teilnehmer fanden sich zum <strong>Monatsblitz August</strong> gestern Abend zusammen. Darunter 4 Gäste, die dann auch die ersten 4 Plätze belegten. Insgesamt wieder eine stark besetzte Runde.</p>
+<p>Sieger wurde mit 11 Punkten aus 11 Partien <strong>Ralf Schnabel</strong> (Aue), Platz 2 geht an <strong>Matthias Pröschild</strong> (Chemie) mit 9 Punkten, Platz 3 an <strong>Matthias Bolk</strong> (Kreuzberg) mit 8,5 Punkten. Bester NARVA Mann wurde <strong>Peter</strong> auf Rang 5. Er bleibt weiterhin Gesamtführender, konnte die Abwesenheit von Mert aber nicht ausnutzen, denn Platz 5 ist direkt ein Streichresultat, der Abstand in der Tabelle bleibt also unverändert.</p>
+<p>Stark auch <strong>Kostiantyn</strong> auf Rang 6!</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/28/monatsblitz-august-3/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15091 
 <div class="post-15073 post type-post status-publish format-standard hentry category-openberichte" id="post-15073">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/19/lichtenberger-sommer-2026/" rel="bookmark">Lichtenberger Sommer 2026</a></h2>
 <div class="entry-meta">

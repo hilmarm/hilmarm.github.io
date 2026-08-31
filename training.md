@@ -65,7 +65,7 @@ parent_title: Turniere
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;"><strong>08. September (Dienstag!)</strong></td>
-<td style="height: 24px; width: 175.25px;"></td>
+<td style="height: 24px; width: 175.25px;">Planfindung &amp; Variantenberechnung</td>
 <td style="height: 24px; width: 169.117px;"><strong>GM Michael Richter</strong></td>
 </tr>
 <tr style="height: 24px;">
