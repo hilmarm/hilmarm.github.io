@@ -23,11 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://schach-in-briesen.de/sommerturnier-2026/" rel="noopener" target="_blank">Sommerturnier Briesen</a></td>
-<td style="height: 24px;">29.08.2026</td>
-<td style="height: 24px;">Michael, Jan-Hendrik, Manfred</td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-pokal-em-2026.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2026</a></td>
 <td style="height: 24px;">ab 10.09.2026</td>
 <td style="height: 24px;">Mert</td>
@@ -38,6 +33,11 @@ parent_title: Termine
 <td style="height: 24px;">Mannschaft<br/>
 <span style="font-size: 8pt;">(Bernd, Peter, Dieter, Thomas)<br/>
 (Mert, Lukas, Klaus?, Rouven?)</span></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.berlinerschachverband.de/entry/30-ueberbezirkliches-seniorenturnier-am-23-september-2026.html" rel="noopener" target="_blank">30. überbezirkliches Seniorenturnier</a></td>
+<td style="height: 24px;">23.09.2026</td>
+<td style="height: 24px;">Peter, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
@@ -52,7 +52,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVII. Falkenseer Open</a></td>
 <td style="height: 24px;">30.10.-01.11.2026</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Peter, Ekkehard</td>
 </tr>
 </tbody>
 </table>
