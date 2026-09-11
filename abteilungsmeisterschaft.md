@@ -449,7 +449,7 @@ parent_title: Turniere
 <td>1</td>
 <td>Düren,Jerome</td>
 <td>(2½)</td>
-<td> –</td>
+<td>+ – –</td>
 <td></td>
 </tr>
 <tr>
@@ -564,7 +564,7 @@ parent_title: Turniere
 <td style="height: 24px;">1</td>
 <td style="height: 24px;">Düren,Jerome</td>
 <td style="height: 24px;">(2½)</td>
-<td style="height: 24px;"> –</td>
+<td style="height: 24px;">+ – –</td>
 <td style="height: 24px;"></td>
 </tr>
 <tr style="height: 24px;">
