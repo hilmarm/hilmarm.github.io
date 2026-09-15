@@ -26,6 +26,7 @@ Für Probleme oder Schäden in jeglicher Form, die durch Existenz, Kenntnis, Bes
 <li><a href="http://www.fide.com/" rel="noopener noreferrer" target="_blank">FIDE</a> World Chess Federation</li>
 <li><a href="http://www.fvschach.de" rel="noopener noreferrer" target="_blank">FV Schach e.V.</a> Fachvereinigung Schach – der Berliner Betriebsschach-Verband</li>
 <li><a href="http://www.mattzug.de/bmm/" rel="noopener noreferrer" target="_blank">BMM</a> Berliner Mannschaftsmeisterschaft im Schach – Ergebnisse bis 2023</li>
+<li><a href="https://ed.berlinerschachverband.de/index.php/home" rel="noopener" target="_blank">BMM/BFL Ergebnisdienst ab 26/27</a></li>
 <li><a href="http://www.swiss-chess.de/" rel="noopener noreferrer" target="_blank">Swiss-Chess</a> das führenden Windows-Programm zur Verwaltung und Organisation von Schachturnieren</li>
 <li><a href="https://www.dsam-cup.de/" rel="noopener noreferrer" target="_blank">DSAM</a> Deutsche Schach-Amateurmeisterschaft 7³</li>
 <li><a href="http://www.chessorg.de/index.php" rel="noopener noreferrer" target="_blank">www.chessorg.de</a> Schachturniere im In- und Ausland</li>

@@ -28,7 +28,7 @@ parent_title: Termine
 <tbody>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">1</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">27.09.2026 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">27.09.2026 (A)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
 <p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
@@ -38,17 +38,17 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">2</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">11.10.2026 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">11.10.2026 (H)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #ff0000;">10 Uhrzeit</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">3</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">08.11.2026 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">08.11.2026 (A)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
 <p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
@@ -58,27 +58,17 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">4</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">22.11.2026 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">22.11.2026 (H)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
-</tr>
-<tr style="height: 24px;">
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><del><span style="font-size: 10pt;">10.01.2027 ()</span></del></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><del><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span></del>
-<p><del><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></del></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><del><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span></del>
-<p><del><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></del></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><del><span style="font-size: 10pt; color: #008000;">Mannschaft</span></del>
-<p><del><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></del></p></td>
+<p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">5</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">24.01.2027 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">24.01.2027 (A)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
 <p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
@@ -88,17 +78,17 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">6</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">21.02.2027 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">21.02.2027 (H)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">7</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">07.03.2027 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">07.03.2027 (A)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
 <p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
@@ -108,26 +98,27 @@ parent_title: Termine
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">8</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">18.04.2027 ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">18.04.2027 (H)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">9</span></td>
-<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;"><strong>30.05.2027</strong> ()</span></td>
+<td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">06.06.2027 (A)</span></td>
 <td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #ff0000;">9 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #0000ff;">9 Uhrt</span></p></td>
 <td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<p><span style="font-size: 10pt; color: #008000;">9 Uhr</span></p></td>
 </tr>
 </tbody>
 </table>
+<p> </p>
 </div>
 </div><!-- .entry-content -->
 </div> #post-229 
