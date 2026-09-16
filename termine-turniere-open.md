@@ -23,16 +23,11 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.berlinerschachverband.de/berliner-pokal-em-2026.html" rel="noopener" target="_blank">Berliner Pokal-Einzelmeisterschaft 2026</a></td>
-<td style="height: 24px;">ab 10.09.2026</td>
-<td style="height: 24px;">Mert</td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal_2026_Ausschreibung.pdf" rel="noopener" target="_blank">Spreewaldpokal 2026</a></td>
 <td style="height: 24px;">19.09.2026</td>
 <td style="height: 24px;">Mannschaft<br/>
-<span style="font-size: 8pt;">(Bernd, Peter, Dieter, Thomas)<br/>
-(Mert, Lukas, Klaus?, Rouven?)</span></td>
+<span style="font-size: 8pt;">(Bernd, Peter?, Dieter, Thomas)<br/>
+(Mert, <del>Lukas, Klaus?</del>, Rouven?)</span></td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.berlinerschachverband.de/entry/30-ueberbezirkliches-seniorenturnier-am-23-september-2026.html" rel="noopener" target="_blank">30. überbezirkliches Seniorenturnier</a></td>
