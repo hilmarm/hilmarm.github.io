@@ -401,7 +401,7 @@ parent_title: Turniere
 <td>2</td>
 <td>Kuban,Andreas</td>
 <td>(4)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
@@ -413,7 +413,7 @@ parent_title: Turniere
 <td>6</td>
 <td>Schenk,Jonatan</td>
 <td>(3½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -437,7 +437,7 @@ parent_title: Turniere
 <td>8</td>
 <td>Mothes,Thomas</td>
 <td>(3½)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
@@ -485,7 +485,7 @@ parent_title: Turniere
 <td>26</td>
 <td>Mukran,Amer</td>
 <td>(2)</td>
-<td> –</td>
+<td>+ – –</td>
 <td></td>
 </tr>
 <tr>
@@ -497,7 +497,7 @@ parent_title: Turniere
 <td>16</td>
 <td>Kreisel,Alexande</td>
 <td>(2)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>

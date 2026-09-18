@@ -29,91 +29,90 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">1</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">27.09.2026 (A)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SV Königsjäger SW 3</span>
+<p><span style="font-size: 10pt; color: #ff0000;">9 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SG Weißensee 2</span>
+<p><span style="font-size: 10pt; color: #0000ff;">9 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">SV Königsjäger SW 5</span>
+<p><span style="font-size: 10pt; color: #008000;">9 Uhrzeit</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">2</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">11.10.2026 (H)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SF Berlin 5</span>
 <p><span style="font-size: 10pt; color: #ff0000;">10 Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">TSG Oberschöneweide 7</span>
 <p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">TSG Oberschöneweide 8</span>
 <p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">3</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">08.11.2026 (A)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SC Kreuzberg 4</span>
+<p><span style="font-size: 10pt; color: #ff0000;">10 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SVG Läufer Reinickendorf 2</span>
+<p><span style="font-size: 10pt; color: #0000ff;">10 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">TSG Fredersdorf 3</span>
+<p><span style="font-size: 10pt; color: #008000;">9 Uhrzeit</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">4</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">22.11.2026 (H)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SSV Rotation 4</span>
 <p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SK Zehlendorf 3</span>
 <p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">SVG Läufer Reinickendorf 4</span>
 <p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">5</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">24.01.2027 (A)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SV Friedrichstadt</span>
+<p><span style="font-size: 10pt; color: #ff0000;">9 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SC Zugzwang 2</span>
+<p><span style="font-size: 10pt; color: #0000ff;">9 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">spielfrei</span></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">6</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">21.02.2027 (H)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SG Eintracht/Rochade</span>
 <p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SV Berolina 3</span>
 <p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">BSG Eckbauer 4</span>
 <p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">7</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">07.03.2027 (A)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #ff0000;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #0000ff;">Uhrzeit</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
-<p><span style="font-size: 10pt; color: #008000;">Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SV Mattnetz 3</span>
+<p><span style="font-size: 10pt; color: #ff0000;">10 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SC Kreuzberg 9</span>
+<p><span style="font-size: 10pt; color: #0000ff;">10 Uhrzeit</span></p></td>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">SV Motor Wildau 2</span>
+<p><span style="font-size: 10pt; color: #008000;">9 Uhrzeit</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">8</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">18.04.2027 (H)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SF Nord-Ost 3</span>
 <p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Queer-Springer SSV 2</span>
 <p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">BSV Chemie Weißensee 5</span>
 <p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">9</span></td>
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 12.3438%;"><span style="font-size: 10pt;">06.06.2027 (A)</span></td>
-<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 35%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #ff0000;">SF Friedrichshagen 2</span>
 <p><span style="font-size: 10pt; color: #ff0000;">9 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SC Zitadelle Spandau 3</span>
 <p><span style="font-size: 10pt; color: #0000ff;">9 Uhrt</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">Mannschaft</span>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">SV Berolina 6</span>
 <p><span style="font-size: 10pt; color: #008000;">9 Uhr</span></p></td>
 </tr>
 </tbody>

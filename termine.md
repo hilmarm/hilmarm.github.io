@@ -220,7 +220,7 @@ Infos in den News, von Mert</td>
 <tr>
 <td>01.10.26</td>
 <td class="training">Training</td>
-<td>BFL?</td>
+<td>BFL</td>
 </tr>
 <tr>
 <td>08.10.26</td>
@@ -230,7 +230,7 @@ Infos in den News, von Mert</td>
 <tr>
 <td>15.10.26</td>
 <td></td>
-<td>BFL?</td>
+<td></td>
 </tr>
 <tr>
 <td>22.10.26</td>
@@ -250,12 +250,12 @@ Infos in den News, von Mert</td>
 <tr>
 <td>12.11.26</td>
 <td class="schnell">Schnellschach</td>
-<td></td>
+<td>BFL?</td>
 </tr>
 <tr>
 <td>19.11.26</td>
 <td></td>
-<td>BFL?</td>
+<td></td>
 </tr>
 <tr>
 <td>26.11.26</td>

@@ -8,6 +8,32 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-15155 post type-post status-publish format-standard hentry category-bfl category-bmm" id="post-15155">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/09/18/bmm-und-bfl-starten-2/" rel="bookmark">BMM und BFL starten!</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/09/18/bmm-und-bfl-starten-2/" rel="bookmark" title="8:22"><span class="entry-date">18. September 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am <strong>27.09.2026</strong> starten die <strong>BMM</strong> in die neue Saison und in der Woche danach auch die BFL!</p>
+<p>In der BMM starten wir mit Auswärtsspielen für alle Mannschaften, danach geht es im Wechsel Heim/Auswärts weiter.<br/>
+<strong>NARVA 1 startet in Klasse 1.1 gegen Königsjäger 3</strong><br/>
+<strong>NARVA 2 startet in Klasse 2.2 gegen SG Weißensee 2</strong><br/>
+<strong>NARVA 3 startet in Klasse 3.4 gegen Königsjäger 5</strong></p>
+<p><a href="https://ed.berlinerschachverband.de/index.php" rel="noopener" target="_blank">Hier der Link zum Ergebnisdienst vom BSV</a><br/>
+<a href="https://www.narva-schach.de/wordpress/termine/bmm-termine/">Hier alle Termine/Gegner/Zeiten im Überblick</a></p>
+<p>In der <strong>BFL</strong> starten wir mit Heimspielen, auch hier geht es im Wechsel weiter.<br/>
+<strong>NARVA 1 startet am 01.10. zu Hause gegen BFL-Neuling Weisse Dame</strong><br/>
+<strong>NARVA 2 bereits am Dienstag den 29.09. zu Hause gegen Rotation 3</strong></p>
+<p><a href="https://ed.berlinerschachverband.de/index.php" rel="noopener" target="_blank">Auch hier gibt es alle Daten im Ergebnisdienst vom BSV</a><br/>
+<a href="https://www.narva-schach.de/wordpress/termine/bfl-termine/">Hier der Überblick über alle Termine/Gegner/Zeiten</a></p>
+<p>Unsere interne Seite zu den Aufstellung wird demnächst auch freigeschaltet.</p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a>, <a href="https://www.narva-schach.de/wordpress/category/bmm/" rel="category tag">BMM</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/09/18/bmm-und-bfl-starten-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15155 
 <div class="post-15149 post type-post status-publish format-standard hentry category-krt" id="post-15149">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/09/17/24-kurt-richter-gedenkturnier-2026/" rel="bookmark">24. Kurt-Richter-Gedenkturnier 2026</a></h2>
 <div class="entry-meta">
@@ -467,29 +493,6 @@ Die anderen Positionen wurden unverändert erneut gewählt:<br/>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/03/training-mit-bernd-daverkausen-am-donnerstag/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14902 
-<div class="post-14896 post type-post status-publish format-standard hentry category-offene-turniere category-termine" id="post-14896">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark">Hand and Brain Turnier am 23.07.26</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/" rel="bookmark" title="8:14"><span class="entry-date">1. Juni 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p><strong>Mert</strong> organisiert am <strong>23. Juli</strong> ein <strong>„Hand &amp; Brain“ -Turnier</strong> in unserem Verein. „Hand &amp; Brain“ ist eine Schachvariante, bei der Teams aus jeweils zwei Spielern bestehen. Ein Spieler (das „Brain“/Gehirn) nennt die Figur, und der andere Spieler (die „Hand“) führt einen Zug mit dieser Figur aus. Das Brain darf lediglich den Namen der Figur nennen – sagt er beispielsweise „Springer“, so führt die Hand einen Zug mit einem der Springer aus. Ich halte dies für eine wirklich unterhaltsame Schachvariante, die eine gute Abstimmung zwischen den Teamkollegen erfordert und zu vielen lustigen Partien führen kann.</p>
-<p>Um zu rochieren, muss das Brain „König“ ansagen. Die Rollen von Hand und Brain können von Partie zu Partie getauscht werden.</p>
-<p>Die Details lauten wie folgt:</p>
-<p><strong>Bedenkzeit: 10+3</strong> (Sobald die verbleibende Zeit einmalig unter 20 Sekunden fällt, übernimmt die „Hand“ die Kontrolle.)<br/>
-<strong>Rundenzahl:</strong> Wird je nach Anzahl der teilnehmenden Teams festgelegt.</p>
-<p>Falls ihr Fragen habt, zögert nicht, sie zu stellen. Wir sehen uns am 23. Juli! 🙂</p>
-<p>Start vom Turnier wird um 19 Uhr.<br/>
-Für die Anmeldung der Teams bitte schon ab 18:30 Uhr vor Ort sein.<br/>
-Kadiner Str. 1, 10243 Berlin</p>
-<p><a href="https://de.wikipedia.org/wiki/Hand_and_Brain" rel="noopener" target="_blank">Wikipedia mit Hand and Brain</a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/termine/" rel="category tag">Termine</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/06/01/hand-and-brain-turnier-am-23-07-26/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14896 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>

@@ -26,13 +26,13 @@ parent_title: Termine
 <td style="height: 24px;"><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal_2026_Ausschreibung.pdf" rel="noopener" target="_blank">Spreewaldpokal 2026</a></td>
 <td style="height: 24px;">19.09.2026</td>
 <td style="height: 24px;">Mannschaft<br/>
-<span style="font-size: 8pt;">(Bernd, Peter?, Dieter, Thomas)<br/>
-(Mert, <del>Lukas, Klaus?</del>, Rouven?)</span></td>
+<span style="font-size: 8pt;">(Bernd, Peter, Mert, Thomas)<br/>
+</span></td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.berlinerschachverband.de/entry/30-ueberbezirkliches-seniorenturnier-am-23-september-2026.html" rel="noopener" target="_blank">30. überbezirkliches Seniorenturnier</a></td>
 <td style="height: 24px;">23.09.2026</td>
-<td style="height: 24px;">Bernd, Peter, Ekkehard</td>
+<td style="height: 24px;">Bernd, Peter, <del>Ekkehard</del></td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
