@@ -425,7 +425,7 @@ parent_title: Turniere
 <td>7</td>
 <td>Krüger,Ekkehard</td>
 <td>(3½)</td>
-<td> –</td>
+<td>1 – 0</td>
 <td></td>
 </tr>
 <tr>
