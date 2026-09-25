@@ -40,20 +40,6 @@ parent_title: Turniere
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Hintze</td>
-<td style="width: 5%; height: 24px;">12</td>
-<td style="width: 5%; height: 24px;">12</td>
-<td style="width: 5%; height: 24px;">6</td>
-<td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;">6</td>
-<td style="width: 5%; height: 24px;"><del>5</del></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">56</td>
-</tr>
-<tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 15%; height: 24px;">Özates</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;">10</td>
@@ -62,10 +48,24 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;">12</td>
 <td style="width: 5%; height: 24px;">12</td>
 <td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">10</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">56</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Hintze</td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;">10</td>
+<td style="width: 5%; height: 24px;">10</td>
+<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;"><del>5</del></td>
+<td style="width: 5%; height: 24px;"><del>4</del></td>
 <td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">46</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">56</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Lange</td>
@@ -76,10 +76,38 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;">8</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">8</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">42</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Schnabel (G)</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">34</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;">12</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">24</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Pröschild (G)</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;">10</td>
+<td style="width: 5%; height: 24px;">5</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">21</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Mothes</td>
@@ -96,6 +124,34 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">19</td>
 </tr>
 <tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Honcharov</td>
+<td style="width: 5%; height: 24px;">5</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">4</td>
+<td style="width: 5%; height: 24px;">2</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">18</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Schenk</td>
+<td style="width: 5%; height: 24px;">4</td>
+<td style="width: 5%; height: 24px;">8</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">6</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">18</td>
+</tr>
+<tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 15%; height: 24px;">Walker</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -108,34 +164,6 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">17</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Pröschild (G)</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">3</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">3</td>
-<td style="width: 5%; height: 24px;">10</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">16</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Honcharov</td>
-<td style="width: 5%; height: 24px;">5</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">1</td>
-<td style="width: 5%; height: 24px;">6</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">4</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">16</td>
 </tr>
 <tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Bradschetl</td>
@@ -164,34 +192,6 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">14</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Schnabel (G)</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;">12</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">12</td>
-</tr>
-<tr style="height: 24px;">
-<td style="width: 15%; height: 24px;">Schenk</td>
-<td style="width: 5%; height: 24px;">4</td>
-<td style="width: 5%; height: 24px;">8</td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 5%; height: 24px;"></td>
-<td style="width: 8.68621%; height: 24px;">12</td>
 </tr>
 <tr style="height: 24px;">
 <td nowrap="nowrap" style="width: 15%; height: 24px;">Breslauer (G)</td>
@@ -404,6 +404,20 @@ parent_title: Turniere
 <td style="width: 8.68621%; height: 24px;">3</td>
 </tr>
 <tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Gros (G)</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">3</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">3</td>
+</tr>
+<tr style="height: 24px;">
 <td style="width: 15%; height: 24px;">Kluwe</td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
@@ -416,6 +430,464 @@ parent_title: Turniere
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 5%; height: 24px;"></td>
 <td style="width: 8.68621%; height: 24px;">1</td>
+</tr>
+<tr style="height: 24px;">
+<td style="width: 15%; height: 24px;">Diaconescu (G)</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;">1</td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 5%; height: 24px;"></td>
+<td style="width: 8.68621%; height: 24px;">1</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2>Monatsblitz September – 24.09.2026</h2>
+<div style="overflow: auto;">
+<table class="clean swiss" style="height: 354px;">
+<thead>
+<tr style="height: 24px;">
+<td colspan="22">Rangliste: Stand nach der 17. Runde</td>
+</tr>
+<tr bgcolor="#00FF00">
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+<th>8</th>
+<th>9</th>
+<th>10</th>
+<th>11</th>
+<th>12</th>
+<th>13</th>
+<th>14</th>
+<th>15</th>
+<th>16</th>
+<th>17</th>
+<th>Punkte</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr bgcolor="#00FFFF">
+<td>1</td>
+<td>Schnabel,Ralf (Nickelhütte Aue)</td>
+<td>2176</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>15.5</td>
+<td>117.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>2</td>
+<td>Özates,Mert</td>
+<td>1933</td>
+<td>0</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>14.0</td>
+<td>94.25</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>3</td>
+<td>Lange,Rudolf</td>
+<td>1940</td>
+<td>0</td>
+<td>½</td>
+<td>**</td>
+<td>0</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>13.0</td>
+<td>82.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>4</td>
+<td>Schenk,Jonatan</td>
+<td>1756</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>12.0</td>
+<td>76.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>5</td>
+<td nowrap="nowrap">Pröschild,Matthias (Chemie Weißensee)</td>
+<td>1820</td>
+<td>0</td>
+<td>½</td>
+<td>½</td>
+<td>0</td>
+<td>**</td>
+<td>0</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>11.5</td>
+<td>66.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>6</td>
+<td>Hintze,Peter</td>
+<td>2081</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>11.5</td>
+<td>64.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>7</td>
+<td>Gros,Dirk (Borussia Lichtenberg)</td>
+<td>2008</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>½</td>
+<td>½</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>10.5</td>
+<td>60.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>8</td>
+<td>Honcharov,Kostian</td>
+<td>1742</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>+</td>
+<td>8.0</td>
+<td>43.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>9</td>
+<td>Diaconescu,Remus (ohne)</td>
+<td>–</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>8.0</td>
+<td>37.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>10</td>
+<td>Mothes,Thomas</td>
+<td>1821</td>
+<td>½</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>7.0</td>
+<td>34.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>11</td>
+<td>Pape,Philipp</td>
+<td>1756</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>7.0</td>
+<td>25.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>12</td>
+<td>Werner,Michael</td>
+<td>1588</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>½</td>
+<td>1</td>
+<td>+</td>
+<td>5.5</td>
+<td>19.25</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>13</td>
+<td>Bahr,Jan-Hendrik</td>
+<td>1604</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>5.0</td>
+<td>14.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>14</td>
+<td>Hachmann,Neo (ohne)</td>
+<td>–</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>1</td>
+<td>+</td>
+<td>3.0</td>
+<td>4.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>15</td>
+<td>Stolzenberg,Leon (ohne)</td>
+<td>–</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>½</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>1</td>
+<td>+</td>
+<td>2.5</td>
+<td>4.75</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>16</td>
+<td>Kreisel,Alexander</td>
+<td>1710</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>**</td>
+<td>+</td>
+<td>2.0</td>
+<td>8.00</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>17</td>
+<td>Kuban,Andreas (Rotation Berlin)</td>
+<td>1900</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>–</td>
+<td>**</td>
+<td>0.0</td>
+<td>0.00</td>
 </tr>
 </tbody>
 </table>

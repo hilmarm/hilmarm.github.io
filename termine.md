@@ -219,8 +219,8 @@ Infos in den News, von Mert</td>
 </tr>
 <tr>
 <td>01.10.26</td>
-<td class="training">Training</td>
-<td>BFL</td>
+<td class="bfl">BFL</td>
+<td></td>
 </tr>
 <tr>
 <td>08.10.26</td>
