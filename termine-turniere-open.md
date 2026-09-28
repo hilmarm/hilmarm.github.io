@@ -45,7 +45,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://storage.e.jimdo.com/file/6acbcc5c-bba0-4700-bfcf-20b3db9d13e9/KRT%202026-Ausschreibung.pdf" rel="noopener" target="_blank">24. Kurt-Richter-Gedenkturnier 2026</a></td>
 <td style="height: 24px;">30.10.-01.11.2026</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Mert</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/bad_wildungen/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
