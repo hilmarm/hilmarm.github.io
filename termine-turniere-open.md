@@ -23,18 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.lsbb.de/archiv-pdf/Spreewaldpokal_2026_Ausschreibung.pdf" rel="noopener" target="_blank">Spreewaldpokal 2026</a></td>
-<td style="height: 24px;">19.09.2026</td>
-<td style="height: 24px;">Mannschaft<br/>
-<span style="font-size: 8pt;">(Bernd, Peter, Mert, Thomas)<br/>
-</span></td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.berlinerschachverband.de/entry/30-ueberbezirkliches-seniorenturnier-am-23-september-2026.html" rel="noopener" target="_blank">30. überbezirkliches Seniorenturnier</a></td>
-<td style="height: 24px;">23.09.2026</td>
-<td style="height: 24px;">Bernd, Peter, <del>Ekkehard</del></td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
 <td style="height: 24px;">01.10.-06.10.2026</td>
 <td style="height: 24px;"></td>
@@ -45,9 +33,69 @@ parent_title: Termine
 <td style="height: 24px;">Peter, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://u25chess.com/de/" rel="noopener" target="_blank">4. Berlin U25 Open</a></td>
+<td style="height: 24px;">19.10.-21.10.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
 <td style="height: 24px;"><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVII. Falkenseer Open</a></td>
 <td style="height: 24px;">30.10.-01.11.2026</td>
 <td style="height: 24px;">Peter, Ekkehard</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://storage.e.jimdo.com/file/6acbcc5c-bba0-4700-bfcf-20b3db9d13e9/KRT%202026-Ausschreibung.pdf" rel="noopener" target="_blank">24. Kurt-Richter-Gedenkturnier 2026</a></td>
+<td style="height: 24px;">30.10.-01.11.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/bad_wildungen/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>
+<td style="height: 24px;">19.11.-22.11.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
+<td style="height: 24px;">17.12.-20.12.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.zitaschach.de/weihnachts-festival-2026/" rel="noopener" target="_blank">9. Spandauer Weihnachts-Rapid</a></td>
+<td style="height: 24px;">23.12.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.zitaschach.de/weihnachts-festival-2026/" rel="noopener" target="_blank">9. Spandauer Weihnachtsopen</a></td>
+<td style="height: 24px;">27.12.-30.12.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.zitaschach.de/weihnachts-festival-2026/" rel="noopener" target="_blank">9. Spandauer Weihnachts-Blitz</a></td>
+<td style="height: 24px;">30.12.2026</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/berlin/" rel="noopener" target="_blank">DSAM Berlin</a></td>
+<td style="height: 24px;">07.01.-10.01.2027</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
+<td style="height: 24px;">21.01.-24.01.2027</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/travemuende/" rel="noopener" target="_blank">DSAM Travemünde</a></td>
+<td style="height: 24px;">18.02.-21.02.2027</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/dresden/" rel="noopener" target="_blank">DSAM Dresden</a></td>
+<td style="height: 24px;">11.03.-14.03.2027</td>
+<td style="height: 24px;"></td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
+<td style="height: 24px;">29.04.-02.05.2027</td>
+<td style="height: 24px;"></td>
 </tr>
 </tbody>
 </table>
