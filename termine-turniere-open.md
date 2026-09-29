@@ -33,9 +33,9 @@ parent_title: Termine
 <td style="height: 24px;">Peter, Ekkehard</td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://u25chess.com/de/" rel="noopener" target="_blank">4. Berlin U25 Open</a></td>
+<td style="height: 24px;"><a href="https://u25chess.com/de/" rel="noopener" target="_blank">4. Berlin U25/Ü25 Open</a> diverse Turniere</td>
 <td style="height: 24px;">19.10.-21.10.2026</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Bernd (Rapid Ü25)</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVII. Falkenseer Open</a></td>
@@ -75,7 +75,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/berlin/" rel="noopener" target="_blank">DSAM Berlin</a></td>
 <td style="height: 24px;">07.01.-10.01.2027</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Mert, Lukas, Franz</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/hannover/" rel="noopener" target="_blank">DSAM Hannover</a></td>
@@ -90,12 +90,12 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/dresden/" rel="noopener" target="_blank">DSAM Dresden</a></td>
 <td style="height: 24px;">11.03.-14.03.2027</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Rudolf, Thomas</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/magdeburg/" rel="noopener" target="_blank">DSAM Magdeburg</a></td>
 <td style="height: 24px;">29.04.-02.05.2027</td>
-<td style="height: 24px;"></td>
+<td style="height: 24px;">Lukas</td>
 </tr>
 </tbody>
 </table>
