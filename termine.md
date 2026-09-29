@@ -224,8 +224,8 @@ Infos in den News, von Mert</td>
 </tr>
 <tr>
 <td>08.10.26</td>
-<td class="pokal">Pokal</td>
-<td></td>
+<td class="pokal">Pokalfinale</td>
+<td class="training">Training mit Michael Werner</td>
 </tr>
 <tr>
 <td>15.10.26</td>

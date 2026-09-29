@@ -69,9 +69,9 @@ parent_title: Turniere
 <td style="height: 24px; width: 169.117px;"><strong>GM Michael Richter</strong></td>
 </tr>
 <tr style="height: 24px;">
-<td style="height: 24px; width: 149.633px;">Oktober</td>
-<td style="height: 24px; width: 175.25px;">frei</td>
-<td style="height: 24px; width: 169.117px;"></td>
+<td style="height: 24px; width: 149.633px;">08.Oktober</td>
+<td style="height: 24px; width: 175.25px;">„Spiele mit gegen Großmeister“</td>
+<td style="height: 24px; width: 169.117px;">Michael</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px; width: 149.633px;">November</td>
