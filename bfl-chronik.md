@@ -69,6 +69,15 @@ parent_title: Chronik
 </thead>
 <tbody>
 <tr>
+<td>2027</td>
+<td>Staffel A</td>
+<td></td>
+<td>Staffel C</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="https://www.narva-schach.de/wordpress/chronik/bfl-chronik/bfl-2026/">2026</a></td>
 <td>Staffel A</td>
 <td>4.</td>

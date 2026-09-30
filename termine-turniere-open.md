@@ -38,6 +38,12 @@ parent_title: Termine
 <td style="height: 24px;">Bernd (Rapid Ü25)</td>
 </tr>
 <tr style="height: 24px;">
+<td style="height: 24px;">Brötchenblitz Erftstadt</td>
+<td style="height: 24px;">30.10.2026</td>
+<td style="height: 24px;">Mannschaft mit:<br/>
+Sven, Günter, Rouven??</td>
+</tr>
+<tr style="height: 24px;">
 <td style="height: 24px;"><a href="http://www.falkenseer-open.de/3.html" rel="noopener" target="_blank">XVII. Falkenseer Open</a></td>
 <td style="height: 24px;">30.10.-01.11.2026</td>
 <td style="height: 24px;">Peter, Ekkehard</td>
@@ -45,7 +51,12 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://storage.e.jimdo.com/file/6acbcc5c-bba0-4700-bfcf-20b3db9d13e9/KRT%202026-Ausschreibung.pdf" rel="noopener" target="_blank">24. Kurt-Richter-Gedenkturnier 2026</a></td>
 <td style="height: 24px;">30.10.-01.11.2026</td>
-<td style="height: 24px;">Mert</td>
+<td style="height: 24px;">Mert, Andreas</td>
+</tr>
+<tr style="height: 24px;">
+<td style="height: 24px;"><a href="https://www.schach-tegernsee.de/" rel="noopener" target="_blank">29. Offene Internationale Bayerische Schachmeisterschaft</a></td>
+<td style="height: 24px;">31.10.-08.11.2026</td>
+<td style="height: 24px;">Bernd</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/bad_wildungen/" rel="noopener" target="_blank">DSAM Bad Wildungen</a></td>

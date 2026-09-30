@@ -88,9 +88,9 @@ parent_title: Chronik
 <td align="CENTER" style="width: 38.4062px;">2026</td>
 <td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2026-1-mannschaft/">Stadtliga</a></td>
 <td align="CENTER" style="width: 81.2656px;">10.Abstieg</td>
-<td align="CENTER" style="width: 93.2969px;">Klasse 1</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2026-2-mannschaft/">Klasse 1</a></td>
 <td align="CENTER" style="width: 73.7188px;">10.Abstieg</td>
-<td align="CENTER" style="width: 93.4062px;">Klasse 3</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2026-3-mannschaft/">Klasse 3</a></td>
 <td align="CENTER" style="width: 96.5312px;">4.</td>
 <td align="CENTER" style="width: 89.3125px;"></td>
 <td align="CENTER" style="width: 41.0312px;"></td>
