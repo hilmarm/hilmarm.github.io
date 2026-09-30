@@ -59,810 +59,823 @@ parent_title: Chronik
 <table border="2" class="clean bmmarchiv">
 <tbody>
 <tr bgcolor="#80ff80">
-<td align="CENTER"><b> Jahr </b></td>
-<td align="CENTER"><b> 1. Mann</b></td>
-<td align="CENTER"><b> Platz </b></td>
-<td align="CENTER"><b> 2. Mann</b></td>
-<td align="CENTER"><b> Platz </b></td>
-<td align="CENTER"><b> 3. Mann</b></td>
-<td align="CENTER"><b> Platz </b></td>
-<td align="CENTER"><b> 4. Mann</b></td>
-<td align="CENTER"><b> Platz </b></td>
-<td align="CENTER"><b> 5. Mann</b></td>
-<td align="CENTER"><b> Platz </b></td>
+<td align="CENTER" style="width: 38.4062px;"><b> Jahr </b></td>
+<td align="CENTER" style="width: 108.047px;"><b> 1. Mann</b></td>
+<td align="CENTER" style="width: 81.2656px;"><b> Platz </b></td>
+<td align="CENTER" style="width: 93.2969px;"><b> 2. Mann</b></td>
+<td align="CENTER" style="width: 73.7188px;"><b> Platz </b></td>
+<td align="CENTER" style="width: 93.4062px;"><b> 3. Mann</b></td>
+<td align="CENTER" style="width: 96.5312px;"><b> Platz </b></td>
+<td align="CENTER" style="width: 89.3125px;"><b> 4. Mann</b></td>
+<td align="CENTER" style="width: 41.0312px;"><b> Platz </b></td>
+<td align="CENTER" style="width: 97.0469px;"><b> 5. Mann</b></td>
+<td align="CENTER" style="width: 41.0312px;"><b> Platz </b></td>
 </tr>
 <tr>
-<td align="CENTER">2026</td>
-<td align="CENTER">Stadtliga</td>
-<td align="CENTER">10.Abstieg</td>
-<td align="CENTER">Klasse 1</td>
-<td align="CENTER">10.Abstieg</td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">4.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2027</td>
+<td align="CENTER" style="width: 108.047px;">Klasse 1</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 2</td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 3</td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2025</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-1-mannschaft/">Klasse 1</a></td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-2-mannschaft/">Klasse 1</a></td>
-<td align="CENTER">8.</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-3-mannschaft/">Klasse 3</a></td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2026</td>
+<td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2026-1-mannschaft/">Stadtliga</a></td>
+<td align="CENTER" style="width: 81.2656px;">10.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 1</td>
+<td align="CENTER" style="width: 73.7188px;">10.Abstieg</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 3</td>
+<td align="CENTER" style="width: 96.5312px;">4.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2024</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2024-1-mannschaft/">Klasse 1</a></td>
-<td align="CENTER">3.</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2024-2-mannschaft/">Klasse 1</a></td>
-<td align="CENTER">6.</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2024-3-mannschaft/">Klasse 3</a></td>
-<td align="CENTER">4.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2025</td>
+<td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-1-mannschaft/">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">1.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-2-mannschaft/">Klasse 1</a></td>
+<td align="CENTER" style="width: 73.7188px;">8.</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2025-3-mannschaft/">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">8.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2023</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2023-1-mannschaft/">Klasse 1</a></td>
-<td align="CENTER">2.</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2023-2-mannschaft/">Klasse 2</a></td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2023-3-mannschaft/">Klasse 3</a></td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2024</td>
+<td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2024-1-mannschaft/">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">3.</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2024-2-mannschaft/">Klasse 1</a></td>
+<td align="CENTER" style="width: 73.7188px;">6.</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2024-3-mannschaft/">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">4.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2022</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-1-mannschaft/">Stadtliga</a></td>
-<td align="CENTER">10.Abstieg*</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-2-mannschaft/">Klasse 2</a></td>
-<td align="CENTER">1. Aufstieg</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-3-mannschaft/">Klasse 3</a></td>
-<td align="CENTER">6.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2023</td>
+<td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2023-1-mannschaft/">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">2.</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2023-2-mannschaft/">Klasse 2</a></td>
+<td align="CENTER" style="width: 73.7188px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2023-3-mannschaft/">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">8.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2021</td>
-<td align="CENTER"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
-<td align="CENTER"><span style="font-size: 8pt;"><em>Corona</em></span></td>
-<td align="CENTER"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
-<td align="CENTER"><span style="font-size: 8pt;"><em>Corona</em></span></td>
-<td align="CENTER"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
-<td align="CENTER"><span style="font-size: 8pt;"><em>Corona</em></span></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2022</td>
+<td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-1-mannschaft/">Stadtliga</a></td>
+<td align="CENTER" style="width: 81.2656px;">10.Abstieg*</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-2-mannschaft/">Klasse 2</a></td>
+<td align="CENTER" style="width: 73.7188px;">1. Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2022-3-mannschaft/">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">6.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2020</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-1-mannschaft/">Stadtliga</a></td>
-<td align="CENTER">5.</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-2-mannschaft/">Klasse 2</a></td>
-<td align="CENTER">4.</td>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-3-mannschaft/">Klasse 4</a></td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2021</td>
+<td align="CENTER" style="width: 108.047px;"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
+<td align="CENTER" style="width: 81.2656px;"><span style="font-size: 8pt;"><em>Corona</em></span></td>
+<td align="CENTER" style="width: 93.2969px;"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
+<td align="CENTER" style="width: 73.7188px;"><span style="font-size: 8pt;"><em>Corona</em></span></td>
+<td align="CENTER" style="width: 93.4062px;"><span style="font-size: 8pt;"><em>ausgefallen</em></span></td>
+<td align="CENTER" style="width: 96.5312px;"><span style="font-size: 8pt;"><em>Corona</em></span></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2019</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2019-1-mannschaft/">Stadtliga</a></td>
-<td align="CENTER">6.</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2019-2-mannschaft/">Klasse 3</a></td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2019-3-mannschaft/">Klasse 4</a></td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2020</td>
+<td align="CENTER" style="width: 108.047px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-1-mannschaft/">Stadtliga</a></td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-2-mannschaft/">Klasse 2</a></td>
+<td align="CENTER" style="width: 73.7188px;">4.</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2020-3-mannschaft/">Klasse 4</a></td>
+<td align="CENTER" style="width: 96.5312px;">1.Aufstieg</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2018</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2018-1-mannschaft/">Klasse 1</a></td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2018-2-mannschaft/">Klasse 3</a></td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2019</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2019-1-mannschaft/">Stadtliga</a></td>
+<td align="CENTER" style="width: 81.2656px;">6.</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2019-2-mannschaft/">Klasse 3</a></td>
+<td align="CENTER" style="width: 73.7188px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2019-3-mannschaft/">Klasse 4</a></td>
+<td align="CENTER" style="width: 96.5312px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2017</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2017-1-mannschaft">Stadtliga</a></td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2017-2-mannschaft">Klasse 1</a></td>
-<td align="CENTER">10.Abstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2017-3-mannschaft">Klasse 3</a></td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2018</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2018-1-mannschaft/">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">1.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2018-2-mannschaft/">Klasse 3</a></td>
+<td align="CENTER" style="width: 73.7188px;">5.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2016</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2016-1-mannschaft">Stadtliga</a></td>
-<td align="CENTER">7.</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2016-2-mannschaft">Klasse 2</a></td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2016-3-mannschaft">Klasse 3</a></td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2017</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2017-1-mannschaft">Stadtliga</a></td>
+<td align="CENTER" style="width: 81.2656px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2017-2-mannschaft">Klasse 1</a></td>
+<td align="CENTER" style="width: 73.7188px;">10.Abstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2017-3-mannschaft">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">8.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2015</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2015-1-mannschaft">Klasse 1</a></td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2015-2-mannschaft">Klasse 3</a></td>
-<td align="CENTER">3.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2015-3-mannschaft">Klasse 4</a></td>
-<td align="CENTER">4.Aufstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2016</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2016-1-mannschaft">Stadtliga</a></td>
+<td align="CENTER" style="width: 81.2656px;">7.</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2016-2-mannschaft">Klasse 2</a></td>
+<td align="CENTER" style="width: 73.7188px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2016-3-mannschaft">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">8.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2014</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2014m1.html">Klasse 2</a></td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2014m2.html">Klasse 2</a></td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2014m3.html">Klasse 4</a></td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2015</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2015-1-mannschaft">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">1.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2015-2-mannschaft">Klasse 3</a></td>
+<td align="CENTER" style="width: 73.7188px;">3.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-2015-3-mannschaft">Klasse 4</a></td>
+<td align="CENTER" style="width: 96.5312px;">4.Aufstieg</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2013</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2013m1.html">Klasse 1</a></td>
-<td align="CENTER">10.Abstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2013m2.html">Klasse 2</a></td>
-<td align="CENTER">8.</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2013m3.html">Klasse 3</a></td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2014</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2014m1.html">Klasse 2</a></td>
+<td align="CENTER" style="width: 81.2656px;">1.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2014m2.html">Klasse 2</a></td>
+<td align="CENTER" style="width: 73.7188px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2014m3.html">Klasse 4</a></td>
+<td align="CENTER" style="width: 96.5312px;">5.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">2012</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m1.html">Klasse 1</a></td>
-<td align="CENTER">5.</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m2.html">Klasse 3</a></td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m3.html">Klasse 4</a></td>
-<td align="CENTER">3.Aufstieg</td>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m4.html">Klasse 4</a></td>
-<td align="CENTER">7.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2013</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2013m1.html">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">10.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2013m2.html">Klasse 2</a></td>
+<td align="CENTER" style="width: 73.7188px;">8.</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2013m3.html">Klasse 3</a></td>
+<td align="CENTER" style="width: 96.5312px;">9.Abstieg</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2011.html" rel="noopener" target="_blank">2011</a></td>
-<td align="CENTER">Klasse 1</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">4.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">7.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">2012</td>
+<td align="CENTER" style="width: 108.047px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m1.html">Klasse 1</a></td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m2.html">Klasse 3</a></td>
+<td align="CENTER" style="width: 73.7188px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m3.html">Klasse 4</a></td>
+<td align="CENTER" style="width: 96.5312px;">3.Aufstieg</td>
+<td align="CENTER" style="width: 89.3125px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2012m4.html">Klasse 4</a></td>
+<td align="CENTER" style="width: 41.0312px;">7.</td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2010.html" rel="noopener" target="_blank">2010</a></td>
-<td align="CENTER">Klasse 1</td>
-<td align="CENTER">8.</td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">4.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">9.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2011.html" rel="noopener" target="_blank">2011</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 1</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 3</td>
+<td align="CENTER" style="width: 73.7188px;">4.</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">7.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2009.html" rel="noopener" target="_blank">2009</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">7.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2010.html" rel="noopener" target="_blank">2010</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 1</td>
+<td align="CENTER" style="width: 81.2656px;">8.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 3</td>
+<td align="CENTER" style="width: 73.7188px;">4.</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">9.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2008.html" rel="noopener" target="_blank">2008</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">1.Aufstieg</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">6.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2009.html" rel="noopener" target="_blank">2009</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 3</td>
+<td align="CENTER" style="width: 73.7188px;">5.</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">7.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2007.html" rel="noopener" target="_blank">2007</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">4.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2008.html" rel="noopener" target="_blank">2008</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">1.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">6.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2006.html" rel="noopener" target="_blank">2006</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2007.html" rel="noopener" target="_blank">2007</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">3.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 3</td>
+<td align="CENTER" style="width: 73.7188px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">4.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2005.html" rel="noopener" target="_blank">2005</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">4.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2006.html" rel="noopener" target="_blank">2006</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">3.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">8.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2004.html" rel="noopener" target="_blank">2004</a></td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">3.Aufstieg</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">9.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2005.html" rel="noopener" target="_blank">2005</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">4.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">3.</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">8.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2003.html" rel="noopener" target="_blank">2003</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">3.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2004.html" rel="noopener" target="_blank">2004</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 3</td>
+<td align="CENTER" style="width: 81.2656px;">3.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">3.</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 4</td>
+<td align="CENTER" style="width: 96.5312px;">9.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2002.html" rel="noopener" target="_blank">2002</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">7.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2003.html" rel="noopener" target="_blank">2003</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">3.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2001.html" rel="noopener" target="_blank">2001</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">8.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">3.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2002.html" rel="noopener" target="_blank">2002</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">7.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">5.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2000.html" rel="noopener" target="_blank">2000</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">8.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">4.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2001.html" rel="noopener" target="_blank">2001</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">8.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">3.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1999.html" rel="noopener" target="_blank">1999</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">8.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm2000.html" rel="noopener" target="_blank">2000</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">8.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">4.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1998.html" rel="noopener" target="_blank">1998</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">6.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1999.html" rel="noopener" target="_blank">1999</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">8.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">5.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1997.html" rel="noopener" target="_blank">1997</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">8.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1998.html" rel="noopener" target="_blank">1998</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">6.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">5.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1996.html" rel="noopener" target="_blank">1996</a></td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1997.html" rel="noopener" target="_blank">1997</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">8.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">8.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1995.html" rel="noopener" target="_blank">1995</a></td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">9.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1996.html" rel="noopener" target="_blank">1996</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 3</td>
+<td align="CENTER" style="width: 81.2656px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">8.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1994.html" rel="noopener" target="_blank">1994</a></td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1995.html" rel="noopener" target="_blank">1995</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 3</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 4</td>
+<td align="CENTER" style="width: 73.7188px;">9.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1993.html" rel="noopener" target="_blank">1993</a></td>
-<td align="CENTER">Klasse 1</td>
-<td align="CENTER">10.Abstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1994.html" rel="noopener" target="_blank">1994</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 2</td>
+<td align="CENTER" style="width: 81.2656px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1992.html" rel="noopener" target="_blank">1992</a></td>
-<td align="CENTER">Berlin-Klasse</td>
-<td align="CENTER">7.</td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">10.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1993.html" rel="noopener" target="_blank">1993</a></td>
+<td align="CENTER" style="width: 108.047px;">Klasse 1</td>
+<td align="CENTER" style="width: 81.2656px;">10.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-1991/">1991</a></td>
-<td align="CENTER">Berlin-Klasse</td>
-<td align="CENTER">6.</td>
-<td align="CENTER">Klasse 2</td>
-<td align="CENTER">?</td>
-<td align="CENTER">Klasse 3</td>
-<td align="CENTER">Klassenerhalt</td>
-<td align="CENTER">Klasse 4</td>
-<td align="CENTER">7.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1992.html" rel="noopener" target="_blank">1992</a></td>
+<td align="CENTER" style="width: 108.047px;">Berlin-Klasse</td>
+<td align="CENTER" style="width: 81.2656px;">7.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 2</td>
+<td align="CENTER" style="width: 73.7188px;">10.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-1990/">1990</a></td>
-<td align="CENTER">Stadtliga</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">6.</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">2.</td>
-<td align="CENTER">abgemeldet*</td>
-<td align="CENTER"></td>
-<td align="CENTER" nowrap="nowrap">3. Stadtklasse</td>
-<td align="CENTER">7.</td>
+<td align="CENTER" style="width: 38.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-1991/">1991</a></td>
+<td align="CENTER" style="width: 108.047px;">Berlin-Klasse</td>
+<td align="CENTER" style="width: 81.2656px;">6.</td>
+<td align="CENTER" style="width: 93.2969px;">Klasse 2</td>
+<td align="CENTER" style="width: 73.7188px;">?</td>
+<td align="CENTER" style="width: 93.4062px;">Klasse 3</td>
+<td align="CENTER" style="width: 96.5312px;">Klassenerhalt</td>
+<td align="CENTER" style="width: 89.3125px;">Klasse 4</td>
+<td align="CENTER" style="width: 41.0312px;">7.</td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1989.html" rel="noopener" target="_blank">1989</a></td>
-<td align="CENTER">Stadtliga</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">3.Stadtklasse</td>
-<td align="CENTER">1. Aufstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="https://www.narva-schach.de/wordpress/chronik/bmm-archiv/bmm-1990/">1990</a></td>
+<td align="CENTER" style="width: 108.047px;">Stadtliga</td>
+<td align="CENTER" style="width: 81.2656px;">3.</td>
+<td align="CENTER" style="width: 93.2969px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">6.</td>
+<td align="CENTER" style="width: 93.4062px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 96.5312px;">2.</td>
+<td align="CENTER" style="width: 89.3125px;">abgemeldet*</td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" nowrap="nowrap" style="width: 97.0469px;">3. Stadtklasse</td>
+<td align="CENTER" style="width: 41.0312px;">7.</td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1988.html" rel="noopener" target="_blank">1988</a></td>
-<td align="CENTER">Stadtliga</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">3.Stadtklasse</td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1989.html" rel="noopener" target="_blank">1989</a></td>
+<td align="CENTER" style="width: 108.047px;">Stadtliga</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">3.</td>
+<td align="CENTER" style="width: 93.4062px;">3.Stadtklasse</td>
+<td align="CENTER" style="width: 96.5312px;">1. Aufstieg</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1987.html" rel="noopener" target="_blank">1987</a></td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1988.html" rel="noopener" target="_blank">1988</a></td>
+<td align="CENTER" style="width: 108.047px;">Stadtliga</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">3.</td>
+<td align="CENTER" style="width: 93.4062px;">3.Stadtklasse</td>
+<td align="CENTER" style="width: 96.5312px;">5.</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1986</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;"><a href="http://www.narva-schach.de/dateien/chronik/bmm/bmm1987.html" rel="noopener" target="_blank">1987</a></td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">8.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1985</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1986</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1984</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1985</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1983</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1984</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1982</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1983</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1981</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1982</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1980</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1981</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1979</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">7.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1980</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1978</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1979</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">7.</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1977</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1978</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1976</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1977</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1975</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER">3.</td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER">5.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1976</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;"></td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1974</td>
-<td align="CENTER">2.Bezirksklasse</td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1975</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">3.</td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">5.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1973</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1974</td>
+<td align="CENTER" style="width: 108.047px;">2.Bezirksklasse</td>
+<td align="CENTER" style="width: 81.2656px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1972</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1973</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1971</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">2.Aufstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1972</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">8.</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1970</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER">9.Abstieg</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1971</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">2.Aufstieg</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1969</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER">8.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1970</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">9.Abstieg</td>
+<td align="CENTER" style="width: 93.2969px;"></td>
+<td align="CENTER" style="width: 73.7188px;"></td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1968</td>
-<td align="CENTER">1.Stadtklasse</td>
-<td align="CENTER">5.</td>
-<td align="CENTER">5.Stadtklasse</td>
-<td align="CENTER">6.</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1969</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">8.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1967</td>
-<td align="CENTER">?</td>
-<td align="CENTER">?</td>
-<td align="CENTER">?</td>
-<td align="CENTER">?</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1968</td>
+<td align="CENTER" style="width: 108.047px;">1.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">5.</td>
+<td align="CENTER" style="width: 93.2969px;">5.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">6.</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 <tr>
-<td align="CENTER">1966</td>
-<td align="CENTER">2.Stadtklasse</td>
-<td align="CENTER">?</td>
-<td align="CENTER">3.Stadtklasse</td>
-<td align="CENTER">?</td>
-<td align="CENTER">4.Stadtklasse</td>
-<td align="CENTER">?</td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
-<td align="CENTER"></td>
+<td align="CENTER" style="width: 38.4062px;">1967</td>
+<td align="CENTER" style="width: 108.047px;">?</td>
+<td align="CENTER" style="width: 81.2656px;">?</td>
+<td align="CENTER" style="width: 93.2969px;">?</td>
+<td align="CENTER" style="width: 73.7188px;">?</td>
+<td align="CENTER" style="width: 93.4062px;"></td>
+<td align="CENTER" style="width: 96.5312px;"></td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+</tr>
+<tr>
+<td align="CENTER" style="width: 38.4062px;">1966</td>
+<td align="CENTER" style="width: 108.047px;">2.Stadtklasse</td>
+<td align="CENTER" style="width: 81.2656px;">?</td>
+<td align="CENTER" style="width: 93.2969px;">3.Stadtklasse</td>
+<td align="CENTER" style="width: 73.7188px;">?</td>
+<td align="CENTER" style="width: 93.4062px;">4.Stadtklasse</td>
+<td align="CENTER" style="width: 96.5312px;">?</td>
+<td align="CENTER" style="width: 89.3125px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
+<td align="CENTER" style="width: 97.0469px;"></td>
+<td align="CENTER" style="width: 41.0312px;"></td>
 </tr>
 </tbody>
 </table>
