@@ -473,7 +473,7 @@ parent_title: Turniere
 <td>20</td>
 <td>Maiwald,Gunar</td>
 <td>(2)</td>
-<td> –</td>
+<td>½ – ½</td>
 <td></td>
 </tr>
 <tr>
