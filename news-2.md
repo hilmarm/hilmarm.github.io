@@ -14,7 +14,7 @@ navs:
 <span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/09/29/training-mit-michael-am-08-10/" rel="bookmark" title="8:04"><span class="entry-date">29. September 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
 <div class="entry-content">
 <p>Liebe Schachfreunde,</p>
-<p><strong>für 08.10.26 habe ich eine Großmeisterpartie als Trainingsspiel vorbereitet.</strong></p>
+<p><strong>für 08.10.26 – 19 Uhr – habe ich eine Großmeisterpartie als Trainingsspiel vorbereitet.</strong></p>
 <p>Die Partie entstammt dem Buch „Spiele mit gegen Großmeister“. In dem Buch werden die einzelnen Züge mit Punkten bewertet. Wir steigen zum 12. Zug in die Partie ein und versuchen die besten Züge zu finden.</p>
 <p>Dazu überlegt jeder für sich allein, was der beste Zug seinen könnte und notiert diesen. Nach einigen Minuten wird der Zug bekannt gegeben und wer einen guten Zug gefunden hat, bekommt dafür Punkte. So gehen wir Zug für Zug durch die Partie. Wer am Ende die meisten Punkte hat, gewinnt das Spiel.</p>
 <p>Mehr wir vorher nicht verraten!</p>
