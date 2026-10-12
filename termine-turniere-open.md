@@ -23,16 +23,6 @@ parent_title: Termine
 </thead>
 <tbody>
 <tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.deutschlandcup.org/" rel="noopener" target="_blank">Cup der Deutschen Einheit</a></td>
-<td style="height: 24px;">01.10.-06.10.2026</td>
-<td style="height: 24px;"></td>
-</tr>
-<tr style="height: 24px;">
-<td style="height: 24px;"><a href="https://www.schachabteilung-wildau.de/dahmeland.php" rel="noopener" target="_blank">19. Wildauer Dahmelandpokal 2026</a></td>
-<td style="height: 24px;">02.10.-04.10.2026</td>
-<td style="height: 24px;">Peter, Ekkehard</td>
-</tr>
-<tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://u25chess.com/de/" rel="noopener" target="_blank">4. Berlin U25/Ü25 Open</a> diverse Turniere</td>
 <td style="height: 24px;">19.10.-21.10.2026</td>
 <td style="height: 24px;">Bernd (Rapid Ü25)</td>
