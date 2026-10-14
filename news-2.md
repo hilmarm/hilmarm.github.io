@@ -8,6 +8,26 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-15281 post type-post status-publish format-standard hentry category-bfl" id="post-15281">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/10/14/3-siege-und-1-niederlage/" rel="bookmark">3 Siege und 1 Niederlage</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/10/14/3-siege-und-1-niederlage/" rel="bookmark" title="15:43"><span class="entry-date">14. Oktober 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><strong>Runde 2</strong> zur <strong>BFL</strong> ging Montag und Dienstag für unsere Mannschaften über die Bühne.</p>
+<p><strong>NARVA 1</strong> kann gegen <strong>Rotation 1</strong> nichts holen und verliert mit <strong>1:3</strong>. Am 1. Spieltag vor zwei Wochen gab es ein <strong>2:2</strong> gegen <strong>Weisse Dame 1</strong>.<br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15279" decoding="async" height="586" sizes="(max-width: 2134px) 100vw, 2134px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg 2134w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-300x82.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-1024x281.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-768x211.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-1536x422.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-2048x562.jpg 2048w" width="2134"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15283" decoding="async" height="604" sizes="(max-width: 2106px) 100vw, 2106px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome.jpg 2106w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-300x86.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-1024x294.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-768x220.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-1536x441.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-2048x587.jpg 2048w" width="2106"/></a><br/>
+<strong>NARVA 2</strong> hingegen holt den 2. Sieg und das gleich mit einem <strong>4:0</strong> gegen klar unterlegene <strong>Mariendorfer</strong> (die 2.). Am 1. Spieltag wurde mit <strong>3½:½</strong> gegen <strong>Rotation 3</strong> gewonnen.<br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_233918_Chrome.jpg"><img alt="" decoding="async" height="559" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_233918_Chrome.jpg" width="2110"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15282" decoding="async" height="578" loading="lazy" sizes="auto, (max-width: 2063px) 100vw, 2063px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome.jpg 2063w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome-300x84.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome-1024x287.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome-768x215.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome-1536x430.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154208_Chrome-2048x574.jpg 2048w" width="2063"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/bfl/" rel="category tag">BFL</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/10/14/3-siege-und-1-niederlage/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15281 
 <div class="post-15261 post type-post status-publish format-standard hentry category-bmm" id="post-15261">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/10/12/2-siege-1-niederlage-bmm-runde-2/" rel="bookmark">2 Siege – 1 Niederlage – BMM Runde 2</a></h2>
 <div class="entry-meta">
@@ -16,10 +36,10 @@ navs:
 <p><strong>Runde 2</strong> zur <strong>BMM</strong> und erster Heimspieltag. Für NARVA 1 und 2 geht es direkt in wichtige Kämpfe um den Aufstieg.</p>
 <p>Der Gegner der <strong>1. Mannschaft</strong>, die <strong>Schachfreunde Berlin 5</strong>, bringen nur 7 Spieler mit und lassen Brett 8 frei. Somit hat <strong>Bernd</strong> doch frei und wir führen direkt 1:0. <strong>Mert</strong> gewinnt dann auch schnell zum 2:0. <strong>Hilmar</strong> einigt sich auf Remis und als <strong>Ekkehard</strong> gewinnt, steht es schon 3,5:0,5. Die Niederlagen von <strong>Kostiantyn</strong> und <strong>Tomas</strong> bringen die Schachfreunde dann wieder näher, aber der Sieg von <strong>Rouven</strong> macht den Mannschaftssieg klar. Am Ende verliert noch <strong>Rudolf</strong> zum <strong>4,5:3,5</strong>.<br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome.jpg"><br/>
-<img alt="" class="aligncenter size-full wp-image-15258" decoding="async" height="951" sizes="(max-width: 2099px) 100vw, 2099px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome.jpg 2099w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-300x136.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-1024x464.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-768x348.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-1536x696.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-2048x928.jpg 2048w" width="2099"/></a>Die<strong> 2. Mannschaft</strong> bekam es mit der Jugend von <strong>TSG Oberschöneweide 7</strong> zu tun. Wir mussten lange und hart kämpfen, <strong>Ilja</strong> gewinnt als Erster und gleicht damit meine drohenden Niederlage vorab aus. <strong>Ich</strong> werde irgendwie schon in der Eröffnung kalt erwischt und kann mich aus den entstandenen Problemen nicht mehr befreien. <strong>Jens</strong> stellt dann mit seinem Sieg auf 2:1 für uns. Beim Rest sieht es nach längerem Kampf aus.</p>
+<img alt="" class="aligncenter size-full wp-image-15258" decoding="async" height="951" loading="lazy" sizes="auto, (max-width: 2099px) 100vw, 2099px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome.jpg 2099w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-300x136.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-1024x464.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-768x348.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-1536x696.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211521_Chrome-2048x928.jpg 2048w" width="2099"/></a>Die<strong> 2. Mannschaft</strong> bekam es mit der Jugend von <strong>TSG Oberschöneweide 7</strong> zu tun. Wir mussten lange und hart kämpfen, <strong>Ilja</strong> gewinnt als Erster und gleicht damit meine drohenden Niederlage vorab aus. <strong>Ich</strong> werde irgendwie schon in der Eröffnung kalt erwischt und kann mich aus den entstandenen Problemen nicht mehr befreien. <strong>Jens</strong> stellt dann mit seinem Sieg auf 2:1 für uns. Beim Rest sieht es nach längerem Kampf aus.</p>
 <p><strong>Günter</strong> kann dann die Schlinge immer enger ziehen und lässt den Gegner nicht mehr aus dem Druck kommen, am Ende Turmopfer zum Matt. 3:1. <strong>Gerhard</strong> steht erst vernünftig, stellt dann aber 2 Bauern ein und droht zu verlieren, als sein Gegenspiel vom Gegner unterschätzt wird und der einen Turm geben muss, um nicht Matt zu gehen. Mit Mehrturm fährt Gerhard den Punkt dann doch ein! Mit dem Remis von <strong>Peter</strong> an Brett 1, der zwar ordentlich Druck vom Gegner auf seinen König bekommt, aber alles zusammenhalten kann und so keinen Durchbruch zulässt, steht unser Sieg fest.</p>
 <p><strong>Hans-Dieter</strong> und <strong>Oliver</strong> stehen gut, Dieter mit Qualle mehr, aber gegen zwei Mehrbauern, Oliver mit aktiveren König und Turm und zeitweisen Mehrbauern. Beide finden aber keinen Weg zum Gewinnen. Hans-Dieters Gegner hält mit dem Läufer alles fest und verhindert das Eindringen vom König. Olli lässt auf einmal Gegenspiel zu und der Turm vom Gegner befreit sich. So enden beide Partien Remis zum <strong>5,5:2,5</strong> Endstand. Tabellenführer!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15257" decoding="async" height="969" sizes="(max-width: 2115px) 100vw, 2115px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome.jpg 2115w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-300x137.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-1024x469.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-768x352.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-1536x704.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-2048x938.jpg 2048w" width="2115"/></a>Eine unerwartete Niederlage gibt es von der <strong>3. Mannschaft</strong>. Gegen <strong>TSG Oberschöneweide 8</strong> verliert man mit 2:4, nur <strong>Frieder</strong> kann seine 2. Partie gewinnen, dazu kommen noch Remis von <strong>Klaus</strong> und Carsten. Für <strong>Carsten</strong> war es auch der erste BMM Einsatz nach vielen Jahren. <strong>Maxim</strong>, <strong>Detlef</strong> und <strong>Franz</strong> verlieren. <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15259" decoding="async" height="758" loading="lazy" sizes="auto, (max-width: 2064px) 100vw, 2064px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome.jpg 2064w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-300x110.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-1024x376.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-768x282.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-1536x564.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-2048x752.jpg 2048w" width="2064"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15257" decoding="async" height="969" loading="lazy" sizes="auto, (max-width: 2115px) 100vw, 2115px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome.jpg 2115w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-300x137.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-1024x469.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-768x352.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-1536x704.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211635_Chrome-2048x938.jpg 2048w" width="2115"/></a>Eine unerwartete Niederlage gibt es von der <strong>3. Mannschaft</strong>. Gegen <strong>TSG Oberschöneweide 8</strong> verliert man mit 2:4, nur <strong>Frieder</strong> kann seine 2. Partie gewinnen, dazu kommen noch Remis von <strong>Klaus</strong> und Carsten. Für <strong>Carsten</strong> war es auch der erste BMM Einsatz nach vielen Jahren. <strong>Maxim</strong>, <strong>Detlef</strong> und <strong>Franz</strong> verlieren. <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15259" decoding="async" height="758" loading="lazy" sizes="auto, (max-width: 2064px) 100vw, 2064px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome.jpg 2064w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-300x110.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-1024x376.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-768x282.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-1536x564.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261011_211425_Chrome-2048x752.jpg 2048w" width="2064"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -384,102 +404,6 @@ Nach einem Jahr Pause wegen Terminproblemen ist er nun wieder bei uns! Perfekt z
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/28/dsam-finale-deutsche-senioren-50/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-14989 
-<div class="post-14978 post type-post status-publish format-standard hentry category-interne-turniere category-offene-turniere" id="post-14978">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/" rel="bookmark">Hand &amp; Brain Turnier</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/" rel="bookmark" title="13:58"><span class="entry-date">24. Juli 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Gestern fand das von Mert geplante Hand &amp; Brain Turnier statt. 5 Teams fanden sich dann zum Start ein, darunter auch ein Gäste Team (Winterberg Ultras). Die weiteren Teams waren: <strong>Sternburg</strong> (Mert + Hilmar), <strong>Berliner</strong> (Ilja + Thomas), <strong>Quartiermeister1312</strong> (Jonatan + Tom) und <strong>Grauköpfe</strong> (Ekkehard + Carsten).</p>
-<p>Gespielt wurde wie angekündigt mit der Bedenkzeit 10+3, ein Spieler (das „Brain“/Gehirn) nennt die Figur, und der andere Spieler (die „Hand“) führt einen Zug mit dieser Figur aus. Das Brain darf lediglich den Namen der Figur nennen, die Rollen von Hand und Brain konnten von Partie zu Partie getauscht werden. Sobald die verbleibende Zeit einmalig unter 20 Sekunden fällt, übernimmt die „Hand“ die Kontrolle.</p>
-<p>Am Ende setzten sich mit <strong>Mert</strong> und <strong>Hilmar</strong> die Favoriten durch und gewannen alle Duelle, auch wenn Hilmar ab und an dafür sorgte, dass Mert in den letzten 20 Sekunden gut zocken musste. Stark auch unsere Gäste, die auf Platz 2 kamen. Dritter wurde das Team aus Vorsitzenden und unserem neuen Trainer Ilja, nachdem das Duell gegen Jonatan und Tom in der letzten Runde gewonnen wurde.</p>
-<p>Es machte allen Beteiligten viel Spaß und macht Lust auf Wiederholung, dann vielleicht mit mehr Teams. Im Anschluss wurden noch einige Runden Tandem gespielt.</p>
-<div class="wp-caption aligncenter" id="attachment_14980" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-scaled.jpg"><img alt="" aria-describedby="caption-attachment-14980" class="size-medium wp-image-14980" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201756-2048x1536.jpg 2048w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-14980">Team Sternburg</p></div>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-scaled.jpg"><img alt="" class="aligncenter size-medium wp-image-14984" decoding="async" height="225" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/07/20260723_201020-2048x1536.jpg 2048w" width="300"/></a></p>
-<div style="overflow: auto;">
-<table class="clean swiss">
-<thead>
-<tr>
-<td colspan="10">Rangliste: Stand nach der 5. Runde</td>
-</tr>
-<tr bgcolor="#00FF00">
-<th>Nr.</th>
-<th>Teilnehmer</th>
-<th>ELO Ø</th>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
-<th>Punkte</th>
-</tr>
-</thead>
-<tbody>
-<tr bgcolor="#00FFFF">
-<td>1</td>
-<td>Sternburg</td>
-<td>1831</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>4.0</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>2</td>
-<td nowrap="nowrap">Winterberg Ultras</td>
-<td></td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1</td>
-<td>1</td>
-<td>3.0</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>3</td>
-<td nowrap="nowrap">Berliner</td>
-<td>1728</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>½</td>
-<td>1.5</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>4</td>
-<td nowrap="nowrap">Quartiermeister 1312</td>
-<td>1675</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>**</td>
-<td>1</td>
-<td>1.0</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>5</td>
-<td>Grauköpfe</td>
-<td>1732</td>
-<td>0</td>
-<td>0</td>
-<td>½</td>
-<td>0</td>
-<td>**</td>
-<td>0.5</td>
-</tr>
-</tbody>
-</table>
-</div>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a>, <a href="https://www.narva-schach.de/wordpress/category/offene-turniere/" rel="category tag">Offene Turniere</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/24/hand-brain-turnier/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14978 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
