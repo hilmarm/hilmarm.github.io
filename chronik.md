@@ -474,9 +474,9 @@ parent_title: Chronik
 </tr>
 <tr>
 <th bgcolor="#FFFF00"><span style="font-family: Arial; font-size: xx-small;">2026</span></th>
+<td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Peter Hintze</span></td>
 <td nowrap="nowrap"></td>
-<td nowrap="nowrap"></td>
-<td nowrap="nowrap"></td>
+<td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Mert Özates</span></td>
 <td nowrap="nowrap"></td>
 <td nowrap="nowrap"><span style="font-family: Arial; font-size: xx-small;">Tomas Segerberg</span></td>
 <td nowrap="nowrap"></td>

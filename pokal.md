@@ -36,13 +36,13 @@ parent_title: Turniere
 <tr>
 <td style="width: 8.54701%;">1</td>
 <td style="width: 7.37179%;">22</td>
-<td style="width: 16.1325%;">Özates,Mert</td>
+<td style="width: 16.1325%;"><strong>Özates,Mert</strong></td>
 <td style="width: 9.40171%;">(2)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">7</td>
 <td nowrap="nowrap" style="width: 18.8034%;">Krüger,Ekkehard</td>
 <td style="width: 9.40171%;">(3)</td>
-<td style="width: 10.5769%;"></td>
+<td style="width: 10.5769%;">1 – 0</td>
 </tr>
 <tr>
 <td style="width: 8.54701%;">2</td>
