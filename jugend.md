@@ -16,7 +16,8 @@ navs:
 <p> </p>
 <p><span style="text-decoration-line: underline; font-size: 1.8em;">News von der Berliner Schachjugend:</span></p>
 <ul><!--via SimplePie with RSSImport--><li><a href="https://www.schachjugend-in-berlin.de/2-vorrunde-2026/" title="2. Vorrunde 2026">2. Vorrunde 2026</a></li><li><a href="https://www.schachjugend-in-berlin.de/26-offene-u8-meisterschaft-in-sebnitz/" title="26. Offene u8-Meisterschaft in Sebnitz">26. Offene u8-Meisterschaft in Sebnitz</a></li><li><a href="https://www.schachjugend-in-berlin.de/berliner-maedchenmeisterschaften/" title="Berliner Mädchenmeisterschaften">Berliner Mädchenmeisterschaften</a></li><li><a href="https://www.schachjugend-in-berlin.de/berliner-jugendspielerinnen-bei-den-fide-world-u7-u17-championship/" title="Berliner JugendspielerInnen bei den FIDE World u7 – u17 Championships">Berliner JugendspielerInnen bei den FIDE World u7 – u17 Championships</a></li><li><a href="https://www.schachjugend-in-berlin.de/deutsche-laendermeisterschaft-nach-sieben-runden-beendet-berlin-auf-platz-10/" title="Deutsche Ländermeisterschaft nach sieben Runden beendet: Berlin auf Platz 10">Deutsche Ländermeisterschaft nach sieben Runden beendet: Berlin auf Platz 10</a></li><li><a href="https://www.schachjugend-in-berlin.de/deutsche-laendermeisterschaft-2026-berliner-auswahl-auf-tuchfuehlung-zur-spitze/" title="Deutsche Ländermeisterschaft 2026: Berliner Auswahl auf Tuchfühlung zur Spitze!">Deutsche Ländermeisterschaft 2026: Berliner Auswahl auf Tuchfühlung zur Spitze!</a></li><li><a href="https://www.schachjugend-in-berlin.de/berliner-auswahl-ab-heute-bei-der-deutschen-laendermeisterschaft-in-duderstadt-am-start/" title="Berliner Auswahl ab heute bei der Deutschen Ländermeisterschaft in Duderstadt am Start!">Berliner Auswahl ab heute bei der Deutschen Ländermeisterschaft in Duderstadt am Start!</a></li></ul>
-<p style="text-align: center;"><span style="text-decoration: underline; font-size: 18pt;">Spieler aus der NARVA – Jugend</span></p>
+<p style="text-align: center;"><span style="text-decoration: underline; font-size: 18pt;">Spieler aus der NARVA – Jugend <span style="font-size: 12pt;">(noch aktiv)</span></span></p>
+<p> </p>
 <table>
 <tbody>
 <tr>
@@ -71,121 +72,6 @@ Großmeister (2015)</td>
 <tr>
 <td>Beste Elo‑Zahl</td>
 <td>2374</td>
-</tr>
-<tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Gregor Spieß</strong></span> – <a href="https://players.chessbase.com/de/player/spiess_gregor/248572" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
-</tr>
-<tr>
-<td>Geb.</td>
-<td>1990</td>
-</tr>
-<tr>
-<td>Aktueller Verein</td>
-<td>nicht aktiv</td>
-</tr>
-<tr>
-<td>Titel</td>
-<td></td>
-</tr>
-<tr>
-<td>Aktuelle Elo‑Zahl</td>
-<td>2133 (Stand 2018 – letzte Auswertung)</td>
-</tr>
-<tr>
-<td>Beste Elo‑Zahl</td>
-<td>2173</td>
-</tr>
-<tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Janett Cissé</strong> (Wordel)</span> – <a href="https://players.chessbase.com/de/player/wordel_janett/286109" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
-</tr>
-<tr>
-<td>Geb.</td>
-<td>1977</td>
-</tr>
-<tr>
-<td>Aktueller Verein</td>
-<td>nicht aktiv</td>
-</tr>
-<tr>
-<td>Titel</td>
-<td></td>
-</tr>
-<tr>
-<td>Aktuelle Elo‑Zahl</td>
-<td>2120 (vor 2001 – letzte Auswertung)</td>
-</tr>
-<tr>
-<td>Beste Elo‑Zahl</td>
-<td>2120?</td>
-</tr>
-<tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Nam Tham</strong></span> – <a href="https://players.chessbase.com/de/player/tham_nam/377884" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
-</tr>
-<tr>
-<td>Geb.</td>
-<td>2006</td>
-</tr>
-<tr>
-<td>Aktueller Verein</td>
-<td>SC Weisse Dame</td>
-</tr>
-<tr>
-<td>Titel</td>
-<td></td>
-</tr>
-<tr>
-<td>Aktuelle Elo‑Zahl</td>
-<td>1990 (Juli 2025)</td>
-</tr>
-<tr>
-<td>Beste Elo‑Zahl</td>
-<td>2030</td>
-</tr>
-<tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Minh Tham</strong></span> – <a href="https://players.chessbase.com/de/player/tham_minh/366310" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
-</tr>
-<tr>
-<td>Geb.</td>
-<td>2004</td>
-</tr>
-<tr>
-<td>Aktueller Verein</td>
-<td>SC Weisse Dame</td>
-</tr>
-<tr>
-<td>Titel</td>
-<td></td>
-</tr>
-<tr>
-<td>Aktuelle Elo‑Zahl</td>
-<td>1906 (März 2024)</td>
-</tr>
-<tr>
-<td>Beste Elo‑Zahl</td>
-<td>1984</td>
-</tr>
-<tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Clemens Krautschick</strong></span> – <a href="https://players.chessbase.com/de/player/krautschick_clemens/136963" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
-</tr>
-<tr>
-<td>Geb.</td>
-<td>1989</td>
-</tr>
-<tr>
-<td>Aktueller Verein</td>
-<td>nicht aktiv</td>
-</tr>
-<tr>
-<td>Titel</td>
-<td></td>
-</tr>
-<tr>
-<td>Aktuelle Elo‑Zahl</td>
-<td>1989 (Stand 2018 – letzte Auswertung)</td>
-</tr>
-<tr>
-<td>Beste Elo‑Zahl</td>
-<td>2044</td>
 </tr>
 <tr>
 <td colspan="2"><span style="font-size: 14pt;"><strong>Rudolf Lange</strong> (Dvorsky)</span> – <a href="https://players.chessbase.com/de/player/lange_rudolf/143590" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
@@ -273,33 +159,6 @@ Großmeister (2015)</td>
 <p><div class="wp-caption aligncenter" id="attachment_11972" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/01/01b.jpg"><img alt="" aria-describedby="caption-attachment-11972" class="size-medium wp-image-11972" decoding="async" height="283" loading="lazy" sizes="auto, (max-width: 300px) 100vw, 300px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/01/01b-300x283.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2024/01/01b-300x283.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/01/01b-1024x967.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/01/01b-768x725.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2024/01/01b.jpg 1080w" width="300"/></a><p class="wp-caption-text" id="caption-attachment-11972">1993 beim Training</p></div></p></td>
 <td>
 <p><div class="wp-caption aligncenter" id="attachment_10765" style="width: 235px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-scaled.jpg"><img alt="" aria-describedby="caption-attachment-10765" class="size-medium wp-image-10765" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 225px) 100vw, 225px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-225x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-225x300.jpg 225w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-768x1024.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-1152x1536.jpg 1152w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-1536x2048.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2023/02/52694711261_922ac68a1b_o-scaled.jpg 1920w" width="225"/></a><p class="wp-caption-text" id="caption-attachment-10765">DSAM Magdeburg 2023, nicht im besten Zustand…</p></div></p></td>
-</tr>
-<tr>
-<td colspan="2"><span style="font-size: 14pt;"><strong>Nicole Wordel</strong></span> – <a href="https://players.chessbase.com/de/player/wordel_nicole/286111" rel="noopener" target="_blank">Siehe Spielerprofil bei ChessBase</a></td>
-</tr>
-<tr>
-<td>Geb.</td>
-<td>1980</td>
-</tr>
-<tr>
-<td>Aktueller Verein</td>
-<td>nicht aktiv</td>
-</tr>
-<tr>
-<td>Titel</td>
-<td></td>
-</tr>
-<tr>
-<td>Aktuelle Elo‑Zahl</td>
-<td>1742 (März 2024)</td>
-</tr>
-<tr>
-<td>Beste Elo‑Zahl</td>
-<td>1742</td>
-</tr>
-<tr>
-<td colspan="2">
-<p><div class="wp-caption aligncenter" style="width: 310px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/dsc02868-scaled.jpg" rel="noopener" target="_blank"><img alt="" decoding="async" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2023/11/dsc02868-scaled.jpg" width="300"/></a><p class="wp-caption-text">Foto aus BSV Seite</p></div></p></td>
 </tr>
 </tbody>
 </table>

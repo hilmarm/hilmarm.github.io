@@ -43,7 +43,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; width: 11.5903%;">3</td>
 <td nowrap="nowrap" style="height: 24px; width: 16.8464%;"><span style="color: #ff0000;">SV Berolina Mitte (H)</span></td>
-<td style="height: 24px; text-align: center; width: 12.5337%;"><span style="color: #ff0000;">12.11.??</span></td>
+<td style="height: 24px; text-align: center; width: 12.5337%;"><span style="color: #ff0000;">10.11.</span></td>
 <td style="height: 24px; text-align: left; width: 16.8464%;"><span style="color: #0000ff;">SV Berolina Mitte 2 (H)</span></td>
 <td style="height: 24px; text-align: center; width: 12.6685%;"><span style="color: #0000ff;">10.11.</span></td>
 </tr>

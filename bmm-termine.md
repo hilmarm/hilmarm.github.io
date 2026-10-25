@@ -82,8 +82,8 @@ parent_title: Termine
 <p><span style="font-size: 10pt; color: #ff0000;">10 Uhr</span></p></td>
 <td nowrap="nowrap" style="width: 23.75%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #0000ff;">SV Berolina 3</span>
 <p><span style="font-size: 10pt; color: #0000ff;">10 Uhr</span></p></td>
-<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><span style="font-size: 10pt; color: #008000;">BSG Eckbauer 4</span>
-<p><span style="font-size: 10pt; color: #008000;">10 Uhr</span></p></td>
+<td nowrap="nowrap" style="width: 21.0938%; height: 24px; padding-left: 5px; padding-right: 5px;"><del><span style="font-size: 10pt; color: #008000;">BSG Eckbauer 4</span></del>
+<p><span style="font-size: 10pt; color: #008000;">spielfrei</span></p></td>
 </tr>
 <tr style="height: 24px;">
 <td style="text-align: center; height: 24px; padding-left: 5px; padding-right: 5px; width: 7.5%;"><span style="font-size: 10pt;">7</span></td>
