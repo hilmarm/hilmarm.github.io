@@ -527,7 +527,7 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>12.5</td>
-<td>77.00</td>
+<td>78.00</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>2</td>
@@ -568,10 +568,10 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>1</td>
+<td>0</td>
 <td>1</td>
-<td>1</td>
-<td>11.0</td>
-<td>68.50</td>
+<td>10.0</td>
+<td>67.50</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>4</td>
@@ -593,7 +593,7 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>9.5</td>
-<td>47.50</td>
+<td>48.50</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>5</td>
@@ -615,7 +615,7 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>9.0</td>
-<td>50.50</td>
+<td>51.50</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>6</td>
@@ -637,7 +637,7 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>9.0</td>
-<td>50.00</td>
+<td>51.00</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>7</td>
@@ -659,7 +659,7 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>8.0</td>
-<td>39.75</td>
+<td>40.75</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>8</td>
@@ -703,11 +703,11 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>7.0</td>
-<td>29.00</td>
+<td>30.00</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>10</td>
-<td>Ariunsaichan,Tenger</td>
+<td>Ariunsaichan,Tenger (G)</td>
 <td></td>
 <td>0</td>
 <td>0</td>
@@ -747,7 +747,7 @@ parent_title: Turniere
 <td>1</td>
 <td>1</td>
 <td>4.5</td>
-<td>13.50</td>
+<td>14.50</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>12</td>
@@ -766,10 +766,10 @@ parent_title: Turniere
 <td>0</td>
 <td>**</td>
 <td>1</td>
-<td>½</td>
 <td>1</td>
+<td>½</td>
 <td>4.0</td>
-<td>13.25</td>
+<td>14.25</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>13</td>
@@ -788,13 +788,35 @@ parent_title: Turniere
 <td>0</td>
 <td>0</td>
 <td>**</td>
-<td>1</td>
 <td>0</td>
+<td>1</td>
 <td>2.5</td>
 <td>14.50</td>
 </tr>
 <tr bgcolor="#00FFFF">
 <td>14</td>
+<td>Stolzenberg,Leon</td>
+<td></td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>**</td>
+<td>0</td>
+<td>2.0</td>
+<td>12.50</td>
+</tr>
+<tr bgcolor="#00FFFF">
+<td>15</td>
 <td>Bahr,Jan-Hendrik</td>
 <td>1570</td>
 <td>0</td>
@@ -810,32 +832,10 @@ parent_title: Turniere
 <td>0</td>
 <td>½</td>
 <td>0</td>
-<td>**</td>
 <td>1</td>
+<td>**</td>
 <td>1.5</td>
-<td>3.00</td>
-</tr>
-<tr bgcolor="#00FFFF">
-<td>15</td>
-<td>Stolzenberg,Leon</td>
-<td></td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-<td>0</td>
-<td>**</td>
-<td>1.0</td>
-<td>2.50</td>
+<td>4.00</td>
 </tr>
 </tbody>
 </table>

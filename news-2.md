@@ -8,6 +8,40 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-15319 post type-post status-publish format-standard hentry category-krt" id="post-15319">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/10/31/kurt-richter-turnier-2026-laeuft/" rel="bookmark">Kurt-Richter-Turnier 2026 läuft</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/10/31/kurt-richter-turnier-2026-laeuft/" rel="bookmark" title="10:54"><span class="entry-date">31. Oktober 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<h2 style="text-align: center;"><a href="https://s1.chess-results.com/tnr1531093.aspx?lan=0&amp;art=0&amp;SNode=S0" rel="noopener" target="_blank">Ergebnisse</a></h2>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-scaled.jpg"><img alt="" class="aligncenter size-full wp-image-15315" decoding="async" height="1920" sizes="(max-width: 2560px) 100vw, 2560px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-scaled.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-scaled.jpg 2560w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261030_165253-2048x1536.jpg 2048w" width="2560"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/krt/" rel="category tag">KRT</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/10/31/kurt-richter-turnier-2026-laeuft/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15319 
+<div class="post-15317 post type-post status-publish format-standard hentry category-interne-turniere" id="post-15317">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/10/31/blitzmeister-2026-steht-fest/" rel="bookmark">Blitzmeister 2026 steht fest</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/10/31/blitzmeister-2026-steht-fest/" rel="bookmark" title="10:52"><span class="entry-date">31. Oktober 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p>Am Donnerstag gab es Runde 9 von 10 zum <strong>Monats-Blitz 2026</strong>. Nach den letzten Ergebnissen sah alles nach einer Titelverteidigung durch Mert aus, er konnte noch voll Punkten, während Peter schon 6 Wertungen hatte und nur noch Streichresultate verbessern konnte, bei aktueller Punktgleichheit.</p>
+<p>Zum <strong>Oktoberblitz</strong> kamen 15 Teilnehmer zusammen, darunter gleich 4 Spieler von Chemie Weißensee und weiere Gäste, wie zum Beispiel nach langen Pausen <strong>Nicole</strong> und <strong>Tenger</strong>.</p>
+<p>Am Ende gewinnt <strong>Mert</strong> die Monatswertung mit 12,5 aus 14 vor <strong>Erik Lüpke</strong> von Mattnetz mit 12 Punkten und 3 Chemie Spielern. Damit punktet er voll und Peter kan mit Platz 6 keine Punite dazu gewinnen. <strong>Mert steht somit bereits eine Runde vor Schluss als Blitzmeister fest!</strong></p>
+<p>Auch der Gästepreis ist bereits an <strong>Matthias Pröschild</strong> (Chemie Weißensee) vergeben, dafür reichte die Teilnahme am Donnerstag, damit er auf 5 Teilnahmen kommt, Punkte gab es für ihn keine.</p>
+<p><a href="https://www.narva-schach.de/wordpress/turniere/blitz/">Tabellen</a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-scaled.jpg"><img alt="" class="aligncenter size-full wp-image-15316" decoding="async" height="1920" sizes="(max-width: 2560px) 100vw, 2560px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-scaled.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-scaled.jpg 2560w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-300x225.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-1024x768.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-768x576.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-1536x1152.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/20261029_214630-2048x1536.jpg 2048w" width="2560"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/interne-turniere/" rel="category tag">Interne Turniere</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/10/31/blitzmeister-2026-steht-fest/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15317 
 <div class="post-15309 post type-post status-publish format-standard hentry category-interne-turniere" id="post-15309">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/10/30/pokalsieger-und-abteilungsmeister-stehen-fest/" rel="bookmark">Pokalsieger und Abteilungsmeister stehen fest</a></h2>
 <div class="entry-meta">
@@ -20,7 +54,7 @@ navs:
 <p>In der <strong>Abteilungsmeisterschaft</strong> sind nun alle Partien gespielt. Hier setzte sich im direkten Duell <strong>Peter</strong> gegen Maximilian durch und holt seine erste Abteilungsmeisterschaft!</p>
 <p><strong>Maximilian</strong> ist Zweiter vor <strong>Andreas Kuban</strong> (Rotation). Der 3. Platz geht somit an <strong>Maxim</strong>. Der Ratingpreis <span style="text-decoration: underline;">U1600</span> geht damit an <strong>Philipp</strong>, der <span style="text-decoration: underline;">U1400</span> an <strong>Gunar</strong>.</p>
 <p><strong>Allen Preisträgern herzlichen Glückwunsch!!</strong></p>
-<div class="wp-caption aligncenter" id="attachment_15312" style="width: 280px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26.jpg"><img alt="" aria-describedby="caption-attachment-15312" class="wp-image-15312 size-medium" decoding="async" height="300" sizes="(max-width: 270px) 100vw, 270px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26-270x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26-270x300.jpg 270w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26.jpg 671w" width="270"/></a><p class="wp-caption-text" id="caption-attachment-15312">für die Ratingpreise zählen noch die alten DWZ Zahlen</p></div>
+<div class="wp-caption aligncenter" id="attachment_15312" style="width: 280px"><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26.jpg"><img alt="" aria-describedby="caption-attachment-15312" class="wp-image-15312 size-medium" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 270px) 100vw, 270px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26-270x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26-270x300.jpg 270w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Abteilung26.jpg 671w" width="270"/></a><p class="wp-caption-text" id="caption-attachment-15312">für die Ratingpreise zählen noch die alten DWZ Zahlen</p></div>
 <p><a href="https://www.narva-schach.de/wordpress/turniere/abteilungsmeisterschaft/">Tabellen</a></p>
 <p><a href="https://www.narva-schach.de/wordpress/chronik/">Chronik der Meister</a></p>
 </div><!-- .entry-content -->
@@ -38,7 +72,7 @@ navs:
 <div class="entry-content">
 <p><strong>Runde 2</strong> zur <strong>BFL</strong> ging Montag und Dienstag für unsere Mannschaften über die Bühne.</p>
 <p><strong>NARVA 1</strong> kann gegen <strong>Rotation 1</strong> nichts holen und verliert mit <strong>1:3</strong>. Am 1. Spieltag vor zwei Wochen gab es ein <strong>2:2</strong> gegen <strong>Weisse Dame 1</strong>.<br/>
-<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15279" decoding="async" height="586" sizes="(max-width: 2134px) 100vw, 2134px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg 2134w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-300x82.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-1024x281.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-768x211.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-1536x422.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-2048x562.jpg 2048w" width="2134"/></a><br/>
+<a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15279" decoding="async" height="586" loading="lazy" sizes="auto, (max-width: 2134px) 100vw, 2134px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome.jpg 2134w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-300x82.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-1024x281.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-768x211.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-1536x422.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_085227_Chrome-2048x562.jpg 2048w" width="2134"/></a><br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15283" decoding="async" height="604" loading="lazy" sizes="auto, (max-width: 2106px) 100vw, 2106px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome.jpg 2106w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-300x86.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-1024x294.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-768x220.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-1536x441.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261014_154135_Chrome-2048x587.jpg 2048w" width="2106"/></a><br/>
 <strong>NARVA 2</strong> hingegen holt den 2. Sieg und das gleich mit einem <strong>4:0</strong> gegen klar unterlegene <strong>Mariendorfer</strong> (die 2.). Am 1. Spieltag wurde mit <strong>3½:½</strong> gegen <strong>Rotation 3</strong> gewonnen.<br/>
 <a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_233918_Chrome.jpg"><img alt="" class="aligncenter size-full" decoding="async" height="559" loading="lazy" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/10/Screenshot_20261013_233918_Chrome.jpg" width="2110"/></a><br/>
@@ -371,40 +405,6 @@ Nach einem Jahr Pause wegen Terminproblemen ist er nun wieder bei uns! Perfekt z
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/02/juli-blitz-4/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-15016 
-<div class="post-15005 post type-post status-publish format-standard hentry category-dwz" id="post-15005">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/29/dwz-booster/" rel="bookmark">DWZ Booster</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/07/29/dwz-booster/" rel="bookmark" title="10:01"><span class="entry-date">29. Juli 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Nun ist der bereits angekündigte DWZ Booster vollzogen worden und die neuen Zahlen sind online. Alle Spieler unter 2100 DWZ (bei uns alle bis auf Bram) haben von der Erhöhung profitiert.</p>
-<p><a href="https://www.schachbund.de/dwz-vereine/30066.html">DWZ-Rangliste SG NARVA Berlin e.V. – Deutscher Schachbund – Schach in Deutschland</a><br/>
-<span style="font-size: 10pt;"><em>(Auf der DWZ Seite unserer Homepage sind noch die falschen Zahlen, hier werden wir wohl demnächst Anpassungen am Plugin vornehmen müssen….)</em></span></p>
-<p>Nun sind ELO und DWZ wieder vergleichbar, die Lücke die nach der ELO-Anhebung entstanden war, ist behoben. <a href="https://www.schachbund.de/news/die-neue-dwz-abfrage-ist-online-und-die-dwz-ist-angehoben.html" rel="noopener" target="_blank">Weitere Infos zur Anhebung beim Schachbund</a>.</p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/dwz/" rel="category tag">DWZ</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/29/dwz-booster/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-15005 
-<div class="post-14995 post type-post status-publish format-standard hentry category-allgemein category-intern" id="post-14995">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/07/28/wir-haben-einen-fm/" rel="bookmark">Wir haben einen FM!</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/07/28/wir-haben-einen-fm/" rel="bookmark" title="8:30"><span class="entry-date">28. Juli 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>1990 stand er bei ELO 2305.<br/>
-36 Jahre später beantragt er aus einer Laune heraus den FM bei der FIDE!</p>
-<p><strong>Herzlichen Glückwunsch FM Bernd Daverkausen zum Titel!</strong></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718.jpg"><img alt="" class="aligncenter size-medium wp-image-14474" decoding="async" height="300" loading="lazy" sizes="auto, (max-width: 221px) 100vw, 221px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-221x300.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-221x300.jpg 221w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-753x1024.jpg 753w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-768x1044.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-1130x1536.jpg 1130w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718-1506x2048.jpg 1506w, https://www.narva-schach.de/wordpress/wp-content/uploads/2025/12/20251205_200718.jpg 1829w" width="221"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/allgemein/" rel="category tag">Allgemein</a>, <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/07/28/wir-haben-einen-fm/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-14995 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
