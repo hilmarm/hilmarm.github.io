@@ -51,9 +51,9 @@ parent_title: Turniere
 <td style="width: 9.40171%;">(3)</td>
 <td style="width: 5.76923%;">–</td>
 <td style="width: 7.37179%;">1</td>
-<td style="width: 18.8034%;">Honcharov,Kostia</td>
+<td style="width: 18.8034%;"><strong>Honcharov,Kostia</strong></td>
 <td style="width: 9.40171%;">(3)</td>
-<td style="width: 10.5769%;"></td>
+<td style="width: 10.5769%;">0 – 1</td>
 </tr>
 </tbody>
 </table>
