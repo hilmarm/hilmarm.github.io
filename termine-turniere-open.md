@@ -30,7 +30,7 @@ parent_title: Termine
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.dsam-cup.de/bonn/" rel="noopener" target="_blank">DSAM Bonn</a></td>
 <td style="height: 24px;">17.12.-20.12.2026</td>
-<td style="height: 24px;">Jonatan, Jan-Hendrik</td>
+<td style="height: 24px;">Jonatan, Oliver, Jan-Hendrik</td>
 </tr>
 <tr style="height: 24px;">
 <td style="height: 24px;"><a href="https://www.zitaschach.de/weihnachts-festival-2026/" rel="noopener" target="_blank">9. Spandauer Weihnachts-Rapid</a></td>

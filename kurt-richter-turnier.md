@@ -238,7 +238,7 @@ Kurt-Richter-Gedenkturnier</h1>
 </tr>
 <tr style="height: 14.25pt;">
 <td align="right" class="xl1517289" height="19" style="height: 14.25pt;"><span style="font-size: 10pt;">24</span></td>
-<td class="xl6717289"><span style="font-size: 10pt;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2026/">2026</a></span></td>
+<td class="xl6717289"><span style="font-size: 10pt;"><a href="https://www.narva-schach.de/wordpress/kurt-richter-turnier/2026-2/">2026</a></span></td>
 <td class="xl6717289" style="text-align: center;"><span style="font-size: 10pt;">103</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">Robin Jacobi</span></td>
 <td class="xl1517289"><span style="font-size: 10pt;">SV Empor Erfurt</span></td>
