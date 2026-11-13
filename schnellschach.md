@@ -39,8 +39,17 @@ parent_title: Turniere
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;">12</td>
 <td style="width: 10.9375%;">10</td>
+<td style="width: 10.9375%;">5</td>
+<td style="width: 13.5938%;">39</td>
+</tr>
+<tr>
+<td style="width: 20.9375%;">Kuban (G)</td>
+<td style="width: 10.9375%;">6</td>
 <td style="width: 10.9375%;"></td>
-<td style="width: 13.5938%;">34</td>
+<td style="width: 10.9375%;">10</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">8</td>
+<td style="width: 13.5938%;">24</td>
 </tr>
 <tr>
 <td style="width: 20.9375%;">Hintze</td>
@@ -52,13 +61,13 @@ parent_title: Turniere
 <td style="width: 13.5938%;">20</td>
 </tr>
 <tr>
-<td style="width: 20.9375%;">Kuban (G)</td>
+<td style="width: 20.9375%;">Krüger</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">3</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">8</td>
 <td style="width: 10.9375%;">6</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;">10</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 13.5938%;">16</td>
+<td style="width: 13.5938%;">17</td>
 </tr>
 <tr>
 <td style="width: 20.9375%;">Schenk</td>
@@ -75,8 +84,17 @@ parent_title: Turniere
 <td style="width: 10.9375%;">2</td>
 <td style="width: 10.9375%;">8</td>
 <td style="width: 10.9375%;">4</td>
-<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"><s>1</s></td>
 <td style="width: 13.5938%;">15</td>
+</tr>
+<tr>
+<td style="width: 20.9375%;">Honcharov</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">5</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">5</td>
+<td style="width: 10.9375%;">3</td>
+<td style="width: 13.5938%;">13</td>
 </tr>
 <tr>
 <td style="width: 20.9375%;">Daverkausen</td>
@@ -88,13 +106,13 @@ parent_title: Turniere
 <td style="width: 13.5938%;">12</td>
 </tr>
 <tr>
-<td style="width: 20.9375%;">Krüger</td>
+<td style="width: 20.9375%;">Gros (G)</td>
 <td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;">3</td>
 <td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;">8</td>
 <td style="width: 10.9375%;"></td>
-<td style="width: 13.5938%;">11</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">12</td>
+<td style="width: 13.5938%;">12</td>
 </tr>
 <tr>
 <td style="width: 20.9375%;">Bradschetl</td>
@@ -124,21 +142,21 @@ parent_title: Turniere
 <td style="width: 13.5938%;">10</td>
 </tr>
 <tr>
-<td style="width: 20.9375%;">Honcharov</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;">5</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;">5</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 13.5938%;">10</td>
-</tr>
-<tr>
 <td style="width: 20.9375%;">Mothes</td>
 <td style="width: 10.9375%;">2</td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;">2</td>
 <td style="width: 10.9375%;">6</td>
 <td style="width: 10.9375%;"></td>
+<td style="width: 13.5938%;">10</td>
+</tr>
+<tr>
+<td style="width: 20.9375%;">Özates</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">10</td>
 <td style="width: 13.5938%;">10</td>
 </tr>
 <tr>
@@ -149,6 +167,15 @@ parent_title: Turniere
 <td style="width: 10.9375%;">3</td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 13.5938%;">8</td>
+</tr>
+<tr>
+<td style="width: 20.9375%;">Brinckmann</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">3</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">4</td>
+<td style="width: 13.5938%;">7</td>
 </tr>
 <tr>
 <td style="width: 20.9375%;">Dragnev (G)</td>
@@ -178,21 +205,21 @@ parent_title: Turniere
 <td style="width: 13.5938%;">4</td>
 </tr>
 <tr>
-<td style="width: 20.9375%;">Brinckmann</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;">3</td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 10.9375%;"></td>
-<td style="width: 13.5938%;">3</td>
-</tr>
-<tr>
 <td style="width: 20.9375%;">Köppen</td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 10.9375%;">2</td>
 <td style="width: 10.9375%;"></td>
+<td style="width: 13.5938%;">2</td>
+</tr>
+<tr>
+<td style="width: 20.9375%;">Ariunsaichan (G)</td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;"></td>
+<td style="width: 10.9375%;">2</td>
 <td style="width: 13.5938%;">2</td>
 </tr>
 <tr>
@@ -212,6 +239,234 @@ parent_title: Turniere
 <td style="width: 10.9375%;">1</td>
 <td style="width: 10.9375%;"></td>
 <td style="width: 13.5938%;">1</td>
+</tr>
+</tbody>
+</table>
+<h2>5. Schnellschachturnier am 12. November</h2>
+<table class="clean swiss footable">
+<thead>
+<tr>
+<th>Nr.</th>
+<th>Teilnehmer</th>
+<th>TWZ</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>Punkte</th>
+<th>Buchh</th>
+<th>SoBerg</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Gros,Dirk</td>
+<td>2008</td>
+<td>10w1</td>
+<td>9s1</td>
+<td>8w1</td>
+<td>2s1</td>
+<td>5w1</td>
+<td>5.0</td>
+<td>14.0</td>
+<td>14.00</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Özates,Mert</td>
+<td>1922</td>
+<td>15s1</td>
+<td>5w1</td>
+<td>3s1</td>
+<td>1w0</td>
+<td>8s1</td>
+<td>4.0</td>
+<td>15.0</td>
+<td>10.00</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Kuban,Andreas</td>
+<td>1911</td>
+<td>4w1</td>
+<td>11s1</td>
+<td>2w0</td>
+<td>8s½</td>
+<td>10w1</td>
+<td>3.5</td>
+<td>14.0</td>
+<td>8.75</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Krüger,Ekkehard</td>
+<td>1866</td>
+<td>3s0</td>
+<td>16w1</td>
+<td>7s1</td>
+<td>6w½</td>
+<td>9s1</td>
+<td>3.5</td>
+<td>12.5</td>
+<td>7.50</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Segerberg,Tomas</td>
+<td>1981</td>
+<td>14w1</td>
+<td>2s0</td>
+<td>12w1</td>
+<td>11s1</td>
+<td>1s0</td>
+<td>3.0</td>
+<td>14.0</td>
+<td>5.00</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Brinckmann,Klaus</td>
+<td>1801</td>
+<td>9w½</td>
+<td>10s1</td>
+<td>11w0</td>
+<td>4s½</td>
+<td>14w1</td>
+<td>3.0</td>
+<td>11.0</td>
+<td>6.00</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Honcharov,Konstia</td>
+<td></td>
+<td>12w1</td>
+<td>8s0</td>
+<td>4w0</td>
+<td>14s1</td>
+<td>11w1</td>
+<td>3.0</td>
+<td>11.0</td>
+<td>5.00</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ariunsaichan,Teng</td>
+<td></td>
+<td>13s1</td>
+<td>7w1</td>
+<td>1s0</td>
+<td>3w½</td>
+<td>2w0</td>
+<td>2.5</td>
+<td>17.0</td>
+<td>6.25</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Mietzelfeldt,Gerh</td>
+<td>1837</td>
+<td>6s½</td>
+<td>1w0</td>
+<td>14w1</td>
+<td>12s1</td>
+<td>4w0</td>
+<td>2.5</td>
+<td>14.5</td>
+<td>4.50</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Kluwe,Carsten</td>
+<td></td>
+<td>1s0</td>
+<td>6w0</td>
+<td>15s1</td>
+<td>13w1</td>
+<td>3s0</td>
+<td>2.0</td>
+<td>14.0</td>
+<td>2.50</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Schenk,Jonatan</td>
+<td>1734</td>
+<td>16s1</td>
+<td>3w0</td>
+<td>6s1</td>
+<td>5w0</td>
+<td>7s0</td>
+<td>2.0</td>
+<td>13.0</td>
+<td>3.50</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Werner,Michael</td>
+<td>1588</td>
+<td>7s0</td>
+<td>13w1</td>
+<td>5s0</td>
+<td>9w0</td>
+<td>16s1</td>
+<td>2.0</td>
+<td>10.5</td>
+<td>2.00</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Bahr,Jan-Hendrik</td>
+<td>1669</td>
+<td>8w0</td>
+<td>12s0</td>
+<td>16w½</td>
+<td>10s0</td>
+<td>15s1</td>
+<td>1.5</td>
+<td>8.0</td>
+<td>1.25</td>
+</tr>
+<tr>
+<td>14</td>
+<td>von Kraft,Lukas</td>
+<td>1750</td>
+<td>5s0</td>
+<td>15w1</td>
+<td>9s0</td>
+<td>7w0</td>
+<td>6s0</td>
+<td>1.0</td>
+<td>12.5</td>
+<td>1.00</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Mantallo,Marco</td>
+<td></td>
+<td>2w0</td>
+<td>14s0</td>
+<td>10w0</td>
+<td>16s1</td>
+<td>13w0</td>
+<td>1.0</td>
+<td>9.0</td>
+<td>0.50</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Stolzenberg,Leon</td>
+<td></td>
+<td>11w0</td>
+<td>4s0</td>
+<td>13s½</td>
+<td>15w0</td>
+<td>12w0</td>
+<td>0.5</td>
+<td>10.0</td>
+<td>0.75</td>
 </tr>
 </tbody>
 </table>
