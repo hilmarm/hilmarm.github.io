@@ -45,12 +45,6 @@ navs:
 <td>Eröffnungen, Strategie, Positionsspiel &amp; Endspiele</td>
 </tr>
 <tr>
-<td>Kursgebühr (Nicht-Mitglieder)</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
 <td><strong>Kursgebühr (Vereinsmitglieder)</strong></td>
 <td><strong><span class="badge-free">Kostenfrei</span></strong></td>
 <td><strong><span class="badge-free">Kostenfrei</span></strong></td>
@@ -105,7 +99,12 @@ navs:
 </div>
 <p style="text-align: center;"><strong><span style="font-size: 14pt; color: #ff0000;"><a href="https://www.sg-narva.de/sport/kinderschutz/" rel="noopener" style="color: #ff0000;" target="_blank">Kinderschutz bei der SG NARVA Berlin e.V.</a></span></strong></p>
 <p><em><span style="font-size: 10pt;">Die SG NARVA Berlin unterstützt aktiv das Kinderschutzkonzept des Berliner Schachverbandes (BSV). Unsere Trainer/innen und Schiedsrichter/innen erkennen die Verhaltensregeln zum Kinderschutz an und verpflichten sich, diese bei ihrer Arbeit zum Wohl der Kinder und Jugendlichen anzuwenden. Die SG NARVA Berlin informiert sich aktiv über Themen zum Kinderschutz und nimmt regelmäßig an Seminaren des BSV und des LSB teil. Mit allen Fragen und Anliegen können sich unser Nachwuchs, die Eltern und unsere Mitglieder gern an unsere Kinderschutzbeauftragte wenden.</span></em></p>
-<p> </p>
+<p><span style="font-size: 10pt;"><em>Seit 2025 ist Maria Schmidt Kinderschutzbeauftragte der SG NARVA. Maria arbeitet hauptberuflich im Sport und war selbst Spielerin und Trainerin bei der SG NARVA.</em></span><br/>
+<span style="font-size: 10pt;"><em>Solltet ihr Anliegen haben, die den Kinderschutz betreffen, könnt ihr euch bei Maria melden. Alles, was ihr mit ihr besprecht, ist vertraulich.</em></span><br/>
+<span style="font-size: 10pt;"><em>Telefon: 0177 6998855</em></span><br/>
+<span style="font-size: 10pt;"><em>Mail: maria.schmidt@sg-narva.de</em></span></p>
+<p><span style="font-size: 10pt;"><em>Hier könnt ihr zudem externe Hilfestellen finden:</em></span><br/>
+<span style="font-size: 10pt;"><em><a href="https://www.lsb-berlin.de/themenwelten/kinderschutz/schnelle-hilfe" rel="noopener" target="_blank">https://www.lsb-berlin.de/themenwelten/kinderschutz/schnelle-hilfe</a></em></span></p>
 <p> </p>
 <p><span style="text-decoration-line: underline; font-size: 1.8em;">News von der Berliner Schachjugend:</span></p>
 <ul><!--via SimplePie with RSSImport--><li><a href="https://www.schachjugend-in-berlin.de/nominierung-fuer-den-bundeskader/" title="Nominierung für den Bundeskader">Nominierung für den Bundeskader</a></li><li><a href="https://www.schachjugend-in-berlin.de/berliner-kids-bei-der-europameisterschaft/" title="Berliner Kids bei der Europameisterschaft">Berliner Kids bei der Europameisterschaft</a></li><li><a href="https://www.schachjugend-in-berlin.de/regionales-kinderschachturnier-u8-2027-beim-sc-kreuzberg/" title="Regionales Kinderschachturnier U8 2027 beim SC Kreuzberg">Regionales Kinderschachturnier U8 2027 beim SC Kreuzberg</a></li><li><a href="https://www.schachjugend-in-berlin.de/oeffentlichkeitsarbeit-angebot-der-dsj/" title="Öffentlichkeitsarbeit – Angebot der DSJ">Öffentlichkeitsarbeit – Angebot der DSJ</a></li><li><a href="https://www.schachjugend-in-berlin.de/2-vorrunde-2026/" title="2. Vorrunde 2026">2. Vorrunde 2026</a></li><li><a href="https://www.schachjugend-in-berlin.de/26-offene-u8-meisterschaft-in-sebnitz/" title="26. Offene u8-Meisterschaft in Sebnitz">26. Offene u8-Meisterschaft in Sebnitz</a></li><li><a href="https://www.schachjugend-in-berlin.de/berliner-maedchenmeisterschaften/" title="Berliner Mädchenmeisterschaften">Berliner Mädchenmeisterschaften</a></li></ul>

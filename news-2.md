@@ -8,6 +8,20 @@ navs:
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
 </div> #nav-above 
+<div class="post-15365 post type-post status-publish format-standard sticky hentry category-intern" id="post-15365">
+<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/11/20/einladung-weihnachtsfeier-2/" rel="bookmark">Einladung Weihnachtsfeier</a></h2>
+<div class="entry-meta">
+<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/11/20/einladung-weihnachtsfeier-2/" rel="bookmark" title="12:55"><span class="entry-date">20. November 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
+<div class="entry-content">
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Gemini_Generated_Image_9li2er9li2er9li2.jpg"><img alt="" class="aligncenter size-full wp-image-15364" decoding="async" height="768" sizes="(max-width: 1376px) 100vw, 1376px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Gemini_Generated_Image_9li2er9li2er9li2.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Gemini_Generated_Image_9li2er9li2er9li2.jpg 1376w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Gemini_Generated_Image_9li2er9li2er9li2-300x167.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Gemini_Generated_Image_9li2er9li2er9li2-1024x572.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Gemini_Generated_Image_9li2er9li2er9li2-768x429.jpg 768w" width="1376"/></a></p>
+</div><!-- .entry-content -->
+<div class="entry-utility">
+<span class="cat-links">
+<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/intern/" rel="category tag">Intern</a> </span>
+<span class="meta-sep">|</span>
+<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/11/20/einladung-weihnachtsfeier-2/#respond">Schreib einen Kommentar</a></span>
+</div><!-- .entry-utility -->
+</div> #post-15365 
 <div class="post-15354 post type-post status-publish format-standard hentry category-bfl" id="post-15354">
 <h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/11/15/starke-bfl-runde/" rel="bookmark">Starke BFL Runde</a></h2>
 <div class="entry-meta">
@@ -18,7 +32,7 @@ navs:
 <p><strong>NARVA 1</strong> kam zu einem <strong>3:1</strong> Erfolg gegen <strong>Bero 1</strong>. Vor allem der Sieg von <strong>Max</strong> gegen Phuc Nhat Nguyen ist stark! Die andere beiden Siege kamen von den Aufrückern aus der Zweiten, <strong>Mert</strong> und <strong>Tomas</strong>.</p>
 <p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15353" decoding="async" height="574" sizes="(max-width: 2111px) 100vw, 2111px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome.jpg 2111w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome-300x82.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome-1024x278.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome-768x209.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome-1536x418.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_220412_Chrome-2048x557.jpg 2048w" width="2111"/></a></p>
 <p><strong>NARVA 2</strong> kam gegen <strong>Bero 2</strong> sogar zu einem <strong>3,5:0,5</strong>. Hier war man klar überlegen, Berolina hatte aber wohl auch Probleme überhaupt 4 Spieler zu finden. Die Zweite grüßt nun mit 3 Siegen und 11 von 12 möglichen Brettpunkten von Platz 1!</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15352" decoding="async" height="528" sizes="(max-width: 2115px) 100vw, 2115px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome.jpg 2115w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-1024x256.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-768x192.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-1536x383.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-2048x511.jpg 2048w" width="2115"/></a></p>
+<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome.jpg"><img alt="" class="aligncenter size-full wp-image-15352" decoding="async" height="528" loading="lazy" sizes="auto, (max-width: 2115px) 100vw, 2115px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome.jpg 2115w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-300x75.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-1024x256.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-768x192.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-1536x383.jpg 1536w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/11/Screenshot_20261110_223229_Chrome-2048x511.jpg 2048w" width="2115"/></a></p>
 </div><!-- .entry-content -->
 <div class="entry-utility">
 <span class="cat-links">
@@ -391,24 +405,6 @@ Jan-Hendrik Platz 136 mit 4 Punkten aus 8 Runden.</p>
 <span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/19/lichtenberger-sommer-2026/#respond">Schreib einen Kommentar</a></span>
 </div><!-- .entry-utility -->
 </div> #post-15073 
-<div class="post-15071 post type-post status-publish format-standard hentry category-openberichte" id="post-15071">
-<h2 class="entry-title"><a href="https://www.narva-schach.de/wordpress/2026/08/19/mert-beim-kreuzberg-open/" rel="bookmark">Mert beim Kreuzberg Open</a></h2>
-<div class="entry-meta">
-<span class="meta-prep meta-prep-author">Publiziert am</span> <a href="https://www.narva-schach.de/wordpress/2026/08/19/mert-beim-kreuzberg-open/" rel="bookmark" title="8:23"><span class="entry-date">19. August 2026</span></a> <span class="meta-sep">von</span> <span class="author vcard"><a class="url fn n" href="https://www.narva-schach.de/wordpress/author/narva-webmaster/" title="Alle Beiträge von Thomas Mothes (Vorsitzender) anzeigen">Thomas Mothes (Vorsitzender)</a></span> </div><!-- .entry-meta -->
-<div class="entry-content">
-<p>Vom 01.08. bis 09.08.26 fand beim SC Kreuzberg wieder das traditionelle <strong>Kreuzberg Open – Werner-Ott-Open</strong> statt. Von NARVA hat <strong>Mert</strong> teilgenommen.</p>
-<p>Er ging von Setzlistenplatz 29 ins Rennen, spielte zeitweise an den vorderen Live-Brettern, haderte zwar mit einigen nicht eingefahrenen Punkten (z.B. gegen Krefenstein war ein Remis drin) und landete am Ende doch zufrieden auf Rang 17 mit 5,5 Punkten. Dazu gab es ein kleines Plus bei DWZ und ELO.</p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/dwzko26.jpg"><img alt="" class="aligncenter wp-image-15063 size-full" decoding="async" height="73" loading="lazy" sizes="auto, (max-width: 1518px) 100vw, 1518px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/dwzko26.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/dwzko26.jpg 1518w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/dwzko26-300x14.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/dwzko26-1024x49.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/dwzko26-768x37.jpg 768w" width="1518"/></a></p>
-<p><a href="https://www.schachclubkreuzberg.de/sck-turniere/werner-ott-open/" rel="noopener" target="_blank">Turnierseite</a></p>
-<p><a href="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/mertKO2026.jpg"><img alt="" class="aligncenter wp-image-15069 size-large" decoding="async" height="535" loading="lazy" sizes="auto, (max-width: 640px) 100vw, 640px" src="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/mertKO2026-1024x856.jpg" srcset="https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/mertKO2026-1024x856.jpg 1024w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/mertKO2026-300x251.jpg 300w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/mertKO2026-768x642.jpg 768w, https://www.narva-schach.de/wordpress/wp-content/uploads/2026/08/mertKO2026.jpg 1039w" width="640"/></a></p>
-</div><!-- .entry-content -->
-<div class="entry-utility">
-<span class="cat-links">
-<span class="entry-utility-prep entry-utility-prep-cat-links">Veröffentlicht unter</span> <a href="https://www.narva-schach.de/wordpress/category/openberichte/" rel="category tag">Open/Berichte</a> </span>
-<span class="meta-sep">|</span>
-<span class="comments-link"><a href="https://www.narva-schach.de/wordpress/2026/08/19/mert-beim-kreuzberg-open/#respond">Schreib einen Kommentar</a></span>
-</div><!-- .entry-utility -->
-</div> #post-15071 
 <div class="navigation" id="nav-below">
 <div class="nav-previous"><a href="https://www.narva-schach.de/wordpress/news-2/page/2/"><span class="meta-nav">←</span> Ältere Beiträge</a></div>
 <div class="nav-next"></div>
